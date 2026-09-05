@@ -1,0 +1,426 @@
+{
+  "id": "11",
+  "slug": "unit-11-number-names-and-number-sense",
+  "num": 11,
+  "title": "Number Names & Number Sense (3-Digit Numbers)",
+  "emoji": "💯",
+  "parentNote": "Say numbers out loud while writing them (\"Three hundred forty-five... 3, 4, 5\") — hearing and writing together builds the number-name skill fastest.",
+  "learnBullets": [
+    "Reading and writing **number names** for 3-digit numbers (e.g., 345 = Three Hundred Forty-Five)",
+    "Finding numbers that come **before, after, and between**",
+    "**Ascending** (small to big) and **Descending** (big to small) order",
+    "Understanding **expanded form** (245 = 200 + 40 + 5)"
+  ],
+  "learnItFirst": "**Writing Number Names:**\n```\n345  →  Three Hundred Forty-Five\n100  →  One Hundred\n250  →  Two Hundred Fifty\n```\n\n**Expanded Form:** breaking a number into hundreds + tens + ones\n```\n345 = 300 + 40 + 5\n```\n\n**Before, After, Between:**\n```\n___ , 246 , ___     →   245 , 246 , 247\n(before)     (after)\n```\n\n### 🧠 How to Solve — 3 Easy Steps\n1. **Break** the number into hundreds, tens, and ones.\n2. **Say** each part's name in order (hundreds first, then tens-and-ones together).\n3. For before/after: **before** means subtract 1, **after** means add 1.\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "What is the number name for 100?",
+          "options": {
+            "A": "One Hundred",
+            "B": "Ten",
+            "C": "One Thousand",
+            "D": "Eleven"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "100 is read as \"One Hundred\""
+        },
+        {
+          "num": 2,
+          "content": "What is the number name for 200?",
+          "options": {
+            "A": "Twenty",
+            "B": "Two Hundred",
+            "C": "Two Thousand",
+            "D": "Twelve"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "200 is read as \"Two Hundred\""
+        },
+        {
+          "num": 3,
+          "content": "What is the number for \"Three Hundred\"?",
+          "options": {
+            "A": "3",
+            "B": "30",
+            "C": "300",
+            "D": "3000"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "\"Three Hundred\" is written as 300"
+        },
+        {
+          "num": 4,
+          "content": "What number comes right AFTER 199?",
+          "options": {
+            "A": "198",
+            "B": "200",
+            "C": "201",
+            "D": "190"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Adding 1 to 199 gives 200"
+        },
+        {
+          "num": 5,
+          "content": "What number comes right BEFORE 300?",
+          "options": {
+            "A": "299",
+            "B": "301",
+            "C": "290",
+            "D": "199"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Subtracting 1 from 300 gives 299"
+        },
+        {
+          "num": 6,
+          "content": "What number is BETWEEN 150 and 152?",
+          "options": {
+            "A": "149",
+            "B": "151",
+            "C": "153",
+            "D": "148"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "151 fits exactly between 150 and 152"
+        },
+        {
+          "num": 7,
+          "content": "Which is the number name for 125?",
+          "options": {
+            "A": "One Hundred Twenty-Five",
+            "B": "One Hundred Fifty-Two",
+            "C": "One Hundred Two-Five",
+            "D": "Twelve-Five"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "125 is read as \"One Hundred Twenty-Five\""
+        },
+        {
+          "num": 8,
+          "content": "Arrange in ASCENDING order (small to big): 120, 100, 110",
+          "options": {
+            "A": "100, 110, 120",
+            "B": "120, 110, 100",
+            "C": "110, 100, 120",
+            "D": "100, 120, 110"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Smallest to biggest: 100 < 110 < 120"
+        },
+        {
+          "num": 9,
+          "content": "Arrange in DESCENDING order (big to small): 305, 350, 300",
+          "options": {
+            "A": "300, 305, 350",
+            "B": "350, 305, 300",
+            "C": "305, 300, 350",
+            "D": "350, 300, 305"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Biggest to smallest: 350 > 305 > 300"
+        },
+        {
+          "num": 10,
+          "content": "What is 245 in expanded form?",
+          "options": {
+            "A": "200 + 40 + 5",
+            "B": "2 + 4 + 5",
+            "C": "240 + 5",
+            "D": "200 + 45"
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "245 = 2 hundreds + 4 tens + 5 ones = 200 + 40 + 5"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "What is the number name for 456?",
+          "options": {
+            "A": "Four Hundred Fifty-Six",
+            "B": "Four Hundred Sixty-Five",
+            "C": "Forty-Five Six",
+            "D": "Four Hundred Six"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "456 is read as \"Four Hundred Fifty-Six\""
+        },
+        {
+          "num": 12,
+          "content": "What number is written as \"Six Hundred Seventy-Eight\"?",
+          "options": {
+            "A": "678",
+            "B": "687",
+            "C": "768",
+            "D": "786"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "\"Six Hundred Seventy-Eight\" is written as 678"
+        },
+        {
+          "num": 13,
+          "content": "What is the number name for 500?",
+          "options": {
+            "A": "Fifty",
+            "B": "Five Hundred",
+            "C": "Five Thousand",
+            "D": "Fifteen"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "500 is read as \"Five Hundred\""
+        },
+        {
+          "num": 14,
+          "content": "What is the number name for 909?",
+          "options": {
+            "A": "Nine Hundred Nineteen",
+            "B": "Nine Hundred Nine",
+            "C": "Ninety-Nine",
+            "D": "Nine Hundred Ninety"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "909 is read as \"Nine Hundred Nine\" (no tens)"
+        },
+        {
+          "num": 15,
+          "content": "What number comes right AFTER 299?",
+          "options": {
+            "A": "298",
+            "B": "300",
+            "C": "301",
+            "D": "290"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Adding 1 to 299 gives 300"
+        },
+        {
+          "num": 16,
+          "content": "What number comes right BEFORE 500?",
+          "options": {
+            "A": "499",
+            "B": "501",
+            "C": "490",
+            "D": "401"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Subtracting 1 from 500 gives 499"
+        },
+        {
+          "num": 17,
+          "content": "What is 738 in expanded form?",
+          "options": {
+            "A": "700 + 30 + 8",
+            "B": "700 + 3 + 8",
+            "C": "7 + 3 + 8",
+            "D": "730 + 8"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "738 = 7 hundreds + 3 tens + 8 ones"
+        },
+        {
+          "num": 18,
+          "content": "What is 600 + 20 + 4 written as one number?",
+          "options": {
+            "A": "6024",
+            "B": "624",
+            "C": "6204",
+            "D": "642"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "600 + 20 + 4 = 624"
+        },
+        {
+          "num": 19,
+          "content": "What is 900 + 9 written as one number?",
+          "options": {
+            "A": "99",
+            "B": "909",
+            "C": "990",
+            "D": "9009"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "900 + 9 = 909 (no tens)"
+        },
+        {
+          "num": 20,
+          "content": "Arrange in ASCENDING order: 481, 418, 841",
+          "options": {
+            "A": "418, 481, 841",
+            "B": "841, 481, 418",
+            "C": "481, 418, 841",
+            "D": "418, 841, 481"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Comparing hundreds digits first: 4 < 4 < 8, then tens: 1 < 8"
+        },
+        {
+          "num": 21,
+          "content": "Arrange in DESCENDING order: 234, 432, 324",
+          "options": {
+            "A": "234, 324, 432",
+            "B": "432, 324, 234",
+            "C": "324, 234, 432",
+            "D": "432, 234, 324"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Biggest to smallest by hundreds digit: 4 > 3 > 2"
+        },
+        {
+          "num": 22,
+          "content": "Which of these is the CORRECT number name for 715?",
+          "options": {
+            "A": "Seven Hundred Fifteen",
+            "B": "Seven One Five",
+            "C": "Seventy-One Five",
+            "D": "Seven Fifty"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "715 = 7 hundreds + 1 ten + 5 ones = \"Seven Hundred Fifteen\""
+        },
+        {
+          "num": 23,
+          "content": "What number is 1 more than 399?",
+          "options": {
+            "A": "398",
+            "B": "400",
+            "C": "401",
+            "D": "390"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "399 + 1 = 400"
+        },
+        {
+          "num": 24,
+          "content": "What number is 1 less than 700?",
+          "options": {
+            "A": "699",
+            "B": "701",
+            "C": "600",
+            "D": "710"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "700 − 1 = 699"
+        },
+        {
+          "num": 25,
+          "content": "Which number is BETWEEN 599 and 601?",
+          "options": {
+            "A": "598",
+            "B": "600",
+            "C": "602",
+            "D": "590"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "600 fits exactly between 599 and 601"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 26,
+          "content": "A number has 5 hundreds, 0 tens, and 9 ones. What is its number name?",
+          "options": {
+            "A": "Five Hundred Nine",
+            "B": "Five Hundred Ninety",
+            "C": "Five Hundred Ninety-Nine",
+            "D": "Fifty-Nine"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "5 hundreds + 0 tens + 9 ones = 509 = \"Five Hundred Nine\""
+        },
+        {
+          "num": 27,
+          "content": "What is 10 more than 295?",
+          "options": {
+            "A": "296",
+            "B": "305",
+            "C": "205",
+            "D": "395"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "295 + 10 = 305"
+        },
+        {
+          "num": 28,
+          "content": "What is 10 less than 400?",
+          "options": {
+            "A": "399",
+            "B": "410",
+            "C": "390",
+            "D": "300"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "400 − 10 = 390"
+        },
+        {
+          "num": 29,
+          "content": "What is 100 more than 250?",
+          "options": {
+            "A": "251",
+            "B": "260",
+            "C": "350",
+            "D": "150"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "250 + 100 = 350"
+        },
+        {
+          "num": 30,
+          "content": "Meera writes a number as \"Six Hundred and Five\". Her friend reads it as 650 by mistake. What is the CORRECT number Meera wrote?",
+          "options": {
+            "A": "605",
+            "B": "650",
+            "C": "615",
+            "D": "506"
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "\"Six Hundred and Five\" means 6 hundreds + 5 ones = 605, not 650"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

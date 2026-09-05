@@ -1,0 +1,426 @@
+{
+  "id": "16",
+  "slug": "unit-16-time",
+  "num": 16,
+  "title": "Time",
+  "emoji": "🕐",
+  "parentNote": "Use a real clock (or a toy clock with movable hands) to show each o'clock and half-past position — it's much clearer than a picture alone.",
+  "learnBullets": [
+    "Reading a clock: **o'clock** and **half past**",
+    "Days of the week and months of the year, in order",
+    "**AM** (morning) and **PM** (afternoon/evening/night)",
+    "Simple elapsed time (how much time has passed)"
+  ],
+  "learnItFirst": "**Reading the clock:**\n```\n🕒 = 3 o'clock       (short hand on 3, long hand on 12)\n🕜 = half past 1      (short hand between 1 and 2, long hand on 6)\n```\n\n**Handy facts to remember:**\n| Fact | Value |\n|---|---|\n| Days in a week | 7 |\n| Months in a year | 12 |\n| Hours in a day | 24 |\n| Minutes in an hour | 60 |\n| Minutes in half an hour | 30 |\n\n**AM and PM:** AM = morning (midnight to noon). PM = afternoon, evening, and night (noon to midnight).\n\n### 🧠 How to Solve — 3 Easy Steps\n1. **Look** at the short hand for the hour, the long hand for the minutes.\n2. For \"how many hours/days later,\" **count forward** one step at a time.\n3. Remember the **order**: Sunday→Saturday for days, January→December for months.\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "🕒 shows what time?",
+          "options": {
+            "A": "3 o'clock",
+            "B": "6 o'clock",
+            "C": "9 o'clock",
+            "D": "12 o'clock"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "The clock hand points to 3"
+        },
+        {
+          "num": 2,
+          "content": "🕕 shows what time?",
+          "options": {
+            "A": "3 o'clock",
+            "B": "6 o'clock",
+            "C": "9 o'clock",
+            "D": "12 o'clock"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "The clock hand points to 6"
+        },
+        {
+          "num": 3,
+          "content": "🕘 shows what time?",
+          "options": {
+            "A": "3 o'clock",
+            "B": "6 o'clock",
+            "C": "9 o'clock",
+            "D": "12 o'clock"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "The clock hand points to 9"
+        },
+        {
+          "num": 4,
+          "content": "🕛 shows what time?",
+          "options": {
+            "A": "3 o'clock",
+            "B": "6 o'clock",
+            "C": "9 o'clock",
+            "D": "12 o'clock"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "The clock hand points to 12"
+        },
+        {
+          "num": 5,
+          "content": "How many days are there in a week?",
+          "options": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "8"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A week has 7 days"
+        },
+        {
+          "num": 6,
+          "content": "How many months are there in a year?",
+          "options": {
+            "A": "10",
+            "B": "11",
+            "C": "12",
+            "D": "13"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A year has 12 months"
+        },
+        {
+          "num": 7,
+          "content": "Which day comes right AFTER Monday?",
+          "options": {
+            "A": "Sunday",
+            "B": "Tuesday",
+            "C": "Wednesday",
+            "D": "Saturday"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "The day right after Monday is Tuesday"
+        },
+        {
+          "num": 8,
+          "content": "Which day comes right BEFORE Sunday?",
+          "options": {
+            "A": "Friday",
+            "B": "Saturday",
+            "C": "Monday",
+            "D": "Thursday"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "The day right before Sunday is Saturday"
+        },
+        {
+          "num": 9,
+          "content": "How many hours are there in one day?",
+          "options": {
+            "A": "12",
+            "B": "24",
+            "C": "48",
+            "D": "60"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A day has 24 hours"
+        },
+        {
+          "num": 10,
+          "content": "How many minutes are there in one hour?",
+          "options": {
+            "A": "30",
+            "B": "45",
+            "C": "60",
+            "D": "100"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "An hour has 60 minutes"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "🕜 shows what time?",
+          "options": {
+            "A": "Half past 1",
+            "B": "Half past 2",
+            "C": "1 o'clock",
+            "D": "2 o'clock"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "The short hand is between 1 and 2, showing half past 1"
+        },
+        {
+          "num": 12,
+          "content": "🕝 shows what time?",
+          "options": {
+            "A": "Half past 1",
+            "B": "Half past 2",
+            "C": "1 o'clock",
+            "D": "2 o'clock"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "The short hand is between 2 and 3, showing half past 2"
+        },
+        {
+          "num": 13,
+          "content": "Which day comes FIRST in the week: Wednesday or Friday?",
+          "options": {
+            "A": "Wednesday",
+            "B": "Friday",
+            "C": "Both same",
+            "D": "Cannot tell"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "In the week's order, Wednesday comes before Friday"
+        },
+        {
+          "num": 14,
+          "content": "Which month comes right AFTER March?",
+          "options": {
+            "A": "February",
+            "B": "April",
+            "C": "May",
+            "D": "January"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "The month right after March is April"
+        },
+        {
+          "num": 15,
+          "content": "Which month comes right BEFORE December?",
+          "options": {
+            "A": "October",
+            "B": "November",
+            "C": "January",
+            "D": "September"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "The month right before December is November"
+        },
+        {
+          "num": 16,
+          "content": "It is 4 o'clock now. What time will it be after 2 hours?",
+          "options": {
+            "A": "5 o'clock",
+            "B": "6 o'clock",
+            "C": "7 o'clock",
+            "D": "8 o'clock"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "4 + 2 = 6"
+        },
+        {
+          "num": 17,
+          "content": "It is 10 o'clock now. What time was it 3 hours ago?",
+          "options": {
+            "A": "6 o'clock",
+            "B": "7 o'clock",
+            "C": "8 o'clock",
+            "D": "13 o'clock"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "10 − 3 = 7"
+        },
+        {
+          "num": 18,
+          "content": "Which is correct?",
+          "options": {
+            "A": "AM is morning, PM is afternoon/evening",
+            "B": "AM is night, PM is morning",
+            "C": "AM and PM mean the same thing",
+            "D": "Neither AM nor PM means anything"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "This is the correct meaning of AM and PM"
+        },
+        {
+          "num": 19,
+          "content": "School starts at 8 AM. Is this in the morning or evening?",
+          "options": {
+            "A": "Morning",
+            "B": "Evening",
+            "C": "Both",
+            "D": "Cannot tell"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "AM stands for morning time"
+        },
+        {
+          "num": 20,
+          "content": "A movie starts at 7 PM. Is this in the morning or evening?",
+          "options": {
+            "A": "Morning",
+            "B": "Evening",
+            "C": "Both",
+            "D": "Cannot tell"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "PM stands for afternoon/evening/night time"
+        },
+        {
+          "num": 21,
+          "content": "How many days does February usually have (in a normal year)?",
+          "options": {
+            "A": "28",
+            "B": "29",
+            "C": "30",
+            "D": "31"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "February has 28 days in a normal (non-leap) year"
+        },
+        {
+          "num": 22,
+          "content": "How many days does the month of April have?",
+          "options": {
+            "A": "28",
+            "B": "29",
+            "C": "30",
+            "D": "31"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "April has 30 days"
+        },
+        {
+          "num": 23,
+          "content": "If today is Monday, what day will it be after 7 days?",
+          "options": {
+            "A": "Sunday",
+            "B": "Monday",
+            "C": "Tuesday",
+            "D": "Saturday"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "7 days is exactly one full week, so it returns to the same day"
+        },
+        {
+          "num": 24,
+          "content": "If today is Tuesday, what day was it 2 days ago?",
+          "options": {
+            "A": "Saturday",
+            "B": "Sunday",
+            "C": "Monday",
+            "D": "Friday"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Going back: Monday (1 day ago), Sunday (2 days ago)"
+        },
+        {
+          "num": 25,
+          "content": "Half of an hour is how many minutes?",
+          "options": {
+            "A": "15",
+            "B": "20",
+            "C": "30",
+            "D": "45"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "Half of 60 minutes is 30 minutes"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 26,
+          "content": "A class starts at 9:30 and ends at 10:30. How long is the class?",
+          "options": {
+            "A": "30 minutes",
+            "B": "45 minutes",
+            "C": "1 hour",
+            "D": "1 hour 30 minutes"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "From 9:30 to 10:30 is exactly 1 hour"
+        },
+        {
+          "num": 27,
+          "content": "Riya's train leaves at 6 o'clock and takes 2 hours to reach. What time will it reach?",
+          "options": {
+            "A": "7 o'clock",
+            "B": "8 o'clock",
+            "C": "9 o'clock",
+            "D": "4 o'clock"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "6 + 2 = 8"
+        },
+        {
+          "num": 28,
+          "content": "If today is the 15th of the month, what date will it be after 10 days?",
+          "options": {
+            "A": "20th",
+            "B": "24th",
+            "C": "25th",
+            "D": "26th"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "15 + 10 = 25"
+        },
+        {
+          "num": 29,
+          "content": "If January is the 1st month of the year, which month is the 6th month?",
+          "options": {
+            "A": "May",
+            "B": "June",
+            "C": "July",
+            "D": "April"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Counting Jan(1), Feb(2), Mar(3), Apr(4), May(5), Jun(6)"
+        },
+        {
+          "num": 30,
+          "content": "Which is the 12th (last) month of the year?",
+          "options": {
+            "A": "October",
+            "B": "November",
+            "C": "December",
+            "D": "September"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "December is the last month of the year"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

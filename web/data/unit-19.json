@@ -1,0 +1,426 @@
+{
+  "id": "19",
+  "slug": "unit-19-lines",
+  "num": 19,
+  "title": "Lines",
+  "emoji": "📏",
+  "parentNote": "Write a few capital letters (L, T, V, X, E, H) together and ask him to trace each straight part with a finger while counting — that's exactly what this unit tests.",
+  "learnBullets": [
+    "Straight lines vs. curved lines",
+    "**Horizontal** (flat), **vertical** (up-down), and **slanting** (diagonal) lines",
+    "**Open** figures (ends don't meet) vs. **closed** figures (ends meet)",
+    "**Line of symmetry** — a line that divides a shape into two matching halves"
+  ],
+  "learnItFirst": "```\n———      Straight line\n〰️      Curved line\n\n—        Horizontal line   (flat, left to right)\n|        Vertical line     (straight up and down)\n/        Slanting line     (diagonal)\n```\n\n**Open vs. Closed figures:**\n```\n▲  (closed — starts and ends at the same point)\n⌣  (open — starts and ends at different points)\n```\n\n**Line of symmetry:** an imaginary line where, if you fold the shape along it, both halves match exactly.\n```\n   |\n ▲   →  fold down the middle, both sides match!\n```\n\n### 🧠 How to Solve — 3 Easy Steps\n1. **Look** — is the line straight or does it curve?\n2. **Check the direction** — flat (horizontal), up-down (vertical), or diagonal (slanting)?\n3. For symmetry — **imagine folding** the shape in half. Do both sides match exactly?\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "Which of these is a STRAIGHT line: \"———\" or \"〰️\"?",
+          "options": {
+            "A": "\"———\"",
+            "B": "\"〰️\"",
+            "C": "Both",
+            "D": "Neither"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A straight line has no bends or curves"
+        },
+        {
+          "num": 2,
+          "content": "Which of these is a CURVED line: \"———\" or \"〰️\"?",
+          "options": {
+            "A": "\"———\"",
+            "B": "\"〰️\"",
+            "C": "Both",
+            "D": "Neither"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A curved line bends smoothly"
+        },
+        {
+          "num": 3,
+          "content": "A horizontal line goes:",
+          "options": {
+            "A": "Left to right (flat)",
+            "B": "Up and down",
+            "C": "Diagonally",
+            "D": "In a circle"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A horizontal line is flat, like the horizon"
+        },
+        {
+          "num": 4,
+          "content": "A vertical line goes:",
+          "options": {
+            "A": "Left to right (flat)",
+            "B": "Straight up and down",
+            "C": "Diagonally",
+            "D": "In a circle"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A vertical line stands straight up"
+        },
+        {
+          "num": 5,
+          "content": "A slanting (oblique) line goes:",
+          "options": {
+            "A": "Straight up and down",
+            "B": "Left to right (flat)",
+            "C": "Diagonally",
+            "D": "In a circle"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A slanting line is tilted, neither flat nor straight up"
+        },
+        {
+          "num": 6,
+          "content": "Which of these is a horizontal line: \"—\" or \"|\"?",
+          "options": {
+            "A": "\"—\"",
+            "B": "\"|\"",
+            "C": "Both",
+            "D": "Neither"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "This line is flat, so it is horizontal"
+        },
+        {
+          "num": 7,
+          "content": "Which of these is a vertical line: \"—\" or \"|\"?",
+          "options": {
+            "A": "\"—\"",
+            "B": "\"|\"",
+            "C": "Both",
+            "D": "Neither"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\" | This line stands straight up, so it is vertical"
+        },
+        {
+          "num": 8,
+          "content": "Which of these is a slanting line: \"/\" or \"—\"?",
+          "options": {
+            "A": "\"/\"",
+            "B": "\"—\"",
+            "C": "Both",
+            "D": "Neither"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "This line is tilted, so it is slanting"
+        },
+        {
+          "num": 9,
+          "content": "A CLOSED figure starts and ends at:",
+          "options": {
+            "A": "Different points",
+            "B": "The same point",
+            "C": "No point",
+            "D": "Cannot tell"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A closed figure's starting and ending points meet"
+        },
+        {
+          "num": 10,
+          "content": "An OPEN figure/curve starts and ends at:",
+          "options": {
+            "A": "The same point",
+            "B": "Different points",
+            "C": "No point",
+            "D": "Cannot tell"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "An open curve's ends do not meet"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "Which is a CLOSED figure: a triangle ▲ or an open arc \"⌣\"?",
+          "options": {
+            "A": "Triangle",
+            "B": "Open arc",
+            "C": "Both",
+            "D": "Neither"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A triangle's sides meet, forming a closed figure"
+        },
+        {
+          "num": 12,
+          "content": "Which is an OPEN figure: a circle ● or a \"C\" shape?",
+          "options": {
+            "A": "Circle",
+            "B": "\"C\" shape",
+            "C": "Both",
+            "D": "Neither"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A \"C\" shape has a gap — its ends do not meet"
+        },
+        {
+          "num": 13,
+          "content": "The capital letter \"L\" is made up of how many straight lines?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"L\" has one vertical line and one horizontal line"
+        },
+        {
+          "num": 14,
+          "content": "The capital letter \"T\" is made up of how many straight lines?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"T\" has one horizontal line and one vertical line"
+        },
+        {
+          "num": 15,
+          "content": "The capital letter \"V\" is made up of how many slanting lines?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"V\" has two slanting lines meeting at the bottom"
+        },
+        {
+          "num": 16,
+          "content": "The capital letter \"X\" is made up of how many slanting lines?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"X\" has two slanting lines crossing each other"
+        },
+        {
+          "num": 17,
+          "content": "A square is made up of how many straight lines (sides)?",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A square has 4 straight sides"
+        },
+        {
+          "num": 18,
+          "content": "A triangle is made up of how many straight lines (sides)?",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A triangle has 3 straight sides"
+        },
+        {
+          "num": 19,
+          "content": "Which of these letters has NO straight lines at all (fully curved)?",
+          "options": {
+            "A": "L",
+            "B": "O",
+            "C": "T",
+            "D": "V"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"O\" is a full curve, with no straight parts"
+        },
+        {
+          "num": 20,
+          "content": "A line of symmetry divides a shape into:",
+          "options": {
+            "A": "2 equal halves",
+            "B": "3 unequal parts",
+            "C": "4 equal halves",
+            "D": "No parts"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Folding along the line of symmetry gives two matching halves"
+        },
+        {
+          "num": 21,
+          "content": "Does the capital letter \"A\" have a line of symmetry (a middle line where both sides match)?",
+          "options": {
+            "A": "Yes",
+            "B": "No",
+            "C": "Cannot tell",
+            "D": "Only sometimes"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "\"A\" looks the same on both sides of its middle vertical line"
+        },
+        {
+          "num": 22,
+          "content": "Does the capital letter \"F\" have a line of symmetry?",
+          "options": {
+            "A": "Yes",
+            "B": "No",
+            "C": "Cannot tell",
+            "D": "Only sometimes"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"F\" does not look the same on both sides of any line"
+        },
+        {
+          "num": 23,
+          "content": "Does a circle have a line of symmetry?",
+          "options": {
+            "A": "Yes, many",
+            "B": "No, none",
+            "C": "Only one",
+            "D": "Cannot tell"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A circle can be folded along any line through its centre and still match"
+        },
+        {
+          "num": 24,
+          "content": "Does a square have a line of symmetry?",
+          "options": {
+            "A": "Yes",
+            "B": "No",
+            "C": "Cannot tell",
+            "D": "Only circles do"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A square has several lines of symmetry"
+        },
+        {
+          "num": 25,
+          "content": "Which of these letters is made ONLY of straight lines: \"S\" or \"Z\"?",
+          "options": {
+            "A": "S",
+            "B": "Z",
+            "C": "Both",
+            "D": "Neither"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "\"Z\" is made only of straight lines; \"S\" has curves"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 26,
+          "content": "How many straight lines make up the capital letter \"E\" (top, middle, bottom, and the side)?",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "\"E\" has 1 vertical line + 3 horizontal lines (top, middle, bottom)"
+        },
+        {
+          "num": 27,
+          "content": "How many straight lines make up the capital letter \"H\" (two sides and the middle bar)?",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"H\" has 2 vertical lines + 1 horizontal middle bar"
+        },
+        {
+          "num": 28,
+          "content": "How many lines of symmetry does a rectangle (non-square) have?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A rectangle has 1 horizontal and 1 vertical line of symmetry"
+        },
+        {
+          "num": 29,
+          "content": "How many lines of symmetry does a square have?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "A square has 1 horizontal + 1 vertical + 2 diagonal lines of symmetry"
+        },
+        {
+          "num": 30,
+          "content": "How many lines of symmetry does an equilateral triangle (all sides equal) have?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "An equilateral triangle has 3 lines of symmetry, one from each corner"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

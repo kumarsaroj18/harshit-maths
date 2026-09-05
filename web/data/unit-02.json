@@ -1,0 +1,425 @@
+{
+  "id": "02",
+  "slug": "unit-02-odd-one-out",
+  "num": 2,
+  "title": "Odd One Out",
+  "emoji": "🔍",
+  "parentNote": "For every question, ask him to say OUT LOUD why the other three belong together before picking the odd one. That habit is what wins Olympiad marks.",
+  "learnBullets": [
+    "Finding the one item that does **not belong** with the rest",
+    "Spotting the **hidden rule** that connects the other three (same group, same count, same shape, odd/even, multiple of a number)",
+    "Looking carefully before deciding — sometimes the trick is in the **count**, not the picture!"
+  ],
+  "learnItFirst": "**The Big Idea:** Three (or more) things share something in common. One thing is different. That different one is the **Odd One Out**.\n\n```\n🍎  🍌  🍇  🚗\n```\n🍎, 🍌, 🍇 are all **fruits**. 🚗 is a **vehicle** — so 🚗 is the odd one out!\n\n**Common hidden rules to look for:**\n| Rule type | Example |\n|---|---|\n| Category | fruits vs. vehicle, animals vs. shape |\n| Count | 3, 3, 3, 2 → the group of 2 is odd |\n| Number property | even numbers vs. one odd number |\n| Shape property | straight-line shapes vs. one curved shape |\n| Multiple of a number | 5, 10, 15 (multiples of 5) vs. 16 |\n\n### 🧠 How to Solve — 3 Easy Steps\n1. **Say** what the first three items have in common, out loud.\n2. **Check** the last item against that same rule.\n3. **Pick** the one that breaks the rule.\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "🍎 🍌 🍇 🚗 — which one does not belong?",
+          "options": {
+            "A": "🍎",
+            "B": "🍌",
+            "C": "🍇",
+            "D": "🚗"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "The rest are fruits; a car is a vehicle"
+        },
+        {
+          "num": 2,
+          "content": "🐶 🐱 🐮 🚲 — which one does not belong?",
+          "options": {
+            "A": "🐶",
+            "B": "🐱",
+            "C": "🐮",
+            "D": "🚲"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "The rest are animals; a bicycle is a vehicle"
+        },
+        {
+          "num": 3,
+          "content": "🚗 🚌 🚲 🍕 — which one does not belong?",
+          "options": {
+            "A": "🚗",
+            "B": "🚌",
+            "C": "🚲",
+            "D": "🍕"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "The rest are vehicles; pizza is food"
+        },
+        {
+          "num": 4,
+          "content": "▲ ■ ● 🐘 — which one does not belong?",
+          "options": {
+            "A": "▲",
+            "B": "■",
+            "C": "●",
+            "D": "🐘"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "The rest are shapes; an elephant is an animal"
+        },
+        {
+          "num": 5,
+          "content": "🔴 🔵 🟡 🐦 — which one does not belong?",
+          "options": {
+            "A": "🔴",
+            "B": "🔵",
+            "C": "🟡",
+            "D": "🐦"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "The rest are colours; a bird is an animal"
+        },
+        {
+          "num": 6,
+          "content": "2, 4, 6, 7 — which number does not belong?",
+          "options": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "7"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "2, 4, 6 are even numbers; 7 is odd"
+        },
+        {
+          "num": 7,
+          "content": "1, 3, 5, 8 — which number does not belong?",
+          "options": {
+            "A": "1",
+            "B": "3",
+            "C": "5",
+            "D": "8"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "1, 3, 5 are odd numbers; 8 is even"
+        },
+        {
+          "num": 8,
+          "content": "🌞 🌙 ⭐ 🍎 — which one does not belong?",
+          "options": {
+            "A": "🌞",
+            "B": "🌙",
+            "C": "⭐",
+            "D": "🍎"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "The rest are seen in the sky; an apple is a fruit"
+        },
+        {
+          "num": 9,
+          "content": "🐟 🐠 🐬 🐦 — which one does not belong?",
+          "options": {
+            "A": "🐟",
+            "B": "🐠",
+            "C": "🐬",
+            "D": "🐦"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "The rest live in water; a bird lives in the air/trees"
+        },
+        {
+          "num": 10,
+          "content": "✏️ 📏 📐 🍪 — which one does not belong?",
+          "options": {
+            "A": "✏️",
+            "B": "📏",
+            "C": "📐",
+            "D": "🍪"
+          },
+          "trailingContext": "---",
+          "correct": "D",
+          "why": "The rest are stationery items; a cookie is food"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "▲ ▲ ▲ ■ — three shapes have 3 sides. Which one does not belong?",
+          "options": {
+            "A": "1st ▲",
+            "B": "2nd ▲",
+            "C": "3rd ▲",
+            "D": "■"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "The triangles have 3 sides; the square has 4 sides"
+        },
+        {
+          "num": 12,
+          "content": "10, 20, 30, 25 — which number does not belong?",
+          "options": {
+            "A": "10",
+            "B": "20",
+            "C": "30",
+            "D": "25"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "10, 20, 30 are multiples of 10; 25 is not"
+        },
+        {
+          "num": 13,
+          "content": "🐄 🐐 🐔 🐴 — three have 4 legs. Which one does not belong?",
+          "options": {
+            "A": "🐄 (cow)",
+            "B": "🐐 (goat)",
+            "C": "🐔 (hen)",
+            "D": "🐴 (horse)"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "The rest have 4 legs; a hen has 2 legs"
+        },
+        {
+          "num": 14,
+          "content": "🌳 🌸 🌱 🪨 — three are living things. Which one does not belong?",
+          "options": {
+            "A": "🌳",
+            "B": "🌸",
+            "C": "🌱",
+            "D": "🪨 (stone)"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "The rest are living things; a stone is non-living"
+        },
+        {
+          "num": 15,
+          "content": "● ▲ ■ ★ — three are made only of straight lines. Which one does not belong?",
+          "options": {
+            "A": "●",
+            "B": "▲",
+            "C": "■",
+            "D": "★"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "The rest have only straight sides; a circle is curved"
+        },
+        {
+          "num": 16,
+          "content": "12, 14, 16, 17 — which number does not belong?",
+          "options": {
+            "A": "12",
+            "B": "14",
+            "C": "16",
+            "D": "17"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "12, 14, 16 are even numbers; 17 is odd"
+        },
+        {
+          "num": 17,
+          "content": "🍎 🥭 🥔 🍌 — three are fruits. Which one does not belong?",
+          "options": {
+            "A": "🍎 (apple)",
+            "B": "🥭 (mango)",
+            "C": "🥔 (potato)",
+            "D": "🍌 (banana)"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "The rest are fruits; a potato is a vegetable"
+        },
+        {
+          "num": 18,
+          "content": "✏️ 🖊️ 🧽 ⚽ — three are things used for writing/school work. Which one does not belong?",
+          "options": {
+            "A": "✏️ (pencil)",
+            "B": "🖊️ (pen)",
+            "C": "🧽 (eraser)",
+            "D": "⚽ (ball)"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "The rest are used for school work; a ball is for play"
+        },
+        {
+          "num": 19,
+          "content": "▲ ■ ▬ ● — three are made of straight sides only. Which one does not belong?",
+          "options": {
+            "A": "▲ (triangle)",
+            "B": "■ (square)",
+            "C": "▬ (rectangle)",
+            "D": "● (circle)"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "The rest have straight sides; a circle is curved"
+        },
+        {
+          "num": 20,
+          "content": "5, 10, 15, 16 — which number does not belong?",
+          "options": {
+            "A": "5",
+            "B": "10",
+            "C": "15",
+            "D": "16"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "5, 10, 15 are multiples of 5; 16 is not"
+        },
+        {
+          "num": 21,
+          "content": "🍎🍎🍎  🍌🍌🍌  🍇🍇🍇  🍊🍊 — one group has a different count. Which group does not belong?",
+          "options": {
+            "A": "🍎🍎🍎",
+            "B": "🍌🍌🍌",
+            "C": "🍇🍇🍇",
+            "D": "🍊🍊"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "The rest have 3 items in the group; this has only 2"
+        },
+        {
+          "num": 22,
+          "content": "🐘 🦒 🦓 🐍 — three walk on 4 legs. Which one does not belong?",
+          "options": {
+            "A": "🐘 (elephant)",
+            "B": "🦒 (giraffe)",
+            "C": "🦓 (zebra)",
+            "D": "🐍 (snake)"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "The rest walk on 4 legs; a snake has no legs"
+        },
+        {
+          "num": 23,
+          "content": "🔴 🔵 🟢 ▲ — three are colours. Which one does not belong?",
+          "options": {
+            "A": "🔴",
+            "B": "🔵",
+            "C": "🟢",
+            "D": "▲"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "The rest are colours; a triangle is a shape"
+        },
+        {
+          "num": 24,
+          "content": "3, 6, 9, 10 — three are multiples of 3. Which number does not belong?",
+          "options": {
+            "A": "3",
+            "B": "6",
+            "C": "9",
+            "D": "10"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "3, 6, 9 are multiples of 3; 10 is not"
+        },
+        {
+          "num": 25,
+          "content": "■ (square) 🎲 (cube) ▲ (triangle) ● (circle) — three are flat (2D) shapes. Which one does not belong?",
+          "options": {
+            "A": "■",
+            "B": "🎲",
+            "C": "▲",
+            "D": "●"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "The rest are flat (2D) shapes; a cube is a solid (3D) shape"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 26,
+          "content": "8, 16, 24, 30 — three are multiples of 8. Which number does not belong?",
+          "options": {
+            "A": "8",
+            "B": "16",
+            "C": "24",
+            "D": "30"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "8, 16, 24 are multiples of 8; 30 is not"
+        },
+        {
+          "num": 27,
+          "content": "🍎 (apple) 🍊 (orange) 🍇 (grape) 🥕 (carrot) — three grow on trees or vines. Which one does not belong?",
+          "options": {
+            "A": "🍎",
+            "B": "🍊",
+            "C": "🍇",
+            "D": "🥕"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "The rest grow above ground on trees/vines; a carrot grows underground"
+        },
+        {
+          "num": 28,
+          "content": "21, 24, 27, 29 — three are multiples of 3. Which number does not belong?",
+          "options": {
+            "A": "21",
+            "B": "24",
+            "C": "27",
+            "D": "29"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "21, 24, 27 are multiples of 3; 29 is not"
+        },
+        {
+          "num": 29,
+          "content": "100, 200, 300, 350 — three are exact hundreds. Which number does not belong?",
+          "options": {
+            "A": "100",
+            "B": "200",
+            "C": "300",
+            "D": "350"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "100, 200, 300 are exact hundreds; 350 is not"
+        },
+        {
+          "num": 30,
+          "content": "🕐 (clock) 📅 (calendar) ⏳ (hourglass) 🍎 (apple) — three are used to show or measure time. Which one does not belong?",
+          "options": {
+            "A": "🕐",
+            "B": "📅",
+            "C": "⏳",
+            "D": "🍎"
+          },
+          "trailingContext": "---",
+          "correct": "D",
+          "why": "The rest are used to show or measure time; an apple is food"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

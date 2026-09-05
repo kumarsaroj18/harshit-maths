@@ -1,0 +1,426 @@
+{
+  "id": "13",
+  "slug": "unit-13-length",
+  "num": 13,
+  "title": "Length",
+  "emoji": "📐",
+  "parentNote": "A kitchen measuring tape marked in cm and m is the best prop for this unit — let him measure real things at home.",
+  "learnBullets": [
+    "Units of length: **centimetre (cm)** and **metre (m)**",
+    "The conversion rule: **1 m = 100 cm**",
+    "Adding and subtracting lengths",
+    "Comparing and ordering lengths"
+  ],
+  "learnItFirst": "```\n1 metre (m)  =  100 centimetres (cm)\n```\n\n**Converting metres to centimetres:** multiply by 100\n```\n3 m = 3 × 100 = 300 cm\n```\n\n**Converting centimetres to metres:** divide by 100 (only works evenly for multiples of 100)\n```\n500 cm = 500 ÷ 100 = 5 m\n```\n\n**Adding/subtracting lengths** — just like regular numbers, but keep the unit the same:\n```\n25 cm + 30 cm = 55 cm\n1 m 20 cm  =  120 cm   (1 m = 100 cm, so 100 + 20 = 120)\n```\n\n### 🧠 How to Solve — 3 Easy Steps\n1. **Check the units** — are both lengths in cm, or in m? Make them match first.\n2. **Convert** using 1 m = 100 cm if needed.\n3. **Add, subtract, or compare** the numbers normally.\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "Which unit is used to measure the length of a pencil?",
+          "options": {
+            "A": "Kilograms",
+            "B": "Centimetres",
+            "C": "Litres",
+            "D": "Metres"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Small objects like a pencil are measured in centimetres"
+        },
+        {
+          "num": 2,
+          "content": "Which unit is used to measure the length of a road?",
+          "options": {
+            "A": "Centimetres",
+            "B": "Grams",
+            "C": "Metres",
+            "D": "Millilitres"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Long distances like a road are measured in metres"
+        },
+        {
+          "num": 3,
+          "content": "1 metre is equal to how many centimetres?",
+          "options": {
+            "A": "10",
+            "B": "100",
+            "C": "1000",
+            "D": "50"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "1 metre = 100 centimetres"
+        },
+        {
+          "num": 4,
+          "content": "Which is longer: 1 metre or 50 centimetres?",
+          "options": {
+            "A": "1 metre",
+            "B": "50 centimetres",
+            "C": "Both same",
+            "D": "Cannot tell"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "1 m = 100 cm, which is more than 50 cm"
+        },
+        {
+          "num": 5,
+          "content": "20 cm + 30 cm = ?",
+          "options": {
+            "A": "40 cm",
+            "B": "50 cm",
+            "C": "60 cm",
+            "D": "45 cm"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "20 + 30 = 50"
+        },
+        {
+          "num": 6,
+          "content": "80 cm − 30 cm = ?",
+          "options": {
+            "A": "40 cm",
+            "B": "50 cm",
+            "C": "60 cm",
+            "D": "45 cm"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "80 − 30 = 50"
+        },
+        {
+          "num": 7,
+          "content": "Which is the shortest: 25 cm, 52 cm, or 15 cm?",
+          "options": {
+            "A": "25 cm",
+            "B": "52 cm",
+            "C": "15 cm",
+            "D": "All same"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "15 is the smallest of 25, 52, and 15"
+        },
+        {
+          "num": 8,
+          "content": "Which is the longest: 40 cm, 4 m, or 4 cm?",
+          "options": {
+            "A": "40 cm",
+            "B": "4 m",
+            "C": "4 cm",
+            "D": "All same"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "4 m = 400 cm, which is much more than 40 cm or 4 cm"
+        },
+        {
+          "num": 9,
+          "content": "2 m = how many cm?",
+          "options": {
+            "A": "20 cm",
+            "B": "200 cm",
+            "C": "2 cm",
+            "D": "2000 cm"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "2 × 100 = 200"
+        },
+        {
+          "num": 10,
+          "content": "300 cm = how many m?",
+          "options": {
+            "A": "3 m",
+            "B": "30 m",
+            "C": "300 m",
+            "D": "0.3 m"
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "300 ÷ 100 = 3"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "45 cm + 25 cm = ?",
+          "options": {
+            "A": "60 cm",
+            "B": "65 cm",
+            "C": "70 cm",
+            "D": "75 cm"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "45 + 25 = 70"
+        },
+        {
+          "num": 12,
+          "content": "95 cm − 48 cm = ?",
+          "options": {
+            "A": "37 cm",
+            "B": "47 cm",
+            "C": "57 cm",
+            "D": "43 cm"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "95 − 48 = 47"
+        },
+        {
+          "num": 13,
+          "content": "A rope is 1 m 20 cm long. How many centimetres is that in total?",
+          "options": {
+            "A": "100 cm",
+            "B": "110 cm",
+            "C": "120 cm",
+            "D": "200 cm"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "1 m (100 cm) + 20 cm = 120 cm"
+        },
+        {
+          "num": 14,
+          "content": "A ribbon is 150 cm long. How many metres and centimetres is that?",
+          "options": {
+            "A": "1 m 50 cm",
+            "B": "1 m 5 cm",
+            "C": "15 m",
+            "D": "150 m"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "150 cm = 100 cm (1 m) + 50 cm"
+        },
+        {
+          "num": 15,
+          "content": "Riya's pencil is 12 cm and her ruler is 30 cm. How much longer is the ruler than the pencil?",
+          "options": {
+            "A": "16 cm",
+            "B": "18 cm",
+            "C": "20 cm",
+            "D": "42 cm"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "30 − 12 = 18"
+        },
+        {
+          "num": 16,
+          "content": "A rod is 4 m long. Another rod is 250 cm long. Which rod is longer?",
+          "options": {
+            "A": "4 m rod",
+            "B": "250 cm rod",
+            "C": "Both equal",
+            "D": "Cannot tell"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "4 m = 400 cm, which is more than 250 cm"
+        },
+        {
+          "num": 17,
+          "content": "A wall is 3 m tall. How many centimetres tall is the wall?",
+          "options": {
+            "A": "30 cm",
+            "B": "300 cm",
+            "C": "3000 cm",
+            "D": "3 cm"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "3 × 100 = 300"
+        },
+        {
+          "num": 18,
+          "content": "Two ropes measure 60 cm and 85 cm. What is their total length?",
+          "options": {
+            "A": "135 cm",
+            "B": "145 cm",
+            "C": "155 cm",
+            "D": "125 cm"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "60 + 85 = 145"
+        },
+        {
+          "num": 19,
+          "content": "A tailor has 5 m of cloth. He uses 2 m 40 cm to stitch a shirt. How much cloth is left?",
+          "options": {
+            "A": "1 m 40 cm",
+            "B": "2 m 60 cm",
+            "C": "2 m 40 cm",
+            "D": "3 m 40 cm"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "5 m = 500 cm; 2 m 40 cm = 240 cm; 500 − 240 = 260 cm = 2 m 60 cm"
+        },
+        {
+          "num": 20,
+          "content": "Which of these is the same length as 1 m 5 cm?",
+          "options": {
+            "A": "15 cm",
+            "B": "105 cm",
+            "C": "150 cm",
+            "D": "100 cm"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "1 m 5 cm = 100 cm + 5 cm = 105 cm"
+        },
+        {
+          "num": 21,
+          "content": "Order from SHORTEST to LONGEST: 2 m, 150 cm, 80 cm",
+          "options": {
+            "A": "80 cm, 150 cm, 2 m",
+            "B": "2 m, 150 cm, 80 cm",
+            "C": "150 cm, 80 cm, 2 m",
+            "D": "80 cm, 2 m, 150 cm"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "In cm: 80, 150, 200 — smallest to biggest"
+        },
+        {
+          "num": 22,
+          "content": "A jump rope is 180 cm long. How much longer is it than 1 m?",
+          "options": {
+            "A": "60 cm",
+            "B": "70 cm",
+            "C": "80 cm",
+            "D": "90 cm"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "180 cm − 100 cm (1 m) = 80 cm"
+        },
+        {
+          "num": 23,
+          "content": "Two sticks are 65 cm and 35 cm. If joined end to end, how long will they be together, in metres and centimetres?",
+          "options": {
+            "A": "1 m",
+            "B": "90 cm",
+            "C": "1 m 10 cm",
+            "D": "90 m"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "65 + 35 = 100 cm = 1 m"
+        },
+        {
+          "num": 24,
+          "content": "A football field is 90 m long. How many centimetres is that?",
+          "options": {
+            "A": "900 cm",
+            "B": "9000 cm",
+            "C": "90000 cm",
+            "D": "9 cm"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "90 × 100 = 9000"
+        },
+        {
+          "num": 25,
+          "content": "Meena's height is 110 cm and Sonu's height is 1 m 15 cm. Who is taller?",
+          "options": {
+            "A": "Meena",
+            "B": "Sonu",
+            "C": "Both same",
+            "D": "Cannot tell"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "Sonu's height = 1 m 15 cm = 115 cm, which is more than Meena's 110 cm"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 26,
+          "content": "A ladder is 2 m 50 cm long. A pole is 220 cm long. How much longer is the ladder than the pole?",
+          "options": {
+            "A": "20 cm",
+            "B": "30 cm",
+            "C": "40 cm",
+            "D": "50 cm"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Ladder = 2 m 50 cm = 250 cm; 250 − 220 = 30"
+        },
+        {
+          "num": 27,
+          "content": "Three ribbons measure 45 cm, 55 cm, and 1 m. What is their TOTAL length in centimetres?",
+          "options": {
+            "A": "190 cm",
+            "B": "195 cm",
+            "C": "200 cm",
+            "D": "205 cm"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "45 + 55 + 100 (1 m) = 200"
+        },
+        {
+          "num": 28,
+          "content": "A wire is cut into 4 equal pieces, each 25 cm long. How long was the original wire?",
+          "options": {
+            "A": "75 cm",
+            "B": "80 cm",
+            "C": "100 cm",
+            "D": "125 cm"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "25 × 4 = 100"
+        },
+        {
+          "num": 29,
+          "content": "A field is 500 cm wide. Farmer Raj wants to add a 2 m strip to make it wider. What will be the new width in centimetres?",
+          "options": {
+            "A": "520 cm",
+            "B": "600 cm",
+            "C": "700 cm",
+            "D": "502 cm"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "500 cm + 200 cm (2 m) = 700 cm"
+        },
+        {
+          "num": 30,
+          "content": "Sam is 125 cm tall. His father is 55 cm taller than him. How tall is Sam's father, in metres and centimetres?",
+          "options": {
+            "A": "1 m 70 cm",
+            "B": "1 m 80 cm",
+            "C": "1 m 65 cm",
+            "D": "1 m 75 cm"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "125 + 55 = 180 cm = 1 m 80 cm"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

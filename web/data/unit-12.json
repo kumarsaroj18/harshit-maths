@@ -1,0 +1,427 @@
+{
+  "id": "12",
+  "slug": "unit-12-computation-operations",
+  "num": 12,
+  "title": "Computation Operations",
+  "emoji": "➕",
+  "parentNote": "Use loose coins, buttons, or beads for carrying/borrowing and for multiplication arrays — seeing \"10 ones become 1 ten\" with real objects makes it click.",
+  "learnBullets": [
+    "**Addition** with carrying (regrouping) — 2 and 3-digit numbers",
+    "**Subtraction** with borrowing (regrouping)",
+    "**Multiplication** as repeated addition (tables up to 5)",
+    "**Division** as equal sharing",
+    "Simple word problems using all four operations"
+  ],
+  "learnItFirst": "**Addition with carrying:**\n```\n   38\n + 47\n ----\n  8 + 7 = 15 → write 5, carry 1\n  3 + 4 + 1(carried) = 8\n ----\n   85\n```\n\n**Subtraction with borrowing:**\n```\n   82\n - 35\n ----\n  2 is smaller than 5, so borrow 1 ten: 12 − 5 = 7\n  Now tens: 7 − 3 = 4\n ----\n   47\n```\n\n**Multiplication** = repeated addition:\n```\n4 × 3  =  4 + 4 + 4  =  12\n```\n\n**Division** = equal sharing:\n```\n12 ÷ 3  →  share 12 into 3 equal groups  →  4 in each group\n```\n\n### 🧠 How to Solve — 3 Easy Steps\n1. **Line up** the ones, tens, and hundreds columns carefully.\n2. **Start from the ones column** — carry or borrow if needed.\n3. For word problems: **decide the operation** first (add, subtract, multiply, or divide) before calculating.\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "23 + 5 = ?",
+          "options": {
+            "A": "27",
+            "B": "28",
+            "C": "29",
+            "D": "18"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "23 + 5 = 28"
+        },
+        {
+          "num": 2,
+          "content": "47 − 3 = ?",
+          "options": {
+            "A": "43",
+            "B": "44",
+            "C": "45",
+            "D": "50"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "47 − 3 = 44"
+        },
+        {
+          "num": 3,
+          "content": "12 + 8 = ?",
+          "options": {
+            "A": "19",
+            "B": "20",
+            "C": "21",
+            "D": "10"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "12 + 8 = 20"
+        },
+        {
+          "num": 4,
+          "content": "30 − 10 = ?",
+          "options": {
+            "A": "10",
+            "B": "20",
+            "C": "40",
+            "D": "30"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "30 − 10 = 20"
+        },
+        {
+          "num": 5,
+          "content": "15 + 15 = ?",
+          "options": {
+            "A": "25",
+            "B": "30",
+            "C": "35",
+            "D": "20"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "15 + 15 = 30"
+        },
+        {
+          "num": 6,
+          "content": "9 + 6 = ?",
+          "options": {
+            "A": "14",
+            "B": "15",
+            "C": "16",
+            "D": "13"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "9 + 6 = 15"
+        },
+        {
+          "num": 7,
+          "content": "50 − 25 = ?",
+          "options": {
+            "A": "20",
+            "B": "25",
+            "C": "30",
+            "D": "15"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "50 − 25 = 25"
+        },
+        {
+          "num": 8,
+          "content": "6 × 2 = ?",
+          "options": {
+            "A": "8",
+            "B": "10",
+            "C": "12",
+            "D": "14"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "6 × 2 = 6 + 6 = 12"
+        },
+        {
+          "num": 9,
+          "content": "3 × 3 = ?",
+          "options": {
+            "A": "6",
+            "B": "9",
+            "C": "12",
+            "D": "3"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "3 × 3 = 3 + 3 + 3 = 9"
+        },
+        {
+          "num": 10,
+          "content": "10 ÷ 2 = ?",
+          "options": {
+            "A": "2",
+            "B": "5",
+            "C": "8",
+            "D": "10"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "10 shared into 2 equal groups gives 5 in each"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "38 + 47 = ?",
+          "options": {
+            "A": "75",
+            "B": "85",
+            "C": "95",
+            "D": "84"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "8+7=15 (write 5, carry 1); 3+4+1=8 → 85"
+        },
+        {
+          "num": 12,
+          "content": "56 + 29 = ?",
+          "options": {
+            "A": "75",
+            "B": "84",
+            "C": "85",
+            "D": "86"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "6+9=15 (write 5, carry 1); 5+2+1=8 → 85"
+        },
+        {
+          "num": 13,
+          "content": "82 − 35 = ?",
+          "options": {
+            "A": "37",
+            "B": "47",
+            "C": "57",
+            "D": "46"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Borrow: 12−5=7; then 7−3=4 → 47"
+        },
+        {
+          "num": 14,
+          "content": "61 − 24 = ?",
+          "options": {
+            "A": "27",
+            "B": "37",
+            "C": "47",
+            "D": "36"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Borrow: 11−4=7; then 5−2=3 → 37"
+        },
+        {
+          "num": 15,
+          "content": "145 + 123 = ?",
+          "options": {
+            "A": "258",
+            "B": "268",
+            "C": "278",
+            "D": "267"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "5+3=8; 4+2=6; 1+1=2 → 268"
+        },
+        {
+          "num": 16,
+          "content": "234 + 158 = ?",
+          "options": {
+            "A": "382",
+            "B": "392",
+            "C": "402",
+            "D": "391"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "4+8=12 (write 2, carry 1); 3+5+1=9; 2+1=3 → 392"
+        },
+        {
+          "num": 17,
+          "content": "356 − 142 = ?",
+          "options": {
+            "A": "204",
+            "B": "214",
+            "C": "224",
+            "D": "213"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "6−2=4; 5−4=1; 3−1=2 → 214"
+        },
+        {
+          "num": 18,
+          "content": "500 − 235 = ?",
+          "options": {
+            "A": "255",
+            "B": "265",
+            "C": "275",
+            "D": "375"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "500 − 235 = 265"
+        },
+        {
+          "num": 19,
+          "content": "4 × 4 = ?",
+          "options": {
+            "A": "12",
+            "B": "14",
+            "C": "16",
+            "D": "20"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "4 × 4 = 16"
+        },
+        {
+          "num": 20,
+          "content": "5 × 5 = ?",
+          "options": {
+            "A": "20",
+            "B": "25",
+            "C": "30",
+            "D": "15"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "5 × 5 = 25"
+        },
+        {
+          "num": 21,
+          "content": "3 × 5 = ?",
+          "options": {
+            "A": "10",
+            "B": "15",
+            "C": "20",
+            "D": "8"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "3 × 5 = 15"
+        },
+        {
+          "num": 22,
+          "content": "20 ÷ 4 = ?",
+          "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "8"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "20 shared into 4 equal groups gives 5 in each"
+        },
+        {
+          "num": 23,
+          "content": "18 ÷ 3 = ?",
+          "options": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "9"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "18 shared into 3 equal groups gives 6 in each"
+        },
+        {
+          "num": 24,
+          "content": "Riya has 24 candies. She gives 9 to her friend. How many candies does she have left?",
+          "options": {
+            "A": "13",
+            "B": "14",
+            "C": "15",
+            "D": "16"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "24 − 9 = 15"
+        },
+        {
+          "num": 25,
+          "content": "A basket has 3 rows of 4 apples each. How many apples are there in total?",
+          "options": {
+            "A": "7",
+            "B": "10",
+            "C": "12",
+            "D": "15"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "3 rows × 4 apples = 12 apples"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 26,
+          "content": "Tom had 45 marbles. He bought 28 more, then gave away 15. How many marbles does he have now?",
+          "options": {
+            "A": "48",
+            "B": "58",
+            "C": "68",
+            "D": "60"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "45 + 28 = 73; then 73 − 15 = 58"
+        },
+        {
+          "num": 27,
+          "content": "A box holds 6 pencils. How many pencils are there in 5 such boxes?",
+          "options": {
+            "A": "25",
+            "B": "30",
+            "C": "35",
+            "D": "11"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "6 pencils × 5 boxes = 30 pencils"
+        },
+        {
+          "num": 28,
+          "content": "56 students are divided equally into 8 teams. How many students are in each team?",
+          "options": {
+            "A": "6",
+            "B": "7",
+            "C": "8",
+            "D": "9"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "56 shared equally into 8 teams gives 7 in each"
+        },
+        {
+          "num": 29,
+          "content": "Find the missing number: 45 + ___ = 100",
+          "options": {
+            "A": "45",
+            "B": "50",
+            "C": "55",
+            "D": "65"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "45 + 55 = 100"
+        },
+        {
+          "num": 30,
+          "content": "Find the missing number: ___ − 37 = 63",
+          "options": {
+            "A": "90",
+            "B": "100",
+            "C": "110",
+            "D": "63"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "100 − 37 = 63, so the missing number is 100"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

@@ -1,0 +1,426 @@
+{
+  "id": "20",
+  "slug": "unit-20-shapes-and-solids",
+  "num": 20,
+  "title": "Shapes and Solids",
+  "emoji": "🧊",
+  "parentNote": "Gather a dice, a ball, a can, a box, and an ice-cream cone (or a picture of one) — matching real objects to names is the fastest way to lock this in.",
+  "learnBullets": [
+    "Naming solid (3D) shapes: **cube, cuboid, sphere, cylinder, cone**",
+    "Counting **faces, edges, and corners** of solids",
+    "Telling flat (2D) shapes apart from solid (3D) shapes",
+    "Matching solids to real-world objects"
+  ],
+  "learnItFirst": "| Solid | Picture | Real object | Faces | Edges | Corners |\n|---|---|---|---|---|---|\n| Cube | 🎲 | Dice | 6 | 12 | 8 |\n| Cuboid | 📦 | Box | 6 | 12 | 8 |\n| Sphere | ⚽ | Ball | 1 (curved) | 0 | 0 |\n| Cylinder | 🥫 | Can | 3 (2 flat + 1 curved) | 2 | 0 |\n| Cone | 🍦 | Ice-cream cone | 2 (1 flat + 1 curved) | 1 | 1 |\n\n**Key words:**\n- **Face** = a flat (or curved) surface of the solid\n- **Edge** = where two faces meet, forming a line\n- **Corner (vertex)** = a point where edges meet\n\n### 🧠 How to Solve — 3 Easy Steps\n1. **Picture** the real object in your mind (a dice, a ball, a can).\n2. **Count** faces first, then edges, then corners.\n3. Remember: **round shapes** (sphere, cylinder, cone) have fewer or no corners.\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "Which solid shape looks like a dice?",
+          "options": {
+            "A": "Sphere",
+            "B": "Cube",
+            "C": "Cone",
+            "D": "Cylinder"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A dice has 6 equal square faces, just like a cube"
+        },
+        {
+          "num": 2,
+          "content": "Which solid shape looks like a ball?",
+          "options": {
+            "A": "Sphere",
+            "B": "Cube",
+            "C": "Cone",
+            "D": "Cylinder"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A ball is round on all sides, like a sphere"
+        },
+        {
+          "num": 3,
+          "content": "Which solid shape looks like a can of juice?",
+          "options": {
+            "A": "Sphere",
+            "B": "Cube",
+            "C": "Cone",
+            "D": "Cylinder"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "A can has a curved side with flat circular ends, like a cylinder"
+        },
+        {
+          "num": 4,
+          "content": "Which solid shape looks like an ice-cream cone?",
+          "options": {
+            "A": "Sphere",
+            "B": "Cube",
+            "C": "Cone",
+            "D": "Cylinder"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "An ice-cream cone has a pointed tip and round base, like a cone"
+        },
+        {
+          "num": 5,
+          "content": "Which solid shape looks like a box (a book box)?",
+          "options": {
+            "A": "Sphere",
+            "B": "Cuboid",
+            "C": "Cone",
+            "D": "Cylinder"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A box has flat rectangular faces, like a cuboid"
+        },
+        {
+          "num": 6,
+          "content": "Which of these is a FLAT (2D) shape?",
+          "options": {
+            "A": "Cube",
+            "B": "Sphere",
+            "C": "Square",
+            "D": "Cylinder"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A square is flat and drawn on paper; the others are solids"
+        },
+        {
+          "num": 7,
+          "content": "Which of these is a SOLID (3D) shape?",
+          "options": {
+            "A": "Circle",
+            "B": "Triangle",
+            "C": "Cube",
+            "D": "Square"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A cube takes up space and can be held; the others are flat shapes"
+        },
+        {
+          "num": 8,
+          "content": "Which solid shape can roll easily in every direction?",
+          "options": {
+            "A": "Cube",
+            "B": "Sphere",
+            "C": "Cuboid",
+            "D": "None of these"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A sphere is round all over, so it rolls smoothly everywhere"
+        },
+        {
+          "num": 9,
+          "content": "Which solid shape has NO flat face at all?",
+          "options": {
+            "A": "Cube",
+            "B": "Cuboid",
+            "C": "Sphere",
+            "D": "Cylinder"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A sphere is entirely curved, with no flat face"
+        },
+        {
+          "num": 10,
+          "content": "Which solid shape has flat faces only, so it can be stacked easily?",
+          "options": {
+            "A": "Sphere",
+            "B": "Cone",
+            "C": "Cuboid",
+            "D": "None of these"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "A cuboid has only flat faces, so it stacks neatly"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "How many faces does a cube have?",
+          "options": {
+            "A": "4",
+            "B": "6",
+            "C": "8",
+            "D": "12"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A cube has 6 square faces"
+        },
+        {
+          "num": 12,
+          "content": "How many edges does a cube have?",
+          "options": {
+            "A": "6",
+            "B": "8",
+            "C": "10",
+            "D": "12"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "A cube has 12 edges"
+        },
+        {
+          "num": 13,
+          "content": "How many corners does a cube have?",
+          "options": {
+            "A": "4",
+            "B": "6",
+            "C": "8",
+            "D": "12"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A cube has 8 corners"
+        },
+        {
+          "num": 14,
+          "content": "How many faces does a cuboid (box shape) have?",
+          "options": {
+            "A": "4",
+            "B": "6",
+            "C": "8",
+            "D": "12"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A cuboid has 6 rectangular faces"
+        },
+        {
+          "num": 15,
+          "content": "How many corners does a sphere have?",
+          "options": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "4"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A sphere is fully round, with no corners"
+        },
+        {
+          "num": 16,
+          "content": "How many edges does a sphere have?",
+          "options": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "4"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A sphere has no edges, since it has only one curved surface"
+        },
+        {
+          "num": 17,
+          "content": "How many flat faces does a cylinder have?",
+          "options": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A cylinder has 2 flat circular faces (top and bottom)"
+        },
+        {
+          "num": 18,
+          "content": "How many corners does a cylinder have?",
+          "options": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A cylinder has no corners"
+        },
+        {
+          "num": 19,
+          "content": "How many flat faces does a cone have?",
+          "options": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A cone has 1 flat circular face at its base"
+        },
+        {
+          "num": 20,
+          "content": "How many corners (vertices) does a cone have?",
+          "options": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A cone has 1 corner (the pointed tip)"
+        },
+        {
+          "num": 21,
+          "content": "Which solid has EQUAL faces, edges, and corners as a cube?",
+          "options": {
+            "A": "Sphere",
+            "B": "Cone",
+            "C": "Cuboid",
+            "D": "Cylinder"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A cuboid also has 6 faces, 12 edges, and 8 corners, just like a cube"
+        },
+        {
+          "num": 22,
+          "content": "Which of these solids has NO corners at all?",
+          "options": {
+            "A": "Cube",
+            "B": "Cuboid",
+            "C": "Cone",
+            "D": "Sphere"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "A sphere has no corners at all"
+        },
+        {
+          "num": 23,
+          "content": "A football is closest in shape to which solid?",
+          "options": {
+            "A": "Cube",
+            "B": "Sphere",
+            "C": "Cylinder",
+            "D": "Cone"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A football is round on all sides, like a sphere"
+        },
+        {
+          "num": 24,
+          "content": "A birthday party hat is closest in shape to which solid?",
+          "options": {
+            "A": "Cube",
+            "B": "Sphere",
+            "C": "Cone",
+            "D": "Cylinder"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A party hat is pointed with a round base, like a cone"
+        },
+        {
+          "num": 25,
+          "content": "A matchbox is closest in shape to which solid?",
+          "options": {
+            "A": "Sphere",
+            "B": "Cuboid",
+            "C": "Cone",
+            "D": "Cylinder"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "A matchbox has flat rectangular faces, like a cuboid"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 26,
+          "content": "If a solid has 6 flat square faces, 12 edges, and 8 corners, what solid is it?",
+          "options": {
+            "A": "Sphere",
+            "B": "Cone",
+            "C": "Cube",
+            "D": "Cylinder"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "6 equal square faces, 12 edges, 8 corners describes a cube"
+        },
+        {
+          "num": 27,
+          "content": "If a solid has 2 flat circular faces, 1 curved face, and 2 edges but no corners, what solid is it?",
+          "options": {
+            "A": "Cube",
+            "B": "Cone",
+            "C": "Cylinder",
+            "D": "Sphere"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "2 flat circular faces, 1 curved face, 2 edges, no corners describes a cylinder"
+        },
+        {
+          "num": 28,
+          "content": "Which solid has only 1 corner (vertex) in total?",
+          "options": {
+            "A": "Cube",
+            "B": "Cone",
+            "C": "Cylinder",
+            "D": "Cuboid"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A cone has exactly 1 corner, at its pointed tip"
+        },
+        {
+          "num": 29,
+          "content": "A cube and a cuboid both have 6 faces, 12 edges, and 8 corners. What is the MAIN difference between them?",
+          "options": {
+            "A": "A cube's faces are all equal squares; a cuboid's faces can be rectangles of different sizes",
+            "B": "A cube has more corners",
+            "C": "A cuboid has no edges",
+            "D": "There is no difference"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "This is the key difference between the two solids"
+        },
+        {
+          "num": 30,
+          "content": "Riya rolls a solid on the floor and it rolls smoothly in every direction without stopping at any flat side. Which solid is it MOST LIKELY to be?",
+          "options": {
+            "A": "Cube",
+            "B": "Cuboid",
+            "C": "Sphere",
+            "D": "Cone"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "Only a sphere is round in every direction with no flat sides to stop it"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

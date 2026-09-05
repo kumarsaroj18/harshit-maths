@@ -1,0 +1,426 @@
+{
+  "id": "21",
+  "slug": "unit-21-pictographs",
+  "num": 21,
+  "title": "Pictographs",
+  "emoji": "📊",
+  "parentNote": "This is the LAST unit — a fun way to celebrate is to make a real pictograph together about something he likes (favourite snacks, cartoon characters) using stickers!",
+  "learnBullets": [
+    "Reading a **pictograph** (a chart made of pictures/icons)",
+    "Understanding the **key** (what 1 icon stands for)",
+    "Comparing categories: most, least, more than, fewer than",
+    "Working with a **half icon** when the count is an odd number"
+  ],
+  "learnItFirst": "**A pictograph** uses pictures to show information. The **KEY** tells you what each picture is worth.\n\n```\nKEY: 🍎 = 1 student\n\nApple:   🍎🍎🍎🍎        → 4 students like apple\nGrapes:  🍎🍎🍎🍎🍎      → 5 students like grapes\n```\n\n**When 1 icon = more than 1 unit:**\n```\nKEY: 📕 = 2 books\n\nRiya:  📕📕📕   → 3 icons × 2 books = 6 books\n```\n\n**Half an icon** means half the value:\n```\nKEY: 📕 = 2 books\nHalf a 📕 = 1 book (half of 2)\n```\n\n### 🧠 How to Solve — 3 Easy Steps\n1. **Read the key first** — always check what 1 icon is worth before answering anything.\n2. **Count the icons** for each category.\n3. **Multiply** (icons × key value) to get the real total, then add/subtract/compare as needed.\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "**Pictograph 1 — Favourite fruit of a class (KEY: 🍎 = 1 student)**\n\n| Fruit | Votes |\n|---|---|\n| Apple | 🍎🍎🍎🍎 |\n| Banana | 🍎🍎🍎 |\n| Grapes | 🍎🍎🍎🍎🍎 |\n| Mango | 🍎🍎 |",
+      "questions": [
+        {
+          "num": 1,
+          "content": "How many students like Apple?",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "There are 4 apple icons, and each icon = 1 student"
+        },
+        {
+          "num": 2,
+          "content": "How many students like Banana?",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "There are 3 banana icons"
+        },
+        {
+          "num": 3,
+          "content": "How many students like Grapes?",
+          "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "There are 5 grape icons"
+        },
+        {
+          "num": 4,
+          "content": "How many students like Mango?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "There are 2 mango icons"
+        },
+        {
+          "num": 5,
+          "content": "Which fruit is the MOST liked?",
+          "options": {
+            "A": "Apple",
+            "B": "Banana",
+            "C": "Grapes",
+            "D": "Mango"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Grapes has the most icons (5)"
+        },
+        {
+          "num": 6,
+          "content": "Which fruit is the LEAST liked?",
+          "options": {
+            "A": "Apple",
+            "B": "Banana",
+            "C": "Grapes",
+            "D": "Mango"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Mango has the fewest icons (2)"
+        },
+        {
+          "num": 7,
+          "content": "How many students liked Apple AND Banana together?",
+          "options": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "8"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "4 (Apple) + 3 (Banana) = 7"
+        },
+        {
+          "num": 8,
+          "content": "How many MORE students liked Grapes than Mango?",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "5 (Grapes) − 2 (Mango) = 3"
+        },
+        {
+          "num": 9,
+          "content": "How many students were asked in total?",
+          "options": {
+            "A": "12",
+            "B": "13",
+            "C": "14",
+            "D": "15"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "4 + 3 + 5 + 2 = 14"
+        },
+        {
+          "num": 10,
+          "content": "Which two fruits together have the SAME number of votes as Grapes (5)?",
+          "options": {
+            "A": "Apple and Mango",
+            "B": "Banana and Mango",
+            "C": "Apple and Banana",
+            "D": "Apple and Grapes"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "3 (Banana) + 2 (Mango) = 5, same as Grapes"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "**Pictograph 2 — Books read this week (KEY: 📕 = 2 books)**\n\n| Child | Books read |\n|---|---|\n| Riya | 📕📕📕 |\n| Sam | 📕📕 |\n| Neha | 📕📕📕📕 |\n| Tom | 📕 |",
+      "questions": [
+        {
+          "num": 11,
+          "content": "How many books did Riya read?",
+          "options": {
+            "A": "3",
+            "B": "4",
+            "C": "6",
+            "D": "8"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "3 icons × 2 books = 6"
+        },
+        {
+          "num": 12,
+          "content": "How many books did Sam read?",
+          "options": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "2 icons × 2 books = 4"
+        },
+        {
+          "num": 13,
+          "content": "How many books did Neha read?",
+          "options": {
+            "A": "4",
+            "B": "6",
+            "C": "8",
+            "D": "10"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "4 icons × 2 books = 8"
+        },
+        {
+          "num": 14,
+          "content": "How many books did Tom read?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "1 icon × 2 books = 2"
+        },
+        {
+          "num": 15,
+          "content": "Who read the MOST books?",
+          "options": {
+            "A": "Riya",
+            "B": "Sam",
+            "C": "Neha",
+            "D": "Tom"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Neha read the most books (8)"
+        },
+        {
+          "num": 16,
+          "content": "Who read the FEWEST books?",
+          "options": {
+            "A": "Riya",
+            "B": "Sam",
+            "C": "Neha",
+            "D": "Tom"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Tom read the fewest books (2)"
+        },
+        {
+          "num": 17,
+          "content": "How many books did Riya and Sam read together?",
+          "options": {
+            "A": "8",
+            "B": "9",
+            "C": "10",
+            "D": "11"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "6 (Riya) + 4 (Sam) = 10"
+        },
+        {
+          "num": 18,
+          "content": "How many MORE books did Neha read than Tom?",
+          "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "7"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "8 (Neha) − 2 (Tom) = 6"
+        },
+        {
+          "num": 19,
+          "content": "What is the total number of books read by all four children?",
+          "options": {
+            "A": "18",
+            "B": "19",
+            "C": "20",
+            "D": "21"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "6 + 4 + 8 + 2 = 20"
+        },
+        {
+          "num": 20,
+          "content": "If Sam reads 1 more book next week, how should his new total (5 books) be shown using the same key (📕 = 2 books)?",
+          "options": {
+            "A": "2 full icons",
+            "B": "2 full icons + half an icon",
+            "C": "3 full icons",
+            "D": "1 icon"
+          },
+          "trailingContext": "**Pictograph 3 — Trees planted by each class (KEY: 🌳 = 5 trees)**\n\n| Class | Trees planted |\n|---|---|\n| Class A | 🌳🌳🌳 |\n| Class B | 🌳🌳 |\n| Class C | 🌳🌳🌳🌳 |",
+          "correct": "B",
+          "why": "4 books = 2 full icons, plus 1 extra book = half an icon"
+        },
+        {
+          "num": 21,
+          "content": "How many trees did Class A plant?",
+          "options": {
+            "A": "5",
+            "B": "10",
+            "C": "15",
+            "D": "20"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "3 icons × 5 trees = 15"
+        },
+        {
+          "num": 22,
+          "content": "How many trees did Class B plant?",
+          "options": {
+            "A": "5",
+            "B": "10",
+            "C": "15",
+            "D": "20"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "2 icons × 5 trees = 10"
+        },
+        {
+          "num": 23,
+          "content": "How many trees did Class C plant?",
+          "options": {
+            "A": "10",
+            "B": "15",
+            "C": "20",
+            "D": "25"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "4 icons × 5 trees = 20"
+        },
+        {
+          "num": 24,
+          "content": "Which class planted the MOST trees?",
+          "options": {
+            "A": "Class A",
+            "B": "Class B",
+            "C": "Class C",
+            "D": "All equal"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Class C planted the most trees (20)"
+        },
+        {
+          "num": 25,
+          "content": "How many trees did all three classes plant together?",
+          "options": {
+            "A": "35",
+            "B": "40",
+            "C": "45",
+            "D": "50"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "15 + 10 + 20 = 45"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 26,
+          "content": "Using Pictograph 3 (🌳 = 5 trees), if Class D planted 25 trees, how many icons should be drawn for Class D?",
+          "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "25 ÷ 5 = 5 icons"
+        },
+        {
+          "num": 27,
+          "content": "In Pictograph 2 (📕 = 2 books), how many books does HALF an icon represent?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Half of 2 books = 1 book"
+        },
+        {
+          "num": 28,
+          "content": "In Pictograph 1 (🍎 = 1 student), if 3 more students say they like Apple, how many icons would Apple now have?",
+          "options": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "8"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "4 (original) + 3 (new) = 7 icons"
+        },
+        {
+          "num": 29,
+          "content": "Using Pictograph 3, all three classes together planted 45 trees (from Q25). If a new Class D joins and the grand total becomes 60 trees, how many trees did Class D plant?",
+          "options": {
+            "A": "10",
+            "B": "15",
+            "C": "20",
+            "D": "25"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "60 − 45 = 15"
+        },
+        {
+          "num": 30,
+          "content": "In a pictograph, 1 icon = 10 units. A category shows 3 and a half icons. How many units does that represent?",
+          "options": {
+            "A": "30",
+            "B": "33",
+            "C": "35",
+            "D": "40"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "3 full icons (3 × 10 = 30) + half an icon (5) = 35"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

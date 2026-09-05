@@ -1,0 +1,426 @@
+{
+  "id": "17",
+  "slug": "unit-17-temperature",
+  "num": 17,
+  "title": "Temperature",
+  "emoji": "🌡️",
+  "parentNote": "Talk about how it feels outside today (hot, warm, cold) and connect it to a thermometer reading — real-life feel comes before the numbers.",
+  "learnBullets": [
+    "What a **thermometer** measures and how to read it",
+    "Comparing temperatures: **hotter, colder, warmer, cooler**",
+    "Everyday situations and their approximate temperature (ice, body, boiling water)",
+    "The unit of temperature: **degrees (°C)**"
+  ],
+  "learnItFirst": "**A thermometer** measures how hot or cold something is, in **degrees Celsius (°C)**.\n\n```\n🌡️\nHigher number  =  Hotter\nLower number   =  Colder\n```\n\n**Everyday temperature facts:**\n| Situation | Approximate Temperature |\n|---|---|\n| Ice / freezing water | 0°C (very cold) |\n| A cool room | around 20°C |\n| Healthy human body | around 37°C |\n| A hot summer day | around 40°C |\n| Boiling water | 100°C (very hot) |\n\n### 🧠 How to Solve — 3 Easy Steps\n1. **Compare the numbers** — the bigger number always means hotter.\n2. **Think of real life** — ice is cold, boiling water is hot, your body is warm.\n3. **Use words carefully**: \"increase\" means getting hotter, \"decrease\" means getting colder.\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "Which tool measures temperature?",
+          "options": {
+            "A": "Ruler",
+            "B": "Weighing scale",
+            "C": "Thermometer",
+            "D": "Clock"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A thermometer is used to measure temperature"
+        },
+        {
+          "num": 2,
+          "content": "What is the unit used to measure temperature?",
+          "options": {
+            "A": "Centimetres",
+            "B": "Degrees",
+            "C": "Litres",
+            "D": "Kilograms"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Temperature is measured in degrees"
+        },
+        {
+          "num": 3,
+          "content": "Which is HOTTER: ice or boiling water?",
+          "options": {
+            "A": "Ice",
+            "B": "Boiling water",
+            "C": "Both same",
+            "D": "Cannot tell"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Boiling water is much hotter than ice"
+        },
+        {
+          "num": 4,
+          "content": "Which is COLDER: a summer day or a winter day?",
+          "options": {
+            "A": "Summer day",
+            "B": "Winter day",
+            "C": "Both same",
+            "D": "Cannot tell"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Winter days are colder than summer days"
+        },
+        {
+          "num": 5,
+          "content": "Which temperature is HOTTER: 20°C or 35°C?",
+          "options": {
+            "A": "20°C",
+            "B": "35°C",
+            "C": "Both same",
+            "D": "Cannot tell"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "35 is a bigger number than 20, so it is hotter"
+        },
+        {
+          "num": 6,
+          "content": "Which temperature is COLDER: 5°C or 15°C?",
+          "options": {
+            "A": "5°C",
+            "B": "15°C",
+            "C": "Both same",
+            "D": "Cannot tell"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "5 is a smaller number than 15, so it is colder"
+        },
+        {
+          "num": 7,
+          "content": "Ice melts and becomes water because it gets:",
+          "options": {
+            "A": "Hotter",
+            "B": "Colder",
+            "C": "Heavier",
+            "D": "Lighter"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Ice melts when it warms up (gets hotter)"
+        },
+        {
+          "num": 8,
+          "content": "On a hot day, we usually feel like drinking:",
+          "options": {
+            "A": "Hot tea",
+            "B": "Cold water",
+            "C": "Hot soup",
+            "D": "Nothing"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Cold water helps us feel cool on a hot day"
+        },
+        {
+          "num": 9,
+          "content": "On a cold winter day, we usually wear:",
+          "options": {
+            "A": "A sweater",
+            "B": "A swimsuit",
+            "C": "Shorts",
+            "D": "Nothing extra"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A sweater keeps us warm in cold weather"
+        },
+        {
+          "num": 10,
+          "content": "Which is used to check if a person has a fever (very high body temperature)?",
+          "options": {
+            "A": "Ruler",
+            "B": "Thermometer",
+            "C": "Weighing scale",
+            "D": "Clock"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "A thermometer checks body temperature for fever"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "Water freezes into ice at about:",
+          "options": {
+            "A": "0°C",
+            "B": "37°C",
+            "C": "100°C",
+            "D": "50°C"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Water freezes into ice at 0°C"
+        },
+        {
+          "num": 12,
+          "content": "Water boils at about:",
+          "options": {
+            "A": "0°C",
+            "B": "37°C",
+            "C": "100°C",
+            "D": "50°C"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Water boils at 100°C"
+        },
+        {
+          "num": 13,
+          "content": "A healthy human body's temperature is about:",
+          "options": {
+            "A": "0°C",
+            "B": "37°C",
+            "C": "100°C",
+            "D": "10°C"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A healthy human body is about 37°C"
+        },
+        {
+          "num": 14,
+          "content": "Which of these is the coldest?",
+          "options": {
+            "A": "10°C",
+            "B": "25°C",
+            "C": "0°C",
+            "D": "40°C"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "0 is the smallest number here"
+        },
+        {
+          "num": 15,
+          "content": "Which of these is the hottest?",
+          "options": {
+            "A": "15°C",
+            "B": "45°C",
+            "C": "30°C",
+            "D": "5°C"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "45 is the biggest number here"
+        },
+        {
+          "num": 16,
+          "content": "If the temperature RISES from 20°C to 30°C, has it become hotter or colder?",
+          "options": {
+            "A": "Hotter",
+            "B": "Colder",
+            "C": "Stayed the same",
+            "D": "Cannot tell"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A rise from 20°C to 30°C means it got hotter"
+        },
+        {
+          "num": 17,
+          "content": "If the temperature FALLS from 30°C to 15°C, has it become hotter or colder?",
+          "options": {
+            "A": "Hotter",
+            "B": "Colder",
+            "C": "Stayed the same",
+            "D": "Cannot tell"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A fall from 30°C to 15°C means it got colder"
+        },
+        {
+          "num": 18,
+          "content": "Arrange from COLDEST to HOTTEST: 40°C, 5°C, 20°C",
+          "options": {
+            "A": "5°C, 20°C, 40°C",
+            "B": "40°C, 20°C, 5°C",
+            "C": "20°C, 5°C, 40°C",
+            "D": "5°C, 40°C, 20°C"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Ordering from smallest to biggest number"
+        },
+        {
+          "num": 19,
+          "content": "In which season do we usually see the HIGHEST temperatures?",
+          "options": {
+            "A": "Winter",
+            "B": "Summer",
+            "C": "Rainy season",
+            "D": "None"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Summer has the highest temperatures"
+        },
+        {
+          "num": 20,
+          "content": "In which season do we usually see the LOWEST temperatures?",
+          "options": {
+            "A": "Winter",
+            "B": "Summer",
+            "C": "Rainy season",
+            "D": "None"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Winter has the lowest temperatures"
+        },
+        {
+          "num": 21,
+          "content": "If today's temperature is 32°C and yesterday's was 28°C, which day was HOTTER?",
+          "options": {
+            "A": "Today",
+            "B": "Yesterday",
+            "C": "Both same",
+            "D": "Cannot tell"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "32°C is more than 28°C"
+        },
+        {
+          "num": 22,
+          "content": "A fever means the body's temperature has gone:",
+          "options": {
+            "A": "Higher than normal (37°C)",
+            "B": "Lower than normal",
+            "C": "Exactly 37°C",
+            "D": "To 0°C"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A fever means body temperature has risen above normal"
+        },
+        {
+          "num": 23,
+          "content": "Ice cream stored in a freezer stays cold because the freezer's temperature is:",
+          "options": {
+            "A": "Very low",
+            "B": "Very high",
+            "C": "Same as room",
+            "D": "Same as body"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Freezers keep things cold using very low temperatures"
+        },
+        {
+          "num": 24,
+          "content": "Which of these would you most likely feel on a cold mountain top?",
+          "options": {
+            "A": "Very hot air",
+            "B": "Very cold air",
+            "C": "Boiling water",
+            "D": "Warm body temperature"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Mountain tops are usually very cold"
+        },
+        {
+          "num": 25,
+          "content": "If Monday's temperature was 18°C and Tuesday's was 24°C, by how many degrees did it increase?",
+          "options": {
+            "A": "4°C",
+            "B": "6°C",
+            "C": "8°C",
+            "D": "42°C"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "24 − 18 = 6"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 26,
+          "content": "Water is at 25°C. If it is heated by 75°C more, what will its new temperature be?",
+          "options": {
+            "A": "90°C",
+            "B": "100°C",
+            "C": "50°C",
+            "D": "75°C"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "25 + 75 = 100"
+        },
+        {
+          "num": 27,
+          "content": "The temperature was 35°C at noon and dropped by 10°C by evening. What was the evening temperature?",
+          "options": {
+            "A": "20°C",
+            "B": "25°C",
+            "C": "30°C",
+            "D": "45°C"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "35 − 10 = 25"
+        },
+        {
+          "num": 28,
+          "content": "Three cities recorded temperatures of 22°C, 38°C, and 15°C. Which city was the WARMEST?",
+          "options": {
+            "A": "22°C city",
+            "B": "38°C city",
+            "C": "15°C city",
+            "D": "Cannot tell"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "38 is the biggest number, so it is the warmest"
+        },
+        {
+          "num": 29,
+          "content": "If body temperature is 37°C and a sick child's temperature is 39°C, how many degrees ABOVE normal is the child's temperature?",
+          "options": {
+            "A": "1°C",
+            "B": "2°C",
+            "C": "3°C",
+            "D": "76°C"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "39 − 37 = 2"
+        },
+        {
+          "num": 30,
+          "content": "Which order correctly shows INCREASING temperature (coldest to hottest): ice, warm tea, boiling water?",
+          "options": {
+            "A": "Ice, warm tea, boiling water",
+            "B": "Boiling water, warm tea, ice",
+            "C": "Warm tea, ice, boiling water",
+            "D": "Ice, boiling water, warm tea"
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "Ice is coldest, warm tea is in between, boiling water is hottest"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

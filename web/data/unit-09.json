@@ -1,0 +1,425 @@
+{
+  "id": "09",
+  "slug": "unit-09-coding-decoding",
+  "num": 9,
+  "title": "Coding-Decoding",
+  "emoji": "🔐",
+  "parentNote": "Keep a small alphabet strip (A to Z written in order) handy on paper — counting forward/backward on it makes shift-codes very easy for him.",
+  "learnBullets": [
+    "How **letters** can be swapped for other letters, numbers, or symbols using a rule",
+    "Reading a **shift code** (every letter moves forward or backward by a fixed number of steps)",
+    "Cracking a code by comparing **two clues** that share a common word"
+  ],
+  "learnItFirst": "**Shift codes:** every letter moves forward (or back) by the same number of steps in the alphabet.\n\n```\nA B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26\n\nCAT  →  shift forward by 1  →  DBU\n(C→D, A→B, T→U)\n```\n\n**Matching-clue codes:** two coded sentences share one common word — find the matching number!\n\n```\n\"I am fine\"  →  1 2 3\n\"he is fine\" →  4 2 5\n```\nBoth sentences have the word **\"fine\"**, and both codes have the number **2**. So **fine = 2**.\n\n**Important:** the numbers are NOT necessarily in the same left-to-right order as the words! Just find the word that repeats and the number that repeats — match those two, no matter where they sit in the line.\n\n### 🧠 How to Solve — 3 Easy Steps\n1. **Find the rule** — is it a shift, an alphabet-position number, or a backward word?\n2. **Apply the SAME rule**, letter by letter, to the new word.\n3. **Double-check** by counting on your fingers or an alphabet strip.\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "If CAT is coded as DBU (each letter shifts forward by 1), how is DOG coded?",
+          "options": {
+            "A": "EPH",
+            "B": "EPI",
+            "C": "DPH",
+            "D": "EOG"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "D→E, O→P, G→H (each letter moves 1 forward)"
+        },
+        {
+          "num": 2,
+          "content": "Using the same rule (shift forward by 1), how is BALL coded?",
+          "options": {
+            "A": "CBMM",
+            "B": "CBML",
+            "C": "CBNM",
+            "D": "DBMM"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "B→C, A→B, L→M, L→M"
+        },
+        {
+          "num": 3,
+          "content": "If SUN is coded as TVO (shift forward by 1), how is MOON coded?",
+          "options": {
+            "A": "NPPO",
+            "B": "NPOP",
+            "C": "NOOP",
+            "D": "MPPO"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "M→N, O→P, O→P, N→O"
+        },
+        {
+          "num": 4,
+          "content": "If A=1, B=2, C=3, what number stands for C?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "C is the 3rd letter of the alphabet"
+        },
+        {
+          "num": 5,
+          "content": "If A=1, B=2, C=3, D=4, what number stands for D?",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "D is the 4th letter of the alphabet"
+        },
+        {
+          "num": 6,
+          "content": "If 1 = 🍎, 2 = 🍌, 3 = 🍇, what does 2 stand for?",
+          "options": {
+            "A": "🍎",
+            "B": "🍌",
+            "C": "🍇",
+            "D": "🍊"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "The code directly says 2 = 🍌"
+        },
+        {
+          "num": 7,
+          "content": "If A=1, B=2, C=3, D=4, E=5, how is the word \"BED\" written in numbers?",
+          "options": {
+            "A": "254",
+            "B": "245",
+            "C": "524",
+            "D": "452"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "B=2, E=5, D=4 → 254"
+        },
+        {
+          "num": 8,
+          "content": "If CAT is coded as DBU, what word does \"DBU\" decode back to?",
+          "options": {
+            "A": "CAT",
+            "B": "BAT",
+            "C": "CUT",
+            "D": "COT"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "DBU is the code for CAT, so it decodes back to CAT"
+        },
+        {
+          "num": 9,
+          "content": "If 🔺 = 1, 🔵 = 2, 🟡 = 3, what number do you get when you add the codes for 🔵 and 🟡?",
+          "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "7"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "🔵 = 2 and 🟡 = 3, and 2 + 3 = 5"
+        },
+        {
+          "num": 10,
+          "content": "If P shifts forward by 1 to become Q, and Q shifts forward by 1 to become R, what does R become when it shifts forward by 1?",
+          "options": {
+            "A": "Q",
+            "B": "R",
+            "C": "S",
+            "D": "T"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "R moves 1 forward in the alphabet to become S"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "In a code, every letter shifts forward by 2 (A→C, B→D...). How is CAT coded?",
+          "options": {
+            "A": "ECV",
+            "B": "DCV",
+            "C": "ECU",
+            "D": "EDV"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "C→E, A→C, T→V (each letter moves 2 forward)"
+        },
+        {
+          "num": 12,
+          "content": "Using the same shift-forward-by-2 rule, how is DOG coded?",
+          "options": {
+            "A": "FQI",
+            "B": "FPI",
+            "C": "EQI",
+            "D": "FQH"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "D→F, O→Q, G→I"
+        },
+        {
+          "num": 13,
+          "content": "If MANGO is coded as NBOHP (shift forward by 1), how is APPLE coded?",
+          "options": {
+            "A": "BQQMF",
+            "B": "BPPME",
+            "C": "BQQME",
+            "D": "BQPMF"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A→B, P→Q, P→Q, L→M, E→F"
+        },
+        {
+          "num": 14,
+          "content": "If FISH is coded as EHRG (each letter shifts BACK by 1), how is BIRD coded?",
+          "options": {
+            "A": "AHQC",
+            "B": "AHQD",
+            "C": "AGQC",
+            "D": "BHQC"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "B→A, I→H, R→Q, D→C (each letter moves 1 back)"
+        },
+        {
+          "num": 15,
+          "content": "If RAIN is coded as SBJO (shift forward by 1), how is SUN coded?",
+          "options": {
+            "A": "TVO",
+            "B": "TUP",
+            "C": "SVO",
+            "D": "TVN"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "S→T, U→V, N→O"
+        },
+        {
+          "num": 16,
+          "content": "\"I am fine\" is coded as \"1 2 3\". \"he is fine\" is coded as \"4 2 5\". What is the code for the word \"fine\"?",
+          "options": {
+            "A": "I",
+            "B": "2",
+            "C": "he",
+            "D": "am"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"fine\" appears in both sentences, and 2 appears in both codes"
+        },
+        {
+          "num": 17,
+          "content": "\"roses are red\" is coded as \"5 6 7\". \"lily are white\" is coded as \"8 6 9\". What is the code for the word \"are\"?",
+          "options": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "8"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"are\" appears in both sentences, and 6 appears in both codes"
+        },
+        {
+          "num": 18,
+          "content": "\"sun is hot\" is coded as \"3 4 5\". \"moon is cold\" is coded as \"6 4 7\". What is the code for \"is\"?",
+          "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"is\" appears in both sentences, and 4 appears in both codes"
+        },
+        {
+          "num": 19,
+          "content": "\"cat can run\" is coded as \"1 2 3\". \"dog can jump\" is coded as \"4 2 5\". What is the code for \"can\"?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"can\" appears in both sentences, and 2 appears in both codes"
+        },
+        {
+          "num": 20,
+          "content": "\"I like mango\" is coded as \"9 8 7\". \"I like apple\" is coded as \"9 8 6\". What is the code for \"I\"?",
+          "options": {
+            "A": "6",
+            "B": "7",
+            "C": "8",
+            "D": "9"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "\"I\" appears in both sentences, and 9 appears in both codes"
+        },
+        {
+          "num": 21,
+          "content": "Using Q20's codes, what is the code for \"like\"?",
+          "options": {
+            "A": "6",
+            "B": "7",
+            "C": "8",
+            "D": "9"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "\"like\" appears in both sentences, and 8 appears in both codes"
+        },
+        {
+          "num": 22,
+          "content": "If every letter shifts BACK by 1, and \"BUS\" is coded as \"ATR\", how is \"TOY\" coded?",
+          "options": {
+            "A": "SNX",
+            "B": "SNW",
+            "C": "RNX",
+            "D": "SOX"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "T→S, O→N, Y→X (each letter moves 1 back)"
+        },
+        {
+          "num": 23,
+          "content": "If 🔺 means \"add\" and 🔻 means \"subtract\", what does 5 🔺 3 equal?",
+          "options": {
+            "A": "2",
+            "B": "8",
+            "C": "15",
+            "D": "5"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "🔺 means add: 5 + 3 = 8"
+        },
+        {
+          "num": 24,
+          "content": "Using the same symbols, what does 9 🔻 4 equal?",
+          "options": {
+            "A": "5",
+            "B": "13",
+            "C": "4",
+            "D": "36"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "🔻 means subtract: 9 − 4 = 5"
+        },
+        {
+          "num": 25,
+          "content": "If A=1, B=2, C=3 ... in order, what number stands for the letter J?",
+          "options": {
+            "A": "9",
+            "B": "10",
+            "C": "11",
+            "D": "1"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "J is the 10th letter of the alphabet"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 26,
+          "content": "In a code, words are written BACKWARDS. \"CAT\" is coded as \"TAC\". How is \"DOG\" coded?",
+          "options": {
+            "A": "GOD",
+            "B": "DGO",
+            "C": "GDO",
+            "D": "OGD"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Reading \"DOG\" backwards gives \"GOD\""
+        },
+        {
+          "num": 27,
+          "content": "Using the same backwards rule, how is \"STAR\" coded?",
+          "options": {
+            "A": "RATS",
+            "B": "STAR",
+            "C": "ARTS",
+            "D": "TARS"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Reading \"STAR\" backwards gives \"RATS\""
+        },
+        {
+          "num": 28,
+          "content": "Each letter is replaced by its position number (A=1, B=2, ... Z=26). What word is coded as \"4-15-7\"?",
+          "options": {
+            "A": "DOG",
+            "B": "COG",
+            "C": "DOT",
+            "D": "FOG"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "4=D, 15=O, 7=G, spelling DOG"
+        },
+        {
+          "num": 29,
+          "content": "In a code, ROSE is written as \"6392\" (R=6, O=3, S=9, E=2). Using this same key, what number stands for the letter S?",
+          "options": {
+            "A": "6",
+            "B": "3",
+            "C": "9",
+            "D": "2"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "The code directly says S = 9"
+        },
+        {
+          "num": 30,
+          "content": "Each letter is replaced by its position number (A=1, B=2, ... Z=26). If \"ZAP\" is coded as \"26-1-16\", how would \"CAB\" be coded?",
+          "options": {
+            "A": "3-1-2",
+            "B": "1-3-2",
+            "C": "3-2-1",
+            "D": "2-1-3"
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "C=3, A=1, B=2, following the alphabet-position rule"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

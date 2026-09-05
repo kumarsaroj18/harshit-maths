@@ -1,0 +1,425 @@
+{
+  "id": "08",
+  "slug": "unit-08-embedded-figures",
+  "num": 8,
+  "title": "Embedded Figures",
+  "emoji": "🔎",
+  "parentNote": "Ask him to point at each shape with his finger while counting out loud — it stops him from counting the same shape twice or missing one.",
+  "learnBullets": [
+    "Spotting simple shapes **hidden inside** a bigger picture",
+    "Counting shapes carefully **without double-counting**",
+    "Telling apart look-alikes — like a **square** (all sides equal) vs. a **rectangle** (sides unequal)"
+  ],
+  "learnItFirst": "**The Big Idea:** Every picture — a house, a rocket, a butterfly — is really just simple shapes put together!\n\n```\n   ▲          ← Triangle (roof)\n  ▲▲▲\n ■■■■■        ← Square (body)\n ■■■■■\n```\nThis house picture is made of **1 triangle + 1 square**.\n\n**Watch out for tricky look-alikes:**\n| Shape | Rule |\n|---|---|\n| Square | All 4 sides are EQUAL |\n| Rectangle | Opposite sides equal, but longer/shorter |\n\n### 🧠 How to Solve — 3 Easy Steps\n1. **Point** at each part of the picture one at a time.\n2. **Name** its shape (triangle, square, circle, rectangle...).\n3. **Count** — keep a running tally so you don't count the same shape twice.\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "A house is made of a triangle (roof) sitting on top of a square (body):\n```\n   ▲\n  ▲▲▲\n ■■■■■\n ■■■■■\n```",
+      "questions": [
+        {
+          "num": 1,
+          "content": "What shape is the ROOF of the house?",
+          "options": {
+            "A": "▲",
+            "B": "■",
+            "C": "●",
+            "D": "★"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "The pointed top part of the house is a triangle"
+        },
+        {
+          "num": 2,
+          "content": "What shape is the BODY of the house?",
+          "options": {
+            "A": "▲",
+            "B": "■",
+            "C": "●",
+            "D": "★"
+          },
+          "trailingContext": "An ice-cream 🍦 is made of a circle (scoop) sitting on a triangle (cone):\n```\n  ⬤\n  ▽\n```",
+          "correct": "B",
+          "why": "The main block of the house is a square"
+        },
+        {
+          "num": 3,
+          "content": "What shape is the SCOOP (top part)?",
+          "options": {
+            "A": "▲",
+            "B": "■",
+            "C": "⬤",
+            "D": "★"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "The round scoop on top is a circle"
+        },
+        {
+          "num": 4,
+          "content": "What shape is the CONE (bottom part)?",
+          "options": {
+            "A": "▲",
+            "B": "■",
+            "C": "⬤",
+            "D": "★"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "The pointed bottom part is a triangle"
+        },
+        {
+          "num": 5,
+          "content": "A kite 🪁 has a diamond shape in the middle. How many corners does a diamond have?",
+          "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+          },
+          "trailingContext": "A traffic light 🚦 is a rectangle with 3 circles inside it, stacked one on top of another:\n```\n■■■\n ●\n ●\n ●\n■■■\n```",
+          "correct": "B",
+          "why": "A diamond is a 4-sided shape, so it has 4 corners"
+        },
+        {
+          "num": 6,
+          "content": "How many circles are inside the traffic light picture?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "There are 3 circles stacked inside the traffic light"
+        },
+        {
+          "num": 7,
+          "content": "A snowman ⛄ is made of 3 circles stacked (small, medium, big). How many circles make up the snowman?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "The snowman is built from 3 stacked circles"
+        },
+        {
+          "num": 8,
+          "content": "A robot 🤖 face is made of 1 square (head), 1 rectangle (body), and 2 small circles (eyes). How many shapes make up the robot in total?",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "1 square head + 1 rectangle body + 2 circle eyes = 4 shapes"
+        },
+        {
+          "num": 9,
+          "content": "A boat 🛶 has a triangle sail on top of a rectangle hull. What shape is the SAIL?",
+          "options": {
+            "A": "Triangle",
+            "B": "Circle",
+            "C": "Square",
+            "D": "Star"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "The sail is pointed like a triangle"
+        },
+        {
+          "num": 10,
+          "content": "A rocket 🚀 is made of 1 triangle (nose), 1 rectangle (body), and 2 small triangles (side fins). How many triangles are in the rocket picture in total?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "1 nose triangle + 2 fin triangles = 3 triangles"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "A fish 🐟 is made of 1 big triangle (body) + 1 small triangle (tail) + 1 circle (eye). How many triangles are in the fish?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "1 big triangle (body) + 1 small triangle (tail) = 2"
+        },
+        {
+          "num": 12,
+          "content": "Using the same fish, how many circles are in the picture?",
+          "options": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Only the eye is a circle"
+        },
+        {
+          "num": 13,
+          "content": "A tree 🌳 is made of 1 triangle (leaves) + 1 rectangle (trunk). How many straight-sided shapes are used in total?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "The triangle (leaves) and the rectangle (trunk) are both straight-sided"
+        },
+        {
+          "num": 14,
+          "content": "A 6-pointed star can be drawn using 2 overlapping triangles — one pointing up, one pointing down. How many triangles make this star?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "One triangle points up, the other points down — 2 triangles total"
+        },
+        {
+          "num": 15,
+          "content": "A robot face is made of 1 square (face) + 2 circles (eyes) + 1 rectangle (mouth). How many shapes make up the face in total?",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "1 square + 2 circles + 1 rectangle = 4 shapes"
+        },
+        {
+          "num": 16,
+          "content": "A house picture has 1 triangular roof, 1 square body, 1 rectangular door, and 2 square windows. How many SQUARES are in the picture (including the body)?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "1 square body + 2 square windows = 3 squares"
+        },
+        {
+          "num": 17,
+          "content": "Using the same house, how many RECTANGLES are in the picture?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Only the door is a rectangle (unequal sides)"
+        },
+        {
+          "num": 18,
+          "content": "Using the same house, how many TRIANGLES are in the picture?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Only the roof is a triangle"
+        },
+        {
+          "num": 19,
+          "content": "Using the same house (roof + body + door + 2 windows), how many shapes make up the WHOLE picture?",
+          "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "1 roof + 1 body + 1 door + 2 windows = 5 shapes"
+        },
+        {
+          "num": 20,
+          "content": "A butterfly 🦋 is made of 2 big triangles (wings) + 1 small rectangle (body). How many triangles are there?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "The two wings are both triangles"
+        },
+        {
+          "num": 21,
+          "content": "Using the same butterfly, how many shapes are there in total?",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "2 triangle wings + 1 rectangle body = 3 shapes"
+        },
+        {
+          "num": 22,
+          "content": "An ice-cream has 3 scoops (3 circles stacked) on 1 triangle cone. How many circles are there?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "There are 3 stacked scoop circles"
+        },
+        {
+          "num": 23,
+          "content": "Using the same ice-cream, how many shapes are there in total (3 circles + 1 triangle)?",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "3 circles + 1 triangle cone = 4 shapes"
+        },
+        {
+          "num": 24,
+          "content": "A caterpillar is made of 5 circles joined in a row, plus 2 tiny circles for antenna tips. How many circles are there in total?",
+          "options": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "8"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "5 body circles + 2 antenna tip circles = 7"
+        },
+        {
+          "num": 25,
+          "content": "A flower 🌸 is made of 5 small circles (petals) around 1 bigger circle (centre), plus 1 rectangle (stem). How many circles are in the flower?",
+          "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "7"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "5 petal circles + 1 centre circle = 6"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 26,
+          "content": "A picture shows 2 triangles, 3 four-sided shapes, and 1 circle — but ONE of the \"four-sided shapes\" is actually a rectangle (not a true square, since its sides are unequal). How many TRUE squares are there?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Out of 3 four-sided shapes, 1 is really a rectangle, leaving 2 true squares"
+        },
+        {
+          "num": 27,
+          "content": "A rocket has 1 triangle (nose cone), 1 rectangle (body), 2 small triangles (fins), and 1 circle (window). If we remove the nose cone, how many triangles remain?",
+          "options": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "2 side fins remain after removing the 1 nose cone triangle"
+        },
+        {
+          "num": 28,
+          "content": "A face is made of 1 big circle (outline), 2 small circles (eyes), 1 triangle (nose), and 1 curved smile line (which is NOT a closed shape). How many CLOSED shapes are in the face?",
+          "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "1 big circle + 2 small circles + 1 triangle are closed shapes; the smile line is open, so it doesn't count"
+        },
+        {
+          "num": 29,
+          "content": "A picture is drawn using 3 separate circles, even though some of them overlap each other. How many circles were used to draw the picture?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Even though they overlap, 3 separate circles were drawn"
+        },
+        {
+          "num": 30,
+          "content": "A toy train has 1 engine + 2 coaches (3 rectangles in total), and each rectangle has 2 circle wheels underneath (6 circles in total). How many shapes make up the WHOLE train (rectangles + circles)?",
+          "options": {
+            "A": "6",
+            "B": "8",
+            "C": "9",
+            "D": "10"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "3 rectangles + 6 wheel circles = 9 shapes"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

@@ -1,0 +1,426 @@
+{
+  "id": "04",
+  "slug": "unit-04-geometrical-shapes",
+  "num": 4,
+  "title": "Geometrical Shapes",
+  "emoji": "🔺",
+  "parentNote": "Have him trace real objects at home (a book, a ball, a dice) and name their shape — it makes 2D vs. 3D obvious.",
+  "learnBullets": [
+    "Naming flat (2D) shapes: circle, triangle, square, rectangle, pentagon, hexagon",
+    "Naming solid (3D) shapes: cube, sphere, cylinder, cone, cuboid",
+    "Counting **sides** and **corners**",
+    "Matching shapes to everyday objects"
+  ],
+  "learnItFirst": "**Flat (2D) shapes** — you can draw them on paper. They have sides and corners but no thickness.\n\n```\n●        ▲          ■         ▬          ⬠           ⬡\nCircle  Triangle   Square   Rectangle  Pentagon    Hexagon\n0 sides  3 sides   4 sides   4 sides    5 sides     6 sides\n0 corners 3 corners 4 corners 4 corners 5 corners   6 corners\n```\n\n**Solid (3D) shapes** — you can hold them, they take up space.\n\n```\n🎲          ⚽        🥫           📦        🍦\nCube      Sphere   Cylinder     Cuboid     Cone\n```\n\n**Golden Rule:** For any straight-sided flat shape, the **number of sides = number of corners**.\n\n### 🧠 How to Solve — 3 Easy Steps\n1. **Look** at the outline — is it flat (2D) or does it take up space (3D)?\n2. **Count** the sides carefully, one at a time, going around.\n3. **Match** — the number of corners will always equal the number of straight sides.\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "Name this shape: ●",
+          "options": {
+            "A": "Circle",
+            "B": "Square",
+            "C": "Triangle",
+            "D": "Rectangle"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A round shape with no corners is a circle"
+        },
+        {
+          "num": 2,
+          "content": "Name this shape: ▲",
+          "options": {
+            "A": "Circle",
+            "B": "Square",
+            "C": "Triangle",
+            "D": "Rectangle"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A shape with 3 sides is a triangle"
+        },
+        {
+          "num": 3,
+          "content": "Name this shape: ■",
+          "options": {
+            "A": "Circle",
+            "B": "Square",
+            "C": "Triangle",
+            "D": "Rectangle"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A shape with 4 equal sides is a square"
+        },
+        {
+          "num": 4,
+          "content": "Name this shape: ▬",
+          "options": {
+            "A": "Circle",
+            "B": "Triangle",
+            "C": "Square",
+            "D": "Rectangle"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "A 4-sided shape with unequal sides (longer/shorter) is a rectangle"
+        },
+        {
+          "num": 5,
+          "content": "How many sides does a triangle have?",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A triangle always has 3 sides"
+        },
+        {
+          "num": 6,
+          "content": "How many sides does a square have?",
+          "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A square always has 4 sides"
+        },
+        {
+          "num": 7,
+          "content": "How many corners does a triangle have?",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A triangle has 3 corners — same as its number of sides"
+        },
+        {
+          "num": 8,
+          "content": "How many corners does a square have?",
+          "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A square has 4 corners — same as its number of sides"
+        },
+        {
+          "num": 9,
+          "content": "Which real object looks like a circle?",
+          "options": {
+            "A": "🌕 Full moon",
+            "B": "📚 Book",
+            "C": "🚪 Door",
+            "D": "🚩 Flag"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A full moon is round like a circle"
+        },
+        {
+          "num": 10,
+          "content": "Which real object looks like a rectangle?",
+          "options": {
+            "A": "🚪 Door",
+            "B": "⚽ Ball",
+            "C": "🍊 Orange",
+            "D": "🌕 Moon"
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "A door is a tall rectangle shape"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "Which shape has 5 sides?",
+          "options": {
+            "A": "Square",
+            "B": "Pentagon",
+            "C": "Hexagon",
+            "D": "Triangle"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Penta means 5 — a pentagon has 5 sides"
+        },
+        {
+          "num": 12,
+          "content": "Which shape has 6 sides?",
+          "options": {
+            "A": "Pentagon",
+            "B": "Hexagon",
+            "C": "Square",
+            "D": "Circle"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Hexa means 6 — a hexagon has 6 sides"
+        },
+        {
+          "num": 13,
+          "content": "How many corners does a circle have?",
+          "options": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "4"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A circle is round and smooth, with no corners"
+        },
+        {
+          "num": 14,
+          "content": "Which of these is a 3D (solid) shape?",
+          "options": {
+            "A": "Circle",
+            "B": "Square",
+            "C": "Cube 🎲",
+            "D": "Triangle"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A cube takes up space and can be held — it is a solid shape"
+        },
+        {
+          "num": 15,
+          "content": "Which real object is shaped like a cube?",
+          "options": {
+            "A": "🎲 Dice",
+            "B": "⚽ Ball",
+            "C": "🥫 Can",
+            "D": "🍦 Ice-cream cone"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A dice has 6 equal square faces, just like a cube"
+        },
+        {
+          "num": 16,
+          "content": "Which real object is shaped like a sphere?",
+          "options": {
+            "A": "🎲 Dice",
+            "B": "⚽ Ball",
+            "C": "📦 Box",
+            "D": "🚪 Door"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A ball is perfectly round on all sides, like a sphere"
+        },
+        {
+          "num": 17,
+          "content": "Which real object is shaped like a cylinder?",
+          "options": {
+            "A": "🎲 Dice",
+            "B": "🥫 Can",
+            "C": "🔺 Pyramid",
+            "D": "⚽ Ball"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A can has flat circular ends and a curved side, like a cylinder"
+        },
+        {
+          "num": 18,
+          "content": "Which real object is shaped like a cone?",
+          "options": {
+            "A": "🍦 Ice-cream cone",
+            "B": "📦 Box",
+            "C": "⚽ Ball",
+            "D": "🚪 Door"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "It has a pointed tip and a round base, like a cone"
+        },
+        {
+          "num": 19,
+          "content": "How many sides does a rectangle have?",
+          "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A rectangle always has 4 sides"
+        },
+        {
+          "num": 20,
+          "content": "▲  ■  ●  🎲(dice) — which one is a solid (3D) shape, not flat?",
+          "options": {
+            "A": "▲",
+            "B": "■",
+            "C": "●",
+            "D": "🎲"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "A dice is a solid (3D) cube; the others are flat (2D) shapes"
+        },
+        {
+          "num": 21,
+          "content": "A big triangle is cut into 4 equal small triangles (like a pizza slice pattern). How many triangles can you count in total (small ones + the big one)?",
+          "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "8"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "4 small triangles + 1 big triangle made of all of them = 5"
+        },
+        {
+          "num": 22,
+          "content": "A big square is cut into 4 equal small squares (2 rows, 2 columns). How many squares can you count in total (small ones + the big one)?",
+          "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "8"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "4 small squares + 1 big square made of all of them = 5"
+        },
+        {
+          "num": 23,
+          "content": "Which shape has NO straight sides at all?",
+          "options": {
+            "A": "Triangle",
+            "B": "Square",
+            "C": "Circle",
+            "D": "Rectangle"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A circle is made of one smooth curve, no straight sides"
+        },
+        {
+          "num": 24,
+          "content": "Which solid shape can roll easily on the ground?",
+          "options": {
+            "A": "Cube 🎲",
+            "B": "Sphere ⚽",
+            "C": "Cuboid 📦",
+            "D": "None of these"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A sphere is round all over, so it rolls smoothly"
+        },
+        {
+          "num": 25,
+          "content": "Which solid shape has only flat faces and stacks easily, like boxes?",
+          "options": {
+            "A": "Sphere",
+            "B": "Cylinder",
+            "C": "Cuboid 📦",
+            "D": "Cone"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "A cuboid (like a box) has only flat faces, so boxes stack neatly"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 26,
+          "content": "How many flat faces does a cube have?",
+          "options": {
+            "A": "4",
+            "B": "6",
+            "C": "8",
+            "D": "12"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A cube has 6 flat square faces (top, bottom, and 4 sides)"
+        },
+        {
+          "num": 27,
+          "content": "How many corners (vertices) does a cube have?",
+          "options": {
+            "A": "4",
+            "B": "6",
+            "C": "8",
+            "D": "12"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A cube has 8 corners where its edges meet"
+        },
+        {
+          "num": 28,
+          "content": "If you cut a rectangle in half along its diagonal (corner to corner), you get two identical right-angle triangles. If you put those two triangles back together the way they started, which shape do you get?",
+          "options": {
+            "A": "A square or rectangle",
+            "B": "A circle",
+            "C": "A pentagon",
+            "D": "A hexagon"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A rectangle's diagonal splits it into 2 right-angle triangles, so putting them back together remakes the rectangle"
+        },
+        {
+          "num": 29,
+          "content": "How many corners does a hexagon have?",
+          "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "8"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A hexagon has 6 corners — same as its number of sides"
+        },
+        {
+          "num": 30,
+          "content": "A square has 4 sides. If you cut off just ONE corner with a straight cut, how many sides does the new shape have?",
+          "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "Cutting off 1 corner removes 1 corner but adds 1 new side, turning 4 sides into 5"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

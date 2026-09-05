@@ -1,0 +1,426 @@
+{
+  "id": "15",
+  "slug": "unit-15-capacity",
+  "num": 15,
+  "title": "Capacity",
+  "emoji": "🥤",
+  "parentNote": "Use a measuring jug and a few bottles/cups at bath time or in the kitchen — capacity is easiest to learn by actually pouring water.",
+  "learnBullets": [
+    "Units of capacity: **millilitre (mL)** and **litre (L)**",
+    "The conversion rule: **1 L = 1000 mL**",
+    "Adding and subtracting capacities",
+    "Comparing and ordering capacities"
+  ],
+  "learnItFirst": "```\n1 litre (L)  =  1000 millilitres (mL)\n```\n\n**Converting litres to millilitres:** multiply by 1000\n```\n2 L = 2 × 1000 = 2000 mL\n```\n\n**Converting millilitres to litres:** divide by 1000 (works evenly for multiples of 1000)\n```\n4000 mL = 4000 ÷ 1000 = 4 L\n```\n\n**Adding/subtracting capacities** — keep the unit the same:\n```\n250 mL + 300 mL = 550 mL\n1 L 200 mL  =  1200 mL   (1 L = 1000 mL, so 1000 + 200 = 1200)\n```\n\n### 🧠 How to Solve — 3 Easy Steps\n1. **Check the units** — are both amounts in mL, or in L? Make them match first.\n2. **Convert** using 1 L = 1000 mL if needed.\n3. **Add, subtract, or compare** the numbers normally.\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "Which unit is used to measure milk in a bottle?",
+          "options": {
+            "A": "Centimetres",
+            "B": "Kilograms",
+            "C": "Litres",
+            "D": "Metres"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Liquids like milk are measured in litres"
+        },
+        {
+          "num": 2,
+          "content": "Which unit is used to measure a small amount of medicine (in a spoon)?",
+          "options": {
+            "A": "Millilitres",
+            "B": "Kilograms",
+            "C": "Metres",
+            "D": "Grams"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Small amounts like medicine are measured in millilitres"
+        },
+        {
+          "num": 3,
+          "content": "1 litre is equal to how many millilitres?",
+          "options": {
+            "A": "10",
+            "B": "100",
+            "C": "1000",
+            "D": "500"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "1 litre = 1000 millilitres"
+        },
+        {
+          "num": 4,
+          "content": "Which holds more: 1 L or 500 mL?",
+          "options": {
+            "A": "1 L",
+            "B": "500 mL",
+            "C": "Both same",
+            "D": "Cannot tell"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "1 L = 1000 mL, which is more than 500 mL"
+        },
+        {
+          "num": 5,
+          "content": "200 mL + 300 mL = ?",
+          "options": {
+            "A": "400 mL",
+            "B": "500 mL",
+            "C": "600 mL",
+            "D": "550 mL"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "200 + 300 = 500"
+        },
+        {
+          "num": 6,
+          "content": "800 mL − 300 mL = ?",
+          "options": {
+            "A": "400 mL",
+            "B": "500 mL",
+            "C": "600 mL",
+            "D": "450 mL"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "800 − 300 = 500"
+        },
+        {
+          "num": 7,
+          "content": "Which is the LEAST: 250 mL, 520 mL, or 150 mL?",
+          "options": {
+            "A": "250 mL",
+            "B": "520 mL",
+            "C": "150 mL",
+            "D": "All same"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "150 is the smallest of 250, 520, and 150"
+        },
+        {
+          "num": 8,
+          "content": "Which is the MOST: 900 mL, 2 L, or 90 mL?",
+          "options": {
+            "A": "900 mL",
+            "B": "2 L",
+            "C": "90 mL",
+            "D": "All same"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "2 L = 2000 mL, which is much more than 900 mL or 90 mL"
+        },
+        {
+          "num": 9,
+          "content": "3 L = how many mL?",
+          "options": {
+            "A": "30 mL",
+            "B": "300 mL",
+            "C": "3000 mL",
+            "D": "30000 mL"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "3 × 1000 = 3000"
+        },
+        {
+          "num": 10,
+          "content": "2000 mL = how many L?",
+          "options": {
+            "A": "2 L",
+            "B": "20 L",
+            "C": "200 L",
+            "D": "0.2 L"
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "2000 ÷ 1000 = 2"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "350 mL + 250 mL = ?",
+          "options": {
+            "A": "500 mL",
+            "B": "550 mL",
+            "C": "600 mL",
+            "D": "650 mL"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "350 + 250 = 600"
+        },
+        {
+          "num": 12,
+          "content": "900 mL − 375 mL = ?",
+          "options": {
+            "A": "515 mL",
+            "B": "525 mL",
+            "C": "535 mL",
+            "D": "475 mL"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "900 − 375 = 525"
+        },
+        {
+          "num": 13,
+          "content": "A bottle holds 1 L 200 mL. How many millilitres is that in total?",
+          "options": {
+            "A": "1020 mL",
+            "B": "1200 mL",
+            "C": "200 mL",
+            "D": "2000 mL"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "1 L (1000 mL) + 200 mL = 1200 mL"
+        },
+        {
+          "num": 14,
+          "content": "A jug holds 2500 mL. How many litres and millilitres is that?",
+          "options": {
+            "A": "2 L 5 mL",
+            "B": "2 L 50 mL",
+            "C": "2 L 500 mL",
+            "D": "25 L"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "2500 mL = 2000 mL (2 L) + 500 mL"
+        },
+        {
+          "num": 15,
+          "content": "A can of juice holds 250 mL and a can of soda holds 180 mL. How much more does the juice can hold?",
+          "options": {
+            "A": "60 mL",
+            "B": "70 mL",
+            "C": "80 mL",
+            "D": "430 mL"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "250 − 180 = 70"
+        },
+        {
+          "num": 16,
+          "content": "A bottle holds 3 L. Another holds 2800 mL. Which bottle holds more?",
+          "options": {
+            "A": "3 L bottle",
+            "B": "2800 mL bottle",
+            "C": "Both equal",
+            "D": "Cannot tell"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "3 L = 3000 mL, which is more than 2800 mL"
+        },
+        {
+          "num": 17,
+          "content": "A tank holds 5 L of water. How many millilitres is that?",
+          "options": {
+            "A": "50 mL",
+            "B": "500 mL",
+            "C": "5000 mL",
+            "D": "50000 mL"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "5 × 1000 = 5000"
+        },
+        {
+          "num": 18,
+          "content": "Two bottles hold 620 mL and 480 mL. What is their total capacity?",
+          "options": {
+            "A": "1000 mL",
+            "B": "1100 mL",
+            "C": "1200 mL",
+            "D": "1090 mL"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "620 + 480 = 1100"
+        },
+        {
+          "num": 19,
+          "content": "A tank has 4 L of water. 1 L 500 mL is used for watering plants. How much water is left?",
+          "options": {
+            "A": "2 L 500 mL",
+            "B": "2 L",
+            "C": "3 L 500 mL",
+            "D": "3 L"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "4 L = 4000 mL; 1 L 500 mL = 1500 mL; 4000 − 1500 = 2500 mL = 2 L 500 mL"
+        },
+        {
+          "num": 20,
+          "content": "Which of these is the same amount as 1 L 50 mL?",
+          "options": {
+            "A": "150 mL",
+            "B": "1050 mL",
+            "C": "1500 mL",
+            "D": "1005 mL"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "1 L 50 mL = 1000 mL + 50 mL = 1050 mL"
+        },
+        {
+          "num": 21,
+          "content": "Order from LEAST to MOST: 2 L, 1500 mL, 800 mL",
+          "options": {
+            "A": "800 mL, 1500 mL, 2 L",
+            "B": "2 L, 1500 mL, 800 mL",
+            "C": "1500 mL, 800 mL, 2 L",
+            "D": "800 mL, 2 L, 1500 mL"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "In mL: 800, 1500, 2000 — least to most"
+        },
+        {
+          "num": 22,
+          "content": "A bucket holds 1800 mL. How much more is that than 1 L?",
+          "options": {
+            "A": "600 mL",
+            "B": "700 mL",
+            "C": "800 mL",
+            "D": "900 mL"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "1800 mL − 1000 mL (1 L) = 800 mL"
+        },
+        {
+          "num": 23,
+          "content": "Two glasses hold 650 mL and 350 mL. If poured together, how much will there be, in L and mL?",
+          "options": {
+            "A": "1 L",
+            "B": "900 mL",
+            "C": "1 L 100 mL",
+            "D": "900 L"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "650 + 350 = 1000 mL = 1 L"
+        },
+        {
+          "num": 24,
+          "content": "A water tanker holds 4000 L. How many millilitres is that?",
+          "options": {
+            "A": "4000 mL",
+            "B": "40000 mL",
+            "C": "400000 mL",
+            "D": "4000000 mL"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "4000 × 1000 = 4,000,000"
+        },
+        {
+          "num": 25,
+          "content": "Meena's bottle holds 2200 mL and Sonu's bottle holds 2 L 500 mL. Whose bottle holds more?",
+          "options": {
+            "A": "Meena's",
+            "B": "Sonu's",
+            "C": "Both same",
+            "D": "Cannot tell"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "Sonu's bottle = 2 L 500 mL = 2500 mL, more than Meena's 2200 mL"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 26,
+          "content": "A jug holds 2 L 500 mL. A pot holds 2100 mL. How much more does the jug hold than the pot?",
+          "options": {
+            "A": "300 mL",
+            "B": "400 mL",
+            "C": "500 mL",
+            "D": "600 mL"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Jug = 2 L 500 mL = 2500 mL; 2500 − 2100 = 400"
+        },
+        {
+          "num": 27,
+          "content": "Three cups hold 150 mL, 250 mL, and 1 L. What is their TOTAL capacity in millilitres?",
+          "options": {
+            "A": "1300 mL",
+            "B": "1350 mL",
+            "C": "1400 mL",
+            "D": "1450 mL"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "150 + 250 + 1000 (1 L) = 1400"
+        },
+        {
+          "num": 28,
+          "content": "A bottle of juice is poured equally into 5 glasses, each holding 40 mL. How much juice was in the bottle?",
+          "options": {
+            "A": "150 mL",
+            "B": "180 mL",
+            "C": "200 mL",
+            "D": "220 mL"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "40 × 5 = 200"
+        },
+        {
+          "num": 29,
+          "content": "A tank has 3000 mL of water. Ravi adds a 2 L bottle of water to it. What is the new total in millilitres?",
+          "options": {
+            "A": "3200 mL",
+            "B": "5000 mL",
+            "C": "3002 mL",
+            "D": "3020 mL"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "3000 mL + 2000 mL (2 L) = 5000 mL"
+        },
+        {
+          "num": 30,
+          "content": "Sam's water bottle holds 1250 mL. His friend's bottle holds 350 mL more. How much does his friend's bottle hold, in L and mL?",
+          "options": {
+            "A": "1 L 500 mL",
+            "B": "1 L 600 mL",
+            "C": "1 L 650 mL",
+            "D": "1 L 700 mL"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "1250 + 350 = 1600 mL = 1 L 600 mL"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

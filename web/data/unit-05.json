@@ -1,0 +1,425 @@
+{
+  "id": "05",
+  "slug": "unit-05-analogy",
+  "num": 5,
+  "title": "Analogy",
+  "emoji": "🔗",
+  "parentNote": "Read the first pair together and ask \"How are these two connected?\" out loud before looking at the options — naming the connection is the whole trick.",
+  "learnBullets": [
+    "Finding the **connection** (relationship) between a pair of things",
+    "Applying the **same connection** to a new pair",
+    "Common analogy types: baby-parent, part-whole, use/tool, category, opposite, number relation"
+  ],
+  "learnItFirst": "**The Big Idea:** Analogy questions give you a matched PAIR, then ask you to complete a SECOND pair using the SAME connection.\n\n```\n🐄 is to 🐮  as  🐕 is to  ___\n(Cow)  (Calf)     (Dog)\n```\nConnection: **animal → its baby**. A dog's baby is a puppy, so the answer is 🐕‍🦺 (puppy)!\n\n**Common connections to look for:**\n| Connection type | Example |\n|---|---|\n| Animal → baby | Cow → Calf, Dog → Puppy |\n| Part → whole | Wheel → Car, Page → Book |\n| Tool → user | Pen → Writer, Needle → Tailor |\n| Object → group | Apple → Fruit, Car → Vehicle |\n| Opposite | Hot → Cold, Big → Small |\n| Number pattern | 2 → 4 (double), 5 → 10 (double) |\n\n### 🧠 How to Solve — 3 Easy Steps\n1. **Name** the connection between the first pair in a full sentence: \"A ___ is the baby of a ___.\"\n2. **Use that exact sentence** with the new first word.\n3. **Pick** the option that completes the sentence correctly.\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "🐄 is to 🐮 (calf) as 🐕 is to ___",
+          "options": {
+            "A": "🐈 Kitten",
+            "B": "🐕‍🦺 Puppy",
+            "C": "🐣 Chick",
+            "D": "🐖 Piglet"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A dog's baby is called a puppy"
+        },
+        {
+          "num": 2,
+          "content": "🐱 is to 🐈 (kitten) as 🐔 is to ___",
+          "options": {
+            "A": "🐣 Chick",
+            "B": "🐕‍🦺 Puppy",
+            "C": "🐮 Calf",
+            "D": "🐑 Lamb"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A hen's baby is called a chick"
+        },
+        {
+          "num": 3,
+          "content": "Hot is to Cold as Big is to ___",
+          "options": {
+            "A": "Large",
+            "B": "Small",
+            "C": "Tall",
+            "D": "Round"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Big and Small are opposites, just like Hot and Cold"
+        },
+        {
+          "num": 4,
+          "content": "Day is to Sun as Night is to ___",
+          "options": {
+            "A": "🌙 Moon",
+            "B": "☁️ Cloud",
+            "C": "🌈 Rainbow",
+            "D": "⛅ Cloud"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "The Sun is seen in the day; the Moon is seen at night"
+        },
+        {
+          "num": 5,
+          "content": "Up is to Down as Left is to ___",
+          "options": {
+            "A": "Right",
+            "B": "Front",
+            "C": "Near",
+            "D": "Straight"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Up-Down and Left-Right are opposite direction pairs"
+        },
+        {
+          "num": 6,
+          "content": "🐟 is to Water as 🐦 is to ___",
+          "options": {
+            "A": "🌊 Sea",
+            "B": "🌳 Air/Sky",
+            "C": "🏔️ Mountain",
+            "D": "🕳️ Hole"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A fish lives in water; a bird lives/flies in the air"
+        },
+        {
+          "num": 7,
+          "content": "Pen is to Writing as Knife is to ___",
+          "options": {
+            "A": "Reading",
+            "B": "Cutting",
+            "C": "Singing",
+            "D": "Sleeping"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A pen is used for writing; a knife is used for cutting"
+        },
+        {
+          "num": 8,
+          "content": "2 is to 4 as 3 is to ___  *(hint: double the number)*",
+          "options": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "8"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "The rule is \"double the number\": 2→4, so 3→6"
+        },
+        {
+          "num": 9,
+          "content": "Book is to Reading as Bed is to ___",
+          "options": {
+            "A": "Eating",
+            "B": "Sleeping",
+            "C": "Running",
+            "D": "Writing"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A book is used for reading; a bed is used for sleeping"
+        },
+        {
+          "num": 10,
+          "content": "Apple is to Fruit as Carrot is to ___",
+          "options": {
+            "A": "Vegetable",
+            "B": "Animal",
+            "C": "Flower",
+            "D": "Bird"
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "An apple belongs to the fruit group; a carrot belongs to the vegetable group"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "Wheel is to Car as Page is to ___",
+          "options": {
+            "A": "Pen",
+            "B": "Book",
+            "C": "Bag",
+            "D": "Table"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A wheel is a part of a car; a page is a part of a book"
+        },
+        {
+          "num": 12,
+          "content": "Finger is to Hand as Toe is to ___",
+          "options": {
+            "A": "Leg",
+            "B": "Foot",
+            "C": "Arm",
+            "D": "Head"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Fingers are on the hand; toes are on the foot"
+        },
+        {
+          "num": 13,
+          "content": "Teacher is to School as Doctor is to ___",
+          "options": {
+            "A": "Hospital",
+            "B": "Kitchen",
+            "C": "Garden",
+            "D": "Playground"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A teacher works at a school; a doctor works at a hospital"
+        },
+        {
+          "num": 14,
+          "content": "5 is to 10 as 6 is to ___  *(hint: double the number)*",
+          "options": {
+            "A": "11",
+            "B": "12",
+            "C": "16",
+            "D": "60"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "The rule is \"double the number\": 5→10, so 6→12"
+        },
+        {
+          "num": 15,
+          "content": "Cow is to Milk as Hen is to ___",
+          "options": {
+            "A": "Wool",
+            "B": "Egg",
+            "C": "Honey",
+            "D": "Meat"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A cow gives milk; a hen gives eggs"
+        },
+        {
+          "num": 16,
+          "content": "Bee is to Honey as Spider is to ___",
+          "options": {
+            "A": "Web",
+            "B": "Milk",
+            "C": "Wool",
+            "D": "Wood"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A bee makes honey; a spider makes a web"
+        },
+        {
+          "num": 17,
+          "content": "Umbrella is to Rain as Sweater is to ___",
+          "options": {
+            "A": "Sun",
+            "B": "Cold",
+            "C": "Rain",
+            "D": "Wind"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "An umbrella protects from rain; a sweater protects from cold"
+        },
+        {
+          "num": 18,
+          "content": "Eye is to Seeing as Ear is to ___",
+          "options": {
+            "A": "Smelling",
+            "B": "Hearing",
+            "C": "Tasting",
+            "D": "Touching"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Eyes are used for seeing; ears are used for hearing"
+        },
+        {
+          "num": 19,
+          "content": "Tailor is to Needle as Carpenter is to ___",
+          "options": {
+            "A": "Hammer",
+            "B": "Pen",
+            "C": "Spoon",
+            "D": "Book"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A tailor uses a needle; a carpenter uses a hammer"
+        },
+        {
+          "num": 20,
+          "content": "10 is to 5 as 20 is to ___",
+          "options": {
+            "A": "5",
+            "B": "10",
+            "C": "15",
+            "D": "25   *(hint: divide by 2)*"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "The rule is \"divide by 2\": 10→5, so 20→10"
+        },
+        {
+          "num": 21,
+          "content": "Fish is to Fin as Bird is to ___",
+          "options": {
+            "A": "Wing",
+            "B": "Tail",
+            "C": "Leg",
+            "D": "Beak"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A fish uses fins to swim; a bird uses wings to fly"
+        },
+        {
+          "num": 22,
+          "content": "Chef is to Kitchen as Farmer is to ___",
+          "options": {
+            "A": "Office",
+            "B": "Field",
+            "C": "Classroom",
+            "D": "Hospital"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A chef works in a kitchen; a farmer works in a field"
+        },
+        {
+          "num": 23,
+          "content": "Square is to 4 sides as Triangle is to ___",
+          "options": {
+            "A": "2 sides",
+            "B": "3 sides",
+            "C": "5 sides",
+            "D": "6 sides"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A square has 4 sides; a triangle has 3 sides"
+        },
+        {
+          "num": 24,
+          "content": "Petrol is to Car as Food is to ___",
+          "options": {
+            "A": "Tree",
+            "B": "Human",
+            "C": "Stone",
+            "D": "Water"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Petrol gives energy to a car; food gives energy to a human"
+        },
+        {
+          "num": 25,
+          "content": "1 is to 3 as 2 is to ___  *(hint: multiply by 3)*",
+          "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "8"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "The rule is \"multiply by 3\": 1→3, so 2→6"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 26,
+          "content": "Caterpillar is to Butterfly as Tadpole is to ___",
+          "options": {
+            "A": "Fish",
+            "B": "Frog",
+            "C": "Snake",
+            "D": "Turtle"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A caterpillar grows into a butterfly; a tadpole grows into a frog"
+        },
+        {
+          "num": 27,
+          "content": "Thermometer is to Temperature as Weighing Scale is to ___",
+          "options": {
+            "A": "Length",
+            "B": "Weight",
+            "C": "Time",
+            "D": "Colour"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A thermometer measures temperature; a weighing scale measures weight"
+        },
+        {
+          "num": 28,
+          "content": "3 is to 9 as 4 is to ___  *(hint: multiply the number by itself!)*",
+          "options": {
+            "A": "12",
+            "B": "16",
+            "C": "8",
+            "D": "20"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "The rule is \"multiply the number by itself\": 3×3=9, so 4×4=16"
+        },
+        {
+          "num": 29,
+          "content": "Triangle is to 3 corners as Pentagon is to ___",
+          "options": {
+            "A": "4 corners",
+            "B": "5 corners",
+            "C": "6 corners",
+            "D": "3 corners"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A triangle has 3 corners; a pentagon has 5 corners"
+        },
+        {
+          "num": 30,
+          "content": "Morning is to Breakfast as Night is to ___",
+          "options": {
+            "A": "Lunch",
+            "B": "Dinner",
+            "C": "Snacks",
+            "D": "Breakfast"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "Breakfast is eaten in the morning; dinner is eaten at night"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

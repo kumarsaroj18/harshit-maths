@@ -1,0 +1,426 @@
+{
+  "id": "03",
+  "slug": "unit-03-measuring-units",
+  "num": 3,
+  "title": "Measuring Units",
+  "emoji": "📏",
+  "parentNote": "Let him point to real things at home (a spoon, a bucket, a table) while answering — measurement clicks best when it's hands-on.",
+  "learnBullets": [
+    "Which **tool** measures what (length, weight, capacity, time, temperature)",
+    "Comparing objects: **longer/shorter, heavier/lighter, more/less**",
+    "The right **unit** to use for small vs. big things (cm vs. m, g vs. kg)",
+    "Simple measuring word problems"
+  ],
+  "learnItFirst": "| We want to measure... | We use... | Units |\n|---|---|---|\n| **Length** (how long/tall) | 📏 Ruler / measuring tape | centimetres (cm), metres (m) |\n| **Weight** (how heavy) | ⚖️ Weighing scale | grams (g), kilograms (kg) |\n| **Capacity** (how much liquid) | 🥤 Measuring cup/jug | millilitres (mL), litres (L) |\n| **Time** | 🕐 Clock | minutes, hours |\n| **Temperature** (how hot/cold) | 🌡️ Thermometer | degrees |\n\n**Small thing → small unit.** A button is weighed in **grams**; an elephant is weighed in **kilograms**. A pencil is measured in **centimetres**; a playground is measured in **metres**.\n\n### 🧠 How to Solve — 3 Easy Steps\n1. **Decide** — am I measuring length, weight, capacity, time, or temperature?\n2. **Pick** the correct tool or unit for the SIZE of the thing.\n3. **Compare** carefully — check which side of the balance goes down (that side is heavier!).\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "Which tool measures length?",
+          "options": {
+            "A": "📏 Ruler",
+            "B": "⚖️ Weighing scale",
+            "C": "🌡️ Thermometer",
+            "D": "🕐 Clock"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A ruler/measuring tape is used for length"
+        },
+        {
+          "num": 2,
+          "content": "Which tool measures weight?",
+          "options": {
+            "A": "📏 Ruler",
+            "B": "⚖️ Weighing scale",
+            "C": "🌡️ Thermometer",
+            "D": "🕐 Clock"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A weighing scale is used for weight"
+        },
+        {
+          "num": 3,
+          "content": "Which tool measures temperature?",
+          "options": {
+            "A": "📏 Ruler",
+            "B": "⚖️ Weighing scale",
+            "C": "🌡️ Thermometer",
+            "D": "🕐 Clock"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A thermometer measures how hot or cold something is"
+        },
+        {
+          "num": 4,
+          "content": "Which tool tells us the time?",
+          "options": {
+            "A": "📏 Ruler",
+            "B": "⚖️ Weighing scale",
+            "C": "🌡️ Thermometer",
+            "D": "🕐 Clock"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "A clock tells us the time"
+        },
+        {
+          "num": 5,
+          "content": "Which tool measures how much water a jug can hold?",
+          "options": {
+            "A": "🥤 Measuring cup",
+            "B": "📏 Ruler",
+            "C": "🕐 Clock",
+            "D": "🌡️ Thermometer"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A measuring cup/jug is used for capacity (liquids)"
+        },
+        {
+          "num": 6,
+          "content": "Which is longer — a pencil ✏️ or a school bus 🚌?",
+          "options": {
+            "A": "Pencil",
+            "B": "School bus",
+            "C": "Both same",
+            "D": "Cannot tell"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A bus is much bigger and longer than a pencil"
+        },
+        {
+          "num": 7,
+          "content": "Which is heavier — an elephant 🐘 or a ball ⚽?",
+          "options": {
+            "A": "Elephant",
+            "B": "Ball",
+            "C": "Both same",
+            "D": "Cannot tell"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "An elephant is much heavier than a small ball"
+        },
+        {
+          "num": 8,
+          "content": "Which holds more water — a bucket 🪣 or a spoon 🥄?",
+          "options": {
+            "A": "Bucket",
+            "B": "Spoon",
+            "C": "Both same",
+            "D": "Cannot tell"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A bucket is bigger, so it holds more water than a spoon"
+        },
+        {
+          "num": 9,
+          "content": "Which is taller — a tree 🌳 or a flower 🌸?",
+          "options": {
+            "A": "Tree",
+            "B": "Flower",
+            "C": "Both same",
+            "D": "Cannot tell"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A tree grows much taller than a flower"
+        },
+        {
+          "num": 10,
+          "content": "Which takes more time — sleeping a whole night 🌙 or blinking your eye 👁️?",
+          "options": {
+            "A": "Sleeping a whole night",
+            "B": "Blinking your eye",
+            "C": "Both same",
+            "D": "Cannot tell"
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "A whole night is many hours; a blink is less than a second"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "Which unit do we use to measure the length of a pencil?",
+          "options": {
+            "A": "kilometres",
+            "B": "centimetres",
+            "C": "kilograms",
+            "D": "litres"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Small objects like a pencil are measured in centimetres"
+        },
+        {
+          "num": 12,
+          "content": "Which unit do we use to measure your own weight?",
+          "options": {
+            "A": "centimetres",
+            "B": "kilograms",
+            "C": "litres",
+            "D": "minutes"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A person's weight is measured in kilograms"
+        },
+        {
+          "num": 13,
+          "content": "Which unit do we use to measure how much milk is in a bottle?",
+          "options": {
+            "A": "metres",
+            "B": "kilograms",
+            "C": "litres",
+            "D": "degrees"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Liquids like milk are measured in litres"
+        },
+        {
+          "num": 14,
+          "content": "Which unit do we use to measure the length of a football ground?",
+          "options": {
+            "A": "centimetres",
+            "B": "metres",
+            "C": "grams",
+            "D": "litres"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Long distances like a ground are measured in metres"
+        },
+        {
+          "num": 15,
+          "content": "Which is the shortest — a pencil (15 cm), an eraser (4 cm), or a ruler (30 cm)?",
+          "options": {
+            "A": "Pencil",
+            "B": "Eraser",
+            "C": "Ruler",
+            "D": "All the same"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "4 cm is smaller than both 15 cm (pencil) and 30 cm (ruler)"
+        },
+        {
+          "num": 16,
+          "content": "On a see-saw balance, the side with 🐘 goes DOWN and the side with 🐭 goes UP. Which is heavier?",
+          "options": {
+            "A": "🐘",
+            "B": "🐭",
+            "C": "Both same",
+            "D": "Cannot tell"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "The side that goes DOWN on a balance is the heavier side"
+        },
+        {
+          "num": 17,
+          "content": "On a balance, 🍎 goes DOWN and 🍇 goes UP. Which is heavier?",
+          "options": {
+            "A": "🍎",
+            "B": "🍇",
+            "C": "Both same",
+            "D": "Cannot tell"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "The side that goes DOWN is heavier — 🍎 went down"
+        },
+        {
+          "num": 18,
+          "content": "A table is 6 hand-spans long. Each book is 2 hand-spans long. How many books fit side by side to equal the table's length?",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "6"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "6 hand-spans ÷ 2 hand-spans per book = 3 books"
+        },
+        {
+          "num": 19,
+          "content": "A rope is measured as 5 pencil-lengths. Each pencil is about 10 cm long. About how long is the rope?",
+          "options": {
+            "A": "15 cm",
+            "B": "25 cm",
+            "C": "50 cm",
+            "D": "100 cm"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "5 pencils × 10 cm each = 50 cm"
+        },
+        {
+          "num": 20,
+          "content": "Which holds more water — a bathtub 🛁 or a teacup ☕?",
+          "options": {
+            "A": "Bathtub",
+            "B": "Teacup",
+            "C": "Both same",
+            "D": "Cannot tell"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A bathtub is much bigger than a teacup"
+        },
+        {
+          "num": 21,
+          "content": "Which is the better unit to weigh an elephant?",
+          "options": {
+            "A": "Grams",
+            "B": "Kilograms",
+            "C": "Litres",
+            "D": "Metres"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Heavy things like an elephant are weighed in kilograms"
+        },
+        {
+          "num": 22,
+          "content": "Which is the better unit to weigh a small button?",
+          "options": {
+            "A": "Grams",
+            "B": "Kilograms",
+            "C": "Litres",
+            "D": "Metres"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Light things like a button are weighed in grams"
+        },
+        {
+          "num": 23,
+          "content": "🐘 is the heaviest, 🐶 is medium, and 🐭 is the lightest. Which order is correct from LIGHTEST to HEAVIEST?",
+          "options": {
+            "A": "🐘, 🐶, 🐭",
+            "B": "🐭, 🐶, 🐘",
+            "C": "🐶, 🐘, 🐭",
+            "D": "🐭, 🐘, 🐶"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Lightest to heaviest: mouse, dog, elephant"
+        },
+        {
+          "num": 24,
+          "content": "A glass 🥛 holds less than a jug 🫙, and a jug holds less than a bucket 🪣. Which holds the MOST?",
+          "options": {
+            "A": "Glass",
+            "B": "Jug",
+            "C": "Bucket",
+            "D": "All the same"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Bucket > jug > glass, so the bucket holds the most"
+        },
+        {
+          "num": 25,
+          "content": "Which takes MORE time — eating a full meal 🍽️ or taking one sip of water 🥤?",
+          "options": {
+            "A": "Eating a full meal",
+            "B": "Taking one sip of water",
+            "C": "Both same",
+            "D": "Cannot tell"
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "A full meal takes many minutes; a sip takes a second"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 26,
+          "content": "A rope is 3 times as long as a ruler. The ruler is 30 cm long. How long is the rope?",
+          "options": {
+            "A": "60 cm",
+            "B": "90 cm",
+            "C": "33 cm",
+            "D": "100 cm"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "3 × 30 cm = 90 cm"
+        },
+        {
+          "num": 27,
+          "content": "Riya's table is 4 of her hand-spans long. Her friend measures the SAME table and gets only 3 of his hand-spans. Whose hand-span is bigger?",
+          "options": {
+            "A": "Riya's",
+            "B": "Her friend's",
+            "C": "Both the same size",
+            "D": "Cannot tell"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Fewer, bigger spans were needed to cover the same table"
+        },
+        {
+          "num": 28,
+          "content": "A bucket needs 8 mugs of water to fill it completely. A smaller tub needs only 4 mugs. How many times bigger is the bucket than the tub?",
+          "options": {
+            "A": "2 times",
+            "B": "4 times",
+            "C": "8 times",
+            "D": "12 times"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "8 mugs ÷ 4 mugs = 2 times bigger"
+        },
+        {
+          "num": 29,
+          "content": "On a balance, 🍉 (one watermelon) exactly balances 4 🍎 (apples). If one apple weighs 100 g, how much does the watermelon weigh?",
+          "options": {
+            "A": "100 g",
+            "B": "200 g",
+            "C": "400 g",
+            "D": "500 g"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "4 apples × 100 g each = 400 g"
+        },
+        {
+          "num": 30,
+          "content": "A classroom is measured as 10 metres long with a big tape, and also as 1000 cm long using a small ruler moved again and again. Are both measurements the same length?",
+          "options": {
+            "A": "Yes, because 1000 cm = 10 m",
+            "B": "No, metres are always bigger",
+            "C": "No, different tools give different answers",
+            "D": "Cannot tell"
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "1 metre = 100 cm, so 10 m = 1000 cm — same length, different units"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

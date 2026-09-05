@@ -1,0 +1,427 @@
+{
+  "id": "01",
+  "slug": "unit-01-patterns",
+  "num": 1,
+  "title": "Patterns",
+  "emoji": "🧩",
+  "parentNote": "Do Section A together first (5–10 min). If he gets those right on his own, let him try Section B independently. Section C is for extra challenge — skip it on a tired day!",
+  "learnBullets": [
+    "Spotting what **repeats** in a row of colours, shapes, or numbers",
+    "Finding the **missing piece** — at the end OR in the middle",
+    "Patterns that **grow** (more and more) or **shrink** (less and less)",
+    "Patterns that **turn/rotate**",
+    "Patterns hiding inside a **grid** (like a mini sudoku!)"
+  ],
+  "learnItFirst": "**1. Repeating patterns** — a small group of things repeats again and again.\n\n```\n🔴🔵🔴🔵🔴🔵 ...   ← \"Red, Blue\" repeats forever (this is an AB pattern)\n🔴🔵🟡🔴🔵🟡 ...   ← \"Red, Blue, Yellow\" repeats (this is an ABC pattern)\n🟢🔴🔴🟢🔴🔴 ...   ← \"Green, Red, Red\" repeats (this is an ABB pattern)\n```\n\n**2. Growing patterns** — the pattern adds one more thing each time.\n\n```\n●   ●●   ●●●   ●●●●   ...   ← one more circle every time!\n```\n\n**3. Rotating patterns** — a shape or arrow turns a little bit each time.\n\n```\n➡️  ⬇️  ⬅️  ⬆️  ➡️  ⬇️  ...   ← the arrow keeps turning the same way\n```\n\n**4. Grid patterns** — every row and every column uses the same shapes, just in a different order (like a puzzle!).\n\n```\n▲ ● ■\n● ■ ▲\n■ ▲ ●\n```\n\n### 🧠 How to Solve a Pattern Question — 3 Easy Steps\n\n1. **Look** — what small group of things keeps repeating?\n2. **Count** — how many items are in that group before it starts again?\n3. **Place** — figure out where the blank falls in that repeating group.\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "🔴🔵🔴🔵🔴🔵🔴 ___",
+          "options": {
+            "A": "🔴",
+            "B": "🔵",
+            "C": "🟡",
+            "D": "🟢"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Pattern is Red, Blue repeating — after Red always comes Blue"
+        },
+        {
+          "num": 2,
+          "content": "▲●▲●▲●▲ ___",
+          "options": {
+            "A": "▲",
+            "B": "●",
+            "C": "■",
+            "D": "★"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "▲, ● repeats — after ▲ comes ●"
+        },
+        {
+          "num": 3,
+          "content": "🔴🔵🟡🔴🔵🟡🔴 ___",
+          "options": {
+            "A": "🔴",
+            "B": "🔵",
+            "C": "🟡",
+            "D": "🟢"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Red, Blue, Yellow repeats — after the 7th (Red) comes Blue"
+        },
+        {
+          "num": 4,
+          "content": "★●■★●■★ ___",
+          "options": {
+            "A": "★",
+            "B": "●",
+            "C": "■",
+            "D": "▲"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "★, ●, ■ repeats — after the 7th (★) comes ●"
+        },
+        {
+          "num": 5,
+          "content": "🔵🔵🔴🔵🔵🔴🔵 ___",
+          "options": {
+            "A": "🔴",
+            "B": "🔵",
+            "C": "🟡",
+            "D": "🟢"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Blue, Blue, Red repeats — after the 7th (Blue) comes Blue again"
+        },
+        {
+          "num": 6,
+          "content": "🟢🔴🔴🟢🔴🔴🟢 ___",
+          "options": {
+            "A": "🟢",
+            "B": "🔴",
+            "C": "🔵",
+            "D": "🟡"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Green, Red, Red repeats — after the 7th (Green) comes Red"
+        },
+        {
+          "num": 7,
+          "content": "○⚫⬤○⚫⬤○ ___  *(small, medium, big — repeating)*",
+          "options": {
+            "A": "○",
+            "B": "⚫",
+            "C": "⬤",
+            "D": "■"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Small, Medium, Big repeats — after small (7th) comes Medium"
+        },
+        {
+          "num": 8,
+          "content": "2, 4, 6, 8, ___",
+          "options": {
+            "A": "9",
+            "B": "10",
+            "C": "11",
+            "D": "12"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Add 2 each time: 8 + 2 = 10"
+        },
+        {
+          "num": 9,
+          "content": "5, 10, 15, 20, ___",
+          "options": {
+            "A": "22",
+            "B": "24",
+            "C": "25",
+            "D": "30"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Add 5 each time: 20 + 5 = 25"
+        },
+        {
+          "num": 10,
+          "content": "3, 6, 9, 12, ___",
+          "options": {
+            "A": "13",
+            "B": "14",
+            "C": "15",
+            "D": "16"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "Add 3 each time: 12 + 3 = 15"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "▲●▲● ___ ●▲●   *(find the missing middle piece)*",
+          "options": {
+            "A": "▲",
+            "B": "●",
+            "C": "■",
+            "D": "★"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "▲, ● repeats — the 5th spot lines up with ▲"
+        },
+        {
+          "num": 12,
+          "content": "🔴🔵🟡🔴 ___ 🟡🔴🔵",
+          "options": {
+            "A": "🔴",
+            "B": "🔵",
+            "C": "🟡",
+            "D": "🟢"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Red, Blue, Yellow repeats — the 5th spot lines up with Blue"
+        },
+        {
+          "num": 13,
+          "content": "➡️⬇️⬅️⬆️➡️⬇️⬅️ ___",
+          "options": {
+            "A": "➡️",
+            "B": "⬇️",
+            "C": "⬅️",
+            "D": "⬆️"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Arrow turns Right→Down→Left→Up on repeat — the 8th spot lines up with Up"
+        },
+        {
+          "num": 14,
+          "content": "➡️⬇️⬅️ ___ ➡️⬇️⬅️⬆️",
+          "options": {
+            "A": "➡️",
+            "B": "⬇️",
+            "C": "⬅️",
+            "D": "⬆️"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Same turning pattern — the 4th spot lines up with Up, matching the 8th spot"
+        },
+        {
+          "num": 15,
+          "content": "🔺🔷🔺🔷🔺 ___",
+          "options": {
+            "A": "🔺",
+            "B": "🔷",
+            "C": "🔶",
+            "D": "🔹"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "🔺, 🔷 repeats — after 🔺 (5th) comes 🔷"
+        },
+        {
+          "num": 16,
+          "content": "●  ●●  ●●●  ●●●●  ___",
+          "options": {
+            "A": "●●●",
+            "B": "●●●●",
+            "C": "●●●●●",
+            "D": "●●●●●●"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "One more circle added every time: 4 circles → 5 circles"
+        },
+        {
+          "num": 17,
+          "content": "■  ■■  ■■■  ___",
+          "options": {
+            "A": "■■",
+            "B": "■■■",
+            "C": "■■■■",
+            "D": "■■■■■"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "One more square added every time: 3 squares → 4 squares"
+        },
+        {
+          "num": 18,
+          "content": "10, 20, 30, 40, ___",
+          "options": {
+            "A": "45",
+            "B": "50",
+            "C": "55",
+            "D": "60"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Add 10 each time: 40 + 10 = 50"
+        },
+        {
+          "num": 19,
+          "content": "20, 18, 16, 14, ___",
+          "options": {
+            "A": "10",
+            "B": "11",
+            "C": "12",
+            "D": "13"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Subtract 2 each time: 14 − 2 = 12"
+        },
+        {
+          "num": 20,
+          "content": "Look at the grid. Each row and column has ▲ ● ■ exactly once. What goes in the `?` box?\n\n```\n▲ ● ■\n● ■ ▲\n■ ▲ ?\n```",
+          "options": {
+            "A": "▲",
+            "B": "●",
+            "C": "■",
+            "D": "★"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Row 3 already has ■ and ▲, so the missing one must be ●"
+        },
+        {
+          "num": 21,
+          "content": "🔻🔺🔻🔺🔻 ___",
+          "options": {
+            "A": "🔻",
+            "B": "🔺",
+            "C": "⬛",
+            "D": "⬜"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "🔻, 🔺 repeats — after 🔻 (5th) comes 🔺"
+        },
+        {
+          "num": 22,
+          "content": "One shape in this row breaks the Red-Blue pattern. Which position is wrong?\n🔴🔵🔴🔵🟡🔴🔵  *(1st, 2nd, 3rd, 4th, 5th, 6th, 7th)*",
+          "options": {
+            "A": "1st",
+            "B": "3rd",
+            "C": "5th",
+            "D": "7th"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Pattern should be Red, Blue, Red, Blue... but the 5th spot shows Yellow instead of Red"
+        },
+        {
+          "num": 23,
+          "content": "In this list, one number breaks the \"add 2 each time\" pattern. Which number is wrong?\n2, 4, 6, 9, 10, 12",
+          "options": {
+            "A": "4",
+            "B": "6",
+            "C": "9",
+            "D": "10"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Pattern should add 2 each time (2,4,6,8,10,12) — the 4th number should be 8, not 9"
+        },
+        {
+          "num": 24,
+          "content": "↖️↗️↘️↙️↖️↗️↘️ ___",
+          "options": {
+            "A": "↖️",
+            "B": "↗️",
+            "C": "↘️",
+            "D": "↙️"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Corner turns ↖→↗→↘→↙ on repeat — the 8th spot lines up with ↙️"
+        },
+        {
+          "num": 25,
+          "content": "Look at the grid. Each row and column has 1, 2, 3 exactly once. What goes in the `?` box?\n\n```\n1 2 3\n2 3 1\n3 1 ?\n```",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "Row 3 already has 3 and 1, so the missing number must be 2"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 26,
+          "content": "1, 3, 6, 10, ___   *(hint: the jump gets bigger each time — +2, +3, +4...)*",
+          "options": {
+            "A": "12",
+            "B": "14",
+            "C": "15",
+            "D": "16"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "The jump grows each time: +2, +3, +4, then +5 → 10 + 5 = 15"
+        },
+        {
+          "num": 27,
+          "content": "A, C, E, G, ___   *(hint: one letter is skipped each time)*",
+          "options": {
+            "A": "H",
+            "B": "I",
+            "C": "J",
+            "D": "K"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "One letter is skipped each time: A,(b),C,(d),E,(f),G,(h),I"
+        },
+        {
+          "num": 28,
+          "content": "20, 17, 14, 11, ___",
+          "options": {
+            "A": "7",
+            "B": "8",
+            "C": "9",
+            "D": "10"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Subtract 3 each time: 11 − 3 = 8"
+        },
+        {
+          "num": 29,
+          "content": "30, 26, 22, 18, ___",
+          "options": {
+            "A": "12",
+            "B": "14",
+            "C": "16",
+            "D": "10"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Subtract 4 each time: 18 − 4 = 14"
+        },
+        {
+          "num": 30,
+          "content": "Triangle (3 sides) → Square (4 sides) → Pentagon (5 sides) → ___",
+          "options": {
+            "A": "Hexagon (6 sides)",
+            "B": "Circle (0 sides)",
+            "C": "Triangle again",
+            "D": "Square again"
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "Number of sides grows by 1 each time: 3, 4, 5, then 6"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

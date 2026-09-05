@@ -1,0 +1,425 @@
+{
+  "id": "07",
+  "slug": "unit-07-grouping-of-figures",
+  "num": 7,
+  "title": "Grouping of Figures",
+  "emoji": "🗂️",
+  "parentNote": "This unit is like sorting toys into two baskets. Ask him to name the RULE for each basket before deciding where a new item goes.",
+  "learnBullets": [
+    "Sorting figures/numbers/animals into **two groups** based on a shared rule",
+    "Deciding which group a **new item** belongs to",
+    "Spotting when something belongs to **both** groups, or to **neither**"
+  ],
+  "learnItFirst": "**The Big Idea:** Look at the figures already sorted into Group 1 and Group 2, figure out the RULE for each group, then use that rule to sort a new figure.\n\n```\nGroup 1: ■  ▬  ⬛     (all have 4 sides)\nGroup 2: ▲  ◺          (all have 3 sides)\n\nNew shape: ◆ (a diamond — it has 4 sides)\n→ It goes into Group 1!\n```\n\n**Watch out for tricky ones:**\n- A new item might fit **both** groups (like the number 10, which is a multiple of both 5 and 10).\n- A new item might fit **neither** group (like a 3-digit number when the groups only have 1-digit and 2-digit numbers).\n\n### 🧠 How to Solve — 3 Easy Steps\n1. **Name** the rule for Group 1 out loud (\"all shapes with 4 sides\").\n2. **Name** the rule for Group 2 out loud (\"all shapes with 3 sides\").\n3. **Test** the new item against each rule before choosing.\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "Which of these belongs to the group of CURVED shapes?",
+          "options": {
+            "A": "▲",
+            "B": "■",
+            "C": "●",
+            "D": "★"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A circle is the only one with a curved (round) side"
+        },
+        {
+          "num": 2,
+          "content": "Which of these belongs to the group of STRAIGHT-SIDED shapes?",
+          "options": {
+            "A": "●",
+            "B": "⬤",
+            "C": "▲",
+            "D": "◯"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A triangle is made only of straight sides"
+        },
+        {
+          "num": 3,
+          "content": "Red group: 🔴🔴🔴. Blue group: 🔵🔵. Which group has MORE figures?",
+          "options": {
+            "A": "Red",
+            "B": "Blue",
+            "C": "Both equal",
+            "D": "Cannot tell"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Red has 3 figures; Blue has only 2"
+        },
+        {
+          "num": 4,
+          "content": "Which shape does NOT belong to the \"4 sides\" group: ■, ▬, ⬛, ▲?",
+          "options": {
+            "A": "■",
+            "B": "▬",
+            "C": "⬛",
+            "D": "▲"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "A triangle has 3 sides, not 4 like the rest"
+        },
+        {
+          "num": 5,
+          "content": "Which animal belongs to the SAME group as 🐦 (2 legs)?",
+          "options": {
+            "A": "🐄",
+            "B": "🐐",
+            "C": "🐔",
+            "D": "🐴"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A hen has 2 legs, just like a bird"
+        },
+        {
+          "num": 6,
+          "content": "Which animal belongs to the SAME group as 🐄 (4 legs)?",
+          "options": {
+            "A": "🐦",
+            "B": "🐐",
+            "C": "🐔",
+            "D": "🦆"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A goat has 4 legs, just like a cow"
+        },
+        {
+          "num": 7,
+          "content": "Small shapes: ▲ ●. Big shapes: ⬤ ■. Which shape belongs with ⬤ (big)?",
+          "options": {
+            "A": "Small ▲",
+            "B": "Small ●",
+            "C": "Big ■",
+            "D": "Tiny ★"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "The square is drawn big, matching the big-shapes group"
+        },
+        {
+          "num": 8,
+          "content": "Even numbers group: 2, 4. Which number belongs in this group?",
+          "options": {
+            "A": "3",
+            "B": "5",
+            "C": "6",
+            "D": "7"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "6 is an even number, like 2 and 4"
+        },
+        {
+          "num": 9,
+          "content": "Odd numbers group: 1, 3, 5. Which number belongs in this group?",
+          "options": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "7"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "7 is an odd number, like 1, 3, and 5"
+        },
+        {
+          "num": 10,
+          "content": "Filled (solid) shapes group: ⬛ ▲(filled). Which shape belongs in this group?",
+          "options": {
+            "A": "□ (outline)",
+            "B": "○ (outline)",
+            "C": "⬤ (filled)",
+            "D": "△ (outline)"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "It is filled/solid, matching the filled-shapes group"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "Group 1 (4 sides): ■ ▬ ⬛. Group 2 (3 sides): ▲. A diamond ◆ (4 sides) belongs to:",
+          "options": {
+            "A": "Group 1",
+            "B": "Group 2",
+            "C": "Neither",
+            "D": "Both"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A diamond has 4 sides, matching Group 1's rule"
+        },
+        {
+          "num": 12,
+          "content": "Group 1: colours 🔴🔵🟡. Group 2: outline shapes ▲■●. A new colour 🟢 belongs to:",
+          "options": {
+            "A": "Group 1",
+            "B": "Group 2",
+            "C": "Neither",
+            "D": "Both"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Green is a colour, matching Group 1's rule"
+        },
+        {
+          "num": 13,
+          "content": "Group 1 (can roll): ⚽ 🥫. Group 2 (cannot roll): 📦 🎲. A round orange 🍊 belongs to:",
+          "options": {
+            "A": "Group 1",
+            "B": "Group 2",
+            "C": "Neither",
+            "D": "Both"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "An orange is round and can roll, matching Group 1's rule"
+        },
+        {
+          "num": 14,
+          "content": "Group 1 (even numbers): 2, 4, 6, 8. Group 2 (odd numbers): 1, 3, 5, 7. The number 12 belongs to:",
+          "options": {
+            "A": "Group 1",
+            "B": "Group 2",
+            "C": "Neither",
+            "D": "Both"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "12 is an even number"
+        },
+        {
+          "num": 15,
+          "content": "Group 1 (2-legged animals): 🐦 🐔 🦆. Group 2 (4-legged animals): 🐄 🐐 🐎. A swan 🦢 (2 legs) belongs to:",
+          "options": {
+            "A": "Group 1",
+            "B": "Group 2",
+            "C": "Neither",
+            "D": "Both"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A swan has 2 legs, matching Group 1's rule"
+        },
+        {
+          "num": 16,
+          "content": "In this set: ▲ ▲ ▲ ■ — how many figures belong to the triangle group?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "There are three ▲ symbols in the set"
+        },
+        {
+          "num": 17,
+          "content": "In this set: ● ● ■ ■ ■ — how many figures belong to the square group?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "5"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "There are three ■ symbols in the set"
+        },
+        {
+          "num": 18,
+          "content": "Group 1 (only straight sides): ▲ ■ ▬. Group 2 (has a curve): ● ⬤. A crescent moon 🌙 belongs to:",
+          "options": {
+            "A": "Group 1",
+            "B": "Group 2",
+            "C": "Neither",
+            "D": "Both"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A crescent moon has a curved edge, matching Group 2's rule"
+        },
+        {
+          "num": 19,
+          "content": "Group A (multiples of 2): 2, 4, 6, 8. Group B (multiples of 4): 4, 8, 12. The number 8 belongs to:",
+          "options": {
+            "A": "Only Group A",
+            "B": "Only Group B",
+            "C": "Both A and B",
+            "D": "Neither"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "8 is a multiple of 2 AND a multiple of 4"
+        },
+        {
+          "num": 20,
+          "content": "Which shape does NOT belong to the group \"shapes with 4 corners\": ■, ▬, ⬛, ▲?",
+          "options": {
+            "A": "■",
+            "B": "▬",
+            "C": "⬛",
+            "D": "▲"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "A triangle has 3 corners, not 4 like the rest"
+        },
+        {
+          "num": 21,
+          "content": "Which number does NOT belong to the \"multiples of 3\" group: 3, 6, 9, 10?",
+          "options": {
+            "A": "3",
+            "B": "6",
+            "C": "9",
+            "D": "10"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "10 is not a multiple of 3 (3, 6, 9 are; 10 is not)"
+        },
+        {
+          "num": 22,
+          "content": "Group X (red fruits): 🍎 🍒 🍓. Group Y (yellow fruits): 🍌 🍋. A purple grape 🍇 belongs to:",
+          "options": {
+            "A": "Group X",
+            "B": "Group Y",
+            "C": "Neither",
+            "D": "Both"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A grape is purple, not red or yellow"
+        },
+        {
+          "num": 23,
+          "content": "Group 1 (even number of sides): ■ (4) and ⬡ (6). Group 2 (odd number of sides): ▲ (3) and ⬠ (5). A rectangle ▬ (4 sides) belongs to:",
+          "options": {
+            "A": "Group 1",
+            "B": "Group 2",
+            "C": "Neither",
+            "D": "Both"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A rectangle has 4 sides, which is an even number"
+        },
+        {
+          "num": 24,
+          "content": "Sort by number of legs: Table 🪑 (4), Chair 🪑 (4), Bird 🐦 (2), Human 🚶 (2). How many belong to the \"2 legs\" group?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Only the bird and the human have 2 legs"
+        },
+        {
+          "num": 25,
+          "content": "Group 1 (looks the same when flipped): ● ■. Group 2 (looks different when flipped): 👣 (footprint). Where does an equal-sided triangle ▲ belong?",
+          "options": {
+            "A": "Group 1",
+            "B": "Group 2",
+            "C": "Neither",
+            "D": "Both"
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "An equal-sided triangle looks the same after a flip"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 26,
+          "content": "Group 1 (2-digit numbers): 10, 25, 99. Group 2 (1-digit numbers): 1, 5, 9. The number 100 belongs to:",
+          "options": {
+            "A": "Group 1",
+            "B": "Group 2",
+            "C": "Neither — it's a 3-digit number",
+            "D": "Both"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "100 has 3 digits, so it fits neither the 1-digit nor 2-digit group"
+        },
+        {
+          "num": 27,
+          "content": "Group 1 (odd number of sides): ▲ (3), ⬠ (5). Group 2 (even number of sides): ■ (4), ⬡ (6). A stop-sign shape 🛑 (8 sides) belongs to:",
+          "options": {
+            "A": "Group 1",
+            "B": "Group 2",
+            "C": "Neither",
+            "D": "Both"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "8 is an even number of sides"
+        },
+        {
+          "num": 28,
+          "content": "Group A (lay eggs): 🐔 🐦 🐍. Group B (give birth to live babies): 🐄 🐕 🐘. A turtle 🐢 (lays eggs) belongs to:",
+          "options": {
+            "A": "Group A",
+            "B": "Group B",
+            "C": "Neither",
+            "D": "Both"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Turtles lay eggs, just like the animals in Group A"
+        },
+        {
+          "num": 29,
+          "content": "Group 1 (numbers 1–10): 3, 7. Group 2 (numbers 11–20): 13, 18. The number 25 belongs to:",
+          "options": {
+            "A": "Group 1",
+            "B": "Group 2",
+            "C": "Neither — it is bigger than both groups' ranges",
+            "D": "Both"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "25 is greater than 20, so it doesn't fit either range"
+        },
+        {
+          "num": 30,
+          "content": "Group 1 (straight sides + 4 corners): ■ ▬. Group 2 (straight sides + 3 corners): ▲. A pentagon ⬠ (5 corners) belongs to:",
+          "options": {
+            "A": "Group 1",
+            "B": "Group 2",
+            "C": "Neither of these two groups",
+            "D": "Both"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "A pentagon has 5 corners, which matches neither the 4-corner nor 3-corner group"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

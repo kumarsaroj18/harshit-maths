@@ -1,0 +1,7 @@
+.idea/
+.DS_Store
+__pycache__/
+*.pyc
+nof-maths-practise/*.jpg
+nof-maths-practise/*.jpeg
+nof-maths-practise/*.png
