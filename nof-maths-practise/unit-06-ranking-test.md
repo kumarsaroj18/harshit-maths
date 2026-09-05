@@ -33,6 +33,7 @@ Anu     (shortest)
 ```
 7 − 3 + 1 = 5th from the back
 ```
+*Why the "+1"?* The child gets counted once from the front AND once from the back — subtract 1 so we don't count that same child twice.
 
 ### 🧠 How to Solve — 3 Easy Steps
 1. **Write down** each clue as an order (who is above/below whom).

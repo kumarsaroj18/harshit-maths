@@ -10,7 +10,7 @@
     "Finding someone's **position** in a line (from the front, from the back, or from both!)",
     "The handy trick: **position from front + position from back − 1 = total in the line**"
   ],
-  "learnItFirst": "**The Big Idea:** You're given clues comparing people two at a time. Line them up in order to answer the question.\n\n```\nReema is taller than Simran.\nSimran is taller than Anu.\n```\nDraw it as a line, tallest on top:\n```\nReema   (tallest)\nSimran\nAnu     (shortest)\n```\n\n**Position trick:** If a child is 3rd from the front in a line of 7, their position from the back is:\n```\n7 − 3 + 1 = 5th from the back\n```\n\n### 🧠 How to Solve — 3 Easy Steps\n1. **Write down** each clue as an order (who is above/below whom).\n2. **Combine** all the clues into ONE single line, top to bottom.\n3. **Read off** the answer from your line.\n\n---",
+  "learnItFirst": "**The Big Idea:** You're given clues comparing people two at a time. Line them up in order to answer the question.\n\n```\nReema is taller than Simran.\nSimran is taller than Anu.\n```\nDraw it as a line, tallest on top:\n```\nReema   (tallest)\nSimran\nAnu     (shortest)\n```\n\n**Position trick:** If a child is 3rd from the front in a line of 7, their position from the back is:\n```\n7 − 3 + 1 = 5th from the back\n```\n*Why the \"+1\"?* The child gets counted once from the front AND once from the back — subtract 1 so we don't count that same child twice.\n\n### 🧠 How to Solve — 3 Easy Steps\n1. **Write down** each clue as an order (who is above/below whom).\n2. **Combine** all the clues into ONE single line, top to bottom.\n3. **Read off** the answer from your line.\n\n---",
   "sections": [
     {
       "name": "Warm Up",
