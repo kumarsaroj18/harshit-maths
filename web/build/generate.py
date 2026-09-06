@@ -234,6 +234,7 @@ def unit_page_html(unit_info):
     <div id="sections"></div>
     <div class="overall-banner" id="overall-banner"></div>
     <div class="unit-footer">
+      <button class="submit-btn" id="submit-btn">✅ Submit Answers</button>
       <button class="reset-btn" id="reset-btn">🔄 Reset my answers for this unit</button>
     </div>
   </div>

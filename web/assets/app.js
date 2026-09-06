@@ -10,6 +10,7 @@ function accentFor(unitNum) {
 
 const PROGRESS_KEY = "nofProgress";   // { "01": { "1": "B", "2": "A", ... } }
 const SUMMARY_KEY = "nofSummary";     // { "01": { score: 9, total: 30, attempted: 12 } }
+const EVALUATED_KEY = "nofEvaluated"; // { "01": { "1": true, "5": true, ... } } — set only by Submit
 
 function loadJSON(key) {
   try {
@@ -84,12 +85,14 @@ async function initUnit(unitId) {
 
   const progress = loadJSON(PROGRESS_KEY);
   const unitAnswers = progress[unitId] || {};
+  const evaluated = loadJSON(EVALUATED_KEY);
+  const unitEvaluated = evaluated[unitId] || {};
 
   const sectionsRoot = document.getElementById("sections");
   sectionsRoot.innerHTML = "";
   unit.sections.forEach((section, sIdx) => {
     sectionsRoot.appendChild(
-      renderSection(unit, section, sIdx, unitId, unitAnswers, accent)
+      renderSection(unit, section, sIdx, unitId, unitAnswers, unitEvaluated, accent)
     );
   });
   // Score banners must be updated only after every section is attached to
@@ -100,6 +103,8 @@ async function initUnit(unitId) {
 
   renderOverallBanner(unit, unitAnswers);
 
+  document.getElementById("submit-btn").addEventListener("click", () => submitUnit(unitId));
+
   document.getElementById("reset-btn").addEventListener("click", () => {
     if (!confirm("Clear your answers for this unit and start over?")) return;
     const p = loadJSON(PROGRESS_KEY);
@@ -108,6 +113,9 @@ async function initUnit(unitId) {
     const s = loadJSON(SUMMARY_KEY);
     delete s[unitId];
     saveJSON(SUMMARY_KEY, s);
+    const e = loadJSON(EVALUATED_KEY);
+    delete e[unitId];
+    saveJSON(EVALUATED_KEY, e);
     location.reload();
   });
 }
@@ -117,7 +125,7 @@ function sectionRange(section, sIdx) {
   return `Q${Math.min(...nums)}–Q${Math.max(...nums)}`;
 }
 
-function renderSection(unit, section, sIdx, unitId, unitAnswers, accent) {
+function renderSection(unit, section, sIdx, unitId, unitAnswers, unitEvaluated, accent) {
   const wrap = document.createElement("div");
   wrap.className = "section-block";
   wrap.style.setProperty("--card-accent", accent);
@@ -140,7 +148,9 @@ function renderSection(unit, section, sIdx, unitId, unitAnswers, accent) {
   }
 
   section.questions.forEach((q) => {
-    wrap.appendChild(renderQuestion(unitId, sIdx, q, unitAnswers[q.num]));
+    const savedLetter = unitAnswers[q.num];
+    const isEvaluated = !!unitEvaluated[q.num];
+    wrap.appendChild(renderQuestion(unitId, sIdx, q, savedLetter, isEvaluated));
     if (q.trailingContext) {
       const ctx = document.createElement("div");
       ctx.className = "context-block";
@@ -152,7 +162,7 @@ function renderSection(unit, section, sIdx, unitId, unitAnswers, accent) {
   return wrap;
 }
 
-function renderQuestion(unitId, sIdx, q, savedLetter) {
+function renderQuestion(unitId, sIdx, q, savedLetter, isEvaluated) {
   const card = document.createElement("div");
   card.className = "question-card";
   card.id = `q-${q.num}`;
@@ -167,49 +177,99 @@ function renderQuestion(unitId, sIdx, q, savedLetter) {
     btn.className = "opt-btn";
     btn.dataset.letter = letter;
     btn.innerHTML = `<span class="letter">${letter}.</span> <span>${mdInline(q.options[letter])}</span>`;
-    btn.addEventListener("click", () => selectAnswer(unitId, sIdx, q, letter, card));
+    btn.addEventListener("click", () => selectAnswer(unitId, q, letter, card));
     optsDiv.appendChild(btn);
   });
 
-  const feedback = document.createElement("div");
-  feedback.className = "feedback";
+  const whyBlock = document.createElement("details");
+  whyBlock.className = "why-block";
+  whyBlock.hidden = true;
+  whyBlock.innerHTML = `<summary>💡 Why?</summary><div class="why-body"></div>`;
 
   card.innerHTML = numBadge + stem;
   card.appendChild(optsDiv);
-  card.appendChild(feedback);
+  card.appendChild(whyBlock);
 
-  if (savedLetter) {
-    applyAnswerState(card, q, savedLetter);
-  }
+  applyVisualState(card, q, savedLetter, isEvaluated);
 
   return card;
 }
 
-function selectAnswer(unitId, sIdx, q, letter, card) {
-  if (card.dataset.answered === "true") return;
+function selectAnswer(unitId, q, letter, card) {
   const progress = loadJSON(PROGRESS_KEY);
   if (!progress[unitId]) progress[unitId] = {};
+  const previousLetter = progress[unitId][q.num];
   progress[unitId][q.num] = letter;
   saveJSON(PROGRESS_KEY, progress);
 
-  applyAnswerState(card, q, letter);
+  // Picking a (new) option always un-evaluates this question — it stays
+  // just "chosen" until Submit is pressed again.
+  if (previousLetter !== letter) {
+    const evaluated = loadJSON(EVALUATED_KEY);
+    if (evaluated[unitId]) {
+      delete evaluated[unitId][q.num];
+      saveJSON(EVALUATED_KEY, evaluated);
+    }
+  }
+
+  applyVisualState(card, q, letter, false);
   refreshAfterAnswer(unitId);
 }
 
-function applyAnswerState(card, q, letter) {
-  card.dataset.answered = "true";
+function applyVisualState(card, q, letter, isEvaluated) {
   const buttons = card.querySelectorAll(".opt-btn");
   buttons.forEach((b) => {
-    b.disabled = true;
-    if (b.dataset.letter === q.correct) b.classList.add("correct");
-    else if (b.dataset.letter === letter) b.classList.add("incorrect");
+    b.classList.remove("selected", "correct", "incorrect");
+    if (isEvaluated) {
+      if (b.dataset.letter === q.correct) b.classList.add("correct");
+      else if (b.dataset.letter === letter) b.classList.add("incorrect");
+    } else if (b.dataset.letter === letter) {
+      b.classList.add("selected");
+    }
   });
-  const feedback = card.querySelector(".feedback");
-  const isRight = letter === q.correct;
-  feedback.classList.add("show", isRight ? "right" : "wrong");
-  feedback.innerHTML = isRight
-    ? `✅ Correct! <span class="why-label">Why:</span> ${mdInline(q.why)}`
-    : `❌ Not quite. The answer is <strong>${q.correct}</strong>. <span class="why-label">Why:</span> ${mdInline(q.why)}`;
+
+  const whyBlock = card.querySelector(".why-block");
+  if (isEvaluated && letter) {
+    const isRight = letter === q.correct;
+    whyBlock.querySelector(".why-body").innerHTML = isRight
+      ? `✅ Correct! <span class="why-label">Why:</span> ${mdInline(q.why)}`
+      : `❌ Not quite — the answer is <strong>${q.correct}</strong>. <span class="why-label">Why:</span> ${mdInline(q.why)}`;
+    whyBlock.classList.toggle("right", isRight);
+    whyBlock.classList.toggle("wrong", !isRight);
+    whyBlock.hidden = false;
+    whyBlock.open = false;
+  } else {
+    whyBlock.hidden = true;
+    whyBlock.open = false;
+  }
+}
+
+function submitUnit(unitId) {
+  if (!currentUnit) return;
+  const progress = loadJSON(PROGRESS_KEY);
+  const unitAnswers = progress[unitId] || {};
+  const evaluated = loadJSON(EVALUATED_KEY);
+  if (!evaluated[unitId]) evaluated[unitId] = {};
+
+  let anySelected = false;
+  currentUnit.sections.forEach((section) => {
+    section.questions.forEach((q) => {
+      const letter = unitAnswers[q.num];
+      if (!letter) return;
+      anySelected = true;
+      evaluated[unitId][q.num] = true;
+      const card = document.getElementById(`q-${q.num}`);
+      if (card) applyVisualState(card, q, letter, true);
+    });
+  });
+  saveJSON(EVALUATED_KEY, evaluated);
+
+  if (!anySelected) {
+    alert("Pick at least one answer before submitting!");
+    return;
+  }
+  refreshAfterAnswer(unitId);
+  window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
 function refreshAfterAnswer(unitId) {

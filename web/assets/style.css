@@ -290,6 +290,11 @@ a { color: var(--accent); }
   font-weight: 700;
   color: var(--ink-soft);
 }
+.opt-btn.selected {
+  background: #f1eefe;
+  border-color: var(--accent);
+  color: var(--accent);
+}
 .opt-btn.correct {
   background: var(--correct-bg);
   border-color: var(--correct);
@@ -300,25 +305,60 @@ a { color: var(--accent); }
   border-color: var(--incorrect);
   color: var(--incorrect);
 }
-.opt-btn[disabled] { cursor: default; }
-.opt-btn[disabled]:not(.correct):not(.incorrect) { opacity: 0.55; }
 
-.feedback {
+.why-block {
   margin-top: 10px;
+}
+.why-block summary {
+  cursor: pointer;
+  list-style: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 13.5px;
+  font-weight: 700;
+  padding: 6px 12px;
+  border-radius: 999px;
+  background: #f4f1ea;
+  color: var(--ink-soft);
+  user-select: none;
+}
+.why-block summary::-webkit-details-marker { display: none; }
+.why-block.right summary { background: var(--correct-bg); color: #1c6b2c; }
+.why-block.wrong summary { background: var(--incorrect-bg); color: #a11d1d; }
+.why-block .why-body {
+  margin-top: 8px;
   padding: 10px 12px;
   border-radius: 12px;
   font-size: 14.5px;
-  display: none;
+  background: #f4f1ea;
 }
-.feedback.show { display: block; }
-.feedback.right { background: var(--correct-bg); color: #1c6b2c; }
-.feedback.wrong { background: var(--incorrect-bg); color: #a11d1d; }
-.feedback .why-label { font-weight: 700; }
+.why-block.right .why-body { background: var(--correct-bg); color: #1c6b2c; }
+.why-block.wrong .why-body { background: var(--incorrect-bg); color: #a11d1d; }
+.why-block .why-label { font-weight: 700; }
 
 .unit-footer {
   margin-top: 30px;
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
 }
+.submit-btn {
+  background: var(--accent);
+  border: none;
+  color: #fff;
+  font-weight: 700;
+  padding: 14px 28px;
+  border-radius: 999px;
+  font-size: 16px;
+  width: 100%;
+  max-width: 320px;
+  cursor: pointer;
+  box-shadow: var(--shadow);
+}
+.submit-btn:active { transform: scale(0.98); }
 .reset-btn {
   background: none;
   border: 2px solid var(--incorrect);
