@@ -98,7 +98,7 @@
         },
         {
           "num": 7,
-          "content": "○⚫⬤○⚫⬤○ ___  *(small, medium, big — repeating)*",
+          "content": "○⚫⬤○⚫⬤○ ___",
           "options": {
             "A": "○",
             "B": "⚫",
@@ -156,7 +156,7 @@
       "questions": [
         {
           "num": 11,
-          "content": "▲●▲● ___ ●▲●   *(find the missing middle piece)*",
+          "content": "▲●▲● ___ ●▲●",
           "options": {
             "A": "▲",
             "B": "●",
@@ -299,7 +299,7 @@
         },
         {
           "num": 22,
-          "content": "One shape in this row breaks the Red-Blue pattern. Which position is wrong?\n🔴🔵🔴🔵🟡🔴🔵  *(1st, 2nd, 3rd, 4th, 5th, 6th, 7th)*",
+          "content": "One shape in this row breaks the Red-Blue pattern. Which position is wrong?\n🔴🔵🔴🔵🟡🔴🔵",
           "options": {
             "A": "1st",
             "B": "3rd",
@@ -357,7 +357,7 @@
       "questions": [
         {
           "num": 26,
-          "content": "1, 3, 6, 10, ___   *(hint: the jump gets bigger each time — +2, +3, +4...)*",
+          "content": "1, 3, 6, 10, ___",
           "options": {
             "A": "12",
             "B": "14",
@@ -370,7 +370,7 @@
         },
         {
           "num": 27,
-          "content": "A, C, E, G, ___   *(hint: one letter is skipped each time)*",
+          "content": "A, C, E, G, ___",
           "options": {
             "A": "H",
             "B": "I",

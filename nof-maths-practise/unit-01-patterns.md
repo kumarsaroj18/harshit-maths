@@ -92,7 +92,7 @@
 (C) 🔵
 (D) 🟡
 
-**Q7.** ○⚫⬤○⚫⬤○ ___  *(small, medium, big — repeating)*
+**Q7.** ○⚫⬤○⚫⬤○ ___
 (A) ○
 (B) ⚫
 (C) ⬤
@@ -120,7 +120,7 @@
 
 ## Section B — Olympiad Practice (Q11–Q25) 🏅
 
-**Q11.** ▲●▲● ___ ●▲●   *(find the missing middle piece)*
+**Q11.** ▲●▲● ___ ●▲●
 (A) ▲
 (B) ●
 (C) ■
@@ -193,7 +193,7 @@
 (D) ⬜
 
 **Q22.** One shape in this row breaks the Red-Blue pattern. Which position is wrong?
-🔴🔵🔴🔵🟡🔴🔵  *(1st, 2nd, 3rd, 4th, 5th, 6th, 7th)*
+🔴🔵🔴🔵🟡🔴🔵
 (A) 1st
 (B) 3rd
 (C) 5th
@@ -228,13 +228,13 @@
 
 ## Section C — Achiever's Corner (Q26–Q30) ⭐ *Tricky!*
 
-**Q26.** 1, 3, 6, 10, ___   *(hint: the jump gets bigger each time — +2, +3, +4...)*
+**Q26.** 1, 3, 6, 10, ___
 (A) 12
 (B) 14
 (C) 15
 (D) 16
 
-**Q27.** A, C, E, G, ___   *(hint: one letter is skipped each time)*
+**Q27.** A, C, E, G, ___
 (A) H
 (B) I
 (C) J
