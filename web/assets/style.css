@@ -13,7 +13,7 @@
   --accent: #6c5ce7;
 }
 
-* { box-sizing: border-box; }
+* { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
 
 html { -webkit-text-size-adjust: 100%; }
 
@@ -108,6 +108,7 @@ a { color: var(--accent); }
   border-bottom: 5px solid var(--card-accent, var(--accent));
   position: relative;
   min-height: 118px;
+  touch-action: manipulation;
 }
 .unit-card .num {
   font-size: 12px;
@@ -283,9 +284,15 @@ a { color: var(--accent); }
   text-align: left;
   gap: 10px;
   color: var(--ink);
-  transition: transform 0.06s ease;
+  touch-action: manipulation;
+  transition: background-color 0.06s ease;
 }
-.opt-btn:active { transform: scale(0.97); }
+/* Feedback on press must NOT change the button's box (no transform/scale) —
+   shrinking the element while a real finger is still down can pull its edge
+   out from under the fingertip right before release, so the touch resolves
+   onto the neighbouring button instead. A colour change gives the same
+   "pressed" feel without moving the hit target. */
+.opt-btn:active { background-color: #f4f1ea; }
 .opt-btn .letter {
   font-weight: 700;
   color: var(--ink-soft);
@@ -322,6 +329,7 @@ a { color: var(--accent); }
   background: #f4f1ea;
   color: var(--ink-soft);
   user-select: none;
+  touch-action: manipulation;
 }
 .why-block summary::-webkit-details-marker { display: none; }
 .why-block.right summary { background: var(--correct-bg); color: #1c6b2c; }
@@ -357,8 +365,9 @@ a { color: var(--accent); }
   max-width: 320px;
   cursor: pointer;
   box-shadow: var(--shadow);
+  touch-action: manipulation;
 }
-.submit-btn:active { transform: scale(0.98); }
+.submit-btn:active { background: #5a49d6; }
 .reset-btn {
   background: none;
   border: 2px solid var(--incorrect);
@@ -368,6 +377,7 @@ a { color: var(--accent); }
   border-radius: 999px;
   font-size: 14px;
   cursor: pointer;
+  touch-action: manipulation;
 }
 
 .overall-banner {
