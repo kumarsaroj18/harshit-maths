@@ -85,11 +85,11 @@ Connection: **animal → its baby**. A dog's baby is a puppy, so the answer is �
 (C) Singing
 (D) Sleeping
 
-**Q8.** 2 is to 4 as 3 is to ___  *(hint: double the number)*
-(A) 5
-(B) 6
-(C) 7
-(D) 8
+**Q8.** 2 is to 4 as 3 is to ___
+(A) 6
+(B) 7
+(C) 8
+(D) 10
 
 **Q9.** Book is to Reading as Bed is to ___
 (A) Eating
@@ -125,11 +125,11 @@ Connection: **animal → its baby**. A dog's baby is a puppy, so the answer is �
 (C) Garden
 (D) Playground
 
-**Q14.** 5 is to 10 as 6 is to ___  *(hint: double the number)*
-(A) 11
-(B) 12
-(C) 16
-(D) 60
+**Q14.** 5 is to 10 as 6 is to ___
+(A) 12
+(B) 13
+(C) 14
+(D) 16
 
 **Q15.** Cow is to Milk as Hen is to ___
 (A) Wool
@@ -162,10 +162,10 @@ Connection: **animal → its baby**. A dog's baby is a puppy, so the answer is �
 (D) Book
 
 **Q20.** 10 is to 5 as 20 is to ___
-(A) 5
-(B) 10
-(C) 15
-(D) 25   *(hint: divide by 2)*
+(A) 10
+(B) 20
+(C) 25
+(D) 30
 
 **Q21.** Fish is to Fin as Bird is to ___
 (A) Wing
@@ -191,11 +191,11 @@ Connection: **animal → its baby**. A dog's baby is a puppy, so the answer is �
 (C) Stone
 (D) Water
 
-**Q25.** 1 is to 3 as 2 is to ___  *(hint: multiply by 3)*
-(A) 4
-(B) 5
-(C) 6
-(D) 8
+**Q25.** 1 is to 3 as 2 is to ___
+(A) 6
+(B) 7
+(C) 8
+(D) 9
 
 ---
 
@@ -213,10 +213,10 @@ Connection: **animal → its baby**. A dog's baby is a puppy, so the answer is �
 (C) Time
 (D) Colour
 
-**Q28.** 3 is to 9 as 4 is to ___  *(hint: multiply the number by itself!)*
-(A) 12
-(B) 16
-(C) 8
+**Q28.** 3 is to 9 as 4 is to ___
+(A) 16
+(B) 14
+(C) 18
 (D) 20
 
 **Q29.** Triangle is to 3 corners as Pentagon is to ___
@@ -244,27 +244,27 @@ Connection: **animal → its baby**. A dog's baby is a puppy, so the answer is �
 | 5 | (A) Right | Up-Down and Left-Right are opposite direction pairs |
 | 6 | (B) Air/Sky | A fish lives in water; a bird lives/flies in the air |
 | 7 | (B) Cutting | A pen is used for writing; a knife is used for cutting |
-| 8 | (B) 6 | The rule is "double the number": 2→4, so 3→6 |
+| 8 | (A) 6 | The rule is "double the number": 2→4, so 3→6 |
 | 9 | (B) Sleeping | A book is used for reading; a bed is used for sleeping |
 | 10 | (A) Vegetable | An apple belongs to the fruit group; a carrot belongs to the vegetable group |
 | 11 | (B) Book | A wheel is a part of a car; a page is a part of a book |
 | 12 | (B) Foot | Fingers are on the hand; toes are on the foot |
 | 13 | (A) Hospital | A teacher works at a school; a doctor works at a hospital |
-| 14 | (B) 12 | The rule is "double the number": 5→10, so 6→12 |
+| 14 | (A) 12 | The rule is "double the number": 5→10, so 6→12 |
 | 15 | (B) Egg | A cow gives milk; a hen gives eggs |
 | 16 | (A) Web | A bee makes honey; a spider makes a web |
 | 17 | (B) Cold | An umbrella protects from rain; a sweater protects from cold |
 | 18 | (B) Hearing | Eyes are used for seeing; ears are used for hearing |
 | 19 | (A) Hammer | A tailor uses a needle; a carpenter uses a hammer |
-| 20 | (B) 10 | The rule is "divide by 2": 10→5, so 20→10 |
+| 20 | (A) 10 | The rule is "divide by 2": 10→5, so 20→10 |
 | 21 | (A) Wing | A fish uses fins to swim; a bird uses wings to fly |
 | 22 | (B) Field | A chef works in a kitchen; a farmer works in a field |
 | 23 | (B) 3 sides | A square has 4 sides; a triangle has 3 sides |
 | 24 | (B) Human | Petrol gives energy to a car; food gives energy to a human |
-| 25 | (C) 6 | The rule is "multiply by 3": 1→3, so 2→6 |
+| 25 | (A) 6 | The rule is "multiply by 3": 1→3, so 2→6 |
 | 26 | (B) Frog | A caterpillar grows into a butterfly; a tadpole grows into a frog |
 | 27 | (B) Weight | A thermometer measures temperature; a weighing scale measures weight |
-| 28 | (B) 16 | The rule is "multiply the number by itself": 3×3=9, so 4×4=16 |
+| 28 | (A) 16 | The rule is "multiply the number by itself": 3×3=9, so 4×4=16 |
 | 29 | (B) 5 corners | A triangle has 3 corners; a pentagon has 5 corners |
 | 30 | (B) Dinner | Breakfast is eaten in the morning; dinner is eaten at night |
 

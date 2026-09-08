@@ -109,15 +109,15 @@
         },
         {
           "num": 8,
-          "content": "2 is to 4 as 3 is to ___  *(hint: double the number)*",
+          "content": "2 is to 4 as 3 is to ___",
           "options": {
-            "A": "5",
-            "B": "6",
-            "C": "7",
-            "D": "8"
+            "A": "6",
+            "B": "7",
+            "C": "8",
+            "D": "10"
           },
           "trailingContext": "",
-          "correct": "B",
+          "correct": "A",
           "why": "The rule is \"double the number\": 2→4, so 3→6"
         },
         {
@@ -193,15 +193,15 @@
         },
         {
           "num": 14,
-          "content": "5 is to 10 as 6 is to ___  *(hint: double the number)*",
+          "content": "5 is to 10 as 6 is to ___",
           "options": {
-            "A": "11",
-            "B": "12",
-            "C": "16",
-            "D": "60"
+            "A": "12",
+            "B": "13",
+            "C": "14",
+            "D": "16"
           },
           "trailingContext": "",
-          "correct": "B",
+          "correct": "A",
           "why": "The rule is \"double the number\": 5→10, so 6→12"
         },
         {
@@ -273,13 +273,13 @@
           "num": 20,
           "content": "10 is to 5 as 20 is to ___",
           "options": {
-            "A": "5",
-            "B": "10",
-            "C": "15",
-            "D": "25   *(hint: divide by 2)*"
+            "A": "10",
+            "B": "20",
+            "C": "25",
+            "D": "30"
           },
           "trailingContext": "",
-          "correct": "B",
+          "correct": "A",
           "why": "The rule is \"divide by 2\": 10→5, so 20→10"
         },
         {
@@ -336,15 +336,15 @@
         },
         {
           "num": 25,
-          "content": "1 is to 3 as 2 is to ___  *(hint: multiply by 3)*",
+          "content": "1 is to 3 as 2 is to ___",
           "options": {
-            "A": "4",
-            "B": "5",
-            "C": "6",
-            "D": "8"
+            "A": "6",
+            "B": "7",
+            "C": "8",
+            "D": "9"
           },
           "trailingContext": "---",
-          "correct": "C",
+          "correct": "A",
           "why": "The rule is \"multiply by 3\": 1→3, so 2→6"
         }
       ]
@@ -381,15 +381,15 @@
         },
         {
           "num": 28,
-          "content": "3 is to 9 as 4 is to ___  *(hint: multiply the number by itself!)*",
+          "content": "3 is to 9 as 4 is to ___",
           "options": {
-            "A": "12",
-            "B": "16",
-            "C": "8",
+            "A": "16",
+            "B": "14",
+            "C": "18",
             "D": "20"
           },
           "trailingContext": "",
-          "correct": "B",
+          "correct": "A",
           "why": "The rule is \"multiply the number by itself\": 3×3=9, so 4×4=16"
         },
         {
