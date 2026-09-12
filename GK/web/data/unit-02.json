@@ -1,0 +1,427 @@
+{
+  "id": "02",
+  "slug": "unit-02-plants-and-animals",
+  "num": 2,
+  "title": "Plants and Animals",
+  "emoji": "🌿",
+  "parentNote": "This unit covers common plants, animals, their homes, and what they eat. Great for building nature awareness!",
+  "learnBullets": [
+    "Know different **types of animals** — wild, pet, farm animals",
+    "Learn where animals **live** (their homes)",
+    "Understand what different animals **eat**",
+    "Know **parts of a plant** and their uses",
+    "Learn about **baby animals** and their names"
+  ],
+  "learnItFirst": "**1. Types of Animals**\n\n- **Pet animals**: Dog, Cat, Parrot, Fish, Rabbit — we keep them at home\n- **Farm animals**: Cow, Buffalo, Hen, Goat, Sheep — they give us food or help us\n- **Wild animals**: Lion, Tiger, Elephant, Bear, Wolf — they live in forests\n\n**2. Animal Homes**\n\n- Dog lives in a **kennel**\n- Bird lives in a **nest**\n- Bee lives in a **hive**\n- Lion lives in a **den**\n- Rabbit lives in a **burrow**\n- Fish lives in **water**\n\n**3. What Animals Eat**\n\n- **Herbivores** eat only plants: Cow, Deer, Elephant, Rabbit\n- **Carnivores** eat only meat: Lion, Tiger, Wolf\n- **Omnivores** eat both: Bear, Crow, Pig, Humans\n\n**4. Parts of a Plant**\n\n- **Root** — under the ground, takes in water\n- **Stem** — holds the plant up, carries water\n- **Leaf** — makes food for the plant\n- **Flower** — becomes fruit, has seeds\n- **Fruit** — has seeds inside\n\n---\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "Which animal gives us milk?",
+          "options": {
+            "A": "Cow",
+            "B": "Lion",
+            "C": "Fish",
+            "D": "Parrot"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Cow is a farm animal that gives us milk"
+        },
+        {
+          "num": 2,
+          "content": "A dog lives in a ___.",
+          "options": {
+            "A": "Kennel",
+            "B": "Den",
+            "C": "Nest",
+            "D": "Hive"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A dog's home is called a kennel"
+        },
+        {
+          "num": 3,
+          "content": "Which of these is a wild animal?",
+          "options": {
+            "A": "Sheep",
+            "B": "Hen",
+            "C": "Tiger",
+            "D": "Cat"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Tiger is a wild animal that lives in the forest"
+        },
+        {
+          "num": 4,
+          "content": "Bees live in a ___.",
+          "options": {
+            "A": "Kennel",
+            "B": "Burrow",
+            "C": "Nest",
+            "D": "Hive"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Bees make and live in a hive"
+        },
+        {
+          "num": 5,
+          "content": "Which part of the plant is under the ground?",
+          "options": {
+            "A": "Root",
+            "B": "Leaf",
+            "C": "Flower",
+            "D": "Stem"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Roots grow under the ground and take in water"
+        },
+        {
+          "num": 6,
+          "content": "A lion eats ___.",
+          "options": {
+            "A": "Leaves",
+            "B": "Grass",
+            "C": "Fruits",
+            "D": "Meat"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Lion is a carnivore — it eats meat"
+        },
+        {
+          "num": 7,
+          "content": "Which animal is known as the 'King of the Jungle'?",
+          "options": {
+            "A": "Tiger",
+            "B": "Elephant",
+            "C": "Bear",
+            "D": "Lion"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "The lion is called the King of the Jungle"
+        },
+        {
+          "num": 8,
+          "content": "A baby dog is called a ___.",
+          "options": {
+            "A": "Calf",
+            "B": "Kitten",
+            "C": "Puppy",
+            "D": "Cub"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A baby dog is called a puppy"
+        },
+        {
+          "num": 9,
+          "content": "Which animal gives us eggs?",
+          "options": {
+            "A": "Goat",
+            "B": "Hen",
+            "C": "Cow",
+            "D": "Dog"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Hens lay eggs that we eat"
+        },
+        {
+          "num": 10,
+          "content": "Which part of a plant makes food?",
+          "options": {
+            "A": "Flower",
+            "B": "Leaf",
+            "C": "Root",
+            "D": "Stem"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "Leaves make food for the plant using sunlight"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "A baby cat is called a ___.",
+          "options": {
+            "A": "Lamb",
+            "B": "Kitten",
+            "C": "Calf",
+            "D": "Puppy"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A baby cat is called a kitten"
+        },
+        {
+          "num": 12,
+          "content": "Which animal lives in water?",
+          "options": {
+            "A": "Fish",
+            "B": "Parrot",
+            "C": "Hen",
+            "D": "Rabbit"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Fish live in water — rivers, ponds, or seas"
+        },
+        {
+          "num": 13,
+          "content": "Animals that eat only plants are called ___.",
+          "options": {
+            "A": "Omnivores",
+            "B": "Herbivores",
+            "C": "Insects",
+            "D": "Carnivores"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Herbivores eat only plants (herb = plant)"
+        },
+        {
+          "num": 14,
+          "content": "Which of these is a pet animal?",
+          "options": {
+            "A": "Goldfish",
+            "B": "Deer",
+            "C": "Wolf",
+            "D": "Fox"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Goldfish is kept as a pet at home"
+        },
+        {
+          "num": 15,
+          "content": "A rabbit lives in a ___.",
+          "options": {
+            "A": "Den",
+            "B": "Nest",
+            "C": "Hive",
+            "D": "Burrow"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "A rabbit digs a burrow (hole) in the ground to live"
+        },
+        {
+          "num": 16,
+          "content": "Which animal has a long trunk?",
+          "options": {
+            "A": "Zebra",
+            "B": "Giraffe",
+            "C": "Camel",
+            "D": "Elephant"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "An elephant has a long trunk"
+        },
+        {
+          "num": 17,
+          "content": "A baby cow is called a ___.",
+          "options": {
+            "A": "Foal",
+            "B": "Kid",
+            "C": "Calf",
+            "D": "Lamb"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A baby cow is called a calf"
+        },
+        {
+          "num": 18,
+          "content": "Which fruit grows on a palm tree?",
+          "options": {
+            "A": "Apple",
+            "B": "Grape",
+            "C": "Orange",
+            "D": "Coconut"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Coconuts grow on palm trees"
+        },
+        {
+          "num": 19,
+          "content": "Animals that eat both plants and meat are called ___.",
+          "options": {
+            "A": "Carnivores",
+            "B": "Omnivores",
+            "C": "Reptiles",
+            "D": "Herbivores"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Omnivores eat both plants and meat (omni = all)"
+        },
+        {
+          "num": 20,
+          "content": "Which bird cannot fly?",
+          "options": {
+            "A": "Parrot",
+            "B": "Eagle",
+            "C": "Ostrich",
+            "D": "Sparrow"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Ostrich is a bird that cannot fly — it runs very fast instead"
+        },
+        {
+          "num": 21,
+          "content": "We get wool from ___.",
+          "options": {
+            "A": "Sheep",
+            "B": "Cow",
+            "C": "Hen",
+            "D": "Goat"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Sheep give us wool to make warm clothes"
+        },
+        {
+          "num": 22,
+          "content": "A baby sheep is called a ___.",
+          "options": {
+            "A": "Lamb",
+            "B": "Kid",
+            "C": "Cub",
+            "D": "Calf"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A baby sheep is called a lamb"
+        },
+        {
+          "num": 23,
+          "content": "Which animal has black and white stripes?",
+          "options": {
+            "A": "Zebra",
+            "B": "Elephant",
+            "C": "Lion",
+            "D": "Bear"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Zebras have black and white stripes on their body"
+        },
+        {
+          "num": 24,
+          "content": "Which part of the plant holds it upright?",
+          "options": {
+            "A": "Leaf",
+            "B": "Stem",
+            "C": "Flower",
+            "D": "Root"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "The stem holds the plant upright and carries water from roots to leaves"
+        },
+        {
+          "num": 25,
+          "content": "Which animal is called the 'Ship of the Desert'?",
+          "options": {
+            "A": "Donkey",
+            "B": "Elephant",
+            "C": "Camel",
+            "D": "Horse"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "Camel is called the Ship of the Desert because it can travel long distances in sand"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "These questions need extra thinking!",
+      "questions": [
+        {
+          "num": 26,
+          "content": "Which of these animals is an amphibian (lives both on land and in water)?",
+          "options": {
+            "A": "Turtle",
+            "B": "Frog",
+            "C": "Snake",
+            "D": "Crocodile"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Frogs are amphibians — they can live both on land and in water"
+        },
+        {
+          "num": 27,
+          "content": "A baby goat is called a ___.",
+          "options": {
+            "A": "Cub",
+            "B": "Lamb",
+            "C": "Calf",
+            "D": "Kid"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "A baby goat is called a kid"
+        },
+        {
+          "num": 28,
+          "content": "Which of these plants grows in water?",
+          "options": {
+            "A": "Tulip",
+            "B": "Rose",
+            "C": "Lotus",
+            "D": "Sunflower"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Lotus is an aquatic plant that grows in water"
+        },
+        {
+          "num": 29,
+          "content": "A group of lions is called a ___.",
+          "options": {
+            "A": "Pack",
+            "B": "Herd",
+            "C": "Pride",
+            "D": "Flock"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A group of lions is called a pride"
+        },
+        {
+          "num": 30,
+          "content": "Which animal carries its home on its back?",
+          "options": {
+            "A": "Crab",
+            "B": "Snail",
+            "C": "Fish",
+            "D": "Frog"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "A snail carries its shell (home) on its back wherever it goes"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

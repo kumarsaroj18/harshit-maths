@@ -1,0 +1,426 @@
+{
+  "id": "05",
+  "slug": "unit-05-articles",
+  "num": 5,
+  "title": "Articles",
+  "emoji": "📝",
+  "parentNote": "Articles (a, an, the) are small but very important! The trick: \"a\" before consonant sounds, \"an\" before vowel sounds (a, e, i, o, u). Practice with objects around the house: \"a cup, an apple, the sun.\"",
+  "learnBullets": [
+    "What **articles** are — small words (a, an, the) used before nouns",
+    "When to use **\"a\"** (before consonant sounds)",
+    "When to use **\"an\"** (before vowel sounds)",
+    "When to use **\"the\"** (for specific things)"
+  ],
+  "learnItFirst": "**What are Articles?**\nArticles are small words that come before nouns. There are only THREE articles in English:\n- **a** (for general things, consonant sounds)\n- **an** (for general things, vowel sounds)\n- **the** (for specific things)\n\n**A vs An — The Sound Rule:**\n\n| Use | When the next word starts with | Examples |\n|-----|-------------------------------|----------|\n| **a** | consonant sound (b, c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, w, x, y, z) | a ball, a cat, a dog |\n| **an** | vowel sound (a, e, i, o, u) | an apple, an egg, an ice cream |\n\n**Special Cases:**\n- **an** hour (h is silent, sounds like \"our\")\n- **a** university (u sounds like \"you\" — consonant sound)\n- **an** umbrella (u sounds like \"uh\" — vowel sound)\n\n**When to use \"the\":**\n- When there is **only one** of something: the sun, the moon\n- When we are talking about **something specific**: the book on the table\n- When we **already mentioned** it: I saw a cat. **The** cat was white.\n\n### 🧠 How to Choose the Right Article\n1. **Listen** to the SOUND of the next word (not just the letter)\n2. **Vowel sound** → an\n3. **Consonant sound** → a\n4. **Specific/Only one** → the\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "\"___ apple a day keeps the doctor away.\"",
+          "options": {
+            "A": "A",
+            "B": "The",
+            "C": "No article",
+            "D": "An"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Apple starts with vowel sound \"a\""
+        },
+        {
+          "num": 2,
+          "content": "\"I have ___ book.\"",
+          "options": {
+            "A": "no article",
+            "B": "a",
+            "C": "the",
+            "D": "an"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Book starts with consonant sound \"b\""
+        },
+        {
+          "num": 3,
+          "content": "\"She is ___ teacher.\"",
+          "options": {
+            "A": "an",
+            "B": "a",
+            "C": "no article",
+            "D": "the"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Teacher starts with consonant sound \"t\""
+        },
+        {
+          "num": 4,
+          "content": "\"I saw ___ elephant at the zoo.\"",
+          "options": {
+            "A": "an",
+            "B": "a",
+            "C": "no article",
+            "D": "the"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Elephant starts with vowel sound \"e\""
+        },
+        {
+          "num": 5,
+          "content": "\"He ate ___ orange.\"",
+          "options": {
+            "A": "no article",
+            "B": "a",
+            "C": "the",
+            "D": "an"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Orange starts with vowel sound \"o\""
+        },
+        {
+          "num": 6,
+          "content": "\"___ sun rises in the east.\"",
+          "options": {
+            "A": "An",
+            "B": "A",
+            "C": "The",
+            "D": "No article"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "There is only one sun — specific"
+        },
+        {
+          "num": 7,
+          "content": "\"She has ___ umbrella.\"",
+          "options": {
+            "A": "the",
+            "B": "an",
+            "C": "no article",
+            "D": "a"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Umbrella starts with vowel sound \"uh\""
+        },
+        {
+          "num": 8,
+          "content": "\"I need ___ pen to write.\"",
+          "options": {
+            "A": "the",
+            "B": "an",
+            "C": "no article",
+            "D": "a"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Pen starts with consonant sound \"p\""
+        },
+        {
+          "num": 9,
+          "content": "\"Look at ___ moon!\"",
+          "options": {
+            "A": "no article",
+            "B": "an",
+            "C": "a",
+            "D": "the"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "There is only one moon — specific"
+        },
+        {
+          "num": 10,
+          "content": "\"My father is ___ doctor.\"",
+          "options": {
+            "A": "no article",
+            "B": "a",
+            "C": "an",
+            "D": "the"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "Doctor starts with consonant sound \"d\""
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "\"___ honest boy never tells lies.\"",
+          "options": {
+            "A": "The",
+            "B": "An",
+            "C": "A",
+            "D": "No article"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Honest — the \"h\" is silent, sounds like \"onest\" (vowel)"
+        },
+        {
+          "num": 12,
+          "content": "\"Please give me ___ glass of water.\"",
+          "options": {
+            "A": "the",
+            "B": "no article",
+            "C": "a",
+            "D": "an"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Glass starts with consonant sound \"g\""
+        },
+        {
+          "num": 13,
+          "content": "\"I waited for ___ hour.\"",
+          "options": {
+            "A": "an",
+            "B": "a",
+            "C": "no article",
+            "D": "the"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Hour — the \"h\" is silent, sounds like \"our\" (vowel)"
+        },
+        {
+          "num": 14,
+          "content": "Which sentence is correct?",
+          "options": {
+            "A": "I saw an elephant.",
+            "B": "I saw elephant.",
+            "C": "I saw a elephant.",
+            "D": "I saw the elephant. (first time seeing it)"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Elephant needs \"an\" (vowel sound)"
+        },
+        {
+          "num": 15,
+          "content": "\"___ Ganga is a holy river.\"",
+          "options": {
+            "A": "The",
+            "B": "A",
+            "C": "No article",
+            "D": "An"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Ganga is a specific river name"
+        },
+        {
+          "num": 16,
+          "content": "\"She bought ___ ice cream.\"",
+          "options": {
+            "A": "the",
+            "B": "no article",
+            "C": "a",
+            "D": "an"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Ice cream starts with vowel sound \"i\""
+        },
+        {
+          "num": 17,
+          "content": "\"I met ___ European tourist.\"",
+          "options": {
+            "A": "an",
+            "B": "no article",
+            "C": "a",
+            "D": "the"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "European sounds like \"Yoo-ropean\" (consonant sound)"
+        },
+        {
+          "num": 18,
+          "content": "\"___ Earth goes around ___ Sun.\"",
+          "options": {
+            "A": "The, the",
+            "B": "A, a",
+            "C": "A, the",
+            "D": "An, an"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Both are specific — only one Earth and one Sun"
+        },
+        {
+          "num": 19,
+          "content": "\"He is ___ M.L.A.\" (M sounds like \"em\")",
+          "options": {
+            "A": "no article",
+            "B": "the",
+            "C": "an",
+            "D": "a"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "M.L.A. — \"M\" sounds like \"em\" (vowel sound)"
+        },
+        {
+          "num": 20,
+          "content": "\"I have ___ one-rupee coin.\"",
+          "options": {
+            "A": "no article",
+            "B": "the",
+            "C": "an",
+            "D": "a"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "One sounds like \"wun\" (consonant sound)"
+        },
+        {
+          "num": 21,
+          "content": "Fill in both: \"I saw ___ bird. ___ bird was blue.\"",
+          "options": {
+            "A": "a, A",
+            "B": "a, The",
+            "C": "an, The",
+            "D": "the, A"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "First mention = \"a bird\"; second mention = \"the bird\""
+        },
+        {
+          "num": 22,
+          "content": "Which sentence uses articles correctly?",
+          "options": {
+            "A": "I ate a apple.",
+            "B": "He has a new bag.",
+            "C": "They live in an house.",
+            "D": "She is an doctor."
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Correct use of \"a\" before consonant sound"
+        },
+        {
+          "num": 23,
+          "content": "\"___ Taj Mahal is in Agra.\"",
+          "options": {
+            "A": "An",
+            "B": "The",
+            "C": "A",
+            "D": "No article"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Taj Mahal is a specific monument"
+        },
+        {
+          "num": 24,
+          "content": "\"My sister is ___ engineer.\"",
+          "options": {
+            "A": "no article",
+            "B": "a",
+            "C": "the",
+            "D": "an"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Engineer starts with vowel sound \"e\""
+        },
+        {
+          "num": 25,
+          "content": "\"He goes to school by ___ bus.\"",
+          "options": {
+            "A": "the",
+            "B": "an",
+            "C": "no article needed",
+            "D": "a"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "\"by bus\" is a common phrase without article"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 26,
+          "content": "Fill in all the blanks: \"I have ___ cat and ___ dog. ___ cat is white and ___ dog is brown.\"",
+          "options": {
+            "A": "a, a, The, the",
+            "B": "the, the, A, a",
+            "C": "an, an, The, the",
+            "D": "a, a, A, a"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "First time = a/a; second time = the/the"
+        },
+        {
+          "num": 27,
+          "content": "Which word needs \"an\" before it?",
+          "options": {
+            "A": "umbrella",
+            "B": "uniform",
+            "C": "useful",
+            "D": "university"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Umbrella sounds like \"um-brella\" (vowel sound)"
+        },
+        {
+          "num": 28,
+          "content": "\"He is ___ best student in ___ class.\"",
+          "options": {
+            "A": "the, a",
+            "B": "an, the",
+            "C": "the, the",
+            "D": "a, a"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "\"Best\" (superlative) needs \"the\"; specific class needs \"the\""
+        },
+        {
+          "num": 29,
+          "content": "How many articles should be used in this sentence? \"___ boy and ___ girl went to ___ park.\"",
+          "options": {
+            "A": "0",
+            "B": "1",
+            "C": "3",
+            "D": "2"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A boy, a girl, the park — 3 articles"
+        },
+        {
+          "num": 30,
+          "content": "Which sentence is INCORRECT?",
+          "options": {
+            "A": "He is an university student.",
+            "B": "I need an hour to finish.",
+            "C": "We saw an owl at night.",
+            "D": "She is an honest girl."
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "Should be \"a university\" (sounds like \"you-niversity\")"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

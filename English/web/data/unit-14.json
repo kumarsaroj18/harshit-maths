@@ -1,0 +1,427 @@
+{
+  "id": "14",
+  "slug": "unit-14-achievers-section",
+  "num": 14,
+  "title": "Achievers Section",
+  "emoji": "🏆",
+  "parentNote": "This section has Higher Order Thinking Questions (HOTS) — the trickiest part of the exam worth 2 marks each! These questions combine multiple concepts. Take your time, read carefully, and think before answering!",
+  "learnBullets": [
+    "**Higher Order Thinking Questions** (HOTS) — combining multiple skills",
+    "Questions that need **careful reading and thinking**",
+    "**Mixed grammar** questions",
+    "**Tricky spelling and vocabulary** questions",
+    "**Complex reading comprehension**"
+  ],
+  "learnItFirst": "**What is the Achievers Section?**\nThis is the most challenging part of the IEO exam. These questions:\n- Are worth **2 marks each** (instead of 1 mark)\n- Test **multiple concepts** in one question\n- Need **careful thinking** — not just memory!\n\n**Types of Achievers Questions:**\n1. Grammar combinations (articles + prepositions + tenses together)\n2. Error finding in sentences\n3. Sentence rearrangement\n4. Paragraph completion\n5. Logic-based language questions\n\n### 🧠 Tips for Achievers Section\n1. **Read the question twice** — understand what is being asked\n2. **Eliminate wrong options** — cross out obviously wrong answers\n3. **Check your answer** — read the sentence with your answer to see if it sounds right\n4. **Don't rush** — these are worth more marks!\n\n---",
+  "sections": [
+    {
+      "name": "Mixed Grammar",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "Fill in ALL the blanks correctly:\n\"___ elephant is ___ big animal. It lives ___ the jungle.\"",
+          "options": {
+            "A": "An, the, under",
+            "B": "A, an, on",
+            "C": "An, a, in",
+            "D": "The, a, at"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "An elephant (vowel sound), a big animal (consonant), in the jungle (place)"
+        },
+        {
+          "num": 2,
+          "content": "Find the sentence with NO errors:",
+          "options": {
+            "A": "She are going to school.",
+            "B": "He is reading a story.",
+            "C": "They is playing in the park.",
+            "D": "I am have a book."
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Correct subject-verb agreement and structure"
+        },
+        {
+          "num": 3,
+          "content": "Choose the correct form: \"Yesterday, she ___ (go) to the market and ___ (buy) some fruits.\"",
+          "options": {
+            "A": "going, buying",
+            "B": "went, bought",
+            "C": "goes, buys",
+            "D": "go, buy"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Yesterday = past tense; go→went, buy→bought"
+        },
+        {
+          "num": 4,
+          "content": "Which sentence has correct punctuation AND grammar?",
+          "options": {
+            "A": "where is the book.",
+            "B": "Where is the book!",
+            "C": "where Is the book?",
+            "D": "Where is the book?"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Capital W, question mark at end"
+        },
+        {
+          "num": 5,
+          "content": "Fill in the blanks: \"___ (He/Him) gave ___ (I/me) a gift.\"",
+          "options": {
+            "A": "Him, me",
+            "B": "Him, I",
+            "C": "He, me",
+            "D": "He, I"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Subject pronoun \"He\" does the action; object pronoun \"me\" receives"
+        },
+        {
+          "num": 6,
+          "content": "Find the sentence where ALL underlined words are spelled correctly:",
+          "options": {
+            "A": "The **butterflye** sat on a **beautifull** flower.",
+            "B": "The **butterfly** sat on a **beautiful** flower.",
+            "C": "The **buterfly** sat on a **beautful** flower.",
+            "D": "The **buterfli** sat on a **beutiful** flower."
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Both words spelled correctly"
+        },
+        {
+          "num": 7,
+          "content": "Choose the correct option: \"My sister and I ___ to school together. ___ take the same bus.\"",
+          "options": {
+            "A": "goes, We",
+            "B": "go, They",
+            "C": "goes, They",
+            "D": "go, We"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "My sister and I = we → go (not goes); We (same subject)"
+        },
+        {
+          "num": 8,
+          "content": "Which sentence uses the correct article, preposition, AND verb?",
+          "options": {
+            "A": "A cat is sitting on the table.",
+            "B": "An cat is sitting on the table.",
+            "C": "The cats is sitting on a table.",
+            "D": "A cat is sitting in the table."
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A (consonant), on (not in for sitting), cat is (singular)"
+        },
+        {
+          "num": 9,
+          "content": "Fill in with the correct conjunction: \"I wanted to play ___ it was raining, ___ I stayed home.\"",
+          "options": {
+            "A": "so, and",
+            "B": "or, but",
+            "C": "and, so",
+            "D": "but, so"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Contrast (wanted but raining), Result (so stayed home)"
+        },
+        {
+          "num": 10,
+          "content": "Find ALL the nouns in: \"Riya and her brother went to Delhi last Monday.\"",
+          "options": {
+            "A": "Riya, brother, Delhi, Monday — 4 nouns",
+            "B": "Riya, brother, Delhi — 3 nouns",
+            "C": "Riya, went, Delhi — 3 nouns",
+            "D": "Riya, Delhi, Monday — 3 nouns"
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "Riya (person), brother (person), Delhi (place), Monday (proper noun-day)"
+        }
+      ]
+    },
+    {
+      "name": "Error Finding and Correction",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "Find the error and choose the correction:\n\"Their are three apples on the table.\"",
+          "options": {
+            "A": "Their → There",
+            "B": "apples → apple",
+            "C": "are → is",
+            "D": "on → in"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "\"There are\" for existence; \"Their\" shows possession"
+        },
+        {
+          "num": 12,
+          "content": "Which word is WRONGLY used?\n\"She is the more beautiful girl in the class.\"",
+          "options": {
+            "A": "She",
+            "B": "girl",
+            "C": "more",
+            "D": "class"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Should be \"most beautiful\" (superlative), not \"more beautiful\""
+        },
+        {
+          "num": 13,
+          "content": "Find the error: \"I have went to the market yesterday.\"",
+          "options": {
+            "A": "have went → went",
+            "B": "I → Me",
+            "C": "to → at",
+            "D": "yesterday → today"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Past tense doesn't use \"have went\"; just \"went\""
+        },
+        {
+          "num": 14,
+          "content": "Choose the sentence with correct word order:",
+          "options": {
+            "A": "The cat quickly ran.",
+            "B": "The cat ran quickly.",
+            "C": "Quickly the cat ran.",
+            "D": "Ran the cat quickly."
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Subject + Verb + Adverb (natural order)"
+        },
+        {
+          "num": 15,
+          "content": "Find the ERROR: \"Him and me went to the park.\"",
+          "options": {
+            "A": "Him → He",
+            "B": "me → I",
+            "C": "Both A and B",
+            "D": "went → go"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Should be \"He and I went\" (subject pronouns)"
+        },
+        {
+          "num": 16,
+          "content": "Which underlined word is INCORRECT?\n\"My **mother's** friend **gived** me a **beautiful** present.\"",
+          "options": {
+            "A": "beautiful",
+            "B": "gived",
+            "C": "mother's",
+            "D": "present"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Should be \"gave\" (give→gave, not gived)"
+        },
+        {
+          "num": 17,
+          "content": "Find the sentence that is COMPLETELY correct:",
+          "options": {
+            "A": "They doesn't play cricket.",
+            "B": "i likes to plays football.",
+            "C": "She doesn't like vegetables.",
+            "D": "He don't like ice cream."
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Correct use of doesn't with she"
+        },
+        {
+          "num": 18,
+          "content": "What is wrong? \"An university is near my house.\"",
+          "options": {
+            "A": "university → collage",
+            "B": "An → A",
+            "C": "near → at",
+            "D": "is → are"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "University sounds like \"you-niversity\" (consonant sound)"
+        },
+        {
+          "num": 19,
+          "content": "Correct the sentence: \"She have two brother and one sister.\"",
+          "options": {
+            "A": "She has two brothers and one sister.",
+            "B": "She having two brothers and one sister.",
+            "C": "She have two brothers and one sisters.",
+            "D": "She has two brother and one sisters."
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "has (not have), brothers (plural)"
+        },
+        {
+          "num": 20,
+          "content": "Find the error: \"Their going to the zoo tomorrow.\"",
+          "options": {
+            "A": "tomorrow → today",
+            "B": "going → go",
+            "C": "zoo → park",
+            "D": "Their → They're"
+          },
+          "trailingContext": "---",
+          "correct": "D",
+          "why": "They're = They are; Their = possession"
+        }
+      ]
+    },
+    {
+      "name": "Complex Comprehension and Logic",
+      "leadingContext": "**Read the passage and answer Q21-Q25:**\n\n> **The Clever Fox**\n> \n> One day, a thirsty crow found a pot with a little water at the bottom. The crow's beak could not reach the water. The crow thought and thought. Then it had an idea!\n> \n> The crow picked up small stones and dropped them into the pot one by one. Slowly, the water rose higher and higher. Finally, the crow could drink the water. The crow flew away happily.\n> \n> A fox was watching from behind a tree. \"What a clever bird!\" said the fox. \"It used its brain instead of giving up.\"",
+      "questions": [
+        {
+          "num": 21,
+          "content": "What was the crow's problem?",
+          "options": {
+            "A": "The water was too cold",
+            "B": "The crow's beak couldn't reach the water",
+            "C": "The pot was too heavy",
+            "D": "There was no water"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"The crow's beak could not reach the water\""
+        },
+        {
+          "num": 22,
+          "content": "How did the crow solve the problem?",
+          "options": {
+            "A": "It dropped stones to raise the water level",
+            "B": "It waited for rain",
+            "C": "It broke the pot",
+            "D": "It called for help"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "\"picked up small stones and dropped them\""
+        },
+        {
+          "num": 23,
+          "content": "What does \"instead of giving up\" mean?",
+          "options": {
+            "A": "The crow didn't stop trying",
+            "B": "The crow ran away",
+            "C": "The crow was angry",
+            "D": "The crow was scared"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "The crow kept trying instead of quitting"
+        },
+        {
+          "num": 24,
+          "content": "The title says \"The Clever Fox\" but the story is about a clever ___?",
+          "options": {
+            "A": "Stone",
+            "B": "Pot",
+            "C": "Fox",
+            "D": "Crow"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "The story is about the crow; fox just watched"
+        },
+        {
+          "num": 25,
+          "content": "What lesson does this story teach?",
+          "options": {
+            "A": "Use your brain to solve problems",
+            "B": "Crows are better than foxes",
+            "C": "Water is important",
+            "D": "Foxes are sneaky"
+          },
+          "trailingContext": "---\n\n**Answer Q26-28 based on the situation:**\n\n> **Situation:** Ankit is new in school. He doesn't know anyone. A boy named Sameer comes up to him.",
+          "correct": "A",
+          "why": "\"used its brain instead of giving up\""
+        },
+        {
+          "num": 26,
+          "content": "What should Sameer say to Ankit?",
+          "options": {
+            "A": "Go away, this is my place.",
+            "B": "You look strange.",
+            "C": "Why are you here?",
+            "D": "Hello! I'm Sameer. What's your name? Welcome to our school!"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Polite introduction and welcome"
+        },
+        {
+          "num": 27,
+          "content": "If Ankit wants to sit with Sameer during lunch, what should he say?",
+          "options": {
+            "A": "I'm sitting here whether you like it or not.",
+            "B": "May I sit with you, please?",
+            "C": "Move, I want to sit here.",
+            "D": "Give me your lunch."
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Polite permission request"
+        },
+        {
+          "num": 28,
+          "content": "After school, Ankit thanks Sameer. Sameer should say:",
+          "options": {
+            "A": "Don't talk to me.",
+            "B": "Of course, I'm the best.",
+            "C": "Give me something for helping you.",
+            "D": "You're welcome! See you tomorrow!"
+          },
+          "trailingContext": "---",
+          "correct": "D",
+          "why": "Polite response to thanks"
+        },
+        {
+          "num": 29,
+          "content": "Rearrange to form a correct sentence:\n\"always / she / the / helps / poor\"",
+          "options": {
+            "A": "Always she helps the poor.",
+            "B": "The poor always helps she.",
+            "C": "She always helps the poor.",
+            "D": "She always the poor helps."
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Correct sentence order"
+        },
+        {
+          "num": 30,
+          "content": "Which word fits ALL three blanks?\n\"I ___ my name on the paper.\"\n\"Please ___ your work clearly.\"\n\"Children love to ___ and colour.\"",
+          "options": {
+            "A": "read",
+            "B": "speak",
+            "C": "write",
+            "D": "draw"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "Write name, write work, write and colour — all use \"write\""
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

@@ -1,0 +1,426 @@
+{
+  "id": "04",
+  "slug": "unit-04-adjectives",
+  "num": 4,
+  "title": "Adjectives",
+  "emoji": "🎨",
+  "parentNote": "Adjectives are describing words! Play \"Describe That Thing\" — point at objects and ask your child to give describing words: \"The ball is round, red, and big.\" The more adjectives, the better!",
+  "learnBullets": [
+    "What an **adjective** is — a word that describes a noun",
+    "Types of adjectives: **colour**, **size**, **shape**, **number**, **feeling**",
+    "Where adjectives go in a sentence (before the noun or after \"is/am/are\")",
+    "Opposites of common adjectives"
+  ],
+  "learnItFirst": "**What is an Adjective?**\nAn adjective is a **describing word**. It tells us more about a noun (person, place, animal, or thing).\n\n```\nThe big dog barks. (big describes the dog)\nThe sky is blue. (blue describes the sky)\nI have three books. (three tells how many)\n```\n\n**Types of Adjectives:**\n\n| Type | What it tells | Examples |\n|------|--------------|----------|\n| Colour | What colour? | red, blue, green, yellow, pink |\n| Size | How big/small? | big, small, tall, short, long |\n| Shape | What shape? | round, square, flat, straight |\n| Number | How many? | one, two, three, many, few |\n| Feeling | How does it feel? | happy, sad, angry, scared, excited |\n| Quality | What kind? | good, bad, beautiful, ugly, clean, dirty |\n\n**Where do adjectives go?**\n1. **Before the noun:** The **tall** boy is running.\n2. **After is/am/are:** The boy is **tall**.\n\n### 🧠 How to Find an Adjective\n1. **Find the noun** first\n2. **Ask:** What kind? What colour? How many? How big?\n3. **The answer** is usually the adjective!\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "Which word is an adjective?",
+          "options": {
+            "A": "happy",
+            "B": "quickly",
+            "C": "table",
+            "D": "run"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Happy describes how someone feels — it's an adjective"
+        },
+        {
+          "num": 2,
+          "content": "Which word describes the size?",
+          "options": {
+            "A": "round",
+            "B": "red",
+            "C": "three",
+            "D": "big"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Big tells us the size"
+        },
+        {
+          "num": 3,
+          "content": "\"The ___ ball bounced high.\" Choose a colour adjective:",
+          "options": {
+            "A": "run",
+            "B": "red",
+            "C": "ball",
+            "D": "high"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Red is a colour adjective"
+        },
+        {
+          "num": 4,
+          "content": "\"I have ___ pencils.\" Choose a number adjective:",
+          "options": {
+            "A": "big",
+            "B": "long",
+            "C": "red",
+            "D": "five"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Five tells us how many — number adjective"
+        },
+        {
+          "num": 5,
+          "content": "Find the adjective: \"The little kitten is sleeping.\"",
+          "options": {
+            "A": "sleeping",
+            "B": "kitten",
+            "C": "The",
+            "D": "little"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Little describes the kitten"
+        },
+        {
+          "num": 6,
+          "content": "\"The flower is ___.\" Choose the best adjective:",
+          "options": {
+            "A": "run",
+            "B": "slowly",
+            "C": "table",
+            "D": "beautiful"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Beautiful describes the flower"
+        },
+        {
+          "num": 7,
+          "content": "Which word describes a feeling?",
+          "options": {
+            "A": "sad",
+            "B": "round",
+            "C": "three",
+            "D": "blue"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Sad is a feeling word"
+        },
+        {
+          "num": 8,
+          "content": "\"The ___ elephant lives in the jungle.\" Choose a size adjective:",
+          "options": {
+            "A": "grey",
+            "B": "many",
+            "C": "huge",
+            "D": "happy"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Huge describes the elephant's size"
+        },
+        {
+          "num": 9,
+          "content": "What is the opposite of \"hot\"?",
+          "options": {
+            "A": "fast",
+            "B": "cold",
+            "C": "big",
+            "D": "warm"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Cold is the opposite of hot"
+        },
+        {
+          "num": 10,
+          "content": "\"She is wearing a ___ dress.\" Choose an adjective:",
+          "options": {
+            "A": "run",
+            "B": "pretty",
+            "C": "and",
+            "D": "girl"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "Pretty describes the dress"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "How many adjectives are in this sentence? \"The small, brown dog has a long tail.\"",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "1"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "small, brown, long are the three adjectives"
+        },
+        {
+          "num": 12,
+          "content": "Which sentence has NO adjective?",
+          "options": {
+            "A": "He is a smart boy.",
+            "B": "I saw a big lion.",
+            "C": "The red apple is sweet.",
+            "D": "She runs fast."
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "\"Fast\" here describes \"runs\" (how she runs) — it's an adverb"
+        },
+        {
+          "num": 13,
+          "content": "\"The water is ___.\" Choose the best adjective:",
+          "options": {
+            "A": "drink",
+            "B": "swim",
+            "C": "cold",
+            "D": "fish"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Cold describes the water"
+        },
+        {
+          "num": 14,
+          "content": "What is the opposite of \"clean\"?",
+          "options": {
+            "A": "dirty",
+            "B": "neat",
+            "C": "tidy",
+            "D": "clear"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Dirty is the opposite of clean"
+        },
+        {
+          "num": 15,
+          "content": "Find the adjective that describes a shape: \"I drew a round circle.\"",
+          "options": {
+            "A": "I",
+            "B": "drew",
+            "C": "circle",
+            "D": "round"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Round describes the shape"
+        },
+        {
+          "num": 16,
+          "content": "\"The ___ girl won the race.\" Choose an adjective:",
+          "options": {
+            "A": "won",
+            "B": "run",
+            "C": "fast",
+            "D": "race"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Fast describes the girl (what kind of girl)"
+        },
+        {
+          "num": 17,
+          "content": "What is the opposite of \"tall\"?",
+          "options": {
+            "A": "big",
+            "B": "short",
+            "C": "long",
+            "D": "high"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Short is the opposite of tall"
+        },
+        {
+          "num": 18,
+          "content": "Which group has all adjectives?",
+          "options": {
+            "A": "run, jump, walk",
+            "B": "cat, dog, bird",
+            "C": "red, pen, happy",
+            "D": "big, small, tiny"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "All three are size adjectives"
+        },
+        {
+          "num": 19,
+          "content": "\"My grandmother is very ___.\" Choose the best adjective:",
+          "options": {
+            "A": "house",
+            "B": "cook",
+            "C": "kind",
+            "D": "slowly"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Kind describes grandmother's nature"
+        },
+        {
+          "num": 20,
+          "content": "Find all the adjectives: \"The old man has a white beard.\"",
+          "options": {
+            "A": "has, The",
+            "B": "old, man",
+            "C": "old, white",
+            "D": "man, beard"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Old describes man, white describes beard"
+        },
+        {
+          "num": 21,
+          "content": "\"This is a ___ and ___ cake.\" Choose two adjectives:",
+          "options": {
+            "A": "delicious, big",
+            "B": "eat, yummy",
+            "C": "this, sweet",
+            "D": "cake, round"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Both are adjectives that describe the cake"
+        },
+        {
+          "num": 22,
+          "content": "What is the opposite of \"empty\"?",
+          "options": {
+            "A": "hollow",
+            "B": "big",
+            "C": "full",
+            "D": "light"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Full is the opposite of empty"
+        },
+        {
+          "num": 23,
+          "content": "Which word is NOT an adjective?",
+          "options": {
+            "A": "quickly",
+            "B": "beautiful",
+            "C": "pretty",
+            "D": "ugly"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Quickly is an adverb (tells how), not an adjective"
+        },
+        {
+          "num": 24,
+          "content": "\"The weather is ___ today.\" Choose an adjective:",
+          "options": {
+            "A": "sunny",
+            "B": "sky",
+            "C": "rain",
+            "D": "day"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Sunny describes the weather"
+        },
+        {
+          "num": 25,
+          "content": "\"I ate ___ mangoes.\" Which adjective tells \"how many\"?",
+          "options": {
+            "A": "yellow",
+            "B": "seven",
+            "C": "sweet",
+            "D": "ripe"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "Seven tells how many — number adjective"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 26,
+          "content": "Read the sentence: \"The cheerful little girl wore a bright pink dress to the grand birthday party.\"\nHow many adjectives are there?",
+          "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "3"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "cheerful, little, bright, pink, grand = 5 adjectives"
+        },
+        {
+          "num": 27,
+          "content": "Match the adjectives with their opposites:\nhot – cold, big – small, happy – ?",
+          "options": {
+            "A": "scared",
+            "B": "sad",
+            "C": "angry",
+            "D": "excited"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Sad is the opposite of happy"
+        },
+        {
+          "num": 28,
+          "content": "Which sentence has adjectives in the CORRECT order?",
+          "options": {
+            "A": "I saw a big green frog.",
+            "B": "I saw a frog green big.",
+            "C": "I saw a green big frog.",
+            "D": "I saw a frog big green."
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Size comes before colour in English"
+        },
+        {
+          "num": 29,
+          "content": "\"The _____ tiger is _____ but _____.\"\nChoose the adjectives that make sense:",
+          "options": {
+            "A": "the, a, an",
+            "B": "run, roar, jump",
+            "C": "striped, beautiful, dangerous",
+            "D": "jungle, forest, zoo"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "All three describe the tiger"
+        },
+        {
+          "num": 30,
+          "content": "Find the sentence where the word \"light\" is used as an ADJECTIVE (not a noun):",
+          "options": {
+            "A": "The bag is very light.",
+            "B": "I see a bright light.",
+            "C": "The light is broken.",
+            "D": "Turn on the light please."
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "Here \"light\" means not heavy — it's an adjective"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

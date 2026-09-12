@@ -1,0 +1,427 @@
+{
+  "id": "11",
+  "slug": "unit-11-life-skills",
+  "num": 11,
+  "title": "Life Skills (Do's and Don'ts)",
+  "emoji": "🌟",
+  "parentNote": "This unit covers good manners, safety rules, and social skills. Very important for everyday life!",
+  "learnBullets": [
+    "Know about **good manners** and polite behaviour",
+    "Learn **safety rules** at home and outside",
+    "Understand **do's and don'ts** in different situations",
+    "Know about **honesty and kindness**",
+    "Learn about **being responsible**"
+  ],
+  "learnItFirst": "**1. Good Manners (Magic Words)**\n\n| When | Say |\n|------|-----|\n| Asking for something | Please 🙏 |\n| Receiving something | Thank you 😊 |\n| Making a mistake | Sorry 😔 |\n| Meeting someone | Hello/Namaste 🙏 |\n| Leaving | Goodbye/Bye |\n\n**2. Safety Do's and Don'ts**\n\n✅ **Do's:**\n- Look left and right before crossing the road\n- Tell parents where you are going\n- Wash hands before eating\n- Wear helmet while cycling\n- Say no to strangers offering food or rides\n\n❌ **Don'ts:**\n- Don't play with fire or sharp objects\n- Don't touch electrical switches with wet hands\n- Don't take medicines without parents' permission\n- Don't share personal information with strangers\n- Don't bully others\n\n**3. Being a Good Person**\n\n- Always tell the **truth**\n- **Share** with others\n- Be **kind** to everyone\n- **Help** those in need\n- **Respect** elders and teachers\n\n---\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "What should you say when someone gives you a gift?",
+          "options": {
+            "A": "Go away",
+            "B": "Nothing",
+            "C": "Give me more",
+            "D": "Thank you"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "We should always say 'Thank you' when receiving something"
+        },
+        {
+          "num": 2,
+          "content": "What should you say when you want something?",
+          "options": {
+            "A": "Please",
+            "B": "Hey!",
+            "C": "Give it to me!",
+            "D": "I want it now!"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "We should say 'Please' when asking for something"
+        },
+        {
+          "num": 3,
+          "content": "If you hurt someone by mistake, you should say ___.",
+          "options": {
+            "A": "Nothing",
+            "B": "Sorry",
+            "C": "So what?",
+            "D": "It's not my fault"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "We should say 'Sorry' when we make a mistake or hurt someone"
+        },
+        {
+          "num": 4,
+          "content": "Should you take sweets from strangers?",
+          "options": {
+            "A": "Only sometimes",
+            "B": "No, never",
+            "C": "Yes, always",
+            "D": "Yes, if they look nice"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Never take food or sweets from strangers — say no and tell your parents"
+        },
+        {
+          "num": 5,
+          "content": "Before eating food, we should ___.",
+          "options": {
+            "A": "Watch TV",
+            "B": "Play games",
+            "C": "Do nothing",
+            "D": "Wash our hands"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Always wash hands before eating to stay healthy"
+        },
+        {
+          "num": 6,
+          "content": "What should you do when an elder enters the room?",
+          "options": {
+            "A": "Greet them with respect",
+            "B": "Run away",
+            "C": "Ignore them",
+            "D": "Keep sitting"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "We should greet elders with respect (Namaste/Hello)"
+        },
+        {
+          "num": 7,
+          "content": "If a stranger asks you to come with them, what should you do?",
+          "options": {
+            "A": "Say no and tell your parents",
+            "B": "Think about it",
+            "C": "Ask them for candy first",
+            "D": "Go with them"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Never go with strangers — say no firmly and tell your parents or a trusted adult"
+        },
+        {
+          "num": 8,
+          "content": "Telling lies is ___.",
+          "options": {
+            "A": "Good",
+            "B": "Okay sometimes",
+            "C": "Fun",
+            "D": "Bad"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Telling lies is bad — always speak the truth"
+        },
+        {
+          "num": 9,
+          "content": "You should ___ your toys with friends.",
+          "options": {
+            "A": "Share",
+            "B": "Break",
+            "C": "Hide",
+            "D": "Never share"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Sharing with friends is a good habit"
+        },
+        {
+          "num": 10,
+          "content": "When you sneeze or cough, you should ___.",
+          "options": {
+            "A": "Shout loudly",
+            "B": "Cover your mouth and nose",
+            "C": "Do nothing",
+            "D": "Sneeze on others"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "Cover your mouth and nose when sneezing or coughing to prevent spreading germs"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "Should you touch electrical switches with wet hands?",
+          "options": {
+            "A": "No",
+            "B": "Sometimes",
+            "C": "Only in summer",
+            "D": "Yes"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Never touch electrical switches with wet hands — you can get an electric shock"
+        },
+        {
+          "num": 12,
+          "content": "If you find a wallet on the road, what should you do?",
+          "options": {
+            "A": "Hide it",
+            "B": "Try to return it or give to an adult",
+            "C": "Give it to your friend",
+            "D": "Keep it"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "If you find something, try to return it to the owner or give it to a trusted adult"
+        },
+        {
+          "num": 13,
+          "content": "Bullying other children is ___.",
+          "options": {
+            "A": "Fun",
+            "B": "Good",
+            "C": "Wrong",
+            "D": "Okay"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Bullying is wrong — we should be kind to everyone"
+        },
+        {
+          "num": 14,
+          "content": "You should ___ when the national anthem is being sung.",
+          "options": {
+            "A": "Talk to friends",
+            "B": "Run around",
+            "C": "Stand respectfully",
+            "D": "Sit down"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "We should stand respectfully and silently when the national anthem is sung"
+        },
+        {
+          "num": 15,
+          "content": "If someone is feeling sad, what should you do?",
+          "options": {
+            "A": "Make fun of them",
+            "B": "Try to help and be kind",
+            "C": "Laugh at them",
+            "D": "Ignore them"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "We should be kind and try to help when someone is sad"
+        },
+        {
+          "num": 16,
+          "content": "Should you play with fire or matchsticks?",
+          "options": {
+            "A": "No, it's dangerous",
+            "B": "Only with friends",
+            "C": "Yes, it's fun",
+            "D": "Sometimes"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Never play with fire or matchsticks — it's very dangerous"
+        },
+        {
+          "num": 17,
+          "content": "You see a classmate being bullied. What should you do?",
+          "options": {
+            "A": "Laugh at them",
+            "B": "Walk away and ignore",
+            "C": "Tell a teacher or adult",
+            "D": "Join the bullies"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "If you see bullying, tell a teacher or trusted adult immediately"
+        },
+        {
+          "num": 18,
+          "content": "When someone is speaking, we should ___.",
+          "options": {
+            "A": "Ignore them",
+            "B": "Talk over them",
+            "C": "Walk away",
+            "D": "Listen quietly"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Good manners mean listening quietly when someone is speaking"
+        },
+        {
+          "num": 19,
+          "content": "You should take medicine ___.",
+          "options": {
+            "A": "Whenever you want",
+            "B": "If friends tell you",
+            "C": "When you're bored",
+            "D": "Only with parents' permission"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Never take medicines without your parents' or doctor's permission"
+        },
+        {
+          "num": 20,
+          "content": "If you accidentally break something, what should you do?",
+          "options": {
+            "A": "Blame someone else",
+            "B": "Pretend nothing happened",
+            "C": "Tell the truth and apologize",
+            "D": "Hide it"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Always tell the truth — honesty is the best policy"
+        },
+        {
+          "num": 21,
+          "content": "When waiting in line (queue), you should ___.",
+          "options": {
+            "A": "Wait for your turn",
+            "B": "Shout loudly",
+            "C": "Push others",
+            "D": "Cut in front"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "We should wait patiently for our turn in a queue"
+        },
+        {
+          "num": 22,
+          "content": "Wasting food is ___.",
+          "options": {
+            "A": "Fun",
+            "B": "Good",
+            "C": "Bad",
+            "D": "Okay"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Wasting food is bad — take only what you can eat"
+        },
+        {
+          "num": 23,
+          "content": "If you see garbage on the floor, you should ___.",
+          "options": {
+            "A": "Walk over it",
+            "B": "Pick it up and put it in the dustbin",
+            "C": "Ignore it",
+            "D": "Kick it"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "We should keep our surroundings clean by putting garbage in the dustbin"
+        },
+        {
+          "num": 24,
+          "content": "Helping others makes us feel ___.",
+          "options": {
+            "A": "Sad",
+            "B": "Tired",
+            "C": "Happy",
+            "D": "Angry"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Helping others is a kind act that makes us and others happy"
+        },
+        {
+          "num": 25,
+          "content": "You should ___ before entering someone's room.",
+          "options": {
+            "A": "Peek inside",
+            "B": "Just walk in",
+            "C": "Knock and wait",
+            "D": "Shout loudly"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "Good manners mean knocking and waiting before entering someone's room"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "Think carefully about these life skill situations!",
+      "questions": [
+        {
+          "num": 26,
+          "content": "Your friend forgot their lunch. What should you do?",
+          "options": {
+            "A": "Laugh at them",
+            "B": "Share your lunch with them",
+            "C": "Ignore them",
+            "D": "Eat in front of them"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "We should help our friends — sharing shows kindness"
+        },
+        {
+          "num": 27,
+          "content": "If you are lost in a market, what should you do?",
+          "options": {
+            "A": "Stay calm and ask a shopkeeper or police for help",
+            "B": "Cry and run around",
+            "C": "Go with any stranger who offers help",
+            "D": "Keep walking alone"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Stay calm and ask a trusted adult like a shopkeeper or police officer for help"
+        },
+        {
+          "num": 28,
+          "content": "Making fun of someone because they are different is ___.",
+          "options": {
+            "A": "Okay",
+            "B": "Funny",
+            "C": "Good",
+            "D": "Wrong and hurtful"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "We should never make fun of anyone — everyone deserves respect"
+        },
+        {
+          "num": 29,
+          "content": "If you see an old person struggling to carry bags, you should ___.",
+          "options": {
+            "A": "Run away",
+            "B": "Laugh at them",
+            "C": "Ignore them",
+            "D": "Offer to help"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "We should always help elderly people — it shows respect and kindness"
+        },
+        {
+          "num": 30,
+          "content": "Being honest even when it's difficult is ___.",
+          "options": {
+            "A": "Wrong",
+            "B": "Brave and right",
+            "C": "Unnecessary",
+            "D": "Silly"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "Being honest, even when it's hard, is brave and the right thing to do"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

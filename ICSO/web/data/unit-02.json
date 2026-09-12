@@ -1,0 +1,426 @@
+{
+  "id": "02",
+  "slug": "unit-02-introduction-to-computers",
+  "num": 2,
+  "title": "Introduction to Computers",
+  "emoji": "💻",
+  "parentNote": "If you have a computer or laptop at home, let your child watch you turn it on and shut it down properly before this unit — seeing the real \"Shut Down\" step makes Q27 much easier to remember.",
+  "learnBullets": [
+    "What a **computer** is, and why we call it a \"smart machine\"",
+    "A computer **follows instructions** — it cannot think or decide on its own",
+    "How to **turn ON** and **safely shut down** a computer",
+    "Everyday things a computer can help us do"
+  ],
+  "learnItFirst": "**A computer is an electronic machine** that follows instructions to store information, do calculations, and show us pictures, words, and videos.\n\n```\nYOU give an instruction  →  COMPUTER follows it  →  COMPUTER shows the result\n```\n\n**The most important rule:** A computer has **no brain or feelings of its own**. It cannot think, decide, or do anything unless a person tells it what to do. It is smart because it follows instructions super fast — not because it thinks by itself.\n\n**Turning a computer ON and OFF the right way:**\n| Step | What to do |\n|---|---|\n| Turning ON | Press the **Power button** |\n| Turning OFF | **Save your work**, close programs, then use **Shut Down** — never just pull the plug! |\n\n### 🧠 How to Solve — 3 Easy Steps\n1. **Ask:** does this need a person to give an instruction first? (The answer is almost always YES.)\n2. **Remember:** a computer is a machine, not a living, thinking being.\n3. **Think** about the SAFE way to do something (like shutting down) before picking an answer.\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "What is a computer?",
+          "options": {
+            "A": "A machine that helps us do work",
+            "B": "An animal",
+            "C": "A living thing",
+            "D": "A toy that eats food"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A computer is an electronic machine, not a living thing"
+        },
+        {
+          "num": 2,
+          "content": "Does a computer have its own brain and feelings like a human?",
+          "options": {
+            "A": "Only big computers do",
+            "B": "Yes",
+            "C": "No, it follows instructions",
+            "D": "Sometimes"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A computer has no brain or feelings of its own"
+        },
+        {
+          "num": 3,
+          "content": "Which of these is a computer?",
+          "options": {
+            "A": "🖥️ Desktop computer",
+            "B": "🚗 Car",
+            "C": "📚 Book",
+            "D": "🪑 Chair"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A desktop is a real computer; the others are not"
+        },
+        {
+          "num": 4,
+          "content": "A computer is often called a \"___ machine\" because it works so fast and smartly.",
+          "options": {
+            "A": "Smart",
+            "B": "Slow",
+            "C": "Heavy",
+            "D": "Silly"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A computer is called a smart machine because it follows instructions quickly"
+        },
+        {
+          "num": 5,
+          "content": "What do we press to turn ON a computer?",
+          "options": {
+            "A": "Mouse",
+            "B": "Screen",
+            "C": "Power button",
+            "D": "Keyboard"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "The power button turns a computer ON"
+        },
+        {
+          "num": 6,
+          "content": "Which of these can a computer do?",
+          "options": {
+            "A": "Grow taller",
+            "B": "Store information",
+            "C": "Eat food",
+            "D": "Sleep"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Computers store information; they cannot eat, sleep, or grow"
+        },
+        {
+          "num": 7,
+          "content": "A computer needs someone to give it instructions. Who gives these instructions?",
+          "options": {
+            "A": "The computer itself",
+            "B": "No one",
+            "C": "A human user",
+            "D": "The electricity"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A person must give the computer instructions to follow"
+        },
+        {
+          "num": 8,
+          "content": "Which of these is NOT something a computer can do on its own, without any instructions?",
+          "options": {
+            "A": "Show pictures when told to",
+            "B": "Think and decide by itself",
+            "C": "Play a video when told to",
+            "D": "Add numbers when told to"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A computer cannot think or decide on its own — everything else needs a \"when told to\" instruction"
+        },
+        {
+          "num": 9,
+          "content": "What should you do before turning off a computer properly?",
+          "options": {
+            "A": "Pour water on it",
+            "B": "Hit the screen",
+            "C": "Shut it down properly using the Shut Down option",
+            "D": "Just pull out the plug"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "This protects the computer and saves your work"
+        },
+        {
+          "num": 10,
+          "content": "A computer that you can easily carry around is called a:",
+          "options": {
+            "A": "Fan",
+            "B": "Laptop",
+            "C": "Printer",
+            "D": "Desktop"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "A laptop is designed to be carried around easily"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "Which of these words best describes a computer?",
+          "options": {
+            "A": "Animal",
+            "B": "Living being",
+            "C": "Electronic machine",
+            "D": "Food item"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A computer is an electronic machine"
+        },
+        {
+          "num": 12,
+          "content": "A computer follows a set of step-by-step instructions called a:",
+          "options": {
+            "A": "Song",
+            "B": "Game only",
+            "C": "Picture",
+            "D": "Program"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "A set of step-by-step instructions is called a program"
+        },
+        {
+          "num": 13,
+          "content": "Is this TRUE or FALSE? \"A computer can think and feel just like a person.\"",
+          "options": {
+            "A": "False",
+            "B": "Sometimes true",
+            "C": "Only robots think",
+            "D": "True"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A computer cannot think or feel like a person"
+        },
+        {
+          "num": 14,
+          "content": "Which of these is a correct step while shutting down a computer safely?",
+          "options": {
+            "A": "Hit the power button hard",
+            "B": "Save your work first",
+            "C": "Leave all programs open",
+            "D": "Pull the plug immediately"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Saving your work before shutting down keeps it safe"
+        },
+        {
+          "num": 15,
+          "content": "A desktop computer usually stays:",
+          "options": {
+            "A": "In one place on a table",
+            "B": "In your pocket",
+            "C": "In the fridge",
+            "D": "Underwater"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A desktop computer is meant to stay in one place"
+        },
+        {
+          "num": 16,
+          "content": "Which of these is an example of a \"smart machine\" like a computer?",
+          "options": {
+            "A": "A wooden chair",
+            "B": "A plain stone",
+            "C": "A cotton ball",
+            "D": "A calculator that can also store pictures and videos"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "This is an electronic device that follows instructions, like a computer"
+        },
+        {
+          "num": 17,
+          "content": "Why do we call a computer \"smart\"?",
+          "options": {
+            "A": "It can quickly follow instructions, store, and show information",
+            "B": "It can walk around",
+            "C": "It gets tired like us",
+            "D": "It can talk on its own without instructions"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "This is why we call a computer \"smart,\" not because it thinks on its own"
+        },
+        {
+          "num": 18,
+          "content": "If you don't give a computer any instructions, what will it do?",
+          "options": {
+            "A": "Turn itself off immediately",
+            "B": "Nothing — it waits for instructions",
+            "C": "Start crying",
+            "D": "Decide something on its own"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Without instructions, a computer simply waits"
+        },
+        {
+          "num": 19,
+          "content": "What is the FIRST thing you should do when you sit down to use a computer?",
+          "options": {
+            "A": "Unplug it",
+            "B": "Turn it ON using the power button",
+            "C": "Shout at it",
+            "D": "Close your eyes"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "You must turn it on before you can use it"
+        },
+        {
+          "num": 20,
+          "content": "Which of these tasks can a computer help you do?",
+          "options": {
+            "A": "Draw a picture",
+            "B": "Play a learning game",
+            "C": "Write a letter",
+            "D": "All of these"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "A computer can help with drawing, writing, and playing learning games"
+        },
+        {
+          "num": 21,
+          "content": "When a computer is shut down the WRONG way (like just cutting the power), what could happen?",
+          "options": {
+            "A": "It becomes faster",
+            "B": "Nothing bad ever happens",
+            "C": "The computer becomes a robot",
+            "D": "Unsaved work could be lost"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Cutting power suddenly can lose work that wasn't saved"
+        },
+        {
+          "num": 22,
+          "content": "A computer is different from a TV because a computer can:",
+          "options": {
+            "A": "Follow many different instructions we give it",
+            "B": "Only show one channel",
+            "C": "Never be turned off",
+            "D": "Only play music"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A computer can be told to do many different tasks; a TV mostly just shows channels"
+        },
+        {
+          "num": 23,
+          "content": "Which is TRUE about computers?",
+          "options": {
+            "A": "They run on food",
+            "B": "They grow bigger every year",
+            "C": "They never need electricity",
+            "D": "They need electricity/power to work"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Computers run on electricity"
+        },
+        {
+          "num": 24,
+          "content": "Which of these would you NOT use a computer for?",
+          "options": {
+            "A": "Writing a story",
+            "B": "Drinking water",
+            "C": "Playing a puzzle game",
+            "D": "Drawing a picture"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A computer cannot be used for drinking water — it's not a real task for it"
+        },
+        {
+          "num": 25,
+          "content": "A computer stores information so that we can:",
+          "options": {
+            "A": "Forget it forever",
+            "B": "Use it again later",
+            "C": "Throw it away",
+            "D": "Eat it"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "Storing information lets us use it again whenever we need it"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 26,
+          "content": "Riya says, \"My computer decided to make me a birthday card all by itself, with no help from me.\" Is this possible?",
+          "options": {
+            "A": "Only on Sundays",
+            "B": "Only laptops can do this",
+            "C": "No, someone must have given it instructions to do that",
+            "D": "Yes, computers can decide things on their own"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A computer cannot decide anything on its own"
+        },
+        {
+          "num": 27,
+          "content": "Which is the correct order of steps to safely turn OFF a computer?",
+          "options": {
+            "A": "Pull the plug → Save work",
+            "B": "Shut Down → Save work → Close programs",
+            "C": "Save work → Close programs → Shut Down",
+            "D": "Just walk away"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "This is the safe order for shutting down"
+        },
+        {
+          "num": 28,
+          "content": "A computer follows instructions VERY fast. If a person can add 2 numbers in 5 seconds, a computer could add thousands of numbers in:",
+          "options": {
+            "A": "A much longer time",
+            "B": "It cannot add numbers",
+            "C": "The exact same time",
+            "D": "A much shorter time"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Computers follow instructions and calculate much faster than people"
+        },
+        {
+          "num": 29,
+          "content": "Why is it important to shut down a computer properly instead of just switching off the power?",
+          "options": {
+            "A": "It makes no difference at all",
+            "B": "To make it slower",
+            "C": "To make the computer angry",
+            "D": "To protect the computer and save your work safely"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Proper shut down avoids losing work or harming the computer"
+        },
+        {
+          "num": 30,
+          "content": "Sam's computer is switched on, but he hasn't typed or clicked anything for 10 minutes. What will the computer most likely do?",
+          "options": {
+            "A": "Turn into a robot",
+            "B": "Automatically write an essay",
+            "C": "Start dancing on its own",
+            "D": "Wait patiently for the next instruction"
+          },
+          "trailingContext": "---",
+          "correct": "D",
+          "why": "A computer just waits until it is given another instruction"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

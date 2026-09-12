@@ -1,0 +1,425 @@
+{
+  "id": "05",
+  "slug": "unit-05-keyboard-and-mouse",
+  "num": 5,
+  "title": "Keyboard and Mouse",
+  "emoji": "⌨️",
+  "parentNote": "Let your child practice on a real (or toy) keyboard and mouse while going through this unit — feeling where the Space bar, Enter, and Backspace keys actually are makes these questions stick much better than reading alone.",
+  "learnBullets": [
+    "Important keyboard keys: **Space bar, Enter, Backspace, Shift, Caps Lock, Arrow keys**",
+    "Mouse actions: **click, double-click, right-click, scroll, drag**",
+    "Which key or mouse action to use for a given task"
+  ],
+  "learnItFirst": "**Keyboard keys:**\n| Key | What it does |\n|---|---|\n| Space bar | Leaves a space between words (the longest key!) |\n| Enter | Moves to a new line / confirms |\n| Backspace | Erases the letter BEFORE the cursor |\n| Shift | Types a CAPITAL letter while held down |\n| Caps Lock | Locks typing to ALL CAPITAL letters |\n| Arrow keys | Move the cursor up, down, left, right |\n\n**Mouse actions:**\n| Action | What it does |\n|---|---|\n| Click | Selects or presses something once |\n| Double-click | Click twice quickly — opens a file or icon |\n| Right-click | Opens a menu with more options |\n| Scroll (wheel) | Moves the page up or down |\n| Drag | Click, hold, and move something across the screen |\n\n### 🧠 How to Solve — 3 Easy Steps\n1. **Picture** what needs to happen (a space? a capital letter? opening a game?).\n2. **Match** it to the ONE key or mouse action that does exactly that.\n3. **Double-check**: keyboard keys are for typing; mouse actions are for pointing, clicking, and selecting.\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "Which key do we press to leave a SPACE between two words?",
+          "options": {
+            "A": "Space bar",
+            "B": "Enter",
+            "C": "Shift",
+            "D": "Backspace"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "The Space bar leaves a space between words"
+        },
+        {
+          "num": 2,
+          "content": "Which part of the mouse do we press to select something?",
+          "options": {
+            "A": "Click button",
+            "B": "Battery",
+            "C": "Wire",
+            "D": "Wheel only"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "We press the mouse button to select something"
+        },
+        {
+          "num": 3,
+          "content": "Moving the mouse moves the ___ on the screen.",
+          "options": {
+            "A": "Keyboard",
+            "B": "Pointer/cursor",
+            "C": "Printer",
+            "D": "Speaker"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Moving the mouse moves the pointer on the screen"
+        },
+        {
+          "num": 4,
+          "content": "Which key do we press to move to a NEW LINE while typing?",
+          "options": {
+            "A": "Caps Lock",
+            "B": "Space bar",
+            "C": "Enter key",
+            "D": "Shift key"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "The Enter key moves typing to a new line"
+        },
+        {
+          "num": 5,
+          "content": "The keyboard has keys for letters, numbers, and:",
+          "options": {
+            "A": "Pictures only",
+            "B": "Special keys like Enter and Space bar",
+            "C": "Water",
+            "D": "Food"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Keyboards have letters, numbers, and special keys"
+        },
+        {
+          "num": 6,
+          "content": "To erase the letter you just typed, which key do you press?",
+          "options": {
+            "A": "Enter",
+            "B": "Shift",
+            "C": "Backspace",
+            "D": "Space bar"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Backspace erases the letter just typed"
+        },
+        {
+          "num": 7,
+          "content": "Clicking the mouse button TWICE quickly is called a:",
+          "options": {
+            "A": "Double-click",
+            "B": "No click",
+            "C": "Triple click",
+            "D": "Single click"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Clicking twice quickly is called a double-click"
+        },
+        {
+          "num": 8,
+          "content": "Which of these is used to type letters and numbers?",
+          "options": {
+            "A": "Keyboard",
+            "B": "Speaker",
+            "C": "Mouse",
+            "D": "Monitor"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "The keyboard is used for typing"
+        },
+        {
+          "num": 9,
+          "content": "The Caps Lock key helps us type letters in:",
+          "options": {
+            "A": "Only symbols",
+            "B": "Only small letters",
+            "C": "ALL CAPITAL letters",
+            "D": "Only numbers"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Caps Lock makes every letter capital while it's on"
+        },
+        {
+          "num": 10,
+          "content": "Which key is usually the LONGEST key on the keyboard?",
+          "options": {
+            "A": "Caps Lock",
+            "B": "Shift",
+            "C": "Enter",
+            "D": "Space bar"
+          },
+          "trailingContext": "---",
+          "correct": "D",
+          "why": "The Space bar is the longest key on the keyboard"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "Pressing the Shift key while typing a letter gives us a:",
+          "options": {
+            "A": "Space",
+            "B": "Capital (uppercase) letter",
+            "C": "Small (lowercase) letter",
+            "D": "Number only"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Shift + a letter key types a capital letter"
+        },
+        {
+          "num": 12,
+          "content": "The 4 keys used to move the cursor up, down, left, and right are called the:",
+          "options": {
+            "A": "Space keys",
+            "B": "Number keys",
+            "C": "Shift keys",
+            "D": "Arrow keys"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "The 4 direction keys are called arrow keys"
+        },
+        {
+          "num": 13,
+          "content": "Which mouse action opens a file or program by clicking twice quickly?",
+          "options": {
+            "A": "Double-click",
+            "B": "Scrolling",
+            "C": "Single click",
+            "D": "Dragging"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Double-clicking opens a file or program"
+        },
+        {
+          "num": 14,
+          "content": "Which part of the mouse helps us scroll up and down a page?",
+          "options": {
+            "A": "Wire",
+            "B": "Bottom sensor",
+            "C": "Left button",
+            "D": "Scroll wheel"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "The scroll wheel moves the page up and down"
+        },
+        {
+          "num": 15,
+          "content": "Clicking, holding, and moving the mouse to shift a picture on the screen is called:",
+          "options": {
+            "A": "Typing",
+            "B": "Printing",
+            "C": "Dragging",
+            "D": "Deleting"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Click, hold, and move — this is dragging"
+        },
+        {
+          "num": 16,
+          "content": "Right-clicking the mouse usually:",
+          "options": {
+            "A": "Prints a page",
+            "B": "Opens a menu with more options",
+            "C": "Turns off the computer",
+            "D": "Plays music"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Right-click usually shows a menu"
+        },
+        {
+          "num": 17,
+          "content": "Which key erases the letter that comes BEFORE the cursor when typing?",
+          "options": {
+            "A": "Backspace",
+            "B": "Caps Lock",
+            "C": "Shift",
+            "D": "Enter"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Backspace erases the letter before the cursor"
+        },
+        {
+          "num": 18,
+          "content": "On a keyboard, the top row of letter keys usually starts with the letters:",
+          "options": {
+            "A": "Q, W, E, R, T, Y",
+            "B": "M, N, O, P",
+            "C": "A, B, C, D, E, F",
+            "D": "Z, Y, X, W, V"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "This is the standard top row of a keyboard"
+        },
+        {
+          "num": 19,
+          "content": "Which of these do you use to click and select an item on the screen?",
+          "options": {
+            "A": "Mouse",
+            "B": "Speaker",
+            "C": "Keyboard",
+            "D": "Printer"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "The mouse is used to click and select"
+        },
+        {
+          "num": 20,
+          "content": "Which key confirms what you typed and moves to the next line?",
+          "options": {
+            "A": "Backspace",
+            "B": "Shift",
+            "C": "Enter key",
+            "D": "Space bar"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Enter confirms and moves to a new line"
+        },
+        {
+          "num": 21,
+          "content": "If Caps Lock is turned ON and you press the letter \"a\" key, what happens?",
+          "options": {
+            "A": "Nothing happens",
+            "B": "It types a small \"a\"",
+            "C": "It types a capital \"A\"",
+            "D": "It deletes a letter"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Caps Lock makes all letters capital while it's on"
+        },
+        {
+          "num": 22,
+          "content": "Which of these is TRUE about a mouse?",
+          "options": {
+            "A": "It is used only for printing",
+            "B": "It helps us point, click, and select things on the screen",
+            "C": "It types letters",
+            "D": "It has no buttons at all"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "This describes what a mouse does"
+        },
+        {
+          "num": 23,
+          "content": "To type the number \"5\", which type of key would you press?",
+          "options": {
+            "A": "The Enter key",
+            "B": "The Shift key alone",
+            "C": "An arrow key",
+            "D": "A number key"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Number keys are used to type numbers"
+        },
+        {
+          "num": 24,
+          "content": "Clicking and dragging the mouse to select many letters or words at once is called:",
+          "options": {
+            "A": "Deleting",
+            "B": "Dragging",
+            "C": "Shutting down",
+            "D": "Printing"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Clicking and moving the mouse to select is dragging"
+        },
+        {
+          "num": 25,
+          "content": "Which of these is NOT something you do with a mouse?",
+          "options": {
+            "A": "Clicking",
+            "B": "Typing letters",
+            "C": "Scrolling",
+            "D": "Dragging"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "Typing letters is done with the keyboard, not the mouse"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 26,
+          "content": "Priya wants to type \"Hi\" with a capital \"H\" and small \"i\". Which key should she hold while typing \"H\"?",
+          "options": {
+            "A": "Backspace key",
+            "B": "Enter key",
+            "C": "Space bar",
+            "D": "Shift key"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Holding Shift while typing a letter makes it capital"
+        },
+        {
+          "num": 27,
+          "content": "Which of these correctly matches a keyboard key to its use?",
+          "options": {
+            "A": "Space bar — deletes a letter",
+            "B": "Backspace — leaves a space",
+            "C": "Shift — moves the cursor",
+            "D": "Enter — moves to a new line"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "This is the correct match"
+        },
+        {
+          "num": 28,
+          "content": "Sam typed \"helllo\" by mistake (with an extra \"l\"). Which key should he use to fix it?",
+          "options": {
+            "A": "Shift",
+            "B": "Space bar",
+            "C": "Enter",
+            "D": "Backspace, to delete the extra letter"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Backspace removes the mistyped letter"
+        },
+        {
+          "num": 29,
+          "content": "Meena wants to open a game icon on the screen using the mouse. What should she do?",
+          "options": {
+            "A": "Unplug the mouse",
+            "B": "Shake the mouse",
+            "C": "Double-click on the icon",
+            "D": "Press the Space bar"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Double-clicking an icon opens it"
+        },
+        {
+          "num": 30,
+          "content": "Which of these correctly matches a mouse action to what it does?",
+          "options": {
+            "A": "Scrolling — types letters",
+            "B": "Right-click — opens a menu with more options",
+            "C": "Left-click alone — always deletes a file",
+            "D": "Dragging — turns off the computer"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "This is the correct match"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

@@ -1,0 +1,427 @@
+{
+  "id": "01",
+  "slug": "unit-01-living-and-non-living-things",
+  "num": 1,
+  "title": "Living and Non-Living Things",
+  "emoji": "🌱",
+  "parentNote": "This unit covers the basic differences between living and non-living things. Help your child spot examples around the house!",
+  "learnBullets": [
+    "Know what **living things** are and their characteristics",
+    "Know what **non-living things** are",
+    "Understand that living things **need food, water, and air**",
+    "Learn that living things **grow, move, and reproduce**",
+    "Identify examples of **living and non-living things** around us"
+  ],
+  "learnItFirst": "**1. What are Living Things?**\n\nLiving things are things that are **alive**. They can:\n- **Breathe** (need air)\n- **Eat** (need food)\n- **Drink** (need water)\n- **Grow** (become bigger)\n- **Move** (on their own)\n- **Reproduce** (have babies)\n- **Feel** (respond to things around them)\n\n**Examples:** Humans, animals, birds, insects, fish, plants, trees\n\n---\n\n**2. What are Non-Living Things?**\n\nNon-living things are things that are **not alive**. They:\n- Do NOT breathe\n- Do NOT eat or drink\n- Do NOT grow on their own\n- Do NOT have babies\n- Cannot move on their own\n\n**Examples:** Chair, table, stone, water, toys, books, car, bicycle\n\n---\n\n**3. Special Cases**\n\n- **Plants** are living things even though they don't walk around!\n- **Dead things** (like dry leaves, wooden furniture) were once living but are not alive now\n- **Water, air** are non-living but living things need them to survive\n\n---\n\n**4. Easy Way to Remember**\n\nAsk: \"Can it breathe? Can it grow on its own? Can it have babies?\"\n- If YES to all → **Living**\n- If NO to all → **Non-Living**\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "Which of these is a living thing?",
+          "options": {
+            "A": "Stone",
+            "B": "Ball",
+            "C": "Dog",
+            "D": "Chair"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A dog is alive — it breathes, eats, grows, and moves"
+        },
+        {
+          "num": 2,
+          "content": "Which of these is a non-living thing?",
+          "options": {
+            "A": "Cat",
+            "B": "Fish",
+            "C": "Tree",
+            "D": "Book"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "A book is not alive — it cannot breathe, eat, or grow"
+        },
+        {
+          "num": 3,
+          "content": "Living things need ___ to breathe.",
+          "options": {
+            "A": "Stones",
+            "B": "Air",
+            "C": "Books",
+            "D": "Toys"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "All living things need air to breathe and stay alive"
+        },
+        {
+          "num": 4,
+          "content": "Which of these can grow?",
+          "options": {
+            "A": "A pencil",
+            "B": "A toy car",
+            "C": "A table",
+            "D": "A plant"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "A plant is a living thing and can grow bigger"
+        },
+        {
+          "num": 5,
+          "content": "A bird is a ___.",
+          "options": {
+            "A": "Machine",
+            "B": "Robot",
+            "C": "Living thing",
+            "D": "Non-living thing"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A bird is alive — it breathes, eats, grows, flies, and lays eggs"
+        },
+        {
+          "num": 6,
+          "content": "Which of these can move on its own?",
+          "options": {
+            "A": "Butterfly",
+            "B": "Stone",
+            "C": "Bottle",
+            "D": "Table"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A butterfly can fly and move on its own because it is a living thing"
+        },
+        {
+          "num": 7,
+          "content": "Living things need ___ to drink.",
+          "options": {
+            "A": "Water",
+            "B": "Juice only",
+            "C": "Nothing",
+            "D": "Milk only"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "All living things need water to survive"
+        },
+        {
+          "num": 8,
+          "content": "Which of these is NOT a living thing?",
+          "options": {
+            "A": "Frog",
+            "B": "Rose plant",
+            "C": "Rock",
+            "D": "Ant"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A rock is not alive — it cannot breathe, eat, or grow"
+        },
+        {
+          "num": 9,
+          "content": "A fish is a living thing because it can ___.",
+          "options": {
+            "A": "Walk on land",
+            "B": "Talk like humans",
+            "C": "Fly in the sky",
+            "D": "Breathe, swim, and grow"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Fish breathe (through gills), swim, eat, and grow — all signs of life"
+        },
+        {
+          "num": 10,
+          "content": "Which of these needs food to live?",
+          "options": {
+            "A": "A toy",
+            "B": "A rabbit",
+            "C": "A shoe",
+            "D": "A clock"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "A rabbit is a living thing and needs food to stay alive"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "Which of the following is TRUE about living things?",
+          "options": {
+            "A": "They grow and reproduce",
+            "B": "They do not need food",
+            "C": "They cannot move",
+            "D": "They are made of plastic"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Living things grow bigger and can have babies (reproduce)"
+        },
+        {
+          "num": 12,
+          "content": "A wooden table is a non-living thing. The wood came from a ___.",
+          "options": {
+            "A": "River",
+            "B": "Stone",
+            "C": "Cloud",
+            "D": "Tree"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Wood comes from trees. Trees are living, but when cut and made into furniture, it becomes non-living"
+        },
+        {
+          "num": 13,
+          "content": "Riya saw a thing that breathes, eats, and grows. It is most likely a ___.",
+          "options": {
+            "A": "Robot",
+            "B": "Living thing",
+            "C": "Stone",
+            "D": "Computer"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Breathing, eating, and growing are characteristics of living things"
+        },
+        {
+          "num": 14,
+          "content": "Which of these groups has ONLY living things?",
+          "options": {
+            "A": "Fish, Water, Bird",
+            "B": "Book, Pen, Ant",
+            "C": "Dog, Cat, Ball",
+            "D": "Tree, Flower, Grass"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Tree, flower, and grass are all plants — all are living things"
+        },
+        {
+          "num": 15,
+          "content": "Plants are living things. How do they get their food?",
+          "options": {
+            "A": "They make their own food using sunlight",
+            "B": "They don't need food",
+            "C": "They eat other animals",
+            "D": "They go to shops"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Plants make their own food using sunlight, water, and air"
+        },
+        {
+          "num": 16,
+          "content": "Which of these can have babies?",
+          "options": {
+            "A": "A chair",
+            "B": "A bottle",
+            "C": "A pencil",
+            "D": "A hen"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "A hen is a living thing and can lay eggs (have babies)"
+        },
+        {
+          "num": 17,
+          "content": "Amit's toy car can move when he pushes it. Is the toy car living?",
+          "options": {
+            "A": "Yes, because it moves",
+            "B": "No, it cannot move on its own",
+            "C": "No, because it is red",
+            "D": "Yes, because it has wheels"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "The toy car needs someone to push it — it cannot move on its own, so it's non-living"
+        },
+        {
+          "num": 18,
+          "content": "Which of these groups has ONLY non-living things?",
+          "options": {
+            "A": "Chair, Table, Cup",
+            "B": "Dog, Chair, Cat",
+            "C": "Bird, Tree, Flower",
+            "D": "Plant, Rock, Fish"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Chair, table, and cup are all non-living things"
+        },
+        {
+          "num": 19,
+          "content": "A dead leaf on the ground is ___.",
+          "options": {
+            "A": "A living thing",
+            "B": "A non-living thing now",
+            "C": "A machine",
+            "D": "An animal"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A dead leaf was once part of a living tree, but now it is not alive anymore"
+        },
+        {
+          "num": 20,
+          "content": "Water is a non-living thing, but living things need it to ___.",
+          "options": {
+            "A": "Read books",
+            "B": "Watch TV",
+            "C": "Play games",
+            "D": "Survive"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "All living things need water to survive and stay healthy"
+        },
+        {
+          "num": 21,
+          "content": "Which living thing does NOT have legs but can still move?",
+          "options": {
+            "A": "Hen",
+            "B": "Cat",
+            "C": "Snake",
+            "D": "Dog"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A snake has no legs but can crawl and move on its own"
+        },
+        {
+          "num": 22,
+          "content": "A robot can walk and talk. Is it a living thing?",
+          "options": {
+            "A": "No, because it is big",
+            "B": "Yes, because it talks",
+            "C": "No, it is a machine",
+            "D": "Yes, because it walks"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A robot is a machine — it cannot breathe, eat, grow, or have babies on its own"
+        },
+        {
+          "num": 23,
+          "content": "Which of these can feel hot and cold?",
+          "options": {
+            "A": "A human",
+            "B": "A stone",
+            "C": "A spoon",
+            "D": "A toy"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Humans can feel hot and cold — living things can respond to their surroundings"
+        },
+        {
+          "num": 24,
+          "content": "Meena planted a seed. After some days, a small plant came out. This shows that ___.",
+          "options": {
+            "A": "Plants don't need water",
+            "B": "Seeds can grow into plants",
+            "C": "Seeds are non-living",
+            "D": "Seeds are made of plastic"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Seeds are living and can grow into new plants when given water, soil, and sunlight"
+        },
+        {
+          "num": 25,
+          "content": "Which of these statements is CORRECT?",
+          "options": {
+            "A": "Plants are non-living things",
+            "B": "Living things need food, water, and air",
+            "C": "All living things are animals",
+            "D": "Non-living things can grow"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "All living things — animals and plants — need food, water, and air to survive"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "These questions are a bit tricky. Think carefully!",
+      "questions": [
+        {
+          "num": 26,
+          "content": "Rahul says, \"My bicycle can move, so it is a living thing.\" Is Rahul correct?",
+          "options": {
+            "A": "No, because it is heavy",
+            "B": "No, the bicycle cannot move on its own without someone riding it",
+            "C": "Yes, because the bicycle has wheels",
+            "D": "Yes, because it is made of metal"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A bicycle needs someone to ride it — it cannot move, breathe, eat, or grow on its own"
+        },
+        {
+          "num": 27,
+          "content": "Which of these was ONCE a living thing but is now non-living?",
+          "options": {
+            "A": "A glass window",
+            "B": "A metal spoon",
+            "C": "A leather shoe",
+            "D": "A plastic bottle"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Leather comes from animal skin — the animal was once living, but leather is now non-living"
+        },
+        {
+          "num": 28,
+          "content": "Priya's plant does not walk or run, but it is still a living thing. Why?",
+          "options": {
+            "A": "Because it grows, needs water, and makes seeds",
+            "B": "Because Priya waters it",
+            "C": "Because it is in a pot",
+            "D": "Because it is green"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Plants grow, need water and sunlight, and make seeds (reproduce) — all signs of life"
+        },
+        {
+          "num": 29,
+          "content": "A car needs petrol to run. A human needs food to live. Which statement is TRUE?",
+          "options": {
+            "A": "Human is living; car is a machine",
+            "B": "Both are non-living things",
+            "C": "Both car and human are living things",
+            "D": "Car is living because it needs petrol"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A human is a living thing (breathes, eats, grows). A car is a machine — it cannot grow or have babies"
+        },
+        {
+          "num": 30,
+          "content": "Rohan found something in the garden. It does not breathe. It does not eat. It does not grow. But it was once part of a living thing. What could it be?",
+          "options": {
+            "A": "A glass marble",
+            "B": "A plastic ball",
+            "C": "A fallen dry twig",
+            "D": "A rubber tire"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "A dry twig came from a tree (living thing) but is now dead and non-living"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

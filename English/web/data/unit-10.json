@@ -1,0 +1,426 @@
+{
+  "id": "10",
+  "slug": "unit-10-simple-tenses",
+  "num": 10,
+  "title": "Simple Tenses",
+  "emoji": "⏰",
+  "parentNote": "Tenses tell us WHEN something happens. Use daily activities to practice: \"Yesterday I played (past). Today I play (present). Tomorrow I will play (future).\" Time words are helpful clues!",
+  "learnBullets": [
+    "What **tense** means — it tells us when something happens",
+    "**Simple Present**: things that happen regularly or are always true",
+    "**Simple Past**: things that already happened (yesterday, last week)",
+    "**Simple Future**: things that will happen later (tomorrow, next week)"
+  ],
+  "learnItFirst": "**What is Tense?**\nTense tells us **when** an action happens — now, before, or later.\n\n**The Three Simple Tenses:**\n\n| Tense | When | Example | Time Words |\n|-------|------|---------|------------|\n| Simple Present | Now, regularly, always | I **play** every day. | always, usually, every day, sometimes |\n| Simple Past | Before, already done | I **played** yesterday. | yesterday, last week, ago, in 2020 |\n| Simple Future | Later, not yet | I **will play** tomorrow. | tomorrow, next week, soon, later |\n\n**Simple Present:**\n- For habits: She **brushes** her teeth every morning.\n- For facts: The sun **rises** in the east.\n- Add **-s** or **-es** for he/she/it: He run**s**, She go**es**\n\n**Simple Past:**\n- Add **-ed** to most verbs: play → play**ed**, walk → walk**ed**\n- Some verbs change completely: go → **went**, eat → **ate**, see → **saw**\n\n**Simple Future:**\n- Use **will + verb**: I **will** go, She **will** come\n- Use **going to**: I am **going to** play\n\n### 🧠 How to Choose the Right Tense\n1. **Look for time words:** yesterday = past, tomorrow = future\n2. **Ask:** Did it already happen? Is it happening now? Will it happen later?\n3. **Match** the verb form to the time\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "\"I ___ to school every day.\" (present)",
+          "options": {
+            "A": "going",
+            "B": "go",
+            "C": "will go",
+            "D": "went"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"Every day\" = present tense"
+        },
+        {
+          "num": 2,
+          "content": "\"She ___ a book yesterday.\" (past)",
+          "options": {
+            "A": "read",
+            "B": "reading",
+            "C": "will read",
+            "D": "reads"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "\"Yesterday\" = past tense (read is same in past)"
+        },
+        {
+          "num": 3,
+          "content": "\"We ___ to the park tomorrow.\" (future)",
+          "options": {
+            "A": "go",
+            "B": "going",
+            "C": "will go",
+            "D": "went"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "\"Tomorrow\" = future tense"
+        },
+        {
+          "num": 4,
+          "content": "\"He ___ breakfast at 8 o'clock every morning.\"",
+          "options": {
+            "A": "eat",
+            "B": "ate",
+            "C": "will eat",
+            "D": "eats"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "\"Every morning\" = present; he → eats"
+        },
+        {
+          "num": 5,
+          "content": "\"They ___ a movie last night.\"",
+          "options": {
+            "A": "watch",
+            "B": "will watch",
+            "C": "watches",
+            "D": "watched"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "\"Last night\" = past tense"
+        },
+        {
+          "num": 6,
+          "content": "\"I ___ help you with your bag.\"",
+          "options": {
+            "A": "do",
+            "B": "was",
+            "C": "will",
+            "D": "am"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "\"Will help\" = future tense"
+        },
+        {
+          "num": 7,
+          "content": "\"The baby ___ every night.\"",
+          "options": {
+            "A": "cries",
+            "B": "cry",
+            "C": "cried",
+            "D": "will cry"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "\"Every night\" = present; baby → cries"
+        },
+        {
+          "num": 8,
+          "content": "\"Mother ___ a cake yesterday.\"",
+          "options": {
+            "A": "will bake",
+            "B": "bakes",
+            "C": "baked",
+            "D": "bake"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "\"Yesterday\" = past tense"
+        },
+        {
+          "num": 9,
+          "content": "\"I ___ five years old last year.\"",
+          "options": {
+            "A": "will be",
+            "B": "is",
+            "C": "am",
+            "D": "was"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "\"Last year\" = past tense of \"am\""
+        },
+        {
+          "num": 10,
+          "content": "\"Tomorrow ___ be Sunday.\"",
+          "options": {
+            "A": "is",
+            "B": "will",
+            "C": "are",
+            "D": "was"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "\"Tomorrow\" = future; \"will be\""
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "\"She ___ her homework every evening.\" Choose the correct verb:",
+          "options": {
+            "A": "does",
+            "B": "will do",
+            "C": "did",
+            "D": "do"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "\"Every evening\" = present; she → does"
+        },
+        {
+          "num": 12,
+          "content": "\"The children ___ in the garden an hour ago.\"",
+          "options": {
+            "A": "will play",
+            "B": "play",
+            "C": "played",
+            "D": "plays"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "\"An hour ago\" = past tense"
+        },
+        {
+          "num": 13,
+          "content": "\"My father ___ a car next month.\"",
+          "options": {
+            "A": "will buy",
+            "B": "buy",
+            "C": "buys",
+            "D": "bought"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "\"Next month\" = future tense"
+        },
+        {
+          "num": 14,
+          "content": "Which sentence is in simple PRESENT tense?",
+          "options": {
+            "A": "I watched TV.",
+            "B": "I am watching TV.",
+            "C": "I will watch TV.",
+            "D": "I watch TV every day."
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "\"Every day\" = simple present"
+        },
+        {
+          "num": 15,
+          "content": "Which sentence is in simple PAST tense?",
+          "options": {
+            "A": "She will go to school.",
+            "B": "She goes to school.",
+            "C": "She went to school.",
+            "D": "She is going to school."
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "\"Went\" = past tense of \"go\""
+        },
+        {
+          "num": 16,
+          "content": "\"The sun ___ in the east.\" (always true fact)",
+          "options": {
+            "A": "rise",
+            "B": "rises",
+            "C": "rose",
+            "D": "will rise"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Facts that are always true use present tense"
+        },
+        {
+          "num": 17,
+          "content": "\"I ___ my grandparents last summer.\"",
+          "options": {
+            "A": "visit",
+            "B": "visits",
+            "C": "visited",
+            "D": "will visit"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "\"Last summer\" = past tense"
+        },
+        {
+          "num": 18,
+          "content": "\"We ___ a test next Monday.\"",
+          "options": {
+            "A": "had",
+            "B": "have",
+            "C": "will have",
+            "D": "has"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "\"Next Monday\" = future tense"
+        },
+        {
+          "num": 19,
+          "content": "Change to past tense: \"She eats an apple.\"",
+          "options": {
+            "A": "She will eat an apple.",
+            "B": "She eat an apple.",
+            "C": "She is eating an apple.",
+            "D": "She ate an apple."
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "\"Ate\" = past tense of \"eat\""
+        },
+        {
+          "num": 20,
+          "content": "Change to future tense: \"I play cricket.\"",
+          "options": {
+            "A": "I will play cricket.",
+            "B": "I played cricket.",
+            "C": "I am playing cricket.",
+            "D": "I plays cricket."
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "\"Will play\" = future tense"
+        },
+        {
+          "num": 21,
+          "content": "\"Yesterday, he ___ to the market and ___ vegetables.\"",
+          "options": {
+            "A": "goes, buys",
+            "B": "went, bought",
+            "C": "go, buy",
+            "D": "will go, will buy"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"Yesterday\" = past; went, bought are past forms"
+        },
+        {
+          "num": 22,
+          "content": "Which verb is in PAST tense?",
+          "options": {
+            "A": "run",
+            "B": "ran",
+            "C": "will run",
+            "D": "runs"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"Ran\" = past tense of \"run\""
+        },
+        {
+          "num": 23,
+          "content": "\"My sister ___ her room every Saturday.\"",
+          "options": {
+            "A": "clean",
+            "B": "cleaned",
+            "C": "will clean",
+            "D": "cleans"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "\"Every Saturday\" = present; sister → cleans"
+        },
+        {
+          "num": 24,
+          "content": "\"They ___ arrive at 5 o'clock this evening.\"",
+          "options": {
+            "A": "arrives",
+            "B": "will",
+            "C": "arrived",
+            "D": "arrive"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"This evening\" (later today) = future"
+        },
+        {
+          "num": 25,
+          "content": "Choose the correct sentence:",
+          "options": {
+            "A": "She goes to school every day.",
+            "B": "I goes to school every day.",
+            "C": "He go to school every day.",
+            "D": "They goes to school every day."
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "She → goes (correct present tense)"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 26,
+          "content": "Fill in all the blanks: \"Yesterday I ___ (wake) up late, so I ___ (miss) the bus. Today I ___ (will/wake) up early.\"",
+          "options": {
+            "A": "woke, missed, will wake",
+            "B": "woke, miss, wake",
+            "C": "wake, miss, woke",
+            "D": "waked, missed, will wake"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Yesterday = past; today's plan = future"
+        },
+        {
+          "num": 27,
+          "content": "How many verbs are in PAST tense?\n\"I went to the park, played on the swings, and ate ice cream. Tomorrow I will go again.\"",
+          "options": {
+            "A": "1",
+            "B": "4",
+            "C": "2",
+            "D": "3"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "went, played, ate = 3 past tense verbs"
+        },
+        {
+          "num": 28,
+          "content": "Which sentence has a WRONG verb form?",
+          "options": {
+            "A": "She plays every day.",
+            "B": "He goed to school.",
+            "C": "They played yesterday.",
+            "D": "I will come tomorrow."
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Should be \"went\" (go → went, not goed)"
+        },
+        {
+          "num": 29,
+          "content": "Complete the pattern:\n\"Every day she sings. Yesterday she ___. Tomorrow she ___.\"",
+          "options": {
+            "A": "singed, will sing",
+            "B": "sang, will sing",
+            "C": "sing, sings",
+            "D": "sung, singing"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "sing → sang (past), will sing (future)"
+        },
+        {
+          "num": 30,
+          "content": "Read and identify the tenses used:\n\"My birthday is next week. Last year, I had a party. This year, I will go to a water park.\"",
+          "options": {
+            "A": "present, past, future",
+            "B": "past, future, present",
+            "C": "future, past, present",
+            "D": "past, present, future"
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "\"is\" (present), \"had\" (past), \"will go\" (future)"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

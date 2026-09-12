@@ -1,0 +1,427 @@
+{
+  "id": "05",
+  "slug": "unit-05-the-world-around-us",
+  "num": 5,
+  "title": "The World Around Us",
+  "emoji": "🌍",
+  "parentNote": "This unit covers community helpers, places in our neighborhood, and basic world knowledge. Great for social awareness!",
+  "learnBullets": [
+    "Know about **community helpers** and their work",
+    "Learn about **places** in our neighbourhood",
+    "Understand **different countries** and continents",
+    "Know about **directions** — North, South, East, West",
+    "Learn about **world landmarks** and facts"
+  ],
+  "learnItFirst": "**1. Community Helpers**\n\n| Helper | What They Do |\n|--------|-------------|\n| Doctor 👨‍⚕️ | Treats sick people |\n| Teacher 👩‍🏫 | Teaches students |\n| Police 👮 | Keeps us safe |\n| Firefighter 🧑‍🚒 | Puts out fires |\n| Postman 📬 | Delivers letters |\n| Farmer 👨‍🌾 | Grows food |\n\n**2. Places in Our Neighbourhood**\n\n- **School** — where we study\n- **Hospital** — where sick people get treatment\n- **Post Office** — where we send letters\n- **Market** — where we buy vegetables and groceries\n- **Bank** — where we keep money safe\n\n**3. Continents of the World**\n\nThere are 7 continents: Asia, Africa, North America, South America, Europe, Australia, Antarctica\n\n**4. Directions**\n\n- The Sun rises in the **East**\n- The Sun sets in the **West**\n- **North** is up on the map\n- **South** is down on the map\n\n---\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "Who treats sick people?",
+          "options": {
+            "A": "Doctor",
+            "B": "Postman",
+            "C": "Farmer",
+            "D": "Teacher"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A doctor treats sick people and gives medicines"
+        },
+        {
+          "num": 2,
+          "content": "Who teaches us in school?",
+          "options": {
+            "A": "Teacher",
+            "B": "Driver",
+            "C": "Doctor",
+            "D": "Police"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A teacher teaches students in school"
+        },
+        {
+          "num": 3,
+          "content": "The Sun rises in the ___.",
+          "options": {
+            "A": "West",
+            "B": "South",
+            "C": "East",
+            "D": "North"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "The Sun rises in the East every morning"
+        },
+        {
+          "num": 4,
+          "content": "Who delivers letters to our home?",
+          "options": {
+            "A": "Driver",
+            "B": "Teacher",
+            "C": "Chef",
+            "D": "Postman"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "A postman delivers letters and parcels"
+        },
+        {
+          "num": 5,
+          "content": "Where do we go to study?",
+          "options": {
+            "A": "Hospital",
+            "B": "Bank",
+            "C": "School",
+            "D": "Market"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "We go to school to study and learn"
+        },
+        {
+          "num": 6,
+          "content": "Who puts out fires?",
+          "options": {
+            "A": "Doctor",
+            "B": "Police",
+            "C": "Teacher",
+            "D": "Firefighter"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Firefighters put out fires and rescue people"
+        },
+        {
+          "num": 7,
+          "content": "The Sun sets in the ___.",
+          "options": {
+            "A": "North",
+            "B": "South",
+            "C": "East",
+            "D": "West"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "The Sun sets in the West every evening"
+        },
+        {
+          "num": 8,
+          "content": "Who grows food for us?",
+          "options": {
+            "A": "Farmer",
+            "B": "Teacher",
+            "C": "Chef",
+            "D": "Doctor"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Farmers grow crops like rice, wheat, and vegetables"
+        },
+        {
+          "num": 9,
+          "content": "Where do sick people go for treatment?",
+          "options": {
+            "A": "Post Office",
+            "B": "School",
+            "C": "Market",
+            "D": "Hospital"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Sick people go to the hospital for treatment"
+        },
+        {
+          "num": 10,
+          "content": "Who keeps us safe from bad people?",
+          "options": {
+            "A": "Police",
+            "B": "Farmer",
+            "C": "Doctor",
+            "D": "Teacher"
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "Police officers keep us safe and catch criminals"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "How many continents are there in the world?",
+          "options": {
+            "A": "8",
+            "B": "6",
+            "C": "7",
+            "D": "5"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "There are 7 continents: Asia, Africa, North America, South America, Europe, Australia, and Antarctica"
+        },
+        {
+          "num": 12,
+          "content": "Who cooks food in a restaurant?",
+          "options": {
+            "A": "Chef",
+            "B": "Teacher",
+            "C": "Driver",
+            "D": "Doctor"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A chef cooks food in a restaurant or hotel"
+        },
+        {
+          "num": 13,
+          "content": "Where do we buy vegetables and fruits?",
+          "options": {
+            "A": "Hospital",
+            "B": "Bank",
+            "C": "Market",
+            "D": "School"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "We buy vegetables and fruits at the market"
+        },
+        {
+          "num": 14,
+          "content": "India is in which continent?",
+          "options": {
+            "A": "Africa",
+            "B": "Asia",
+            "C": "Europe",
+            "D": "Australia"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "India is in the continent of Asia"
+        },
+        {
+          "num": 15,
+          "content": "Who flies an aeroplane?",
+          "options": {
+            "A": "Captain",
+            "B": "Driver",
+            "C": "Conductor",
+            "D": "Pilot"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "A pilot flies an aeroplane"
+        },
+        {
+          "num": 16,
+          "content": "Where do we keep our money safely?",
+          "options": {
+            "A": "Market",
+            "B": "Bank",
+            "C": "School",
+            "D": "Hospital"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "We keep our money safely in a bank"
+        },
+        {
+          "num": 17,
+          "content": "Which is the largest continent in the world?",
+          "options": {
+            "A": "Europe",
+            "B": "Asia",
+            "C": "Africa",
+            "D": "Australia"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Asia is the largest continent in the world"
+        },
+        {
+          "num": 18,
+          "content": "Who drives a bus?",
+          "options": {
+            "A": "Captain",
+            "B": "Pilot",
+            "C": "Driver",
+            "D": "Conductor"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A driver drives a bus, car, or truck"
+        },
+        {
+          "num": 19,
+          "content": "Where do we send letters from?",
+          "options": {
+            "A": "School",
+            "B": "Post Office",
+            "C": "Bank",
+            "D": "Hospital"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "We send letters and parcels from the Post Office"
+        },
+        {
+          "num": 20,
+          "content": "Which continent is known as the 'Ice Continent'?",
+          "options": {
+            "A": "Antarctica",
+            "B": "Australia",
+            "C": "Africa",
+            "D": "Asia"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Antarctica is covered with ice and is the coldest continent"
+        },
+        {
+          "num": 21,
+          "content": "Who builds houses and buildings?",
+          "options": {
+            "A": "Doctor",
+            "B": "Mason/Builder",
+            "C": "Farmer",
+            "D": "Teacher"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Masons and builders construct houses and buildings"
+        },
+        {
+          "num": 22,
+          "content": "If you face the rising Sun, which direction is to your left?",
+          "options": {
+            "A": "East",
+            "B": "North",
+            "C": "West",
+            "D": "South"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "When facing East, North is to your left"
+        },
+        {
+          "num": 23,
+          "content": "Who cuts our hair?",
+          "options": {
+            "A": "Cobbler",
+            "B": "Tailor",
+            "C": "Doctor",
+            "D": "Barber"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "A barber cuts our hair"
+        },
+        {
+          "num": 24,
+          "content": "Who stitches clothes for us?",
+          "options": {
+            "A": "Barber",
+            "B": "Tailor",
+            "C": "Cobbler",
+            "D": "Farmer"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A tailor stitches clothes"
+        },
+        {
+          "num": 25,
+          "content": "Who repairs shoes?",
+          "options": {
+            "A": "Carpenter",
+            "B": "Plumber",
+            "C": "Tailor",
+            "D": "Cobbler"
+          },
+          "trailingContext": "---",
+          "correct": "D",
+          "why": "A cobbler repairs shoes"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "Challenge yourself with these tricky questions!",
+      "questions": [
+        {
+          "num": 26,
+          "content": "Which is the largest country in the world by area?",
+          "options": {
+            "A": "USA",
+            "B": "Russia",
+            "C": "India",
+            "D": "China"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Russia is the largest country in the world by area"
+        },
+        {
+          "num": 27,
+          "content": "Who makes furniture like tables and chairs?",
+          "options": {
+            "A": "Carpenter",
+            "B": "Plumber",
+            "C": "Electrician",
+            "D": "Mason"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A carpenter makes furniture from wood"
+        },
+        {
+          "num": 28,
+          "content": "How many main directions are there?",
+          "options": {
+            "A": "4",
+            "B": "3",
+            "C": "2",
+            "D": "5"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "There are 4 main directions: North, South, East, and West"
+        },
+        {
+          "num": 29,
+          "content": "Who fixes water pipes and taps?",
+          "options": {
+            "A": "Mason",
+            "B": "Carpenter",
+            "C": "Plumber",
+            "D": "Electrician"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A plumber fixes water pipes and taps"
+        },
+        {
+          "num": 30,
+          "content": "The Statue of Liberty is in which country?",
+          "options": {
+            "A": "Italy",
+            "B": "France",
+            "C": "USA",
+            "D": "England"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "The Statue of Liberty is in New York, USA"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

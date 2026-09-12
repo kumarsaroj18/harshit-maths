@@ -1,0 +1,427 @@
+{
+  "id": "02",
+  "slug": "unit-02-plants",
+  "num": 2,
+  "title": "Plants",
+  "emoji": "🌿",
+  "parentNote": "This unit covers parts of plants, types of plants, what plants need to grow, and their uses. Go for a nature walk to spot different plants!",
+  "learnBullets": [
+    "Know the **parts of a plant** (root, stem, leaf, flower, fruit, seed)",
+    "Understand what **plants need** to grow (sunlight, water, air, soil)",
+    "Learn about **different types of plants** (trees, shrubs, herbs, climbers, creepers)",
+    "Know the **uses of plants** (food, medicine, wood, oxygen)",
+    "Understand that plants make their **own food** using sunlight"
+  ],
+  "learnItFirst": "**1. Parts of a Plant**\n\n- **Root** — grows underground; absorbs water and minerals; holds the plant in soil\n- **Stem** — carries water from roots to leaves; holds the plant upright\n- **Leaf** — makes food for the plant using sunlight (green color from chlorophyll)\n- **Flower** — helps the plant make seeds; often colorful and fragrant\n- **Fruit** — grows from the flower; contains seeds inside\n- **Seed** — can grow into a new plant\n\n---\n\n**2. What Plants Need to Grow**\n\n- **Sunlight** — for making food\n- **Water** — for drinking and making food\n- **Air** — plants breathe too!\n- **Soil** — gives nutrients and holds the plant\n\n---\n\n**3. Types of Plants**\n\n| Type | Description | Examples |\n|------|-------------|----------|\n| **Trees** | Big, tall, hard wooden stem (trunk) | Mango, Neem, Banyan |\n| **Shrubs** | Medium-sized, many stems from the ground | Rose, Hibiscus |\n| **Herbs** | Small plants with soft stems | Mint, Tulsi, Coriander |\n| **Climbers** | Climb up walls or other plants | Money plant, Pea plant |\n| **Creepers** | Spread along the ground | Pumpkin, Watermelon |\n\n---\n\n**4. Uses of Plants**\n\n- **Food** — fruits, vegetables, grains\n- **Medicine** — Tulsi, Neem, Aloe vera\n- **Wood** — furniture, paper, houses\n- **Oxygen** — plants give us fresh air to breathe\n- **Shade & Beauty** — gardens, parks\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "Which part of the plant is usually underground?",
+          "options": {
+            "A": "Stem",
+            "B": "Leaf",
+            "C": "Flower",
+            "D": "Root"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Roots grow underground and absorb water from the soil"
+        },
+        {
+          "num": 2,
+          "content": "Which part of the plant makes food?",
+          "options": {
+            "A": "Stem",
+            "B": "Leaf",
+            "C": "Root",
+            "D": "Flower"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Leaves make food for the plant using sunlight"
+        },
+        {
+          "num": 3,
+          "content": "Plants need ___ to make food.",
+          "options": {
+            "A": "Sunlight",
+            "B": "Darkness",
+            "C": "Stones",
+            "D": "Ice"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Plants use sunlight to make their own food"
+        },
+        {
+          "num": 4,
+          "content": "A mango tree is an example of a ___.",
+          "options": {
+            "A": "Herb",
+            "B": "Shrub",
+            "C": "Tree",
+            "D": "Creeper"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A mango tree is big and tall with a hard wooden trunk — it is a tree"
+        },
+        {
+          "num": 5,
+          "content": "What is inside a fruit?",
+          "options": {
+            "A": "Leaves",
+            "B": "Flowers",
+            "C": "Roots",
+            "D": "Seeds"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Fruits contain seeds inside that can grow into new plants"
+        },
+        {
+          "num": 6,
+          "content": "Which plant part holds the plant upright?",
+          "options": {
+            "A": "Leaf",
+            "B": "Stem",
+            "C": "Seed",
+            "D": "Root"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "The stem holds the plant upright and carries water to the leaves"
+        },
+        {
+          "num": 7,
+          "content": "Rose plant is an example of a ___.",
+          "options": {
+            "A": "Tree",
+            "B": "Shrub",
+            "C": "Creeper",
+            "D": "Herb"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Rose is a medium-sized plant with many stems — it is a shrub"
+        },
+        {
+          "num": 8,
+          "content": "Leaves are usually ___ in color.",
+          "options": {
+            "A": "Green",
+            "B": "Black",
+            "C": "Red",
+            "D": "Blue"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Leaves are green because they contain chlorophyll"
+        },
+        {
+          "num": 9,
+          "content": "Which of these is a herb?",
+          "options": {
+            "A": "Mint",
+            "B": "Banyan tree",
+            "C": "Rose",
+            "D": "Mango tree"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Mint is a small plant with a soft stem — it is a herb"
+        },
+        {
+          "num": 10,
+          "content": "Plants give us ___ to breathe.",
+          "options": {
+            "A": "Smoke",
+            "B": "Dust",
+            "C": "Oxygen",
+            "D": "Carbon dioxide"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "Plants release oxygen that we breathe in to stay alive"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "Which plant climbs up walls and other supports?",
+          "options": {
+            "A": "Money plant",
+            "B": "Neem",
+            "C": "Tulsi",
+            "D": "Mango"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Money plant is a climber — it climbs up walls and supports"
+        },
+        {
+          "num": 12,
+          "content": "Pumpkin plant spreads along the ground. It is a ___.",
+          "options": {
+            "A": "Climber",
+            "B": "Shrub",
+            "C": "Tree",
+            "D": "Creeper"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Plants that spread along the ground are called creepers"
+        },
+        {
+          "num": 13,
+          "content": "The root absorbs ___ from the soil.",
+          "options": {
+            "A": "Fruits",
+            "B": "Water and minerals",
+            "C": "Flowers",
+            "D": "Sunlight"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Roots absorb water and minerals from the soil for the plant"
+        },
+        {
+          "num": 14,
+          "content": "Which of these do plants NOT need to grow?",
+          "options": {
+            "A": "Toys",
+            "B": "Water",
+            "C": "Air",
+            "D": "Sunlight"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Plants need sunlight, water, and air — not toys!"
+        },
+        {
+          "num": 15,
+          "content": "A seed grows into a ___.",
+          "options": {
+            "A": "Animal",
+            "B": "Cloud",
+            "C": "New plant",
+            "D": "Stone"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "When a seed gets water, air, and warmth, it grows into a new plant"
+        },
+        {
+          "num": 16,
+          "content": "Which part of a plant turns into a fruit?",
+          "options": {
+            "A": "Root",
+            "B": "Leaf",
+            "C": "Stem",
+            "D": "Flower"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "A flower turns into a fruit after pollination"
+        },
+        {
+          "num": 17,
+          "content": "We get wood from ___.",
+          "options": {
+            "A": "Herbs",
+            "B": "Creepers",
+            "C": "Water",
+            "D": "Trees"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Trees have hard wooden stems (trunks) that give us wood"
+        },
+        {
+          "num": 18,
+          "content": "Carrot is a ___ that we eat.",
+          "options": {
+            "A": "Stem",
+            "B": "Root",
+            "C": "Flower",
+            "D": "Leaf"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Carrot is a root vegetable that grows underground"
+        },
+        {
+          "num": 19,
+          "content": "Which of these is a leaf vegetable?",
+          "options": {
+            "A": "Spinach",
+            "B": "Potato",
+            "C": "Onion",
+            "D": "Tomato"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Spinach (palak) is a leafy vegetable — we eat its leaves"
+        },
+        {
+          "num": 20,
+          "content": "Tulsi plant is used as ___.",
+          "options": {
+            "A": "Making cars",
+            "B": "Furniture",
+            "C": "Medicine",
+            "D": "Building houses"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Tulsi leaves are used as medicine for cough and cold"
+        },
+        {
+          "num": 21,
+          "content": "Which of these plants has a thick, hard stem?",
+          "options": {
+            "A": "Banyan tree",
+            "B": "Mint",
+            "C": "Grass",
+            "D": "Coriander"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Banyan tree has a thick, hard wooden trunk"
+        },
+        {
+          "num": 22,
+          "content": "We eat the ___ of a cauliflower plant.",
+          "options": {
+            "A": "Seed",
+            "B": "Root",
+            "C": "Stem",
+            "D": "Flower"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Cauliflower is the flower part of the plant that we eat"
+        },
+        {
+          "num": 23,
+          "content": "Potato grows under the ground. It is a ___.",
+          "options": {
+            "A": "Fruit",
+            "B": "Stem",
+            "C": "Leaf",
+            "D": "Root"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Potato is an underground stem, not a root"
+        },
+        {
+          "num": 24,
+          "content": "Which plant gives us both fruit and shade?",
+          "options": {
+            "A": "Coriander",
+            "B": "Money plant",
+            "C": "Mango tree",
+            "D": "Grass"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Mango tree is big and gives tasty mangoes as well as cool shade"
+        },
+        {
+          "num": 25,
+          "content": "Plants that have soft, green stems and live for a short time are called ___.",
+          "options": {
+            "A": "Climbers",
+            "B": "Trees",
+            "C": "Herbs",
+            "D": "Shrubs"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "Herbs are small plants with soft, green stems that live for a short time"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "These questions are a bit tricky. Think carefully!",
+      "questions": [
+        {
+          "num": 26,
+          "content": "Ravi planted a bean seed in a dark room. The plant grew but looked pale and weak. Why?",
+          "options": {
+            "A": "The soil was too good",
+            "B": "It got too much water",
+            "C": "The seed was too big",
+            "D": "It did not get sunlight"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Plants need sunlight to make food and stay healthy. Without sunlight, they become pale and weak"
+        },
+        {
+          "num": 27,
+          "content": "Ginger grows underground like a carrot. But ginger is a ___.",
+          "options": {
+            "A": "Fruit",
+            "B": "Underground stem",
+            "C": "Leaf",
+            "D": "Root"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Ginger is an underground stem (like potato), not a root"
+        },
+        {
+          "num": 28,
+          "content": "A cactus plant lives in the desert where there is very little water. Its stem is ___ to store water.",
+          "options": {
+            "A": "Thick and fleshy",
+            "B": "Very thin",
+            "C": "Made of wood",
+            "D": "Very short"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Cactus has a thick, fleshy stem to store water for dry times in the desert"
+        },
+        {
+          "num": 29,
+          "content": "If we cut off all the leaves of a plant, what will happen?",
+          "options": {
+            "A": "Nothing will happen",
+            "B": "The plant will not be able to make food",
+            "C": "The plant will get more water",
+            "D": "The plant will grow faster"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Leaves make food for the plant. Without leaves, the plant cannot make food and will die"
+        },
+        {
+          "num": 30,
+          "content": "Anita noticed that a plant near the window grew towards the sunlight. This shows that plants ___.",
+          "options": {
+            "A": "Want to go outside",
+            "B": "Don't like sunlight",
+            "C": "Can move towards light",
+            "D": "Are afraid of darkness"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "Plants grow towards sunlight because they need it to make food. This movement is called phototropism"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700&display=swap" rel="stylesheet">
+  <title>Olympiad Practice</title>
+  <style>
+    :root {
+      --bg: #fdf9f3;
+      --card-bg: #ffffff;
+      --ink: #2c2a3d;
+      --ink-soft: #5b5870;
+      --line: #eee5d8;
+      --radius: 18px;
+      --shadow: 0 4px 14px rgba(60, 40, 10, 0.08);
+    }
+    * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+    html { -webkit-text-size-adjust: 100%; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+      font-size: 17px;
+      line-height: 1.55;
+      padding-bottom: 60px;
+    }
+    h1 { font-family: "Baloo 2", system-ui, sans-serif; }
+    .wrap { max-width: 640px; margin: 0 auto; padding: 0 16px; }
+    .hero { text-align: center; padding: 36px 16px 12px; }
+    .hero h1 { font-size: 30px; margin: 6px 0 4px; }
+    .hero p { color: var(--ink-soft); margin: 0; }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 14px;
+      margin-top: 24px;
+    }
+    @media (min-width: 480px) {
+      .grid { grid-template-columns: repeat(2, 1fr); }
+    }
+    .subject-card {
+      display: block;
+      text-decoration: none;
+      color: var(--ink);
+      background: var(--card-bg);
+      border-radius: var(--radius);
+      padding: 20px 14px;
+      box-shadow: var(--shadow);
+      border-bottom: 5px solid var(--accent-color, #6c5ce7);
+      text-align: center;
+      touch-action: manipulation;
+    }
+    .subject-card .emoji { font-size: 40px; display: block; margin-bottom: 8px; }
+    .subject-card .name {
+      font-family: "Baloo 2", system-ui, sans-serif;
+      font-weight: 700;
+      font-size: 17px;
+      display: block;
+    }
+    .subject-card .sub {
+      font-size: 12.5px;
+      color: var(--ink-soft);
+      margin-top: 4px;
+      display: block;
+    }
+    footer.site-footer {
+      text-align: center;
+      color: var(--ink-soft);
+      font-size: 13px;
+      margin-top: 40px;
+      padding: 0 16px;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="hero">
+      <h1>🏆 Olympiad Practice</h1>
+      <p>Pick a subject to start practicing!</p>
+    </div>
+
+    <div class="grid">
+      <a class="subject-card" href="maths/" style="--accent-color: #6c5ce7">
+        <span class="emoji">🧮</span>
+        <span class="name">Maths</span>
+        <span class="sub">NOF · 21 units</span>
+      </a>
+      <a class="subject-card" href="icso/" style="--accent-color: #0984e3">
+        <span class="emoji">💻</span>
+        <span class="name">ICSO</span>
+        <span class="sub">Cyber/Computer · 7 units</span>
+      </a>
+      <a class="subject-card" href="english/" style="--accent-color: #e17055">
+        <span class="emoji">📚</span>
+        <span class="name">English</span>
+        <span class="sub">IEO · 14 units</span>
+      </a>
+      <a class="subject-card" href="science/" style="--accent-color: #00b894">
+        <span class="emoji">🔬</span>
+        <span class="name">Science</span>
+        <span class="sub">NSO · 5 units</span>
+      </a>
+      <a class="subject-card" href="gk/" style="--accent-color: #fdcb6e">
+        <span class="emoji">🌟</span>
+        <span class="name">GK</span>
+        <span class="sub">IGKO · 11 units</span>
+      </a>
+    </div>
+  </div>
+  <footer class="site-footer">Made with care for a Class 2 Olympian 🌟</footer>
+</body>
+</html>

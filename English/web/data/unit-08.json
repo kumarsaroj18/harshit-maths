@@ -1,0 +1,426 @@
+{
+  "id": "08",
+  "slug": "unit-08-spellings",
+  "num": 8,
+  "title": "Spellings",
+  "emoji": "✏️",
+  "parentNote": "Spellings need regular practice! Try the \"Look-Cover-Write-Check\" method: Look at the word, cover it, write it from memory, then check. Make spelling practice fun with word games and flashcards!",
+  "learnBullets": [
+    "Spelling common **everyday words** correctly",
+    "Words related to **animals**, **body parts**, **clothes**, **food**, **emotions**",
+    "Spotting the **correct spelling** among wrong options",
+    "Finding the **wrongly spelled word** in a group"
+  ],
+  "learnItFirst": "**Why Spellings Matter:**\nIn the IEO exam, you might be asked to:\n1. Choose the correctly spelled word\n2. Find the wrongly spelled word\n3. Fill in the missing letters\n\n**Common Spelling Rules:**\n\n| Rule | Example |\n|------|---------|\n| \"i\" before \"e\" except after \"c\" | bel**ie**ve, rec**ei**ve |\n| Silent letters | **k**now, **w**rite, lis**t**en |\n| Double letters | happ**y** → happ**i**ness, runn**ing** |\n\n**Words You Must Know (Class 2 Level):**\n\n**Animals:** elephant, giraffe, monkey, rabbit, butterfly, parrot, tortoise\n\n**Body Parts:** shoulder, stomach, finger, tongue, knee, elbow, ankle\n\n**Clothes:** shirt, trousers, sweater, jacket, socks, shoes, dress\n\n**Food:** breakfast, biscuit, chocolate, vegetables, sandwich, juice\n\n**Emotions:** happy, angry, scared, excited, surprised, worried\n\n**School:** pencil, eraser, scissors, teacher, library, school\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "Which spelling is correct?",
+          "options": {
+            "A": "eliphant",
+            "B": "elefant",
+            "C": "elephant",
+            "D": "elephent"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Correct spelling: e-l-e-p-h-a-n-t"
+        },
+        {
+          "num": 2,
+          "content": "Which spelling is correct?",
+          "options": {
+            "A": "butterfly",
+            "B": "buterfli",
+            "C": "buterfly",
+            "D": "butterfli"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Correct spelling: b-u-t-t-e-r-f-l-y"
+        },
+        {
+          "num": 3,
+          "content": "Which spelling is correct?",
+          "options": {
+            "A": "stomech",
+            "B": "stomack",
+            "C": "stumach",
+            "D": "stomach"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Correct spelling: s-t-o-m-a-c-h"
+        },
+        {
+          "num": 4,
+          "content": "Which spelling is correct?",
+          "options": {
+            "A": "brakfast",
+            "B": "breakfest",
+            "C": "brekfast",
+            "D": "breakfast"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Correct spelling: b-r-e-a-k-f-a-s-t"
+        },
+        {
+          "num": 5,
+          "content": "Which spelling is correct?",
+          "options": {
+            "A": "happy",
+            "B": "hapy",
+            "C": "happey",
+            "D": "happi"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Correct spelling: h-a-p-p-y"
+        },
+        {
+          "num": 6,
+          "content": "Which spelling is correct?",
+          "options": {
+            "A": "schol",
+            "B": "school",
+            "C": "scool",
+            "D": "skool"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Correct spelling: s-c-h-o-o-l"
+        },
+        {
+          "num": 7,
+          "content": "Which spelling is correct?",
+          "options": {
+            "A": "frend",
+            "B": "freind",
+            "C": "frind",
+            "D": "friend"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "\"i\" before \"e\" → f-r-i-e-n-d"
+        },
+        {
+          "num": 8,
+          "content": "Which spelling is correct?",
+          "options": {
+            "A": "beautifull",
+            "B": "beautiful",
+            "C": "beautful",
+            "D": "beutiful"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Correct spelling: b-e-a-u-t-i-f-u-l"
+        },
+        {
+          "num": 9,
+          "content": "Which spelling is correct?",
+          "options": {
+            "A": "librarey",
+            "B": "librery",
+            "C": "library",
+            "D": "libary"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Correct spelling: l-i-b-r-a-r-y"
+        },
+        {
+          "num": 10,
+          "content": "Which spelling is correct?",
+          "options": {
+            "A": "people",
+            "B": "peple",
+            "C": "pepole",
+            "D": "poeple"
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "Correct spelling: p-e-o-p-l-e"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "Find the WRONGLY spelled word:",
+          "options": {
+            "A": "parrot",
+            "B": "rabit",
+            "C": "monkey",
+            "D": "tortoise"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Should be \"rabbit\" (double 'b')"
+        },
+        {
+          "num": 12,
+          "content": "Find the WRONGLY spelled word:",
+          "options": {
+            "A": "shirt",
+            "B": "jacket",
+            "C": "sweater",
+            "D": "trowsers"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Should be \"trousers\""
+        },
+        {
+          "num": 13,
+          "content": "Which word is spelled correctly?",
+          "options": {
+            "A": "sicsors",
+            "B": "scisors",
+            "C": "scissers",
+            "D": "scissors"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Correct spelling with double 's'"
+        },
+        {
+          "num": 14,
+          "content": "Find the WRONGLY spelled word:",
+          "options": {
+            "A": "chocolate",
+            "B": "vegetables",
+            "C": "biscuit",
+            "D": "sandwitch"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Should be \"sandwich\""
+        },
+        {
+          "num": 15,
+          "content": "Which word is spelled correctly?",
+          "options": {
+            "A": "because",
+            "B": "becuase",
+            "C": "becaus",
+            "D": "becase"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Correct spelling: b-e-c-a-u-s-e"
+        },
+        {
+          "num": 16,
+          "content": "Fill in the missing letters: ch _ _ r (something you sit on)",
+          "options": {
+            "A": "chair",
+            "B": "chaer",
+            "C": "chier",
+            "D": "chear"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "c-h-a-i-r"
+        },
+        {
+          "num": 17,
+          "content": "Find the WRONGLY spelled word:",
+          "options": {
+            "A": "teacher",
+            "B": "doctore",
+            "C": "farmer",
+            "D": "driver"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Should be \"doctor\" (no 'e' at end)"
+        },
+        {
+          "num": 18,
+          "content": "Which word is spelled correctly?",
+          "options": {
+            "A": "tougne",
+            "B": "tongue",
+            "C": "tonge",
+            "D": "tounge"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Correct spelling: t-o-n-g-u-e"
+        },
+        {
+          "num": 19,
+          "content": "Find the WRONGLY spelled word:",
+          "options": {
+            "A": "surprized",
+            "B": "excited",
+            "C": "worried",
+            "D": "scared"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Should be \"surprised\" (with 's' not 'z')"
+        },
+        {
+          "num": 20,
+          "content": "Which word is spelled correctly?",
+          "options": {
+            "A": "diffrent",
+            "B": "diferent",
+            "C": "differant",
+            "D": "different"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Correct spelling: d-i-f-f-e-r-e-n-t"
+        },
+        {
+          "num": 21,
+          "content": "Fill in the missing letters: w _ _ ther (rain, sun, etc.)",
+          "options": {
+            "A": "wather",
+            "B": "weather",
+            "C": "wether",
+            "D": "wheather"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Correct spelling: w-e-a-t-h-e-r"
+        },
+        {
+          "num": 22,
+          "content": "Find the WRONGLY spelled word:",
+          "options": {
+            "A": "questoin",
+            "B": "answer",
+            "C": "knowledge",
+            "D": "listen"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Should be \"question\""
+        },
+        {
+          "num": 23,
+          "content": "Which word is spelled correctly?",
+          "options": {
+            "A": "tommorrow",
+            "B": "tomorow",
+            "C": "tomorrow",
+            "D": "tommorow"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Correct spelling: one 'm', two 'r's"
+        },
+        {
+          "num": 24,
+          "content": "Find the WRONGLY spelled word:",
+          "options": {
+            "A": "elbow",
+            "B": "sholder",
+            "C": "ankle",
+            "D": "finger"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Should be \"shoulder\""
+        },
+        {
+          "num": 25,
+          "content": "Which word is spelled correctly?",
+          "options": {
+            "A": "receeve",
+            "B": "recieve",
+            "C": "receive",
+            "D": "recive"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "\"ei\" after \"c\" → r-e-c-e-i-v-e"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 26,
+          "content": "How many words are spelled CORRECTLY?\nelephant, giraffe, monky, rabbit, tortise",
+          "options": {
+            "A": "5",
+            "B": "4",
+            "C": "3",
+            "D": "2"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "elephant ✓, giraffe ✓, rabbit ✓ (monky × tortise ×)"
+        },
+        {
+          "num": 27,
+          "content": "Which group has ALL words spelled correctly?",
+          "options": {
+            "A": "hapyness, sadness, angrry",
+            "B": "happiness, sadness, angry",
+            "C": "hapiness, sadness, angry",
+            "D": "happyness, sadnes, angery"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "All three spelled correctly"
+        },
+        {
+          "num": 28,
+          "content": "Find the TWO wrongly spelled words:\n\"My freind and I went to the libary yesterday.\"",
+          "options": {
+            "A": "to, the",
+            "B": "went, yesterday",
+            "C": "freind, libary",
+            "D": "My, and"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Should be \"friend\" and \"library\""
+        },
+        {
+          "num": 29,
+          "content": "Fill in the blanks to complete the word correctly: \n_ e a _ t i f _ l (describing something pretty)",
+          "options": {
+            "A": "b, u, u",
+            "B": "d, u, u",
+            "C": "b, a, u",
+            "D": "b, u, l"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "b-e-a-u-t-i-f-u-l (beautiful)"
+        },
+        {
+          "num": 30,
+          "content": "Which sentence has ALL words spelled correctly?",
+          "options": {
+            "A": "The butterflye sat on a beautiful flowar.",
+            "B": "The buterfli sat on a beutiful flower.",
+            "C": "The butterfly sat on a beautiful flower.",
+            "D": "The butterfly sate on a beautifull flower."
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "All words spelled correctly"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

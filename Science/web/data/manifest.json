@@ -1,0 +1,42 @@
+[
+  {
+    "id": "01",
+    "slug": "unit-01-living-and-non-living-things",
+    "num": 1,
+    "title": "Living and Non-Living Things",
+    "emoji": "🌱",
+    "totalQuestions": 30
+  },
+  {
+    "id": "02",
+    "slug": "unit-02-plants",
+    "num": 2,
+    "title": "Plants",
+    "emoji": "🌿",
+    "totalQuestions": 30
+  },
+  {
+    "id": "03",
+    "slug": "unit-03-animals",
+    "num": 3,
+    "title": "Animals",
+    "emoji": "🦁",
+    "totalQuestions": 30
+  },
+  {
+    "id": "04",
+    "slug": "unit-04-human-body-and-health",
+    "num": 4,
+    "title": "Human Body and Health",
+    "emoji": "🧍",
+    "totalQuestions": 30
+  },
+  {
+    "id": "05",
+    "slug": "unit-05-air-water-and-weather",
+    "num": 5,
+    "title": "Air, Water and Weather",
+    "emoji": "🌤️",
+    "totalQuestions": 30
+  }
+]

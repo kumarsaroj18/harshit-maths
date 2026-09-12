@@ -1,0 +1,426 @@
+{
+  "id": "07",
+  "slug": "unit-07-conjunctions",
+  "num": 7,
+  "title": "Conjunctions",
+  "emoji": "🔗",
+  "parentNote": "Conjunctions are joining words! Think of them as glue that sticks two ideas together. Practice with daily life: \"I want ice cream AND cake,\" \"It is cold BUT sunny,\" \"Do you want tea OR coffee?\"",
+  "learnBullets": [
+    "What a **conjunction** is — a word that joins words or sentences together",
+    "Common conjunctions: **and**, **but**, **or**, **because**, **so**",
+    "When to use each conjunction",
+    "Making longer sentences by joining shorter ones"
+  ],
+  "learnItFirst": "**What is a Conjunction?**\nA conjunction is a **joining word**. It connects two words, phrases, or sentences together.\n\n```\nI like apples AND oranges. (joins two words)\nShe is tired BUT happy. (joins two ideas)\nDo you want milk OR juice? (gives a choice)\n```\n\n**Common Conjunctions:**\n\n| Conjunction | What it does | Example |\n|-------------|--------------|---------|\n| **and** | adds/joins similar things | I have a cat **and** a dog. |\n| **but** | shows difference/contrast | She is small **but** strong. |\n| **or** | gives a choice | Is it a boy **or** a girl? |\n| **because** | gives a reason | I am happy **because** I won! |\n| **so** | shows result | I was hungry, **so** I ate. |\n\n**And vs But vs Or:**\n- **AND** = Both things are true or wanted → I like pizza **and** pasta.\n- **BUT** = One thing is different from expected → He is young **but** wise.\n- **OR** = Only one of the things → Tea **or** coffee?\n\n### 🧠 How to Choose the Right Conjunction\n1. **Ask:** Am I adding things? → **and**\n2. **Ask:** Am I showing something different/opposite? → **but**\n3. **Ask:** Am I giving choices? → **or**\n4. **Ask:** Am I giving a reason? → **because**\n5. **Ask:** Am I showing what happened next? → **so**\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "\"I like apples ___ oranges.\"",
+          "options": {
+            "A": "or",
+            "B": "but",
+            "C": "and",
+            "D": "so"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Adding two fruits together"
+        },
+        {
+          "num": 2,
+          "content": "\"Do you want tea ___ coffee?\"",
+          "options": {
+            "A": "or",
+            "B": "but",
+            "C": "because",
+            "D": "and"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Giving a choice between two drinks"
+        },
+        {
+          "num": 3,
+          "content": "\"She is tired ___ she cannot sleep.\"",
+          "options": {
+            "A": "but",
+            "B": "and",
+            "C": "or",
+            "D": "so"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Contrast: tired → expected to sleep, but she can't"
+        },
+        {
+          "num": 4,
+          "content": "\"I ran fast ___ I was late.\"",
+          "options": {
+            "A": "and",
+            "B": "but",
+            "C": "or",
+            "D": "because"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Giving the reason for running fast"
+        },
+        {
+          "num": 5,
+          "content": "\"The sun is shining ___ it is cold outside.\"",
+          "options": {
+            "A": "but",
+            "B": "and",
+            "C": "or",
+            "D": "because"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Contrast: sunny but cold (opposite expectations)"
+        },
+        {
+          "num": 6,
+          "content": "\"Ravi ___ Priya are friends.\"",
+          "options": {
+            "A": "but",
+            "B": "and",
+            "C": "or",
+            "D": "so"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Joining two names together"
+        },
+        {
+          "num": 7,
+          "content": "\"I was hungry, ___ I ate an apple.\"",
+          "options": {
+            "A": "but",
+            "B": "because",
+            "C": "so",
+            "D": "or"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Result: hungry → so I ate"
+        },
+        {
+          "num": 8,
+          "content": "\"Is this your pen ___ pencil?\"",
+          "options": {
+            "A": "or",
+            "B": "so",
+            "C": "and",
+            "D": "but"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Asking which one — giving a choice"
+        },
+        {
+          "num": 9,
+          "content": "\"I fell down ___ I did not cry.\"",
+          "options": {
+            "A": "and",
+            "B": "so",
+            "C": "or",
+            "D": "but"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Contrast: fell down but did not cry (unexpected)"
+        },
+        {
+          "num": 10,
+          "content": "\"She is happy ___ she got a gift.\"",
+          "options": {
+            "A": "because",
+            "B": "or",
+            "C": "and",
+            "D": "but"
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "Giving the reason for being happy"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "Which word is a conjunction?",
+          "options": {
+            "A": "happy",
+            "B": "but",
+            "C": "table",
+            "D": "run"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "But is a conjunction (joining word)"
+        },
+        {
+          "num": 12,
+          "content": "\"I can read ___ write in English.\"",
+          "options": {
+            "A": "or",
+            "B": "so",
+            "C": "and",
+            "D": "but"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Adding two abilities together"
+        },
+        {
+          "num": 13,
+          "content": "Join the sentences: \"She is young. She is very smart.\"",
+          "options": {
+            "A": "She is young and she is very smart.",
+            "B": "She is young or she is very smart.",
+            "C": "She is young so she is very smart.",
+            "D": "She is young but she is very smart."
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Contrast: young but smart (unexpected)"
+        },
+        {
+          "num": 14,
+          "content": "\"We will go to the park ___ it does not rain.\"",
+          "options": {
+            "A": "but",
+            "B": "so",
+            "C": "and",
+            "D": "if"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Condition: if it doesn't rain"
+        },
+        {
+          "num": 15,
+          "content": "\"The movie was long ___ interesting.\"",
+          "options": {
+            "A": "so",
+            "B": "or",
+            "C": "but",
+            "D": "because"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Contrast: long but interesting"
+        },
+        {
+          "num": 16,
+          "content": "\"Do you play cricket ___ football?\"",
+          "options": {
+            "A": "or",
+            "B": "and",
+            "C": "because",
+            "D": "but"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Asking which sport — giving a choice"
+        },
+        {
+          "num": 17,
+          "content": "\"I closed the window ___ it was cold.\"",
+          "options": {
+            "A": "but",
+            "B": "or",
+            "C": "and",
+            "D": "because"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Giving the reason for closing the window"
+        },
+        {
+          "num": 18,
+          "content": "Join using \"so\": \"It was raining. We stayed inside.\"",
+          "options": {
+            "A": "It was raining but we stayed inside.",
+            "B": "It was raining so we stayed inside.",
+            "C": "It was raining or we stayed inside.",
+            "D": "It was raining and we stayed inside."
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Result: raining → so stayed inside"
+        },
+        {
+          "num": 19,
+          "content": "\"My father ___ mother both work.\"",
+          "options": {
+            "A": "so",
+            "B": "and",
+            "C": "but",
+            "D": "or"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Joining father and mother"
+        },
+        {
+          "num": 20,
+          "content": "\"He studied hard ___ he passed the exam.\"",
+          "options": {
+            "A": "so",
+            "B": "but",
+            "C": "because",
+            "D": "or"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Result: studied hard → so passed"
+        },
+        {
+          "num": 21,
+          "content": "Which sentence uses \"but\" correctly?",
+          "options": {
+            "A": "I like ice cream but chocolate.",
+            "B": "She went but the market.",
+            "C": "The bag is small but heavy.",
+            "D": "He runs but fast."
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Correct contrast use"
+        },
+        {
+          "num": 22,
+          "content": "\"I want to play ___ I have homework.\"",
+          "options": {
+            "A": "and",
+            "B": "so",
+            "C": "but",
+            "D": "or"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Contrast: want to play but have homework"
+        },
+        {
+          "num": 23,
+          "content": "How many conjunctions are in this sentence? \"I like mangoes and apples but not bananas or oranges.\"",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "3"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "and, but, or = 3 conjunctions"
+        },
+        {
+          "num": 24,
+          "content": "\"She was sick, ___ she went to school.\"",
+          "options": {
+            "A": "or",
+            "B": "so",
+            "C": "because",
+            "D": "but"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Contrast: sick but still went to school (unexpected)"
+        },
+        {
+          "num": 25,
+          "content": "Join the sentences correctly: \"Hurry up. You will be late.\"",
+          "options": {
+            "A": "Hurry up because you will be late.",
+            "B": "Hurry up but you will be late.",
+            "C": "Hurry up or you will be late.",
+            "D": "Hurry up and you will be late."
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "\"Or\" shows what will happen if you don't hurry"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 26,
+          "content": "Fill in both blanks: \"I wanted to go outside ___ play ___ it was raining.\"",
+          "options": {
+            "A": "or, and",
+            "B": "and, but",
+            "C": "so, or",
+            "D": "but, because"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Wanted to go and play, but it was raining"
+        },
+        {
+          "num": 27,
+          "content": "Which sentence is INCORRECT?",
+          "options": {
+            "A": "I like tea and coffee.",
+            "B": "Do you want rice and roti? (when giving a choice)",
+            "C": "I am happy because I won.",
+            "D": "She is tall but thin."
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Should be \"or\" when giving a choice"
+        },
+        {
+          "num": 28,
+          "content": "\"My grandmother is old ___ very active. She walks ___ exercises every day ___ she stays healthy.\"",
+          "options": {
+            "A": "and, but, so",
+            "B": "but, and, so",
+            "C": "or, and, but",
+            "D": "so, or, because"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Old BUT active, walks AND exercises, SO stays healthy"
+        },
+        {
+          "num": 29,
+          "content": "Join using TWO conjunctions: \"I was tired. I could not sleep. I drank warm milk.\"",
+          "options": {
+            "A": "I was tired but I could not sleep, so I drank warm milk.",
+            "B": "I was tired or I could not sleep or I drank warm milk.",
+            "C": "I was tired and I could not sleep and I drank warm milk.",
+            "D": "I was tired because I could not sleep but I drank warm milk."
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Contrast + result"
+        },
+        {
+          "num": 30,
+          "content": "Choose the correct conjunctions: \"Study hard ___ you will fail. Work with friends ___ alone, ___ finish your project.\"",
+          "options": {
+            "A": "but, and, so",
+            "B": "or, or, but",
+            "C": "or, and, but",
+            "D": "and, or, so"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "Study or fail; friends or alone; but finish"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

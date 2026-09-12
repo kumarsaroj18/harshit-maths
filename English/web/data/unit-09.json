@@ -1,0 +1,426 @@
+{
+  "id": "09",
+  "slug": "unit-09-collocations",
+  "num": 9,
+  "title": "Collocations",
+  "emoji": "🤝",
+  "parentNote": "Collocations are words that naturally go together — like \"make your bed\" (not \"do your bed\"). These are learned through reading and listening. Read stories together and point out common word pairs!",
+  "learnBullets": [
+    "What a **collocation** is — words that naturally go together",
+    "Common collocations with **make**, **do**, **have**, **take**",
+    "Word pairs that sound right together",
+    "Choosing the right word partner"
+  ],
+  "learnItFirst": "**What is a Collocation?**\nA collocation is when certain words naturally go together. Native speakers just \"know\" these combinations.\n\n```\n✔️ make a mistake (correct)\n❌ do a mistake (wrong — sounds odd!)\n\n✔️ do homework (correct)\n❌ make homework (wrong)\n```\n\n**Common Collocations:**\n\n| With MAKE | With DO | With HAVE | With TAKE |\n|-----------|---------|-----------|-----------|\n| make the bed | do homework | have breakfast | take a bath |\n| make a cake | do the dishes | have fun | take a photo |\n| make friends | do your best | have a dream | take a rest |\n| make a wish | do exercise | have a cold | take a walk |\n| make noise | do a favour | have a party | take care |\n\n**Other Common Collocations:**\n\n| First Word | Goes With |\n|------------|-----------|\n| brush | teeth, hair |\n| catch | a ball, a cold, a bus |\n| tell | a story, a lie, the truth |\n| fast | food, asleep |\n| heavy | rain, traffic |\n| strong | wind, coffee |\n\n### 🧠 How to Choose the Right Collocation\n1. **Think:** Have I heard these words together before?\n2. **Say it:** Does it sound natural?\n3. **Remember:** Some combinations are fixed — learn them by heart!\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "\"___ your homework before playing.\"",
+          "options": {
+            "A": "Make",
+            "B": "Have",
+            "C": "Take",
+            "D": "Do"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "\"Do homework\" is the correct collocation"
+        },
+        {
+          "num": 2,
+          "content": "\"I ___ a bath every morning.\"",
+          "options": {
+            "A": "do",
+            "B": "have",
+            "C": "take",
+            "D": "make"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "\"Take a bath\" is the correct collocation"
+        },
+        {
+          "num": 3,
+          "content": "\"She ___ the bed after waking up.\"",
+          "options": {
+            "A": "takes",
+            "B": "makes",
+            "C": "has",
+            "D": "does"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"Make the bed\" is the correct collocation"
+        },
+        {
+          "num": 4,
+          "content": "\"We ___ breakfast at 8 o'clock.\"",
+          "options": {
+            "A": "make",
+            "B": "take",
+            "C": "have",
+            "D": "do"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "\"Have breakfast\" is the correct collocation"
+        },
+        {
+          "num": 5,
+          "content": "\"Can you ___ a photo of us?\"",
+          "options": {
+            "A": "do",
+            "B": "have",
+            "C": "take",
+            "D": "make"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "\"Take a photo\" is the correct collocation"
+        },
+        {
+          "num": 6,
+          "content": "\"I ___ my teeth twice a day.\"",
+          "options": {
+            "A": "clean",
+            "B": "brush",
+            "C": "wash",
+            "D": "wipe"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"Brush teeth\" is the correct collocation"
+        },
+        {
+          "num": 7,
+          "content": "\"Let's ___ a cake for Mummy!\"",
+          "options": {
+            "A": "make",
+            "B": "do",
+            "C": "take",
+            "D": "have"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "\"Make a cake\" is the correct collocation"
+        },
+        {
+          "num": 8,
+          "content": "\"Please don't ___ so much noise.\"",
+          "options": {
+            "A": "make",
+            "B": "do",
+            "C": "have",
+            "D": "take"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "\"Make noise\" is the correct collocation"
+        },
+        {
+          "num": 9,
+          "content": "\"He ___ exercise every day.\"",
+          "options": {
+            "A": "does",
+            "B": "has",
+            "C": "makes",
+            "D": "takes"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "\"Do exercise\" is the correct collocation"
+        },
+        {
+          "num": 10,
+          "content": "\"I want to ___ friends at my new school.\"",
+          "options": {
+            "A": "do",
+            "B": "make",
+            "C": "take",
+            "D": "have"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "\"Make friends\" is the correct collocation"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "\"You should always ___ the truth.\"",
+          "options": {
+            "A": "talk",
+            "B": "speak",
+            "C": "say",
+            "D": "tell"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "\"Tell the truth\" is the correct collocation"
+        },
+        {
+          "num": 12,
+          "content": "\"I ___ a bad cold yesterday.\"",
+          "options": {
+            "A": "took",
+            "B": "made",
+            "C": "had",
+            "D": "did"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "\"Have a cold\" (had = past tense)"
+        },
+        {
+          "num": 13,
+          "content": "\"Please ___ me a favour.\"",
+          "options": {
+            "A": "take",
+            "B": "do",
+            "C": "make",
+            "D": "have"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"Do a favour\" is the correct collocation"
+        },
+        {
+          "num": 14,
+          "content": "Which collocation is CORRECT?",
+          "options": {
+            "A": "do homework",
+            "B": "take homework",
+            "C": "make homework",
+            "D": "have homework"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Correct collocation with \"do\""
+        },
+        {
+          "num": 15,
+          "content": "\"The children ___ fun at the party.\"",
+          "options": {
+            "A": "had",
+            "B": "made",
+            "C": "took",
+            "D": "did"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "\"Have fun\" (had = past tense)"
+        },
+        {
+          "num": 16,
+          "content": "\"Can you ___ a story?\"",
+          "options": {
+            "A": "talk",
+            "B": "say",
+            "C": "tell",
+            "D": "speak"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "\"Tell a story\" is the correct collocation"
+        },
+        {
+          "num": 17,
+          "content": "\"Let's ___ a walk in the garden.\"",
+          "options": {
+            "A": "make",
+            "B": "take",
+            "C": "do",
+            "D": "have"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"Take a walk\" is the correct collocation"
+        },
+        {
+          "num": 18,
+          "content": "\"I need to ___ my best in the exam.\"",
+          "options": {
+            "A": "have",
+            "B": "make",
+            "C": "take",
+            "D": "do"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "\"Do your best\" is the correct collocation"
+        },
+        {
+          "num": 19,
+          "content": "\"She ___ a wish on her birthday.\"",
+          "options": {
+            "A": "took",
+            "B": "made",
+            "C": "did",
+            "D": "had"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"Make a wish\" (made = past tense)"
+        },
+        {
+          "num": 20,
+          "content": "\"There is ___ rain today.\"",
+          "options": {
+            "A": "big",
+            "B": "strong",
+            "C": "heavy",
+            "D": "much"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "\"Heavy rain\" is the correct collocation"
+        },
+        {
+          "num": 21,
+          "content": "Which collocation is WRONG?",
+          "options": {
+            "A": "do a cake",
+            "B": "make a mistake",
+            "C": "take a rest",
+            "D": "have a dream"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Should be \"make a cake\""
+        },
+        {
+          "num": 22,
+          "content": "\"The ___ wind blew the papers away.\"",
+          "options": {
+            "A": "fast",
+            "B": "heavy",
+            "C": "strong",
+            "D": "big"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "\"Strong wind\" is the correct collocation"
+        },
+        {
+          "num": 23,
+          "content": "\"I ___ asleep while watching TV.\"",
+          "options": {
+            "A": "made",
+            "B": "fell",
+            "C": "got",
+            "D": "went"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"Fell asleep\" is the correct collocation"
+        },
+        {
+          "num": 24,
+          "content": "\"Let's ___ a party for grandpa!\"",
+          "options": {
+            "A": "make",
+            "B": "take",
+            "C": "do",
+            "D": "have"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "\"Have a party\" is the correct collocation"
+        },
+        {
+          "num": 25,
+          "content": "\"Please ___ care of your little sister.\"",
+          "options": {
+            "A": "make",
+            "B": "have",
+            "C": "do",
+            "D": "take"
+          },
+          "trailingContext": "---",
+          "correct": "D",
+          "why": "\"Take care\" is the correct collocation"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 26,
+          "content": "Fill in both blanks with the correct collocations:\n\"I ___ a mistake, so I had to ___ my homework again.\"",
+          "options": {
+            "A": "had, take",
+            "B": "made, do",
+            "C": "took, have",
+            "D": "did, make"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"Made a mistake\" + \"do homework\""
+        },
+        {
+          "num": 27,
+          "content": "Which sentence has ALL correct collocations?",
+          "options": {
+            "A": "She did her homework and then took a bath.",
+            "B": "She made her homework and then made a bath.",
+            "C": "She took her homework and then did a bath.",
+            "D": "She had her homework and then made a bath."
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Both collocations are correct"
+        },
+        {
+          "num": 28,
+          "content": "Choose the correct word pairs:\n\"I ___ the bus and ___ to school on time.\"",
+          "options": {
+            "A": "caught, got",
+            "B": "made, arrived",
+            "C": "took, reached",
+            "D": "had, went"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "\"Caught the bus\" + \"got to school\""
+        },
+        {
+          "num": 29,
+          "content": "How many collocations are used correctly?\n\"She made her bed, did her homework, had breakfast, and took a walk.\"",
+          "options": {
+            "A": "3",
+            "B": "2",
+            "C": "1",
+            "D": "4"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "All four collocations are correct"
+        },
+        {
+          "num": 30,
+          "content": "Fill in the blanks: \"In the morning, I ___ up early, ___ my teeth, ___ breakfast, and ___ to school.\"",
+          "options": {
+            "A": "get, clean, make, walk",
+            "B": "stand, wash, eat, run",
+            "C": "rise, do, take, leave",
+            "D": "wake, brush, have, go"
+          },
+          "trailingContext": "---",
+          "correct": "D",
+          "why": "wake up, brush teeth, have breakfast, go to school"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

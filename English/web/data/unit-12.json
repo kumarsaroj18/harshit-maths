@@ -1,0 +1,426 @@
+{
+  "id": "12",
+  "slug": "unit-12-reading-comprehension",
+  "num": 12,
+  "title": "Reading Comprehension",
+  "emoji": "📖",
+  "parentNote": "This section tests reading and understanding. Read each passage TWICE with your child — once for the story, once for the details. Encourage them to find answers IN the passage, not from their imagination!",
+  "learnBullets": [
+    "Reading short **stories** and **passages** carefully",
+    "Finding **specific information** in the text",
+    "Understanding **messages** and **invitations**",
+    "Answering questions based on **what you read**"
+  ],
+  "learnItFirst": "**What is Reading Comprehension?**\nIt means reading a passage and understanding what it says. You will answer questions based on what is written.\n\n**Tips for Reading Comprehension:**\n1. **Read the passage carefully** — don't rush!\n2. **Read the questions** — understand what is being asked\n3. **Go back to the passage** — find the answer in the text\n4. **Don't guess** — the answer is always in the passage!\n\n**Types of Questions:**\n- **Who** did something?\n- **What** happened?\n- **Where** did it happen?\n- **When** did it happen?\n- **Why** did it happen?\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "**Read the passage and answer questions 1-5:**\n\n> **The Lost Puppy**\n> \n> One day, Riya found a small puppy near her house. The puppy was brown and had a red collar. It looked hungry and sad. Riya gave it some milk and bread. The puppy wagged its tail happily.\n> \n> Riya's mother helped her put up posters in the neighborhood. Two days later, a little boy named Arjun came to their house. He was so happy to see his puppy! He thanked Riya and gave her a box of chocolates.",
+      "questions": [
+        {
+          "num": 1,
+          "content": "What did Riya find near her house?",
+          "options": {
+            "A": "A rabbit",
+            "B": "A cat",
+            "C": "A bird",
+            "D": "A puppy"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "\"Riya found a small puppy near her house\""
+        },
+        {
+          "num": 2,
+          "content": "What colour was the puppy?",
+          "options": {
+            "A": "Golden",
+            "B": "Black",
+            "C": "Brown",
+            "D": "White"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "\"The puppy was brown\""
+        },
+        {
+          "num": 3,
+          "content": "What did Riya give the puppy?",
+          "options": {
+            "A": "Biscuits and water",
+            "B": "Milk and bread",
+            "C": "Rice and curry",
+            "D": "Fruits"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"Riya gave it some milk and bread\""
+        },
+        {
+          "num": 4,
+          "content": "Who was the owner of the puppy?",
+          "options": {
+            "A": "Arjun",
+            "B": "Riya",
+            "C": "Riya's mother",
+            "D": "Arjun's father"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "\"a little boy named Arjun... his puppy\""
+        },
+        {
+          "num": 5,
+          "content": "What did Arjun give Riya to thank her?",
+          "options": {
+            "A": "Money",
+            "B": "Flowers",
+            "C": "A toy",
+            "D": "Chocolates"
+          },
+          "trailingContext": "---\n\n**Read the passage and answer questions 6-10:**\n\n> **The Birthday Invitation**\n> \n> 🎈 **You Are Invited!** 🎈\n> \n> **What:** Ananya's 7th Birthday Party\n> **When:** Saturday, 15th March at 4:00 PM\n> **Where:** Fun World Play Zone, MG Road\n> **RSVP:** Call 9876543210 by 12th March\n> \n> Come for games, cake, and fun!\n> Dress code: Wear something BLUE!",
+          "correct": "D",
+          "why": "\"gave her a box of chocolates\""
+        },
+        {
+          "num": 6,
+          "content": "Whose birthday party is it?",
+          "options": {
+            "A": "Siya's",
+            "B": "Riya's",
+            "C": "Ananya's",
+            "D": "Priya's"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "\"Ananya's 7th Birthday Party\""
+        },
+        {
+          "num": 7,
+          "content": "How old will Ananya be?",
+          "options": {
+            "A": "6",
+            "B": "8",
+            "C": "7",
+            "D": "5"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "\"7th Birthday\""
+        },
+        {
+          "num": 8,
+          "content": "What day is the party?",
+          "options": {
+            "A": "Sunday",
+            "B": "Monday",
+            "C": "Saturday",
+            "D": "Friday"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "\"Saturday, 15th March\""
+        },
+        {
+          "num": 9,
+          "content": "Where is the party?",
+          "options": {
+            "A": "Fun World Play Zone",
+            "B": "School",
+            "C": "Ananya's house",
+            "D": "Park"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "\"Where: Fun World Play Zone\""
+        },
+        {
+          "num": 10,
+          "content": "What colour should you wear?",
+          "options": {
+            "A": "Yellow",
+            "B": "Blue",
+            "C": "Pink",
+            "D": "Red"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "\"Dress code: Wear something BLUE!\""
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "**Read the passage and answer questions 11-17:**\n\n> **My Pet Parrot**\n> \n> I have a pet parrot named Mitthu. He has beautiful green feathers and a red beak. Every morning, Mitthu wakes me up by saying \"Good morning! Good morning!\" He loves to eat sunflower seeds and apples.\n> \n> Mitthu can say many words. He says \"Hello\" when visitors come and \"Bye-bye\" when they leave. Sometimes he copies the sound of our doorbell! My grandmother taught him to say \"Ram-Ram\" which makes everyone laugh.\n> \n> I clean Mitthu's cage every Sunday. I give him fresh water daily. Mitthu is not just a pet — he is my best friend!",
+      "questions": [
+        {
+          "num": 11,
+          "content": "What is the parrot's name?",
+          "options": {
+            "A": "Mitthu",
+            "B": "Chiku",
+            "C": "Tweety",
+            "D": "Polly"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "\"a pet parrot named Mitthu\""
+        },
+        {
+          "num": 12,
+          "content": "What colour are Mitthu's feathers?",
+          "options": {
+            "A": "Blue",
+            "B": "Green",
+            "C": "Red",
+            "D": "Yellow"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"beautiful green feathers\""
+        },
+        {
+          "num": 13,
+          "content": "What does Mitthu say in the morning?",
+          "options": {
+            "A": "Ram-Ram",
+            "B": "Hello",
+            "C": "Good morning",
+            "D": "Bye-bye"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "\"saying 'Good morning! Good morning!'\""
+        },
+        {
+          "num": 14,
+          "content": "What does Mitthu like to eat?",
+          "options": {
+            "A": "Bread and milk",
+            "B": "Biscuits",
+            "C": "Rice and dal",
+            "D": "Sunflower seeds and apples"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "\"loves to eat sunflower seeds and apples\""
+        },
+        {
+          "num": 15,
+          "content": "Who taught Mitthu to say \"Ram-Ram\"?",
+          "options": {
+            "A": "Grandmother",
+            "B": "Father",
+            "C": "The narrator (I)",
+            "D": "Mother"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "\"My grandmother taught him\""
+        },
+        {
+          "num": 16,
+          "content": "When does the narrator clean Mitthu's cage?",
+          "options": {
+            "A": "Every Sunday",
+            "B": "Every day",
+            "C": "Every Monday",
+            "D": "Every month"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "\"I clean Mitthu's cage every Sunday\""
+        },
+        {
+          "num": 17,
+          "content": "What sound does Mitthu sometimes copy?",
+          "options": {
+            "A": "Doorbell",
+            "B": "Car horn",
+            "C": "Phone ringing",
+            "D": "TV sounds"
+          },
+          "trailingContext": "---\n\n**Read the message and answer questions 18-21:**\n\n> **Message on the refrigerator:**\n> \n> Dear Rohan,\n> \n> I have gone to the market. Your lunch is in the blue box inside the fridge. Heat it in the microwave for 2 minutes. Don't forget to drink your milk! I will be back by 5 o'clock.\n> \n> Do your homework before watching TV.\n> \n> Love,\n> Mummy\n> \n> P.S. – Your sister is at her friend's house.",
+          "correct": "A",
+          "why": "\"copies the sound of our doorbell\""
+        },
+        {
+          "num": 18,
+          "content": "Where has Mummy gone?",
+          "options": {
+            "A": "Office",
+            "B": "Hospital",
+            "C": "School",
+            "D": "Market"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "\"I have gone to the market\""
+        },
+        {
+          "num": 19,
+          "content": "Where is Rohan's lunch?",
+          "options": {
+            "A": "In the blue box in the fridge",
+            "B": "In the kitchen",
+            "C": "In his room",
+            "D": "On the table"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "\"in the blue box inside the fridge\""
+        },
+        {
+          "num": 20,
+          "content": "What time will Mummy be back?",
+          "options": {
+            "A": "3 o'clock",
+            "B": "4 o'clock",
+            "C": "6 o'clock",
+            "D": "5 o'clock"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "\"I will be back by 5 o'clock\""
+        },
+        {
+          "num": 21,
+          "content": "What should Rohan do before watching TV?",
+          "options": {
+            "A": "Drink milk",
+            "B": "Do homework",
+            "C": "Eat lunch",
+            "D": "Clean his room"
+          },
+          "trailingContext": "---\n\n**Read the passage and answer questions 22-25:**\n\n> **The Ant and the Dove**\n> \n> One hot summer day, a tiny ant went to the river to drink water. Suddenly, a strong wind blew and the ant fell into the river. \"Help! Help!\" cried the ant.\n> \n> A kind dove was sitting on a tree nearby. She saw the ant struggling in the water. Quickly, she dropped a leaf into the river. The ant climbed onto the leaf and floated safely to the shore.\n> \n> A few days later, a hunter came to catch the dove. He pointed his net at the bird. The ant saw this and bit the hunter's foot hard! \"Ouch!\" shouted the hunter. The dove heard the noise and flew away to safety.\n> \n> The ant and the dove became good friends. They learned that a friend in need is a friend indeed!",
+          "correct": "B",
+          "why": "\"Do your homework before watching TV\""
+        },
+        {
+          "num": 22,
+          "content": "Why did the ant go to the river?",
+          "options": {
+            "A": "To meet the dove",
+            "B": "To swim",
+            "C": "To drink water",
+            "D": "To play"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "\"went to the river to drink water\""
+        },
+        {
+          "num": 23,
+          "content": "How did the dove save the ant?",
+          "options": {
+            "A": "She flew down",
+            "B": "She dropped a leaf",
+            "C": "She called for help",
+            "D": "She pulled the ant out"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"she dropped a leaf into the river\""
+        },
+        {
+          "num": 24,
+          "content": "How did the ant help the dove?",
+          "options": {
+            "A": "The ant threw stones",
+            "B": "The ant bit the hunter",
+            "C": "The ant shouted loudly",
+            "D": "The ant called the police"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"bit the hunter's foot hard\""
+        },
+        {
+          "num": 25,
+          "content": "What is the lesson of this story?",
+          "options": {
+            "A": "A friend in need is a friend indeed",
+            "B": "Hunters are bad",
+            "C": "Don't drink river water",
+            "D": "Doves are better than ants"
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "Last line of the story"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "**Read the school notice and answer questions 26-30:**\n\n> **NOTICE**\n> \n> **Rainbow Public School**\n> \n> **Annual Sports Day**\n> \n> Date: Friday, 20th December 2024\n> Time: 8:00 AM to 1:00 PM\n> Venue: School Ground\n> \n> **Events:**\n> - Running race (50m)\n> - Sack race\n> - Lemon and spoon race\n> - Relay race\n> \n> **Important:**\n> 1. Wear your house colour T-shirt\n> 2. Bring your own water bottle\n> 3. Parents are welcome to attend\n> 4. Snacks will be provided by school\n> \n> Students who want to participate must give their names to their class teacher by 15th December.\n> \n> **Principal**\n> Mrs. Sharma",
+      "questions": [
+        {
+          "num": 26,
+          "content": "On which day of the week is Sports Day?",
+          "options": {
+            "A": "Saturday",
+            "B": "Thursday",
+            "C": "Sunday",
+            "D": "Friday"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "\"Date: Friday, 20th December\""
+        },
+        {
+          "num": 27,
+          "content": "How long is the Sports Day event?",
+          "options": {
+            "A": "3 hours",
+            "B": "5 hours",
+            "C": "6 hours",
+            "D": "4 hours"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "8:00 AM to 1:00 PM = 5 hours"
+        },
+        {
+          "num": 28,
+          "content": "Which of these is NOT an event on Sports Day?",
+          "options": {
+            "A": "Sack race",
+            "B": "Cricket match",
+            "C": "Relay race",
+            "D": "Running race"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Not listed in the events"
+        },
+        {
+          "num": 29,
+          "content": "What is the last date to give your name for participation?",
+          "options": {
+            "A": "25th December",
+            "B": "20th December",
+            "C": "15th December",
+            "D": "10th December"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "\"by 15th December\""
+        },
+        {
+          "num": 30,
+          "content": "Which statement is TRUE according to the notice?",
+          "options": {
+            "A": "Parents are not allowed",
+            "B": "Students must bring their own snacks",
+            "C": "The event will be held inside the school building",
+            "D": "Students should wear their house colour T-shirt"
+          },
+          "trailingContext": "---",
+          "correct": "D",
+          "why": "\"Wear your house colour T-shirt\""
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

@@ -1,0 +1,427 @@
+{
+  "id": "09",
+  "slug": "unit-09-transport-and-communication",
+  "num": 9,
+  "title": "Transport and Communication",
+  "emoji": "🚗",
+  "parentNote": "This unit covers different modes of transport and ways we communicate. Important for everyday awareness!",
+  "learnBullets": [
+    "Know about **land, water, and air transport**",
+    "Learn about **different vehicles** and what they do",
+    "Understand **means of communication**",
+    "Know about **traffic rules** and road safety",
+    "Learn about **modern communication** — phones, internet"
+  ],
+  "learnItFirst": "**1. Types of Transport**\n\n| Type | Examples |\n|------|----------|\n| Land 🚗 | Car, Bus, Train, Bicycle, Motorcycle |\n| Water 🚢 | Ship, Boat, Ferry |\n| Air ✈️ | Aeroplane, Helicopter |\n\n**2. Means of Communication**\n\n| Old Ways | Modern Ways |\n|----------|-------------|\n| Letters ✉️ | Email 📧 |\n| Drums | Mobile phone 📱 |\n| Pigeons | Video calls 💻 |\n| Messengers | Internet 🌐 |\n\n**3. Traffic Rules**\n\n- **Red light**: Stop 🔴\n- **Yellow light**: Get ready 🟡\n- **Green light**: Go 🟢\n- Always walk on the **footpath/sidewalk**\n- Use **zebra crossing** to cross the road\n- Look **left and right** before crossing\n\n**4. Emergency Numbers**\n\n- Police: **100**\n- Fire: **101**\n- Ambulance: **102** or **108**\n\n---\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "Which of these runs on a track?",
+          "options": {
+            "A": "Car",
+            "B": "Bicycle",
+            "C": "Bus",
+            "D": "Train"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Trains run on railway tracks"
+        },
+        {
+          "num": 2,
+          "content": "Which vehicle flies in the air?",
+          "options": {
+            "A": "Train",
+            "B": "Bus",
+            "C": "Ship",
+            "D": "Aeroplane"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Aeroplanes fly in the air"
+        },
+        {
+          "num": 3,
+          "content": "What does a red traffic light mean?",
+          "options": {
+            "A": "Stop",
+            "B": "Go",
+            "C": "Run",
+            "D": "Walk slowly"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Red light means Stop — wait until it turns green"
+        },
+        {
+          "num": 4,
+          "content": "Which vehicle travels on water?",
+          "options": {
+            "A": "Bus",
+            "B": "Ship",
+            "C": "Car",
+            "D": "Helicopter"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Ships and boats travel on water"
+        },
+        {
+          "num": 5,
+          "content": "We use a ___ to talk to people far away.",
+          "options": {
+            "A": "Television",
+            "B": "Radio",
+            "C": "Telephone",
+            "D": "Camera"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "We use telephone or mobile phone to talk to people far away"
+        },
+        {
+          "num": 6,
+          "content": "What does a green traffic light mean?",
+          "options": {
+            "A": "Run",
+            "B": "Wait",
+            "C": "Go",
+            "D": "Stop"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Green light means Go — you can move forward"
+        },
+        {
+          "num": 7,
+          "content": "Which vehicle has two wheels and no engine?",
+          "options": {
+            "A": "Motorcycle",
+            "B": "Bicycle",
+            "C": "Car",
+            "D": "Scooter"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A bicycle has two wheels and runs on pedal power"
+        },
+        {
+          "num": 8,
+          "content": "Who drives a bus?",
+          "options": {
+            "A": "Captain",
+            "B": "Conductor",
+            "C": "Driver",
+            "D": "Pilot"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A driver drives a bus, car, or truck"
+        },
+        {
+          "num": 9,
+          "content": "Letters are delivered by ___.",
+          "options": {
+            "A": "Driver",
+            "B": "Teacher",
+            "C": "Postman",
+            "D": "Doctor"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A postman delivers letters and parcels"
+        },
+        {
+          "num": 10,
+          "content": "An ambulance is used to ___.",
+          "options": {
+            "A": "Carry sick people to hospital",
+            "B": "Deliver letters",
+            "C": "Catch criminals",
+            "D": "Put out fires"
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "An ambulance carries sick or injured people to the hospital"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "Who flies an aeroplane?",
+          "options": {
+            "A": "Driver",
+            "B": "Pilot",
+            "C": "Conductor",
+            "D": "Captain"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A pilot flies an aeroplane"
+        },
+        {
+          "num": 12,
+          "content": "Which of these is the fastest mode of transport?",
+          "options": {
+            "A": "Aeroplane",
+            "B": "Ship",
+            "C": "Train",
+            "D": "Bus"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Aeroplanes are the fastest mode of transport"
+        },
+        {
+          "num": 13,
+          "content": "We should cross the road at the ___.",
+          "options": {
+            "A": "Middle of the road",
+            "B": "Anywhere we like",
+            "C": "Zebra crossing",
+            "D": "Behind a bus"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "We should use the zebra crossing to cross the road safely"
+        },
+        {
+          "num": 14,
+          "content": "Which vehicle carries many passengers on roads?",
+          "options": {
+            "A": "Motorcycle",
+            "B": "Bus",
+            "C": "Bicycle",
+            "D": "Auto-rickshaw"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A bus can carry many passengers at once"
+        },
+        {
+          "num": 15,
+          "content": "Email is a way of ___.",
+          "options": {
+            "A": "Transport",
+            "B": "Cooking",
+            "C": "Sleeping",
+            "D": "Communication"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Email is an electronic way of sending messages (communication)"
+        },
+        {
+          "num": 16,
+          "content": "Before crossing the road, we should look ___.",
+          "options": {
+            "A": "Left and right",
+            "B": "Only left",
+            "C": "Up at the sky",
+            "D": "Only right"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Always look left and right before crossing the road"
+        },
+        {
+          "num": 17,
+          "content": "A helicopter can ___.",
+          "options": {
+            "A": "Only move forward",
+            "B": "Run on tracks",
+            "C": "Travel on water",
+            "D": "Land in small spaces"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Helicopters can hover and land in small spaces — they don't need runways"
+        },
+        {
+          "num": 18,
+          "content": "What is the emergency number for police in India?",
+          "options": {
+            "A": "100",
+            "B": "102",
+            "C": "101",
+            "D": "108"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Police emergency number in India is 100"
+        },
+        {
+          "num": 19,
+          "content": "Which vehicle runs underground in big cities?",
+          "options": {
+            "A": "Car",
+            "B": "Metro train",
+            "C": "Bus",
+            "D": "Bicycle"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Metro trains run underground in big cities like Delhi, Mumbai"
+        },
+        {
+          "num": 20,
+          "content": "The Internet helps us ___.",
+          "options": {
+            "A": "Fly a plane",
+            "B": "Cook food",
+            "C": "Send messages and find information",
+            "D": "Drive a car"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "The Internet helps us communicate, find information, and learn"
+        },
+        {
+          "num": 21,
+          "content": "What is the emergency number for fire brigade in India?",
+          "options": {
+            "A": "101",
+            "B": "102",
+            "C": "100",
+            "D": "103"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Fire brigade emergency number in India is 101"
+        },
+        {
+          "num": 22,
+          "content": "A submarine travels ___.",
+          "options": {
+            "A": "On water surface only",
+            "B": "In the air",
+            "C": "On land",
+            "D": "Under water"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "A submarine can travel underwater"
+        },
+        {
+          "num": 23,
+          "content": "We should always wear ___ while riding a bike or scooter.",
+          "options": {
+            "A": "Cap",
+            "B": "Hat",
+            "C": "Nothing",
+            "D": "Helmet"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Always wear a helmet for safety while riding a bike or scooter"
+        },
+        {
+          "num": 24,
+          "content": "Newspapers are a means of ___.",
+          "options": {
+            "A": "Entertainment only",
+            "B": "Cooking",
+            "C": "Transport",
+            "D": "Communication"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Newspapers communicate news and information to people"
+        },
+        {
+          "num": 25,
+          "content": "A fire engine is used to ___.",
+          "options": {
+            "A": "Deliver letters",
+            "B": "Catch criminals",
+            "C": "Put out fires",
+            "D": "Carry sick people"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "A fire engine carries water and firefighters to put out fires"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "Challenge yourself with these transport and communication questions!",
+      "questions": [
+        {
+          "num": 26,
+          "content": "Which of these is the slowest mode of transport?",
+          "options": {
+            "A": "Aeroplane",
+            "B": "Ship",
+            "C": "Train",
+            "D": "Car"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Ships are generally the slowest among these options"
+        },
+        {
+          "num": 27,
+          "content": "What does yellow traffic light mean?",
+          "options": {
+            "A": "Get ready/Slow down",
+            "B": "Stop",
+            "C": "Turn around",
+            "D": "Go fast"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Yellow light means get ready — slow down and prepare to stop or go"
+        },
+        {
+          "num": 28,
+          "content": "Satellites help in ___.",
+          "options": {
+            "A": "Cooking",
+            "B": "Communication and weather forecasting",
+            "C": "Sleeping",
+            "D": "Swimming"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Satellites help in TV broadcast, phone calls, GPS, and weather forecasting"
+        },
+        {
+          "num": 29,
+          "content": "Which mode of transport does NOT cause pollution?",
+          "options": {
+            "A": "Bicycle",
+            "B": "Motorcycle",
+            "C": "Bus",
+            "D": "Car"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Bicycles don't use fuel and don't cause pollution"
+        },
+        {
+          "num": 30,
+          "content": "The first vehicle to land on the Moon was called ___.",
+          "options": {
+            "A": "Rocket",
+            "B": "Lunar Module",
+            "C": "Satellite",
+            "D": "Space Shuttle"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "The Lunar Module (Eagle) landed on the Moon during the Apollo 11 mission"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

@@ -1,0 +1,427 @@
+{
+  "id": "03",
+  "slug": "unit-03-our-body-and-health",
+  "num": 3,
+  "title": "Our Body and Health",
+  "emoji": "🏃",
+  "parentNote": "This unit covers body parts, sense organs, and healthy habits. Important for science awareness!",
+  "learnBullets": [
+    "Know the **main body parts** and what they do",
+    "Learn about our **five sense organs**",
+    "Understand **good food** and healthy eating",
+    "Know about **healthy habits** and hygiene",
+    "Learn what keeps us **fit and strong**"
+  ],
+  "learnItFirst": "**1. Our Body Parts**\n\n- **Head** — contains brain, eyes, ears, nose, mouth\n- **Hands** — we use them to hold and write\n- **Legs** — we use them to walk and run\n- **Heart** — pumps blood in our body\n- **Lungs** — help us breathe\n- **Stomach** — digests the food we eat\n\n**2. Five Sense Organs**\n\n| Sense Organ | What It Does |\n|-------------|-------------|\n| Eyes 👀 | We see with our eyes |\n| Ears 👂 | We hear with our ears |\n| Nose 👃 | We smell with our nose |\n| Tongue 👅 | We taste with our tongue |\n| Skin 🖐️ | We feel (touch) with our skin |\n\n**3. Healthy Habits**\n\n- Brush teeth **twice a day**\n- Take a **bath daily**\n- Wash hands **before eating** and **after using toilet**\n- Eat **fruits and vegetables**\n- **Exercise** and play outdoor games\n- Sleep **8-10 hours** every night\n\n---\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "We see with our ___.",
+          "options": {
+            "A": "Eyes",
+            "B": "Nose",
+            "C": "Tongue",
+            "D": "Ears"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Eyes are the sense organs for seeing"
+        },
+        {
+          "num": 2,
+          "content": "We hear sounds with our ___.",
+          "options": {
+            "A": "Eyes",
+            "B": "Ears",
+            "C": "Hands",
+            "D": "Nose"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Ears are the sense organs for hearing"
+        },
+        {
+          "num": 3,
+          "content": "How many sense organs do we have?",
+          "options": {
+            "A": "Six",
+            "B": "Five",
+            "C": "Three",
+            "D": "Four"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "We have five sense organs: eyes, ears, nose, tongue, and skin"
+        },
+        {
+          "num": 4,
+          "content": "Which body part helps us breathe?",
+          "options": {
+            "A": "Kidneys",
+            "B": "Heart",
+            "C": "Stomach",
+            "D": "Lungs"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Lungs help us breathe air in and out"
+        },
+        {
+          "num": 5,
+          "content": "We taste food with our ___.",
+          "options": {
+            "A": "Nose",
+            "B": "Fingers",
+            "C": "Tongue",
+            "D": "Lips"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "The tongue is the sense organ for tasting"
+        },
+        {
+          "num": 6,
+          "content": "We should brush our teeth ___.",
+          "options": {
+            "A": "Twice a day",
+            "B": "Once a month",
+            "C": "Once a week",
+            "D": "Only when they hurt"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "We should brush teeth twice a day — morning and night"
+        },
+        {
+          "num": 7,
+          "content": "Which body part pumps blood?",
+          "options": {
+            "A": "Heart",
+            "B": "Stomach",
+            "C": "Brain",
+            "D": "Lungs"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "The heart pumps blood to all parts of the body"
+        },
+        {
+          "num": 8,
+          "content": "We smell with our ___.",
+          "options": {
+            "A": "Ears",
+            "B": "Eyes",
+            "C": "Nose",
+            "D": "Mouth"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "The nose is the sense organ for smelling"
+        },
+        {
+          "num": 9,
+          "content": "Which of these is a healthy food?",
+          "options": {
+            "A": "Apple",
+            "B": "Soda",
+            "C": "Candy",
+            "D": "Chips"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Fruits like apples are healthy foods"
+        },
+        {
+          "num": 10,
+          "content": "We feel hot and cold with our ___.",
+          "options": {
+            "A": "Skin",
+            "B": "Eyes",
+            "C": "Tongue",
+            "D": "Ears"
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "Skin helps us feel touch, hot, cold, and pain"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "Which body part helps us think?",
+          "options": {
+            "A": "Brain",
+            "B": "Lungs",
+            "C": "Heart",
+            "D": "Stomach"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "The brain helps us think, remember, and control our body"
+        },
+        {
+          "num": 12,
+          "content": "How many hours of sleep does a child need every night?",
+          "options": {
+            "A": "5-6 hours",
+            "B": "8-10 hours",
+            "C": "12-14 hours",
+            "D": "3-4 hours"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Children need 8-10 hours of sleep every night to stay healthy"
+        },
+        {
+          "num": 13,
+          "content": "Which of these helps to keep our teeth clean?",
+          "options": {
+            "A": "Candy",
+            "B": "Chocolate",
+            "C": "Ice cream",
+            "D": "Toothbrush and toothpaste"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Brushing with toothbrush and toothpaste keeps teeth clean"
+        },
+        {
+          "num": 14,
+          "content": "We should wash our hands ___.",
+          "options": {
+            "A": "Once a week",
+            "B": "Only before sleeping",
+            "C": "Before eating and after using toilet",
+            "D": "Only on Sundays"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Washing hands before eating and after toilet keeps us safe from germs"
+        },
+        {
+          "num": 15,
+          "content": "Which of these is good for our bones?",
+          "options": {
+            "A": "Soft drinks",
+            "B": "Candy",
+            "C": "Chips",
+            "D": "Milk"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Milk has calcium which makes our bones strong"
+        },
+        {
+          "num": 16,
+          "content": "Our body is covered with ___.",
+          "options": {
+            "A": "Skin",
+            "B": "Scales",
+            "C": "Leaves",
+            "D": "Feathers"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Human body is covered with skin"
+        },
+        {
+          "num": 17,
+          "content": "Which activity is good for health?",
+          "options": {
+            "A": "Eating junk food",
+            "B": "Playing outdoor games",
+            "C": "Watching TV all day",
+            "D": "Playing video games all day"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Playing outdoor games keeps us fit and healthy"
+        },
+        {
+          "num": 18,
+          "content": "Food goes to the ___ after we eat.",
+          "options": {
+            "A": "Heart",
+            "B": "Lungs",
+            "C": "Stomach",
+            "D": "Brain"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Food goes to the stomach where it is digested"
+        },
+        {
+          "num": 19,
+          "content": "Which of these gives us energy?",
+          "options": {
+            "A": "Food",
+            "B": "Cold water",
+            "C": "Television",
+            "D": "Sleeping only"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Food gives us energy to work and play"
+        },
+        {
+          "num": 20,
+          "content": "To stay healthy, we should drink plenty of ___.",
+          "options": {
+            "A": "Tea",
+            "B": "Cold drinks",
+            "C": "Coffee",
+            "D": "Water"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Drinking plenty of water keeps our body healthy"
+        },
+        {
+          "num": 21,
+          "content": "Carrots are good for our ___.",
+          "options": {
+            "A": "Tongue",
+            "B": "Nose",
+            "C": "Eyes",
+            "D": "Ears"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Carrots have Vitamin A which is good for our eyes"
+        },
+        {
+          "num": 22,
+          "content": "We use our ___ to write and draw.",
+          "options": {
+            "A": "Eyes",
+            "B": "Hands",
+            "C": "Ears",
+            "D": "Legs"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "We use our hands to write, draw, and hold things"
+        },
+        {
+          "num": 23,
+          "content": "How many times should we take a bath?",
+          "options": {
+            "A": "Once a month",
+            "B": "Once a week",
+            "C": "Only when dirty",
+            "D": "Every day"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "We should take a bath every day to stay clean"
+        },
+        {
+          "num": 24,
+          "content": "Which of these is a junk food?",
+          "options": {
+            "A": "Vegetables",
+            "B": "Fruits",
+            "C": "Rice",
+            "D": "Burger"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Burgers, pizza, and chips are junk foods — not healthy if eaten too much"
+        },
+        {
+          "num": 25,
+          "content": "We use our ___ to walk and run.",
+          "options": {
+            "A": "Head",
+            "B": "Hands",
+            "C": "Legs",
+            "D": "Stomach"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "We use our legs to walk, run, and kick"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "These are higher-order thinking questions!",
+      "questions": [
+        {
+          "num": 26,
+          "content": "Which part of the body protects the brain?",
+          "options": {
+            "A": "Skin",
+            "B": "Heart",
+            "C": "Skull (Head bone)",
+            "D": "Lungs"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "The skull is a hard bone that protects our brain"
+        },
+        {
+          "num": 27,
+          "content": "If you cannot see things clearly, you should visit a ___.",
+          "options": {
+            "A": "Chef",
+            "B": "Dentist",
+            "C": "Teacher",
+            "D": "Eye doctor (Ophthalmologist)"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "An eye doctor checks our eyes and gives glasses if needed"
+        },
+        {
+          "num": 28,
+          "content": "Which vitamin do we get from sunlight?",
+          "options": {
+            "A": "Vitamin B",
+            "B": "Vitamin D",
+            "C": "Vitamin A",
+            "D": "Vitamin C"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Our body makes Vitamin D when sunlight touches our skin"
+        },
+        {
+          "num": 29,
+          "content": "A doctor who treats teeth is called a ___.",
+          "options": {
+            "A": "Neurologist",
+            "B": "Dentist",
+            "C": "Dermatologist",
+            "D": "Cardiologist"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A dentist is a doctor who takes care of our teeth"
+        },
+        {
+          "num": 30,
+          "content": "What happens to our heart when we exercise?",
+          "options": {
+            "A": "It stops",
+            "B": "It beats faster",
+            "C": "It beats slower",
+            "D": "Nothing happens"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "When we exercise, our heart beats faster to pump more blood to muscles"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

@@ -1,0 +1,427 @@
+{
+  "id": "03",
+  "slug": "unit-03-animals",
+  "num": 3,
+  "title": "Animals",
+  "emoji": "🦁",
+  "parentNote": "This unit covers types of animals, their homes, food habits, and how they move. Visit a zoo or watch animal videos together!",
+  "learnBullets": [
+    "Know the difference between **domestic and wild animals**",
+    "Learn about **animal homes** (shelter)",
+    "Understand what animals eat — **herbivores, carnivores, omnivores**",
+    "Know how different animals **move** (walk, fly, swim, crawl)",
+    "Learn about **animal babies** and their names"
+  ],
+  "learnItFirst": "**1. Types of Animals**\n\n**Domestic Animals** — Animals that live with humans\n- Dog, Cat, Cow, Horse, Goat, Hen, Sheep\n- They give us milk, eggs, wool, or help us\n\n**Wild Animals** — Animals that live in forests/jungles\n- Lion, Tiger, Elephant, Bear, Wolf, Deer\n- They find their own food and shelter\n\n**Pet Animals** — Animals we keep at home for company\n- Dog, Cat, Fish, Parrot, Rabbit\n\n---\n\n**2. What Animals Eat**\n\n| Type | What They Eat | Examples |\n|------|---------------|----------|\n| **Herbivores** | Only plants | Cow, Goat, Rabbit, Deer, Elephant |\n| **Carnivores** | Only other animals | Lion, Tiger, Wolf, Eagle |\n| **Omnivores** | Both plants and animals | Dog, Bear, Crow, Humans |\n\n---\n\n**3. Animal Homes**\n\n| Animal | Home |\n|--------|------|\n| Dog | Kennel |\n| Cow | Shed / Barn |\n| Bird | Nest |\n| Bee | Hive |\n| Lion | Den |\n| Rabbit | Burrow |\n| Spider | Web |\n| Fish | Water (Pond, River, Sea) |\n| Horse | Stable |\n\n---\n\n**4. How Animals Move**\n\n- **Walk/Run** — Dog, Cat, Cow, Lion\n- **Fly** — Bird, Butterfly, Bat\n- **Swim** — Fish, Duck, Whale\n- **Crawl** — Snake, Snail, Worm\n- **Hop/Jump** — Frog, Rabbit, Kangaroo\n\n---\n\n**5. Animal Babies**\n\n| Animal | Baby |\n|--------|------|\n| Dog | Puppy |\n| Cat | Kitten |\n| Cow | Calf |\n| Hen | Chick |\n| Lion | Cub |\n| Frog | Tadpole |\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "Which of these is a domestic animal?",
+          "options": {
+            "A": "Tiger",
+            "B": "Cow",
+            "C": "Lion",
+            "D": "Wolf"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A cow lives with humans and gives us milk — it is a domestic animal"
+        },
+        {
+          "num": 2,
+          "content": "Which of these is a wild animal?",
+          "options": {
+            "A": "Cat",
+            "B": "Hen",
+            "C": "Dog",
+            "D": "Tiger"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "A tiger lives in the jungle and hunts for food — it is a wild animal"
+        },
+        {
+          "num": 3,
+          "content": "A dog lives in a ___.",
+          "options": {
+            "A": "Stable",
+            "B": "Nest",
+            "C": "Kennel",
+            "D": "Hive"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A dog's house is called a kennel"
+        },
+        {
+          "num": 4,
+          "content": "Which animal gives us milk?",
+          "options": {
+            "A": "Dog",
+            "B": "Cow",
+            "C": "Parrot",
+            "D": "Hen"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Cows give us milk that we drink"
+        },
+        {
+          "num": 5,
+          "content": "A bird lives in a ___.",
+          "options": {
+            "A": "Den",
+            "B": "Burrow",
+            "C": "Web",
+            "D": "Nest"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Birds build nests in trees using twigs, leaves, and grass"
+        },
+        {
+          "num": 6,
+          "content": "Which animal can fly?",
+          "options": {
+            "A": "Fish",
+            "B": "Dog",
+            "C": "Snake",
+            "D": "Parrot"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "A parrot is a bird with wings — it can fly"
+        },
+        {
+          "num": 7,
+          "content": "A baby dog is called a ___.",
+          "options": {
+            "A": "Puppy",
+            "B": "Cub",
+            "C": "Kitten",
+            "D": "Calf"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A baby dog is called a puppy"
+        },
+        {
+          "num": 8,
+          "content": "Which animal swims in water?",
+          "options": {
+            "A": "Lion",
+            "B": "Cat",
+            "C": "Rabbit",
+            "D": "Fish"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Fish live in water and swim using their fins"
+        },
+        {
+          "num": 9,
+          "content": "Which animal gives us eggs?",
+          "options": {
+            "A": "Hen",
+            "B": "Cow",
+            "C": "Horse",
+            "D": "Dog"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Hens lay eggs that we eat"
+        },
+        {
+          "num": 10,
+          "content": "A snake moves by ___.",
+          "options": {
+            "A": "Swimming only",
+            "B": "Hopping",
+            "C": "Crawling",
+            "D": "Flying"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "Snakes have no legs — they crawl on the ground"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "Animals that eat only plants are called ___.",
+          "options": {
+            "A": "Omnivores",
+            "B": "Carnivores",
+            "C": "Herbivores",
+            "D": "Insects"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Herbivores eat only plants (grass, leaves, fruits)"
+        },
+        {
+          "num": 12,
+          "content": "Animals that eat only other animals are called ___.",
+          "options": {
+            "A": "Pets",
+            "B": "Herbivores",
+            "C": "Carnivores",
+            "D": "Omnivores"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Carnivores hunt and eat other animals"
+        },
+        {
+          "num": 13,
+          "content": "Which of these is an omnivore?",
+          "options": {
+            "A": "Bear",
+            "B": "Lion",
+            "C": "Cow",
+            "D": "Deer"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Bears eat both plants (berries) and animals (fish) — they are omnivores"
+        },
+        {
+          "num": 14,
+          "content": "A lion lives in a ___.",
+          "options": {
+            "A": "Den",
+            "B": "Stable",
+            "C": "Nest",
+            "D": "Burrow"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A lion's home is called a den"
+        },
+        {
+          "num": 15,
+          "content": "Which animal hops to move?",
+          "options": {
+            "A": "Dog",
+            "B": "Frog",
+            "C": "Snake",
+            "D": "Fish"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Frogs have strong back legs and hop to move"
+        },
+        {
+          "num": 16,
+          "content": "A baby cat is called a ___.",
+          "options": {
+            "A": "Kitten",
+            "B": "Puppy",
+            "C": "Calf",
+            "D": "Chick"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A baby cat is called a kitten"
+        },
+        {
+          "num": 17,
+          "content": "Bees live in a ___.",
+          "options": {
+            "A": "Hive",
+            "B": "Web",
+            "C": "Nest",
+            "D": "Burrow"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Bees live together in a hive and make honey there"
+        },
+        {
+          "num": 18,
+          "content": "Which of these animals gives us wool?",
+          "options": {
+            "A": "Hen",
+            "B": "Sheep",
+            "C": "Dog",
+            "D": "Cow"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Sheep have soft, fuzzy hair that we use to make wool"
+        },
+        {
+          "num": 19,
+          "content": "A rabbit lives in a ___.",
+          "options": {
+            "A": "Web",
+            "B": "Hive",
+            "C": "Burrow",
+            "D": "Stable"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Rabbits dig holes called burrows to live in"
+        },
+        {
+          "num": 20,
+          "content": "Which of these is a pet animal?",
+          "options": {
+            "A": "Wolf",
+            "B": "Tiger",
+            "C": "Elephant",
+            "D": "Goldfish"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Goldfish are kept in tanks at home as pets"
+        },
+        {
+          "num": 21,
+          "content": "A horse lives in a ___.",
+          "options": {
+            "A": "Den",
+            "B": "Stable",
+            "C": "Kennel",
+            "D": "Nest"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A horse's home is called a stable"
+        },
+        {
+          "num": 22,
+          "content": "Which animal has a shell on its back?",
+          "options": {
+            "A": "Rabbit",
+            "B": "Fish",
+            "C": "Tortoise",
+            "D": "Dog"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A tortoise carries a hard shell on its back for protection"
+        },
+        {
+          "num": 23,
+          "content": "A baby cow is called a ___.",
+          "options": {
+            "A": "Calf",
+            "B": "Cub",
+            "C": "Puppy",
+            "D": "Kitten"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A baby cow is called a calf"
+        },
+        {
+          "num": 24,
+          "content": "A spider makes a ___ to catch insects.",
+          "options": {
+            "A": "Hive",
+            "B": "Web",
+            "C": "Burrow",
+            "D": "Nest"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Spiders spin webs to trap insects for food"
+        },
+        {
+          "num": 25,
+          "content": "Which of these can live both on land and in water?",
+          "options": {
+            "A": "Frog",
+            "B": "Lion",
+            "C": "Hen",
+            "D": "Cat"
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "Frogs can live on land and in water — they are amphibians"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "These questions are a bit tricky. Think carefully!",
+      "questions": [
+        {
+          "num": 26,
+          "content": "Rohan said, \"All animals that fly are birds.\" Is he correct?",
+          "options": {
+            "A": "No, because fish can also fly",
+            "B": "Yes, because all birds have wings",
+            "C": "Yes, only birds can fly",
+            "D": "No, bats can fly but they are not birds"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Bats can fly but they are mammals, not birds. Insects like butterflies can also fly"
+        },
+        {
+          "num": 27,
+          "content": "A penguin is a bird. Why can't it fly?",
+          "options": {
+            "A": "It is too lazy",
+            "B": "Its wings are too small for flying but help in swimming",
+            "C": "It is not really a bird",
+            "D": "It doesn't want to fly"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Penguins have small, flipper-like wings that help them swim, not fly"
+        },
+        {
+          "num": 28,
+          "content": "A baby frog is called a tadpole. It looks very different from a frog because it ___.",
+          "options": {
+            "A": "Has legs but no tail",
+            "B": "Has a tail but no legs",
+            "C": "Lives on land only",
+            "D": "Has wings"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Tadpoles have tails and no legs. As they grow, they develop legs and lose their tail"
+        },
+        {
+          "num": 29,
+          "content": "A camel is called the \"ship of the desert\" because it ___.",
+          "options": {
+            "A": "Looks like a ship",
+            "B": "Lives in the sea",
+            "C": "Can swim in sand",
+            "D": "Can travel long distances in the desert without much water"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Camels can store water in their body and walk long distances in hot deserts carrying heavy loads"
+        },
+        {
+          "num": 30,
+          "content": "Meena saw an animal that gives milk, has horns, and says \"moo.\" But it is NOT a cow. What animal could it be?",
+          "options": {
+            "A": "Horse",
+            "B": "Goat",
+            "C": "Buffalo",
+            "D": "Sheep"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "A buffalo also gives milk, has horns, and makes a sound similar to \"moo\""
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

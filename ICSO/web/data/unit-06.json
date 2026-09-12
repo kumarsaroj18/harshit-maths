@@ -1,0 +1,426 @@
+{
+  "id": "06",
+  "slug": "unit-06-ms-paint",
+  "num": 6,
+  "title": "Introduction to MS-Paint",
+  "emoji": "🎨",
+  "parentNote": "If MS Paint (or any simple drawing app) is available, let your child actually try the Pencil, Fill, and Eraser tools before this unit — feeling the difference between them makes these questions much easier.",
+  "learnBullets": [
+    "What MS Paint is used for",
+    "The main tools: **Pencil, Brush, Eraser, Fill with colour, Shapes, Text**",
+    "How to pick colours and fix mistakes with **Undo**",
+    "Saving a finished picture"
+  ],
+  "learnItFirst": "**MS Paint** is a program used to draw and colour pictures on a computer.\n\n| Tool | What it does |\n|---|---|\n| ✏️ Pencil | Draws thin, freehand lines |\n| 🖌️ Brush | Draws thicker, textured strokes |\n| 🧽 Eraser | Removes part of a drawing |\n| 🪣 Fill with colour | Fills a whole closed area with one colour |\n| ⬛ Shapes | Draws neat shapes — rectangle, circle, line |\n| 🔤 Text | Types words onto the picture |\n| 🎨 Colour palette | Where you pick your drawing colour |\n\n**Fixing mistakes:** Click **Undo** to take back your last action. Always **Save** your picture when you're done, so you can open it again later.\n\n**Watch out:** The Fill tool colours a WHOLE closed area. If the outline has a gap, the colour can \"leak\" out and colour more than you wanted!\n\n### 🧠 How to Solve — 3 Easy Steps\n1. **Picture** what you want to do — draw a thin line? Colour a big area? Fix a mistake?\n2. **Match** it to the ONE tool built for exactly that job.\n3. **Remember**: a closed shape with no gaps is needed for Fill to work properly.\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "MS Paint is a program used to:",
+          "options": {
+            "A": "Play music",
+            "B": "Print books",
+            "C": "Draw and colour pictures",
+            "D": "Cook food"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "MS Paint is a drawing program"
+        },
+        {
+          "num": 2,
+          "content": "Which tool do we use to draw a thin line freehand in MS Paint?",
+          "options": {
+            "A": "Pencil",
+            "B": "Text",
+            "C": "Eraser",
+            "D": "Fill"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "The Pencil draws thin freehand lines"
+        },
+        {
+          "num": 3,
+          "content": "Which tool do we use to remove or erase part of our drawing?",
+          "options": {
+            "A": "Pencil",
+            "B": "Brush",
+            "C": "Fill",
+            "D": "Eraser"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "The Eraser removes part of a drawing"
+        },
+        {
+          "num": 4,
+          "content": "Which tool fills a closed shape with colour all at once?",
+          "options": {
+            "A": "Text",
+            "B": "Fill with colour (bucket)",
+            "C": "Pencil",
+            "D": "Eraser"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Fill colours a whole closed area at once"
+        },
+        {
+          "num": 5,
+          "content": "Where do we pick the colour we want to draw with?",
+          "options": {
+            "A": "Text tool",
+            "B": "Save button",
+            "C": "Colour box/palette",
+            "D": "Eraser"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "The colour palette is where we pick our drawing colour"
+        },
+        {
+          "num": 6,
+          "content": "Which tool lets us type WORDS onto our picture?",
+          "options": {
+            "A": "Pencil",
+            "B": "Text tool",
+            "C": "Brush",
+            "D": "Eraser"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "The Text tool types words onto the picture"
+        },
+        {
+          "num": 7,
+          "content": "Which tool would you use to draw a THICK, textured line?",
+          "options": {
+            "A": "Fill",
+            "B": "Brush",
+            "C": "Text",
+            "D": "Eraser"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "The Brush draws thicker, textured lines"
+        },
+        {
+          "num": 8,
+          "content": "To draw a straight rectangle or circle easily, which tool would you use?",
+          "options": {
+            "A": "Fill",
+            "B": "Text",
+            "C": "Shapes tool",
+            "D": "Eraser"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "The Shapes tool draws neat rectangles, circles, and more"
+        },
+        {
+          "num": 9,
+          "content": "If you make a mistake in MS Paint, which action can undo it?",
+          "options": {
+            "A": "Shut down",
+            "B": "Save",
+            "C": "Print",
+            "D": "Undo"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Undo takes back the last action"
+        },
+        {
+          "num": 10,
+          "content": "To keep our finished picture so we can open it again later, we should:",
+          "options": {
+            "A": "Close without saving",
+            "B": "Save it",
+            "C": "Erase it",
+            "D": "Turn off the computer"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "Saving keeps the picture so it can be opened again later"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "Riya wants to colour a big area of her drawing QUICKLY with one colour. Which tool should she use?",
+          "options": {
+            "A": "Text",
+            "B": "Eraser",
+            "C": "Fill with colour",
+            "D": "Pencil"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Fill colours a big area quickly"
+        },
+        {
+          "num": 12,
+          "content": "Which MS Paint tool is best for drawing a perfect circle or square?",
+          "options": {
+            "A": "Shapes tool",
+            "B": "Pencil",
+            "C": "Brush",
+            "D": "Eraser"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "The Shapes tool draws neat, perfect shapes"
+        },
+        {
+          "num": 13,
+          "content": "Rohan wants to write his name on his drawing. Which tool should he pick?",
+          "options": {
+            "A": "Text tool",
+            "B": "Eraser",
+            "C": "Fill",
+            "D": "Brush"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "The Text tool is used to write words"
+        },
+        {
+          "num": 14,
+          "content": "Which of these tools would you use FIRST to remove a mistake before drawing again?",
+          "options": {
+            "A": "Text",
+            "B": "Eraser",
+            "C": "Fill",
+            "D": "Shapes"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "The Eraser removes a mistake before you draw again"
+        },
+        {
+          "num": 15,
+          "content": "Which tool draws thin, freehand lines — good for fine details?",
+          "options": {
+            "A": "Pencil",
+            "B": "Fill",
+            "C": "Brush",
+            "D": "Eraser"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "The Pencil is best for thin, fine details"
+        },
+        {
+          "num": 16,
+          "content": "Which tool draws thicker, more textured strokes — good for painting big areas by hand?",
+          "options": {
+            "A": "Eraser",
+            "B": "Pencil",
+            "C": "Brush",
+            "D": "Text"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "The Brush is best for painting big areas with texture"
+        },
+        {
+          "num": 17,
+          "content": "To choose a NEW colour before drawing, which part of MS Paint do you click on?",
+          "options": {
+            "A": "The colour palette",
+            "B": "The Undo button",
+            "C": "The Shapes tool",
+            "D": "The Save button"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "This is where new colours are chosen"
+        },
+        {
+          "num": 18,
+          "content": "Which of these is NOT a drawing tool in MS Paint?",
+          "options": {
+            "A": "Pencil",
+            "B": "Speaker",
+            "C": "Brush",
+            "D": "Eraser"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A speaker is not a drawing tool in MS Paint"
+        },
+        {
+          "num": 19,
+          "content": "If you draw a wrong line, what is the FASTEST way to fix just that one mistake?",
+          "options": {
+            "A": "Close the program without saving",
+            "B": "Click Undo",
+            "C": "Restart the computer",
+            "D": "Turn off the computer"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Undo quickly fixes the last mistake only"
+        },
+        {
+          "num": 20,
+          "content": "Which tool would you use to draw a STRAIGHT line neatly?",
+          "options": {
+            "A": "Fill",
+            "B": "Eraser",
+            "C": "Text",
+            "D": "Line tool (inside Shapes)"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "The Line tool draws neat, straight lines"
+        },
+        {
+          "num": 21,
+          "content": "Meera fills a heart shape with red colour using the Fill tool, but the WHOLE picture turns red instead. What most likely went wrong?",
+          "options": {
+            "A": "The Fill tool is broken",
+            "B": "The computer turned off",
+            "C": "Red is not a real colour",
+            "D": "The heart shape had a gap, so the colour leaked out"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Fill spreads through any gap in the outline"
+        },
+        {
+          "num": 22,
+          "content": "Which tool would help you select and move just ONE part of your drawing to another place?",
+          "options": {
+            "A": "Selection tool",
+            "B": "Shapes",
+            "C": "Eraser",
+            "D": "Fill"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "The Selection tool lets you pick and move part of a drawing"
+        },
+        {
+          "num": 23,
+          "content": "Before you start drawing in MS Paint, what should you usually pick first?",
+          "options": {
+            "A": "The Shut Down button",
+            "B": "The Save button",
+            "C": "The Undo button",
+            "D": "A colour from the colour palette"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Picking a colour usually comes before drawing"
+        },
+        {
+          "num": 24,
+          "content": "Which of these would you use to draw a picture of the sun as a circle with straight-line rays?",
+          "options": {
+            "A": "Only the Eraser",
+            "B": "Shapes tool AND Line tool together",
+            "C": "Only Text",
+            "D": "Only Fill"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A circle needs Shapes; straight rays need the Line tool"
+        },
+        {
+          "num": 25,
+          "content": "What happens when you use the Eraser tool over part of your drawing?",
+          "options": {
+            "A": "That part gets a new colour",
+            "B": "The whole picture is saved",
+            "C": "That part gets removed/cleared",
+            "D": "That part gets written text"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "The Eraser clears whatever it passes over"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 26,
+          "content": "Rohan wants to draw a rainbow with 3 different coloured stripes. Which TWO tools would help him MOST?",
+          "options": {
+            "A": "Only the Text tool",
+            "B": "Only the Eraser",
+            "C": "Only Undo",
+            "D": "Shapes/Pencil (to draw the stripes) AND Fill with colour (to colour each one)"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Drawing tools make the stripes; Fill adds the colour"
+        },
+        {
+          "num": 27,
+          "content": "Sam drew a nice picture but accidentally clicked Undo 3 times. What is the BEST way to get his last 3 actions back?",
+          "options": {
+            "A": "Redo (the opposite of Undo)",
+            "B": "Save",
+            "C": "Print",
+            "D": "Turn off the computer"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Redo brings back actions that were undone"
+        },
+        {
+          "num": 28,
+          "content": "Which of these correctly matches a Paint tool to its use?",
+          "options": {
+            "A": "Eraser — types words",
+            "B": "Pencil — removes drawings",
+            "C": "Fill with colour — colours a whole closed area at once",
+            "D": "Text — draws thick lines"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "This is the correct match"
+        },
+        {
+          "num": 29,
+          "content": "Priya wants her heart-shaped drawing to fill properly with pink colour without leaking. What should she check BEFORE using the Fill tool?",
+          "options": {
+            "A": "That she uses the Eraser first",
+            "B": "That the computer is switched off",
+            "C": "That she saved the file first",
+            "D": "That the heart's outline has no gaps or breaks"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "A closed outline stops the colour from leaking"
+        },
+        {
+          "num": 30,
+          "content": "Which is the correct ORDER of steps to draw and save a simple picture in MS Paint?",
+          "options": {
+            "A": "Pick a colour → Draw with a tool → Save the picture",
+            "B": "Draw → Turn off the computer without saving",
+            "C": "Turn off the computer → Draw",
+            "D": "Save the picture → Pick a colour → Draw"
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "This is the correct order of steps"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

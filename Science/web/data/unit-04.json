@@ -1,0 +1,427 @@
+{
+  "id": "04",
+  "slug": "unit-04-human-body-and-health",
+  "num": 4,
+  "title": "Human Body and Health",
+  "emoji": "🧍",
+  "parentNote": "This unit covers body parts, sense organs, food groups, and healthy habits. Make it fun by pointing to body parts and discussing healthy choices!",
+  "learnBullets": [
+    "Know the **external body parts** and their functions",
+    "Learn about the **five sense organs** and what they do",
+    "Understand **food groups** and healthy eating",
+    "Know **good habits** for staying healthy",
+    "Learn about **safety rules** and hygiene"
+  ],
+  "learnItFirst": "**1. External Body Parts**\n\n| Part | What It Does |\n|------|-------------|\n| **Head** | Contains brain, eyes, ears, nose, mouth |\n| **Eyes** | Help us see |\n| **Ears** | Help us hear |\n| **Nose** | Helps us smell and breathe |\n| **Mouth** | Helps us eat, drink, and talk |\n| **Hands** | Help us hold, write, and do work |\n| **Legs** | Help us walk, run, and jump |\n| **Heart** | Pumps blood to all body parts |\n| **Lungs** | Help us breathe |\n| **Stomach** | Digests the food we eat |\n\n---\n\n**2. The Five Sense Organs**\n\n| Sense Organ | Sense | What We Do |\n|-------------|-------|------------|\n| **Eyes** | Sight | See colors, shapes, people |\n| **Ears** | Hearing | Hear sounds, music, voices |\n| **Nose** | Smell | Smell flowers, food, perfume |\n| **Tongue** | Taste | Taste sweet, sour, salty, bitter |\n| **Skin** | Touch | Feel hot, cold, soft, rough |\n\n---\n\n**3. Types of Food**\n\n- **Energy-giving foods** — Rice, bread, chapati, potatoes (give us energy to play and work)\n- **Body-building foods** — Milk, eggs, fish, pulses (help us grow strong)\n- **Protective foods** — Fruits and vegetables (keep us healthy, fight diseases)\n\n---\n\n**4. Good Habits for Health**\n\n✅ Brush teeth twice a day\n✅ Take bath daily\n✅ Wash hands before eating\n✅ Eat healthy food\n✅ Drink plenty of water\n✅ Exercise and play\n✅ Sleep on time (8-10 hours)\n✅ Keep nails short and clean\n\n---\n\n**5. Safety Rules**\n\n⚠️ Do not play on the road\n⚠️ Cross the road at zebra crossing\n⚠️ Do not touch sharp objects\n⚠️ Do not talk to strangers\n⚠️ Do not play with fire or matches\n⚠️ Always wear a helmet while cycling\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "We use our ___ to see.",
+          "options": {
+            "A": "Ears",
+            "B": "Tongue",
+            "C": "Nose",
+            "D": "Eyes"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Our eyes are the sense organs for sight"
+        },
+        {
+          "num": 2,
+          "content": "We use our ___ to hear sounds.",
+          "options": {
+            "A": "Nose",
+            "B": "Ears",
+            "C": "Hands",
+            "D": "Eyes"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Our ears are the sense organs for hearing"
+        },
+        {
+          "num": 3,
+          "content": "How many sense organs do we have?",
+          "options": {
+            "A": "Three",
+            "B": "Six",
+            "C": "Five",
+            "D": "Four"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "We have five sense organs: eyes, ears, nose, tongue, and skin"
+        },
+        {
+          "num": 4,
+          "content": "Which body part helps us smell flowers?",
+          "options": {
+            "A": "Ears",
+            "B": "Nose",
+            "C": "Tongue",
+            "D": "Eyes"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Our nose is the sense organ for smell"
+        },
+        {
+          "num": 5,
+          "content": "We taste food with our ___.",
+          "options": {
+            "A": "Nose",
+            "B": "Feet",
+            "C": "Tongue",
+            "D": "Hands"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Our tongue helps us taste sweet, sour, salty, and bitter foods"
+        },
+        {
+          "num": 6,
+          "content": "Which sense organ helps us feel hot and cold?",
+          "options": {
+            "A": "Ears",
+            "B": "Eyes",
+            "C": "Skin",
+            "D": "Tongue"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Our skin helps us feel touch, hot, cold, pain, and pressure"
+        },
+        {
+          "num": 7,
+          "content": "We should brush our teeth ___.",
+          "options": {
+            "A": "Twice a day",
+            "B": "Once a month",
+            "C": "Once a week",
+            "D": "Never"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "We should brush our teeth twice a day — morning and night"
+        },
+        {
+          "num": 8,
+          "content": "Which of these is a good habit?",
+          "options": {
+            "A": "Washing hands before eating",
+            "B": "Sleeping very late",
+            "C": "Eating junk food daily",
+            "D": "Not taking bath"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Washing hands before eating kills germs and keeps us healthy"
+        },
+        {
+          "num": 9,
+          "content": "Milk helps us to ___.",
+          "options": {
+            "A": "Sleep all day",
+            "B": "Grow strong",
+            "C": "Stay sick",
+            "D": "Become weak"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Milk is a body-building food that helps our bones grow strong"
+        },
+        {
+          "num": 10,
+          "content": "We use our ___ to walk.",
+          "options": {
+            "A": "Hands",
+            "B": "Eyes",
+            "C": "Ears",
+            "D": "Legs"
+          },
+          "trailingContext": "---",
+          "correct": "D",
+          "why": "Our legs help us walk, run, and jump"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "Which body part pumps blood to all parts of the body?",
+          "options": {
+            "A": "Heart",
+            "B": "Lungs",
+            "C": "Brain",
+            "D": "Stomach"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "The heart pumps blood to all parts of the body"
+        },
+        {
+          "num": 12,
+          "content": "We breathe using our ___.",
+          "options": {
+            "A": "Lungs",
+            "B": "Heart",
+            "C": "Stomach",
+            "D": "Hands"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Lungs help us breathe in oxygen and breathe out carbon dioxide"
+        },
+        {
+          "num": 13,
+          "content": "Food is digested in the ___.",
+          "options": {
+            "A": "Brain",
+            "B": "Stomach",
+            "C": "Heart",
+            "D": "Lungs"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "The stomach breaks down and digests the food we eat"
+        },
+        {
+          "num": 14,
+          "content": "Which of these foods gives us energy?",
+          "options": {
+            "A": "Sugar only",
+            "B": "Salt",
+            "C": "Water",
+            "D": "Rice"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Rice, bread, and chapati are energy-giving foods"
+        },
+        {
+          "num": 15,
+          "content": "Fruits and vegetables are called ___ foods.",
+          "options": {
+            "A": "Energy-giving",
+            "B": "Junk",
+            "C": "Protective",
+            "D": "Body-building"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Fruits and vegetables protect us from diseases and keep us healthy"
+        },
+        {
+          "num": 16,
+          "content": "Riya can see a red ball. Which sense organ is she using?",
+          "options": {
+            "A": "Eyes",
+            "B": "Tongue",
+            "C": "Nose",
+            "D": "Ears"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Eyes are used to see colors, shapes, and objects"
+        },
+        {
+          "num": 17,
+          "content": "Amit heard the school bell ringing. Which sense organ did he use?",
+          "options": {
+            "A": "Nose",
+            "B": "Ears",
+            "C": "Eyes",
+            "D": "Skin"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Ears are used to hear sounds like bells, music, and voices"
+        },
+        {
+          "num": 18,
+          "content": "Which of these is NOT a safety rule?",
+          "options": {
+            "A": "Look both ways before crossing the road",
+            "B": "Do not talk to strangers",
+            "C": "Wear helmet while cycling",
+            "D": "Play on the road"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Playing on the road is dangerous — it is NOT a safety rule to follow"
+        },
+        {
+          "num": 19,
+          "content": "Eggs, milk, and fish help us ___.",
+          "options": {
+            "A": "Build our body",
+            "B": "Stay weak",
+            "C": "Sleep more",
+            "D": "Get sick"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Eggs, milk, and fish are body-building foods that help us grow strong"
+        },
+        {
+          "num": 20,
+          "content": "Why should we drink water?",
+          "options": {
+            "A": "Water makes us sleep",
+            "B": "Water is not needed",
+            "C": "Water keeps our body hydrated and healthy",
+            "D": "Water makes us sick"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Water keeps our body hydrated, helps digest food, and removes waste"
+        },
+        {
+          "num": 21,
+          "content": "How many hours should a child sleep?",
+          "options": {
+            "A": "2-3 hours",
+            "B": "15 hours",
+            "C": "4-5 hours",
+            "D": "8-10 hours"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Children need 8-10 hours of sleep to stay healthy and alert"
+        },
+        {
+          "num": 22,
+          "content": "Meena touched ice. She felt cold. Which sense organ did she use?",
+          "options": {
+            "A": "Tongue",
+            "B": "Skin",
+            "C": "Eyes",
+            "D": "Nose"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Skin helps us feel temperature — hot or cold"
+        },
+        {
+          "num": 23,
+          "content": "Which of these should we NOT do?",
+          "options": {
+            "A": "Sleep on time",
+            "B": "Take bath every day",
+            "C": "Eat lots of chips and candy daily",
+            "D": "Wash hands before eating"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Eating junk food like chips and candy daily is unhealthy"
+        },
+        {
+          "num": 24,
+          "content": "The brain is located in the ___.",
+          "options": {
+            "A": "Stomach",
+            "B": "Head",
+            "C": "Leg",
+            "D": "Chest"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "The brain is in our head and controls all body functions and thinking"
+        },
+        {
+          "num": 25,
+          "content": "Which of these is a body-building food?",
+          "options": {
+            "A": "Rice",
+            "B": "Potato",
+            "C": "Bread",
+            "D": "Dal (pulses)"
+          },
+          "trailingContext": "---",
+          "correct": "D",
+          "why": "Dal (pulses) is rich in protein and helps build our body"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "These questions are a bit tricky. Think carefully!",
+      "questions": [
+        {
+          "num": 26,
+          "content": "Rahul has a cold and his nose is blocked. Which sense will be affected?",
+          "options": {
+            "A": "Touch",
+            "B": "Sight",
+            "C": "Smell",
+            "D": "Hearing"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "When the nose is blocked, we cannot smell properly"
+        },
+        {
+          "num": 27,
+          "content": "Priya ate a lemon. It tasted sour. If she closes her eyes, can she still taste the lemon?",
+          "options": {
+            "A": "Yes, tongue can taste without eyes",
+            "B": "Yes, but only if she holds it",
+            "C": "No, she needs eyes to taste",
+            "D": "No, taste depends on sight"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Tasting is done by the tongue, not the eyes. She can taste with eyes closed"
+        },
+        {
+          "num": 28,
+          "content": "Why do we feel thirsty after running?",
+          "options": {
+            "A": "Our body loses water through sweat",
+            "B": "Running makes us hungry",
+            "C": "Running is boring",
+            "D": "We breathe too fast"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "When we run, we sweat and lose water. Our body asks for water by making us feel thirsty"
+        },
+        {
+          "num": 29,
+          "content": "Rohan can smell his mother cooking food from another room. How is this possible?",
+          "options": {
+            "A": "His ears heard the smell",
+            "B": "The smell travels through the air",
+            "C": "He can see through walls",
+            "D": "He imagined it"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Smell travels through air from the kitchen to other rooms"
+        },
+        {
+          "num": 30,
+          "content": "A doctor says, \"Eat a balanced diet.\" What does this mean?",
+          "options": {
+            "A": "Eat only sweets",
+            "B": "Eat as much as you want",
+            "C": "Eat only fruits",
+            "D": "Eat foods from all groups — energy, body-building, and protective"
+          },
+          "trailingContext": "---",
+          "correct": "D",
+          "why": "A balanced diet includes all types of food — energy-giving, body-building, and protective foods"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

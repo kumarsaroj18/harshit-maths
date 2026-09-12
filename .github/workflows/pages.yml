@@ -1,9 +1,15 @@
-name: Deploy Maths/web/ to GitHub Pages
+name: Deploy Olympiad site to GitHub Pages
 
 on:
   push:
     branches: ["main"]
-    paths: ["Maths/web/**"]
+    paths:
+      - "hub/**"
+      - "Maths/web/**"
+      - "ICSO/web/**"
+      - "English/web/**"
+      - "Science/web/**"
+      - "GK/web/**"
   workflow_dispatch:
 
 permissions:
@@ -23,9 +29,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Assemble combined site
+        run: |
+          mkdir -p _site
+          cp -r hub/. _site/
+          for pair in "Maths:maths" "ICSO:icso" "English:english" "Science:science" "GK:gk"; do
+            src="${pair%%:*}/web"
+            dst="_site/${pair##*:}"
+            mkdir -p "$dst"
+            rsync -a --exclude=build "$src/" "$dst/"
+          done
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: "Maths/web"
+          path: "_site"
       - id: deployment
         uses: actions/deploy-pages@v4

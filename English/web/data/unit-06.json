@@ -1,0 +1,426 @@
+{
+  "id": "06",
+  "slug": "unit-06-prepositions",
+  "num": 6,
+  "title": "Prepositions",
+  "emoji": "📍",
+  "parentNote": "Prepositions show where something is or when something happens. Play a treasure hunt game! \"The toy is UNDER the table, BEHIND the chair, IN the box.\" This makes learning fun and memorable!",
+  "learnBullets": [
+    "What a **preposition** is — a word that shows position, direction, or time",
+    "**Place prepositions**: in, on, under, behind, in front of, beside, between, near",
+    "**Time prepositions**: at, in, on",
+    "**Direction prepositions**: to, from, into, out of"
+  ],
+  "learnItFirst": "**What is a Preposition?**\nA preposition is a word that tells us **where** something is, **when** something happens, or **which direction** something goes.\n\n```\nThe cat is ON the table. (where?)\nSchool starts AT 8 o'clock. (when?)\nShe walked TO the park. (direction?)\n```\n\n**Place Prepositions (Where?):**\n\n| Preposition | Meaning | Example |\n|-------------|---------|---------|\n| in | inside something | The ball is **in** the box. |\n| on | touching the top of | The book is **on** the table. |\n| under | below something | The dog is **under** the bed. |\n| behind | at the back of | He hid **behind** the door. |\n| in front of | before something | She stood **in front of** the class. |\n| beside / next to | at the side of | Sit **beside** me. |\n| between | in the middle of two things | The park is **between** two buildings. |\n| near | close to | My house is **near** the school. |\n\n**Time Prepositions (When?):**\n\n| Preposition | Use with | Example |\n|-------------|----------|---------|\n| at | time | **at** 5 o'clock, **at** noon |\n| in | month, year, part of day | **in** June, **in** 2024, **in** the morning |\n| on | day, date | **on** Monday, **on** 15th August |\n\n### 🧠 How to Choose the Right Preposition\n1. **Ask:** Where is it? When is it? Which direction?\n2. **Picture it** in your mind\n3. **Choose** the preposition that matches the picture\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "\"The book is ___ the table.\"",
+          "options": {
+            "A": "behind",
+            "B": "under",
+            "C": "on",
+            "D": "in"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Book is touching the top of the table"
+        },
+        {
+          "num": 2,
+          "content": "\"The cat is ___ the box.\"",
+          "options": {
+            "A": "in",
+            "B": "on",
+            "C": "under",
+            "D": "beside"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Cat is inside the box"
+        },
+        {
+          "num": 3,
+          "content": "\"The dog is sleeping ___ the bed.\"",
+          "options": {
+            "A": "in",
+            "B": "on",
+            "C": "above",
+            "D": "under"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Dog is below the bed"
+        },
+        {
+          "num": 4,
+          "content": "\"She is standing ___ the door.\"",
+          "options": {
+            "A": "on",
+            "B": "behind",
+            "C": "in",
+            "D": "between"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Standing at the back of the door"
+        },
+        {
+          "num": 5,
+          "content": "\"The ball rolled ___ the sofa.\"",
+          "options": {
+            "A": "under",
+            "B": "on",
+            "C": "above",
+            "D": "in"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Ball rolled beneath the sofa"
+        },
+        {
+          "num": 6,
+          "content": "\"Please sit ___ me.\"",
+          "options": {
+            "A": "under",
+            "B": "in",
+            "C": "between",
+            "D": "beside"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Sitting next to someone"
+        },
+        {
+          "num": 7,
+          "content": "\"The school is ___ my house.\"",
+          "options": {
+            "A": "under",
+            "B": "in",
+            "C": "near",
+            "D": "between"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "School is close to the house"
+        },
+        {
+          "num": 8,
+          "content": "\"The bird is ___ the tree.\"",
+          "options": {
+            "A": "in",
+            "B": "under",
+            "C": "beside",
+            "D": "on"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Bird is inside/among the branches of the tree"
+        },
+        {
+          "num": 9,
+          "content": "\"Put the toys ___ the bag.\"",
+          "options": {
+            "A": "in",
+            "B": "under",
+            "C": "beside",
+            "D": "on"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Putting toys inside the bag"
+        },
+        {
+          "num": 10,
+          "content": "\"The teacher stood ___ the class.\"",
+          "options": {
+            "A": "under",
+            "B": "behind",
+            "C": "in front of",
+            "D": "between"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "Teacher stands facing the class"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "\"I wake up ___ 7 o'clock.\"",
+          "options": {
+            "A": "at",
+            "B": "in",
+            "C": "on",
+            "D": "beside"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Use \"at\" with specific time"
+        },
+        {
+          "num": 12,
+          "content": "\"My birthday is ___ March.\"",
+          "options": {
+            "A": "on",
+            "B": "at",
+            "C": "in",
+            "D": "under"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Use \"in\" with months"
+        },
+        {
+          "num": 13,
+          "content": "\"We go to school ___ Monday.\"",
+          "options": {
+            "A": "in",
+            "B": "near",
+            "C": "at",
+            "D": "on"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Use \"on\" with days"
+        },
+        {
+          "num": 14,
+          "content": "\"The park is ___ the hospital and the bank.\"",
+          "options": {
+            "A": "behind",
+            "B": "beside",
+            "C": "on",
+            "D": "between"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Park is in the middle of two buildings"
+        },
+        {
+          "num": 15,
+          "content": "\"The picture is hanging ___ the wall.\"",
+          "options": {
+            "A": "on",
+            "B": "in",
+            "C": "under",
+            "D": "beside"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Picture is touching the wall surface"
+        },
+        {
+          "num": 16,
+          "content": "\"The fish is swimming ___ the water.\"",
+          "options": {
+            "A": "in",
+            "B": "near",
+            "C": "beside",
+            "D": "on"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Fish is inside the water"
+        },
+        {
+          "num": 17,
+          "content": "\"She hid ___ the curtain.\"",
+          "options": {
+            "A": "on",
+            "B": "under",
+            "C": "behind",
+            "D": "in"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Hiding at the back of the curtain"
+        },
+        {
+          "num": 18,
+          "content": "Which sentence is correct?",
+          "options": {
+            "A": "The lamp is between the table.",
+            "B": "The lamp is on the table.",
+            "C": "The lamp is in the table.",
+            "D": "The lamp is under the table."
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Lamp sits on top of the table"
+        },
+        {
+          "num": 19,
+          "content": "\"We have lunch ___ noon.\"",
+          "options": {
+            "A": "in",
+            "B": "beside",
+            "C": "on",
+            "D": "at"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Use \"at\" with noon"
+        },
+        {
+          "num": 20,
+          "content": "\"The birds fly ___ the sky.\"",
+          "options": {
+            "A": "beside",
+            "B": "in",
+            "C": "between",
+            "D": "under"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Birds fly inside/within the sky"
+        },
+        {
+          "num": 21,
+          "content": "\"The children played ___ the evening.\"",
+          "options": {
+            "A": "under",
+            "B": "in",
+            "C": "on",
+            "D": "at"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Use \"in\" with parts of day (evening)"
+        },
+        {
+          "num": 22,
+          "content": "\"The pencil fell ___ the desk.\"",
+          "options": {
+            "A": "near",
+            "B": "under",
+            "C": "on",
+            "D": "in"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Pencil fell below the desk"
+        },
+        {
+          "num": 23,
+          "content": "\"My friend sits ___ me in class.\"",
+          "options": {
+            "A": "between",
+            "B": "next to",
+            "C": "in",
+            "D": "under"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Sitting beside in class"
+        },
+        {
+          "num": 24,
+          "content": "\"I was born ___ 2018.\"",
+          "options": {
+            "A": "beside",
+            "B": "at",
+            "C": "in",
+            "D": "on"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Use \"in\" with years"
+        },
+        {
+          "num": 25,
+          "content": "\"The sun sets ___ the west.\"",
+          "options": {
+            "A": "at",
+            "B": "under",
+            "C": "on",
+            "D": "in"
+          },
+          "trailingContext": "---",
+          "correct": "D",
+          "why": "Use \"in\" with directions (west, east)"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 26,
+          "content": "Fill in the blanks: \"The cat jumped ___ the box and hid ___ the bed.\"",
+          "options": {
+            "A": "on, beside",
+            "B": "under, in",
+            "C": "into, under",
+            "D": "in, under"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Jumped INTO (movement), hid UNDER"
+        },
+        {
+          "num": 27,
+          "content": "How many prepositions are in this sentence? \"The ball is under the table near the window in the living room.\"",
+          "options": {
+            "A": "3",
+            "B": "1",
+            "C": "4",
+            "D": "2"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "under, near, in = 3 prepositions"
+        },
+        {
+          "num": 28,
+          "content": "\"Independence Day is ___ 15th August. We celebrate it ___ the morning.\"",
+          "options": {
+            "A": "on, at",
+            "B": "on, in",
+            "C": "at, in",
+            "D": "in, on"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"on\" with dates, \"in\" with parts of day"
+        },
+        {
+          "num": 29,
+          "content": "Choose the correct prepositions: \"I go ___ school ___ bus ___ 8 o'clock.\"",
+          "options": {
+            "A": "in, on, in",
+            "B": "to, by, at",
+            "C": "to, in, at",
+            "D": "at, in, on"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"to school\", \"by bus\", \"at 8 o'clock\""
+        },
+        {
+          "num": 30,
+          "content": "Which sentence has a WRONG preposition?",
+          "options": {
+            "A": "She arrived at 9 o'clock.",
+            "B": "The book is on the shelf.",
+            "C": "The dog ran under the table.",
+            "D": "We play on the evening."
+          },
+          "trailingContext": "---",
+          "correct": "D",
+          "why": "Should be \"in the evening\""
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

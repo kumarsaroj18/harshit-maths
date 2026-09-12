@@ -1,0 +1,426 @@
+{
+  "id": "03",
+  "slug": "unit-03-verbs",
+  "num": 3,
+  "title": "Verbs",
+  "emoji": "🏃",
+  "parentNote": "Verbs are action words! Play a fun game: say an action (jump, eat, sleep) and have your child act it out. Also practice \"is, am, are\" — these are helping verbs that are equally important!",
+  "learnBullets": [
+    "What a **verb** is — a word that shows an action or a state of being",
+    "**Action verbs**: run, eat, jump, read, write, play",
+    "**Helping verbs**: is, am, are, was, were",
+    "Using the right verb form with different subjects"
+  ],
+  "learnItFirst": "**What is a Verb?**\nA verb is a **doing word** or **action word**. It tells us what someone or something is doing.\n\n```\nThe bird flies. (flies = action)\nI eat breakfast. (eat = action)\nShe is happy. (is = state of being)\n```\n\n**Two Types of Verbs:**\n\n| Type | What it does | Examples |\n|------|-------------|----------|\n| Action verb | Shows an action | run, jump, eat, drink, read, write, sleep, play |\n| Helping verb | Helps the main verb | is, am, are, was, were, has, have |\n\n**Using is, am, are:**\n| Subject | Helping Verb | Example |\n|---------|--------------|---------|\n| I | am | I **am** a student. |\n| He/She/It | is | She **is** happy. |\n| You/We/They | are | They **are** playing. |\n\n### 🧠 How to Find a Verb — 3 Easy Steps\n1. **Ask:** What is the person or thing doing?\n2. **Check:** Can you act it out? (run, jump, eat, sleep)\n3. **Look:** Is there a \"be\" verb? (is, am, are)\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "Which word is a verb?",
+          "options": {
+            "A": "table",
+            "B": "run",
+            "C": "happy",
+            "D": "blue"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Run is an action word — a verb"
+        },
+        {
+          "num": 2,
+          "content": "Which word shows an action?",
+          "options": {
+            "A": "tall",
+            "B": "red",
+            "C": "book",
+            "D": "jump"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Jump shows an action"
+        },
+        {
+          "num": 3,
+          "content": "Find the verb: \"The dog barks loudly.\"",
+          "options": {
+            "A": "barks",
+            "B": "dog",
+            "C": "The",
+            "D": "loudly"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Barks is what the dog does — action verb"
+        },
+        {
+          "num": 4,
+          "content": "Find the verb: \"I eat an apple.\"",
+          "options": {
+            "A": "I",
+            "B": "apple",
+            "C": "eat",
+            "D": "an"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Eat is the action"
+        },
+        {
+          "num": 5,
+          "content": "\"She ___ to school.\" Choose the action verb:",
+          "options": {
+            "A": "happy",
+            "B": "big",
+            "C": "walks",
+            "D": "book"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Walks shows the action of going"
+        },
+        {
+          "num": 6,
+          "content": "\"I ___ a student.\" Choose the correct verb:",
+          "options": {
+            "A": "am",
+            "B": "are",
+            "C": "be",
+            "D": "is"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "\"I\" always goes with \"am\""
+        },
+        {
+          "num": 7,
+          "content": "\"He ___ a good boy.\" Choose the correct verb:",
+          "options": {
+            "A": "am",
+            "B": "be",
+            "C": "are",
+            "D": "is"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "\"He\" goes with \"is\""
+        },
+        {
+          "num": 8,
+          "content": "\"They ___ my friends.\" Choose the correct verb:",
+          "options": {
+            "A": "am",
+            "B": "is",
+            "C": "are",
+            "D": "be"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "\"They\" goes with \"are\""
+        },
+        {
+          "num": 9,
+          "content": "Which word is NOT a verb?",
+          "options": {
+            "A": "pretty",
+            "B": "sing",
+            "C": "write",
+            "D": "dance"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Pretty describes something — it's an adjective"
+        },
+        {
+          "num": 10,
+          "content": "\"The baby ___.\" Choose the best action verb:",
+          "options": {
+            "A": "table",
+            "B": "soft",
+            "C": "small",
+            "D": "sleeps"
+          },
+          "trailingContext": "---",
+          "correct": "D",
+          "why": "Sleeps is an action babies do"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "How many verbs are in this sentence? \"The children play and laugh in the park.\"",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "1"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "\"play\" and \"laugh\" are the two verbs"
+        },
+        {
+          "num": 12,
+          "content": "\"Mother ___ cooking dinner.\" Choose the correct helping verb:",
+          "options": {
+            "A": "is",
+            "B": "be",
+            "C": "are",
+            "D": "am"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "\"Mother\" (she) goes with \"is\""
+        },
+        {
+          "num": 13,
+          "content": "\"The birds ___ flying in the sky.\" Choose the correct verb:",
+          "options": {
+            "A": "is",
+            "B": "are",
+            "C": "am",
+            "D": "be"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"Birds\" (they) goes with \"are\""
+        },
+        {
+          "num": 14,
+          "content": "Which sentence has an action verb?",
+          "options": {
+            "A": "He is tall.",
+            "B": "The cat runs fast.",
+            "C": "She is happy.",
+            "D": "I am hungry."
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"runs\" is an action verb; others use \"is/am\""
+        },
+        {
+          "num": 15,
+          "content": "\"We ___ going to the zoo.\" Choose the correct verb:",
+          "options": {
+            "A": "is",
+            "B": "was",
+            "C": "are",
+            "D": "am"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "\"We\" goes with \"are\""
+        },
+        {
+          "num": 16,
+          "content": "Find the action verb: \"Riya reads a storybook every night.\"",
+          "options": {
+            "A": "Riya",
+            "B": "reads",
+            "C": "night",
+            "D": "storybook"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Reads is what Riya does"
+        },
+        {
+          "num": 17,
+          "content": "\"The sun ___ in the east.\" Choose the verb:",
+          "options": {
+            "A": "rise",
+            "B": "rises",
+            "C": "rising",
+            "D": "rose"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"The sun\" (it) goes with \"rises\""
+        },
+        {
+          "num": 18,
+          "content": "Which group has all action verbs?",
+          "options": {
+            "A": "is, am, are",
+            "B": "book, pen, bag",
+            "C": "run, jump, swim",
+            "D": "big, small, tall"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "All three are actions you can do"
+        },
+        {
+          "num": 19,
+          "content": "\"The flowers ___ beautiful.\" Choose the correct verb:",
+          "options": {
+            "A": "am",
+            "B": "is",
+            "C": "be",
+            "D": "are"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "\"Flowers\" (they) goes with \"are\""
+        },
+        {
+          "num": 20,
+          "content": "\"I ___ reading a book.\" Choose the correct verb:",
+          "options": {
+            "A": "am",
+            "B": "is",
+            "C": "be",
+            "D": "are"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "\"I\" always goes with \"am\""
+        },
+        {
+          "num": 21,
+          "content": "How many verbs? \"She sings and dances on stage.\"",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "1",
+            "D": "4"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "\"sings\" and \"dances\" are the two verbs"
+        },
+        {
+          "num": 22,
+          "content": "Choose the WRONG sentence:",
+          "options": {
+            "A": "They are playing.",
+            "B": "I am happy.",
+            "C": "She are my friend.",
+            "D": "He is running."
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Should be \"She IS my friend\""
+        },
+        {
+          "num": 23,
+          "content": "\"My father ___ to office by car.\" Choose the best verb:",
+          "options": {
+            "A": "go",
+            "B": "goes",
+            "C": "gone",
+            "D": "going"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"My father\" (he) goes with \"goes\""
+        },
+        {
+          "num": 24,
+          "content": "Which word can be both a noun AND a verb?",
+          "options": {
+            "A": "table",
+            "B": "happy",
+            "C": "quickly",
+            "D": "play (the play / I play)"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "\"the play\" = noun, \"I play\" = verb"
+        },
+        {
+          "num": 25,
+          "content": "\"The teacher ___ us new words.\" Choose the verb:",
+          "options": {
+            "A": "taught",
+            "B": "teaches",
+            "C": "teaching",
+            "D": "teach"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "\"The teacher\" (she/he) goes with \"teaches\""
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 26,
+          "content": "Read the sentence: \"In the morning, I wake up, brush my teeth, eat breakfast, and go to school.\"\nHow many action verbs are there?",
+          "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "3"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "wake up, brush, eat, go = 4 action verbs"
+        },
+        {
+          "num": 27,
+          "content": "Find the sentence with BOTH an action verb AND a helping verb:",
+          "options": {
+            "A": "The book is red.",
+            "B": "I run fast.",
+            "C": "They are happy.",
+            "D": "She is singing."
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "\"is\" = helping verb, \"singing\" = action verb"
+        },
+        {
+          "num": 28,
+          "content": "Fill in both blanks: \"The cat ___ sleeping. The dogs ___ playing.\"",
+          "options": {
+            "A": "is, is",
+            "B": "is, are",
+            "C": "are, are",
+            "D": "are, is"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"cat\" (it) → is; \"dogs\" (they) → are"
+        },
+        {
+          "num": 29,
+          "content": "Which sentence uses verbs CORRECTLY?",
+          "options": {
+            "A": "I is going to school.",
+            "B": "She am reading a book.",
+            "C": "They are my friends and they are kind.",
+            "D": "He are playing cricket."
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Correct use of \"are\" with \"they\""
+        },
+        {
+          "num": 30,
+          "content": "\"The children ___ to the park yesterday. They ___ on the swings.\"\nChoose the correct verbs:",
+          "options": {
+            "A": "going, playing",
+            "B": "go, play",
+            "C": "goes, plays",
+            "D": "went, played"
+          },
+          "trailingContext": "---",
+          "correct": "D",
+          "why": "Yesterday = past tense, so \"went\" and \"played\""
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

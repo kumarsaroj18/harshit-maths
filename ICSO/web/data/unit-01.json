@@ -1,0 +1,431 @@
+{
+  "id": "01",
+  "slug": "unit-01-logical-reasoning",
+  "num": 1,
+  "title": "Logical Reasoning",
+  "emoji": "🧠",
+  "parentNote": "This section is worth only 5 marks in the real ICSO paper (out of 35 questions), but it warms up the same thinking skills used everywhere else in the exam. If your child has already done the Maths Olympiad reasoning units, this will feel familiar — that's intentional!",
+  "learnBullets": [
+    "Spotting **patterns** and what comes next",
+    "Finding the **odd one out** in a group",
+    "Comparing sizes: **measuring units**",
+    "Naming **shapes** and counting sides/corners",
+    "Completing **analogies** (A is to B as C is to ___)",
+    "**Ranking** people/things in order",
+    "**Grouping** figures by a shared rule",
+    "Cracking simple **codes**",
+    "Spotting shapes **hidden** inside a picture"
+  ],
+  "learnItFirst": "This unit mixes ALL the reasoning skills tested in Section 1 of the real ICSO exam, a little bit of each:\n\n| Skill | What to look for |\n|---|---|\n| Pattern | What small group of things keeps repeating? |\n| Odd One Out | What do 3 of them share that the 4th doesn't? |\n| Analogy | What is the connection between the first pair? |\n| Ranking | Who/what comes first, tallest, heaviest? |\n| Coding | What rule turns one letter/number into another? |\n\n### 🧠 How to Solve — 3 Easy Steps\n1. **Read** the question twice before looking at the options.\n2. **Say the rule out loud** in your own words.\n3. **Test** your rule against the options before picking one.\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "🔵🟢🔵🟢🔵🟢🔵 ___",
+          "options": {
+            "A": "🟡",
+            "B": "🟢",
+            "C": "🔵",
+            "D": "🔴"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Blue, Green repeats — after Blue (7th) comes Green"
+        },
+        {
+          "num": 2,
+          "content": "🍎 🍌 🍇 🚌 — which one does not belong?",
+          "options": {
+            "A": "🚌",
+            "B": "🍎",
+            "C": "🍌",
+            "D": "🍇"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "The rest are fruits; a bus is a vehicle"
+        },
+        {
+          "num": 3,
+          "content": "Which is longer — a pencil ✏️ or a school bus 🚌?",
+          "options": {
+            "A": "Both same",
+            "B": "School bus",
+            "C": "Pencil",
+            "D": "Cannot tell"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A bus is much bigger and longer than a pencil"
+        },
+        {
+          "num": 4,
+          "content": "How many sides does a square have?",
+          "options": {
+            "A": "3",
+            "B": "5",
+            "C": "4",
+            "D": "6"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A square always has 4 sides"
+        },
+        {
+          "num": 5,
+          "content": "Bird is to Nest as Bee is to ___",
+          "options": {
+            "A": "Burrow",
+            "B": "Web",
+            "C": "Pond",
+            "D": "Hive"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "A bird lives in a nest; a bee lives in a hive"
+        },
+        {
+          "num": 6,
+          "content": "Tom is taller than Sam. Sam is taller than Rai. Who is the TALLEST?",
+          "options": {
+            "A": "Tom",
+            "B": "Cannot tell",
+            "C": "Rai",
+            "D": "Sam"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Tom > Sam > Rai, so Tom is the tallest"
+        },
+        {
+          "num": 7,
+          "content": "Which of these belongs to the group of ROUND shapes: ▲ ● ■?",
+          "options": {
+            "A": "▲",
+            "B": "●",
+            "C": "■",
+            "D": "None of these"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A circle is the only round shape here"
+        },
+        {
+          "num": 8,
+          "content": "If CAT is coded as DBU (each letter shifts forward by 1), how is DOG coded?",
+          "options": {
+            "A": "EPI",
+            "B": "EPH",
+            "C": "DPH",
+            "D": "EOG"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "D→E, O→P, G→H (each letter moves 1 forward)"
+        },
+        {
+          "num": 9,
+          "content": "A house picture is made of a triangle (roof) on top of a square (body). What shape is the ROOF?",
+          "options": {
+            "A": "Star",
+            "B": "Square",
+            "C": "Circle",
+            "D": "Triangle"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "The pointed top part of the house is a triangle"
+        },
+        {
+          "num": 10,
+          "content": "2, 4, 6, 8, ___",
+          "options": {
+            "A": "12",
+            "B": "10",
+            "C": "9",
+            "D": "11"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "Add 2 each time: 8 + 2 = 10"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "▲●▲● ___ ●▲●",
+          "options": {
+            "A": "▲",
+            "B": "★",
+            "C": "■",
+            "D": "●"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "▲, ● repeats — the 5th spot lines up with ▲"
+        },
+        {
+          "num": 12,
+          "content": "2, 4, 6, 7 — which number does not belong?",
+          "options": {
+            "A": "4",
+            "B": "2",
+            "C": "6",
+            "D": "7"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "2, 4, 6 are even numbers; 7 is odd"
+        },
+        {
+          "num": 13,
+          "content": "Which unit is used to measure weight?",
+          "options": {
+            "A": "Centimetres",
+            "B": "Kilograms",
+            "C": "Litres",
+            "D": "Minutes"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Weight is measured in kilograms"
+        },
+        {
+          "num": 14,
+          "content": "How many corners does a pentagon have?",
+          "options": {
+            "A": "5",
+            "B": "3",
+            "C": "4",
+            "D": "6"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A pentagon has 5 corners"
+        },
+        {
+          "num": 15,
+          "content": "Cow is to Calf as Dog is to ___",
+          "options": {
+            "A": "Kitten",
+            "B": "Cub",
+            "C": "Chick",
+            "D": "Puppy"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "A dog's baby is called a puppy"
+        },
+        {
+          "num": 16,
+          "content": "In a queue of 6 children, Meena is 3rd from the left. What is her position counted from the right?",
+          "options": {
+            "A": "4th",
+            "B": "5th",
+            "C": "2nd",
+            "D": "3rd"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Position from right = 6 − 3 + 1 = 4th"
+        },
+        {
+          "num": 17,
+          "content": "Group 1 (4 sides): ■ ▬. Group 2 (3 sides): ▲. A diamond ◆ (4 sides) belongs to:",
+          "options": {
+            "A": "Group 2",
+            "B": "Group 1",
+            "C": "Both",
+            "D": "Neither"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A diamond has 4 sides, matching Group 1's rule"
+        },
+        {
+          "num": 18,
+          "content": "If A=1, B=2, C=3, what is C + B?",
+          "options": {
+            "A": "5",
+            "B": "3",
+            "C": "6",
+            "D": "4"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "C = 3, B = 2, so 3 + 2 = 5"
+        },
+        {
+          "num": 19,
+          "content": "A robot picture is made of 1 square (head) + 1 rectangle (body) + 2 circles (eyes). How many shapes in total?",
+          "options": {
+            "A": "3",
+            "B": "5",
+            "C": "2",
+            "D": "4"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "1 square + 1 rectangle + 2 circles = 4 shapes"
+        },
+        {
+          "num": 20,
+          "content": "5, 10, 15, 20, ___",
+          "options": {
+            "A": "24",
+            "B": "22",
+            "C": "25",
+            "D": "30"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Add 5 each time: 20 + 5 = 25"
+        },
+        {
+          "num": 21,
+          "content": "🐄 🐐 🐔 🐴 — three have 4 legs. Which one does not belong?",
+          "options": {
+            "A": "🐐",
+            "B": "🐔",
+            "C": "🐄",
+            "D": "🐴"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "The rest have 4 legs; a hen has 2 legs"
+        },
+        {
+          "num": 22,
+          "content": "Which holds more water — a bucket 🪣 or a cup ☕?",
+          "options": {
+            "A": "Cup",
+            "B": "Bucket",
+            "C": "Cannot tell",
+            "D": "Both same"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A bucket is much bigger than a cup"
+        },
+        {
+          "num": 23,
+          "content": "Which shape has NO corners at all?",
+          "options": {
+            "A": "Square",
+            "B": "Triangle",
+            "C": "Circle",
+            "D": "Rectangle"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A circle is round and smooth, with no corners"
+        },
+        {
+          "num": 24,
+          "content": "Pen is to Writing as Scissors is to ___",
+          "options": {
+            "A": "Painting",
+            "B": "Reading",
+            "C": "Drawing",
+            "D": "Cutting"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Scissors are used for cutting"
+        },
+        {
+          "num": 25,
+          "content": "A is heavier than B. B is heavier than C. Who is the LIGHTEST?",
+          "options": {
+            "A": "C",
+            "B": "B",
+            "C": "A",
+            "D": "Cannot tell"
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "A > B > C in weight, so C is the lightest"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 26,
+          "content": "1, 3, 6, 10, ___",
+          "options": {
+            "A": "12",
+            "B": "14",
+            "C": "15",
+            "D": "16"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "The jump grows each time: +2, +3, +4, then +5 → 10 + 5 = 15"
+        },
+        {
+          "num": 27,
+          "content": "In a code, words are written BACKWARDS. \"CAT\" is coded as \"TAC\". How is \"DOG\" coded?",
+          "options": {
+            "A": "GOD",
+            "B": "GDO",
+            "C": "OGD",
+            "D": "DGO"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Reading \"DOG\" backwards gives \"GOD\""
+        },
+        {
+          "num": 28,
+          "content": "In a line, Neha is 2nd from the left and 5th from the right. How many children are in the line in total?",
+          "options": {
+            "A": "5",
+            "B": "7",
+            "C": "8",
+            "D": "6"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Total = 2 (from left) + 5 (from right) − 1 = 6"
+        },
+        {
+          "num": 29,
+          "content": "A rocket picture is made of 1 nose triangle + 2 fin triangles. How many triangles in total?",
+          "options": {
+            "A": "2",
+            "B": "4",
+            "C": "3",
+            "D": "1"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "1 nose triangle + 2 fin triangles = 3"
+        },
+        {
+          "num": 30,
+          "content": "Group 1 (even numbers): 2, 4, 6. Group 2 (odd numbers): 1, 3, 5. The number 10 belongs to:",
+          "options": {
+            "A": "Both",
+            "B": "Neither",
+            "C": "Group 1",
+            "D": "Group 2"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "10 is an even number"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

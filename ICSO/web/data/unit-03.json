@@ -1,0 +1,425 @@
+{
+  "id": "03",
+  "slug": "unit-03-parts-of-a-computer",
+  "num": 3,
+  "title": "Parts of a Computer",
+  "emoji": "🖥️",
+  "parentNote": "Point at each real part on your home computer (or a picture) and say \"This is an INPUT part\" or \"This is an OUTPUT part\" together — that one word each time is what this whole unit tests.",
+  "learnBullets": [
+    "Naming the main parts of a computer: keyboard, mouse, monitor, CPU, printer, speaker",
+    "The difference between **input devices** (we give the computer something) and **output devices** (the computer gives us something)",
+    "What the **CPU** does"
+  ],
+  "learnItFirst": "```\n🖥️ Monitor       — shows pictures and words (OUTPUT)\n⌨️ Keyboard       — types letters and numbers (INPUT)\n🖱️ Mouse          — points and clicks (INPUT)\n🖨️ Printer        — prints your work on paper (OUTPUT)\n🔊 Speaker        — plays sound (OUTPUT)\n🎤 Microphone     — records your voice (INPUT)\n```\n\n**INPUT devices** — we use these to GIVE something TO the computer (words, clicks, sound, pictures).\n**OUTPUT devices** — these GIVE something back to US (pictures, words, sound, printed paper).\n\n```\nINPUT  →  COMPUTER (CPU thinks/processes)  →  OUTPUT\n```\n\nThe **CPU** (Central Processing Unit) is the **brain** of the computer — it does all the thinking and processing, hidden inside the computer's box.\n\n### 🧠 How to Solve — 3 Easy Steps\n1. **Ask:** does this part let ME put something INTO the computer? → it's INPUT.\n2. **Ask:** does this part give something back TO me (to see/hear/hold)? → it's OUTPUT.\n3. **Remember:** the CPU is the \"brain\" — it's neither input nor output, it just thinks.\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "Which part of the computer do we use to TYPE letters and numbers?",
+          "options": {
+            "A": "Keyboard",
+            "B": "Monitor",
+            "C": "Mouse",
+            "D": "Speaker"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "The keyboard is used for typing letters and numbers"
+        },
+        {
+          "num": 2,
+          "content": "Which part of the computer shows us pictures and words on a screen?",
+          "options": {
+            "A": "Monitor",
+            "B": "Mouse",
+            "C": "CPU",
+            "D": "Keyboard"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "The monitor is the screen that shows pictures and words"
+        },
+        {
+          "num": 3,
+          "content": "Which part do we use to CLICK and move the pointer on the screen?",
+          "options": {
+            "A": "Monitor",
+            "B": "Printer",
+            "C": "Mouse",
+            "D": "Keyboard"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "The mouse is used to click and move the pointer"
+        },
+        {
+          "num": 4,
+          "content": "Which part of the computer plays SOUND for us to hear?",
+          "options": {
+            "A": "Monitor",
+            "B": "Mouse",
+            "C": "Speaker",
+            "D": "Keyboard"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A speaker plays sound for us to hear"
+        },
+        {
+          "num": 5,
+          "content": "Which machine helps us print our work onto paper?",
+          "options": {
+            "A": "Mouse",
+            "B": "Monitor",
+            "C": "Printer",
+            "D": "Keyboard"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A printer prints our work onto paper"
+        },
+        {
+          "num": 6,
+          "content": "The CPU is often called the ___ of the computer.",
+          "options": {
+            "A": "Foot",
+            "B": "Brain",
+            "C": "Hand",
+            "D": "Heart"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "The CPU is called the brain of the computer — it does the thinking"
+        },
+        {
+          "num": 7,
+          "content": "Which of these is a part of a computer?",
+          "options": {
+            "A": "🖱️ Mouse",
+            "B": "🐶 Dog",
+            "C": "🍎 Apple",
+            "D": "⚽ Ball"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A mouse is a computer part; the others are not"
+        },
+        {
+          "num": 8,
+          "content": "Which part do we use to record our VOICE into the computer?",
+          "options": {
+            "A": "Speaker",
+            "B": "Microphone",
+            "C": "Printer",
+            "D": "Monitor"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A microphone records our voice"
+        },
+        {
+          "num": 9,
+          "content": "What is another name for the computer screen?",
+          "options": {
+            "A": "Monitor",
+            "B": "Keyboard",
+            "C": "CPU",
+            "D": "Mouse"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Monitor is another name for the computer screen"
+        },
+        {
+          "num": 10,
+          "content": "Which of these helps us SEE what the computer is doing?",
+          "options": {
+            "A": "Keyboard",
+            "B": "Mouse",
+            "C": "Speaker",
+            "D": "Monitor"
+          },
+          "trailingContext": "---",
+          "correct": "D",
+          "why": "The monitor shows us what the computer is doing"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "A device we use to GIVE information or commands TO the computer is called an ___ device.",
+          "options": {
+            "A": "Sound",
+            "B": "Input",
+            "C": "Storage",
+            "D": "Output"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Input devices let us give commands or information to the computer"
+        },
+        {
+          "num": 12,
+          "content": "A device that gives US something back (like a picture or sound) is called an ___ device.",
+          "options": {
+            "A": "Power",
+            "B": "Input",
+            "C": "Storage",
+            "D": "Output"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Output devices give something back to us"
+        },
+        {
+          "num": 13,
+          "content": "Which of these is an INPUT device?",
+          "options": {
+            "A": "Keyboard",
+            "B": "Monitor",
+            "C": "Speaker",
+            "D": "Printer"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "The keyboard is used to type INTO the computer, so it's an input device"
+        },
+        {
+          "num": 14,
+          "content": "Which of these is an OUTPUT device?",
+          "options": {
+            "A": "Mouse",
+            "B": "Microphone",
+            "C": "Keyboard",
+            "D": "Monitor"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "The monitor shows things TO us, so it's an output device"
+        },
+        {
+          "num": 15,
+          "content": "Which of these is an INPUT device?",
+          "options": {
+            "A": "Printer",
+            "B": "Speaker",
+            "C": "Monitor",
+            "D": "Mouse"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "The mouse sends clicks INTO the computer, so it's an input device"
+        },
+        {
+          "num": 16,
+          "content": "Which of these is an OUTPUT device?",
+          "options": {
+            "A": "Microphone",
+            "B": "Mouse",
+            "C": "Speaker",
+            "D": "Keyboard"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "The speaker gives sound TO us, so it's an output device"
+        },
+        {
+          "num": 17,
+          "content": "A scanner is used to put a picture or document INTO the computer. Is a scanner an input or output device?",
+          "options": {
+            "A": "Neither",
+            "B": "Output",
+            "C": "Input",
+            "D": "Both"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A scanner brings a picture INTO the computer, so it's an input device"
+        },
+        {
+          "num": 18,
+          "content": "A device used to store information so we can use it later, like a pen drive, is called a ___ device.",
+          "options": {
+            "A": "Output",
+            "B": "Storage",
+            "C": "Sound",
+            "D": "Input"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A pen drive stores information for later use"
+        },
+        {
+          "num": 19,
+          "content": "Which of these do we use to LISTEN to a computer?",
+          "options": {
+            "A": "Monitor",
+            "B": "Keyboard",
+            "C": "Mouse",
+            "D": "Speaker or headphone"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "These let us hear sound from the computer"
+        },
+        {
+          "num": 20,
+          "content": "Which INPUT device do we use to point and click on things on the screen?",
+          "options": {
+            "A": "Monitor",
+            "B": "Speaker",
+            "C": "Mouse",
+            "D": "Printer"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "The mouse is the input device used to point and click"
+        },
+        {
+          "num": 21,
+          "content": "Which of these prints your homework onto paper?",
+          "options": {
+            "A": "Printer",
+            "B": "Speaker",
+            "C": "Microphone",
+            "D": "Mouse"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A printer turns your work into a paper copy"
+        },
+        {
+          "num": 22,
+          "content": "A webcam is used to capture VIDEO and send it INTO the computer. Is a webcam an input or output device?",
+          "options": {
+            "A": "Both",
+            "B": "Input",
+            "C": "Output",
+            "D": "Neither"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A webcam sends video INTO the computer, so it's an input device"
+        },
+        {
+          "num": 23,
+          "content": "Which part of the computer does the \"thinking\" and processing of all instructions?",
+          "options": {
+            "A": "Speaker",
+            "B": "Monitor",
+            "C": "CPU",
+            "D": "Keyboard"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "The CPU processes and \"thinks\" about all the instructions"
+        },
+        {
+          "num": 24,
+          "content": "Headphones let us:",
+          "options": {
+            "A": "Click on things",
+            "B": "Type letters",
+            "C": "Print pages",
+            "D": "Hear sound privately"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Headphones let us listen without others hearing"
+        },
+        {
+          "num": 25,
+          "content": "Which pair of devices is used together to control a computer — one for typing, one for clicking?",
+          "options": {
+            "A": "Keyboard and Mouse",
+            "B": "Monitor and Printer",
+            "C": "Speaker and Microphone",
+            "D": "CPU and Printer"
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "These two input devices are used together to control a computer"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 26,
+          "content": "Rohan says a Monitor is used to TYPE words into the computer. Is he correct?",
+          "options": {
+            "A": "No — a Monitor only SHOWS things; the Keyboard is used to type",
+            "B": "Yes",
+            "C": "Only sometimes",
+            "D": "Only on big monitors"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A monitor is an output device; it cannot take typing input"
+        },
+        {
+          "num": 27,
+          "content": "Which pair correctly matches an INPUT device with what it does?",
+          "options": {
+            "A": "Speaker — types letters",
+            "B": "Keyboard — types letters into the computer",
+            "C": "Monitor — plays sound",
+            "D": "Printer — clicks the pointer"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "This correctly matches an input device to its job"
+        },
+        {
+          "num": 28,
+          "content": "Which pair correctly matches an OUTPUT device with what it does?",
+          "options": {
+            "A": "Microphone — plays sound",
+            "B": "Monitor — shows pictures and words",
+            "C": "Mouse — shows pictures",
+            "D": "Keyboard — prints paper"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "This correctly matches an output device to its job"
+        },
+        {
+          "num": 29,
+          "content": "A microphone lets us put SOUND into the computer, and a speaker lets the computer give sound back to US. So a microphone is ___ and a speaker is ___.",
+          "options": {
+            "A": "Output, Output",
+            "B": "Input, Output",
+            "C": "Input, Input",
+            "D": "Output, Input"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A microphone brings sound IN (input); a speaker sends sound OUT (output)"
+        },
+        {
+          "num": 30,
+          "content": "Meera types her name on the keyboard, and it appears on the screen. Which part did her instruction go INTO first, and which part SHOWED the result?",
+          "options": {
+            "A": "Monitor first, then Keyboard",
+            "B": "Printer first, then Speaker",
+            "C": "Speaker first, then Mouse",
+            "D": "Keyboard first, then Monitor"
+          },
+          "trailingContext": "---",
+          "correct": "D",
+          "why": "The instruction (typing) goes in through the keyboard (input), then the result shows on the monitor (output)"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

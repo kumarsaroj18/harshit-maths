@@ -1,0 +1,58 @@
+[
+  {
+    "id": "01",
+    "slug": "unit-01-logical-reasoning",
+    "num": 1,
+    "title": "Logical Reasoning",
+    "emoji": "🧠",
+    "totalQuestions": 30
+  },
+  {
+    "id": "02",
+    "slug": "unit-02-introduction-to-computers",
+    "num": 2,
+    "title": "Introduction to Computers",
+    "emoji": "💻",
+    "totalQuestions": 30
+  },
+  {
+    "id": "03",
+    "slug": "unit-03-parts-of-a-computer",
+    "num": 3,
+    "title": "Parts of a Computer",
+    "emoji": "🖥️",
+    "totalQuestions": 30
+  },
+  {
+    "id": "04",
+    "slug": "unit-04-uses-of-computers",
+    "num": 4,
+    "title": "Uses of Computers",
+    "emoji": "🏥",
+    "totalQuestions": 30
+  },
+  {
+    "id": "05",
+    "slug": "unit-05-keyboard-and-mouse",
+    "num": 5,
+    "title": "Keyboard and Mouse",
+    "emoji": "⌨️",
+    "totalQuestions": 30
+  },
+  {
+    "id": "06",
+    "slug": "unit-06-ms-paint",
+    "num": 6,
+    "title": "Introduction to MS-Paint",
+    "emoji": "🎨",
+    "totalQuestions": 30
+  },
+  {
+    "id": "07",
+    "slug": "unit-07-it-gadgets-and-developments",
+    "num": 7,
+    "title": "IT Gadgets & Developments",
+    "emoji": "📱",
+    "totalQuestions": 30
+  }
+]

@@ -1,0 +1,425 @@
+{
+  "id": "04",
+  "slug": "unit-04-uses-of-computers",
+  "num": 4,
+  "title": "Uses of Computers",
+  "emoji": "🏥",
+  "parentNote": "Next time you're at a shop, bank, or clinic together, point out where you spot a computer in use — it turns this whole unit into a fun \"I Spy\" game.",
+  "learnBullets": [
+    "Places where computers help people do their work: **school, hospital, bank, home, airport, shop**",
+    "How computers help with **learning, communication, and entertainment**",
+    "Why computers make many jobs **faster and easier**"
+  ],
+  "learnItFirst": "Computers help people in almost every place:\n\n| Place | How a computer helps |\n|---|---|\n| 🏫 School | Teaching, learning games, storing marks |\n| 🏥 Hospital | Storing patient records |\n| 🏦 Bank | Keeping track of people's money safely |\n| 🏠 Home | Homework, games, videos |\n| ✈️ Airport | Booking tickets, tracking flights |\n| 🏪 Shop | Billing, keeping track of stock |\n\n**Computers are useful because they help us:**\n- **Learn** — educational videos and games\n- **Communicate** — emails, messages, video calls\n- **Work faster** — calculating, storing, and finding information quickly\n- **Have fun** — games, movies, music\n\n### 🧠 How to Solve — 3 Easy Steps\n1. **Picture the place** in the question — a hospital, school, bank, shop.\n2. **Ask:** what real work happens there that a computer could help with?\n3. **Rule out** answers that have nothing to do with computers (cooking, growing plants, sleeping).\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "Doctors use computers in a hospital to:",
+          "options": {
+            "A": "Store patient records",
+            "B": "Drive cars",
+            "C": "Water plants",
+            "D": "Cook food"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Hospitals use computers to keep patient information safe"
+        },
+        {
+          "num": 2,
+          "content": "Teachers use computers in school to:",
+          "options": {
+            "A": "Clean the floor",
+            "B": "Play cricket",
+            "C": "Show lessons and store marks",
+            "D": "Cook lunch"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Teachers use computers for teaching and record-keeping"
+        },
+        {
+          "num": 3,
+          "content": "Which place would you find computers helping to keep track of money?",
+          "options": {
+            "A": "Playground",
+            "B": "Bank",
+            "C": "Garden",
+            "D": "Zoo"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Banks use computers to track people's money"
+        },
+        {
+          "num": 4,
+          "content": "Computers help shopkeepers at a supermarket to:",
+          "options": {
+            "A": "Bill and calculate the cost of items",
+            "B": "Sleep",
+            "C": "Grow vegetables",
+            "D": "Sing songs"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Shopkeepers use computers to calculate bills"
+        },
+        {
+          "num": 5,
+          "content": "At an airport, computers help to:",
+          "options": {
+            "A": "Paint walls",
+            "B": "Cook food for animals",
+            "C": "Water the grass",
+            "D": "Book flight tickets and track flights"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Airports use computers for bookings and flight tracking"
+        },
+        {
+          "num": 6,
+          "content": "At home, a computer can help us to:",
+          "options": {
+            "A": "Only cook",
+            "B": "Only sleep",
+            "C": "Do homework, play games, and watch videos",
+            "D": "Only clean"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "These are all common home uses of a computer"
+        },
+        {
+          "num": 7,
+          "content": "Which of these people would use a computer for their WORK?",
+          "options": {
+            "A": "A bird flying in the sky",
+            "B": "A person typing a letter in an office",
+            "C": "A fish swimming in the sea",
+            "D": "A cloud in the sky"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "This is real work a computer helps with"
+        },
+        {
+          "num": 8,
+          "content": "Computers help doctors to:",
+          "options": {
+            "A": "Clean windows",
+            "B": "Store and check patient information",
+            "C": "Grow trees",
+            "D": "Make furniture"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Doctors use computers to manage patient details"
+        },
+        {
+          "num": 9,
+          "content": "Which is a good reason to use a computer?",
+          "options": {
+            "A": "It can grow food for us",
+            "B": "It never needs power",
+            "C": "It can talk without instructions",
+            "D": "It can help us finish work faster"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Speed and accuracy are key benefits of using a computer"
+        },
+        {
+          "num": 10,
+          "content": "Where might you see a computer being used to print train or bus tickets?",
+          "options": {
+            "A": "Railway or bus station",
+            "B": "Beach",
+            "C": "Zoo",
+            "D": "Park"
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "Ticket printing computers are found at stations"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "Which of these is a GOOD use of a computer at school?",
+          "options": {
+            "A": "Eating lunch on the keyboard",
+            "B": "Learning through educational games and videos",
+            "C": "Throwing it on the floor",
+            "D": "Using it as a chair"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "This is a proper, helpful use of a school computer"
+        },
+        {
+          "num": 12,
+          "content": "Banks use computers to:",
+          "options": {
+            "A": "Grow crops",
+            "B": "Wash clothes",
+            "C": "Cook food",
+            "D": "Keep track of people's money safely"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "This is the main job of computers in banks"
+        },
+        {
+          "num": 13,
+          "content": "Which of these uses a computer to help control traffic lights and manage roads in a smart city?",
+          "options": {
+            "A": "A tree",
+            "B": "A cup",
+            "C": "A shoe",
+            "D": "A traffic computer system"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Smart traffic lights are controlled by computer systems"
+        },
+        {
+          "num": 14,
+          "content": "Computers can help us TALK to people far away using video calls. This is an example of using a computer for:",
+          "options": {
+            "A": "Farming",
+            "B": "Sleeping",
+            "C": "Communication",
+            "D": "Cooking"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Talking to people far away is communication"
+        },
+        {
+          "num": 15,
+          "content": "Which of these is an example of using a computer for ENTERTAINMENT?",
+          "options": {
+            "A": "Watering a plant",
+            "B": "Washing dishes",
+            "C": "Watching a cartoon or playing a game",
+            "D": "Filling petrol in a car"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "This is entertainment"
+        },
+        {
+          "num": 16,
+          "content": "A weather scientist uses a computer to:",
+          "options": {
+            "A": "Bake a cake",
+            "B": "Study and predict the weather",
+            "C": "Play football",
+            "D": "Paint a fence"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Weather scientists use computers to study weather patterns"
+        },
+        {
+          "num": 17,
+          "content": "Which of these places would LEAST likely use a computer for its main work?",
+          "options": {
+            "A": "A computer lab",
+            "B": "A school",
+            "C": "A deep forest with no people",
+            "D": "An office"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "There is no work happening there that needs a computer"
+        },
+        {
+          "num": 18,
+          "content": "Computers help store owners keep a list of items they have. This is called keeping ___ of stock.",
+          "options": {
+            "A": "Games",
+            "B": "Music",
+            "C": "Food",
+            "D": "Track"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Shopkeepers keep \"track\" of their stock using computers"
+        },
+        {
+          "num": 19,
+          "content": "Which of these is an example of using a computer to LEARN?",
+          "options": {
+            "A": "Sleeping all day",
+            "B": "Eating breakfast",
+            "C": "Watching clouds",
+            "D": "Watching an educational video about animals"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "This is using a computer to learn"
+        },
+        {
+          "num": 20,
+          "content": "Pilots and airport staff use computers to:",
+          "options": {
+            "A": "Track flights and manage bookings",
+            "B": "Cook meals only",
+            "C": "Paint the airplane",
+            "D": "Grow crops"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "This is the main computer-related work at an airport"
+        },
+        {
+          "num": 21,
+          "content": "Which of these tasks would take a LOT longer WITHOUT a computer?",
+          "options": {
+            "A": "Adding up thousands of numbers by hand",
+            "B": "Drinking water",
+            "C": "Petting a dog",
+            "D": "Taking a walk"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A computer can do this instantly, much faster than a person"
+        },
+        {
+          "num": 22,
+          "content": "A librarian may use a computer to:",
+          "options": {
+            "A": "Grow flowers",
+            "B": "Cook food",
+            "C": "Keep track of which books are borrowed",
+            "D": "Paint pictures on walls"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Librarians use computers to manage book records"
+        },
+        {
+          "num": 23,
+          "content": "Computers in a hospital can help doctors:",
+          "options": {
+            "A": "Play music at a party",
+            "B": "Bake bread",
+            "C": "Clean the floor",
+            "D": "Look up a patient's past health records quickly"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Computers store and retrieve medical history"
+        },
+        {
+          "num": 24,
+          "content": "Which is an example of a computer helping with COMMUNICATION?",
+          "options": {
+            "A": "Watering a garden",
+            "B": "Sending an email or message",
+            "C": "Sweeping the floor",
+            "D": "Cutting vegetables"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "This is communication using a computer"
+        },
+        {
+          "num": 25,
+          "content": "Which of these would a shopkeeper NOT use a computer for?",
+          "options": {
+            "A": "Keeping records of sales",
+            "B": "Growing vegetables on a farm far away",
+            "C": "Checking stock",
+            "D": "Billing customers"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "A computer cannot physically grow vegetables"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 26,
+          "content": "A hospital, a school, and a bank ALL use computers. What is the MAIN reason computers are useful in so many different places?",
+          "options": {
+            "A": "They help store information and do work faster and more accurately",
+            "B": "They can cook food for everyone",
+            "C": "They can grow food",
+            "D": "They never need to be turned on"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "This is the common benefit across all these places"
+        },
+        {
+          "num": 27,
+          "content": "Reema says computers are only useful for playing games. Is she right?",
+          "options": {
+            "A": "Yes, that is the only use",
+            "B": "No — computers are also used for learning, work, communication, and more",
+            "C": "Only for kids",
+            "D": "Only on weekends"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Computers have many uses beyond games"
+        },
+        {
+          "num": 28,
+          "content": "Which of these shows a computer being used for BOTH learning AND entertainment at the same time?",
+          "options": {
+            "A": "An educational game that teaches while being fun to play",
+            "B": "A speaker with no computer attached",
+            "C": "A printer",
+            "D": "A plain calculator"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "This combines learning and entertainment"
+        },
+        {
+          "num": 29,
+          "content": "A farmer uses a computer app to check the weather before planting seeds. Which use of a computer does this show?",
+          "options": {
+            "A": "Driving the tractor by itself",
+            "B": "Cooking food",
+            "C": "Helping people make better decisions with information",
+            "D": "Cutting the crops by itself"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "The weather app gives useful information to help decide when to plant"
+        },
+        {
+          "num": 30,
+          "content": "Which statement is TRUE about computers and different jobs?",
+          "options": {
+            "A": "Many different people — doctors, teachers, shopkeepers, pilots — can use computers to help with their work",
+            "B": "Only scientists can use computers",
+            "C": "Computers cannot help with any real job",
+            "D": "Computers are only used in offices"
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "Computers help with all kinds of jobs, not just one"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "01",
+    "slug": "unit-01-me-and-my-family",
+    "num": 1,
+    "title": "Me and My Family",
+    "emoji": "👨‍👩‍👧‍👦",
+    "totalQuestions": 30
+  },
+  {
+    "id": "02",
+    "slug": "unit-02-plants-and-animals",
+    "num": 2,
+    "title": "Plants and Animals",
+    "emoji": "🌿",
+    "totalQuestions": 30
+  },
+  {
+    "id": "03",
+    "slug": "unit-03-our-body-and-health",
+    "num": 3,
+    "title": "Our Body and Health",
+    "emoji": "🏃",
+    "totalQuestions": 30
+  },
+  {
+    "id": "04",
+    "slug": "unit-04-india-our-country",
+    "num": 4,
+    "title": "India - Our Country",
+    "emoji": "🇮🇳",
+    "totalQuestions": 30
+  },
+  {
+    "id": "05",
+    "slug": "unit-05-the-world-around-us",
+    "num": 5,
+    "title": "The World Around Us",
+    "emoji": "🌍",
+    "totalQuestions": 30
+  },
+  {
+    "id": "06",
+    "slug": "unit-06-science-and-technology",
+    "num": 6,
+    "title": "Science and Technology",
+    "emoji": "🔬",
+    "totalQuestions": 30
+  },
+  {
+    "id": "07",
+    "slug": "unit-07-earth-and-environment",
+    "num": 7,
+    "title": "Earth and Environment",
+    "emoji": "🌏",
+    "totalQuestions": 30
+  },
+  {
+    "id": "08",
+    "slug": "unit-08-sports-and-games",
+    "num": 8,
+    "title": "Sports and Games",
+    "emoji": "⚽",
+    "totalQuestions": 30
+  },
+  {
+    "id": "09",
+    "slug": "unit-09-transport-and-communication",
+    "num": 9,
+    "title": "Transport and Communication",
+    "emoji": "🚗",
+    "totalQuestions": 30
+  },
+  {
+    "id": "10",
+    "slug": "unit-10-current-affairs",
+    "num": 10,
+    "title": "Current Affairs",
+    "emoji": "📰",
+    "totalQuestions": 30
+  },
+  {
+    "id": "11",
+    "slug": "unit-11-life-skills",
+    "num": 11,
+    "title": "Life Skills (Do's and Don'ts)",
+    "emoji": "🌟",
+    "totalQuestions": 30
+  }
+]

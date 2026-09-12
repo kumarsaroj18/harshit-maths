@@ -1,0 +1,114 @@
+[
+  {
+    "id": "01",
+    "slug": "unit-01-nouns",
+    "num": 1,
+    "title": "Nouns",
+    "emoji": "📚",
+    "totalQuestions": 30
+  },
+  {
+    "id": "02",
+    "slug": "unit-02-pronouns",
+    "num": 2,
+    "title": "Pronouns",
+    "emoji": "👤",
+    "totalQuestions": 30
+  },
+  {
+    "id": "03",
+    "slug": "unit-03-verbs",
+    "num": 3,
+    "title": "Verbs",
+    "emoji": "🏃",
+    "totalQuestions": 30
+  },
+  {
+    "id": "04",
+    "slug": "unit-04-adjectives",
+    "num": 4,
+    "title": "Adjectives",
+    "emoji": "🎨",
+    "totalQuestions": 30
+  },
+  {
+    "id": "05",
+    "slug": "unit-05-articles",
+    "num": 5,
+    "title": "Articles",
+    "emoji": "📝",
+    "totalQuestions": 30
+  },
+  {
+    "id": "06",
+    "slug": "unit-06-prepositions",
+    "num": 6,
+    "title": "Prepositions",
+    "emoji": "📍",
+    "totalQuestions": 30
+  },
+  {
+    "id": "07",
+    "slug": "unit-07-conjunctions",
+    "num": 7,
+    "title": "Conjunctions",
+    "emoji": "🔗",
+    "totalQuestions": 30
+  },
+  {
+    "id": "08",
+    "slug": "unit-08-spellings",
+    "num": 8,
+    "title": "Spellings",
+    "emoji": "✏️",
+    "totalQuestions": 30
+  },
+  {
+    "id": "09",
+    "slug": "unit-09-collocations",
+    "num": 9,
+    "title": "Collocations",
+    "emoji": "🤝",
+    "totalQuestions": 30
+  },
+  {
+    "id": "10",
+    "slug": "unit-10-simple-tenses",
+    "num": 10,
+    "title": "Simple Tenses",
+    "emoji": "⏰",
+    "totalQuestions": 30
+  },
+  {
+    "id": "11",
+    "slug": "unit-11-punctuation",
+    "num": 11,
+    "title": "Punctuation",
+    "emoji": "❗",
+    "totalQuestions": 30
+  },
+  {
+    "id": "12",
+    "slug": "unit-12-reading-comprehension",
+    "num": 12,
+    "title": "Reading Comprehension",
+    "emoji": "📖",
+    "totalQuestions": 30
+  },
+  {
+    "id": "13",
+    "slug": "unit-13-spoken-written-expression",
+    "num": 13,
+    "title": "Spoken and Written Expression",
+    "emoji": "💬",
+    "totalQuestions": 30
+  },
+  {
+    "id": "14",
+    "slug": "unit-14-achievers-section",
+    "num": 14,
+    "title": "Achievers Section",
+    "emoji": "🏆",
+    "totalQuestions": 30
+  }
+]

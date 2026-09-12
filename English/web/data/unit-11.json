@@ -1,0 +1,428 @@
+{
+  "id": "11",
+  "slug": "unit-11-punctuation",
+  "num": 11,
+  "title": "Punctuation",
+  "emoji": "❗",
+  "parentNote": "Punctuation marks are like traffic signals for reading! They tell us when to stop (full stop), pause (comma), or get excited (exclamation mark). Practice by reading aloud together and noticing where the voice pauses or rises.",
+  "learnBullets": [
+    "What **punctuation marks** are and why we use them",
+    "**Full stop (.)** — at the end of a sentence",
+    "**Question mark (?)** — at the end of a question",
+    "**Exclamation mark (!)** — to show strong feeling",
+    "**Comma (,)** — to separate items or take a short pause",
+    "**Capital letters** — at the beginning of sentences and for names"
+  ],
+  "learnItFirst": "**What is Punctuation?**\nPunctuation marks are symbols that help us read and understand sentences better. They show where to stop, pause, or ask.\n\n**Common Punctuation Marks:**\n\n| Mark | Name | When to Use | Example |\n|------|------|-------------|---------|\n| . | Full stop / Period | At the end of a statement | I like pizza**.** |\n| ? | Question mark | At the end of a question | What is your name**?** |\n| ! | Exclamation mark | To show excitement, surprise, or command | Wow! / Stop**!** |\n| , | Comma | To separate items in a list or for a pause | I have pens**,** pencils**,** and erasers**.** |\n| ' | Apostrophe | For contractions or possession | don**'**t, Riya**'**s book |\n\n**Capital Letters (A, B, C... not a, b, c...):**\nUse capitals for:\n1. The first word of every sentence\n2. The word \"I\"\n3. Names of people: **R**iya, **A**mit\n4. Names of places: **D**elhi, **I**ndia\n5. Days and months: **M**onday, **J**anuary\n\n### 🧠 How to Choose the Right Punctuation\n1. **Statement** (telling something) → Full stop (.)\n2. **Question** (asking something) → Question mark (?)\n3. **Strong feeling/Command** → Exclamation mark (!)\n4. **List of things** → Commas (,) between items\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "Which punctuation mark ends a statement?",
+          "options": {
+            "A": "?",
+            "B": ",",
+            "C": ".",
+            "D": "!"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Full stop ends statements"
+        },
+        {
+          "num": 2,
+          "content": "\"What is your name\" needs a:",
+          "options": {
+            "A": "question mark (?)",
+            "B": "full stop (.)",
+            "C": "exclamation mark (!)",
+            "D": "comma (,)"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "It's asking something — needs question mark"
+        },
+        {
+          "num": 3,
+          "content": "\"Wow That is amazing\" needs a:",
+          "options": {
+            "A": "comma after \"Wow\"",
+            "B": "exclamation mark after \"Wow\" and \"amazing\"",
+            "C": "question mark",
+            "D": "full stop after \"Wow\""
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"Wow!\" shows excitement, \"amazing!\" shows strong feeling"
+        },
+        {
+          "num": 4,
+          "content": "Which sentence has correct punctuation?",
+          "options": {
+            "A": "I like mangoes!",
+            "B": "I like mangoes?",
+            "C": "I like mangoes.",
+            "D": "I like mangoes"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Statement needs full stop at end"
+        },
+        {
+          "num": 5,
+          "content": "\"Where do you live\" is a:",
+          "options": {
+            "A": "statement — needs (.)",
+            "B": "command — needs (!)",
+            "C": "question — needs (?)",
+            "D": "list — needs (,)"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "It's asking a question"
+        },
+        {
+          "num": 6,
+          "content": "Which word needs a capital letter?",
+          "options": {
+            "A": "delhi",
+            "B": "happy",
+            "C": "run",
+            "D": "table"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Should be Delhi — place names need capitals"
+        },
+        {
+          "num": 7,
+          "content": "\"My name is ___.\" Which name is correctly written?",
+          "options": {
+            "A": "AMIT",
+            "B": "Amit",
+            "C": "amit",
+            "D": "aMIT"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Names start with capital letter"
+        },
+        {
+          "num": 8,
+          "content": "Find the correct sentence:",
+          "options": {
+            "A": "i Am a student.",
+            "B": "i am a student.",
+            "C": "I am A student.",
+            "D": "I am a student."
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "\"I\" is always capital, sentence starts with capital"
+        },
+        {
+          "num": 9,
+          "content": "\"I have apples oranges and bananas\" needs:",
+          "options": {
+            "A": "commas between the fruits",
+            "B": "no changes",
+            "C": "an exclamation mark",
+            "D": "a question mark"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Lists need commas: apples, oranges, and bananas"
+        },
+        {
+          "num": 10,
+          "content": "\"Help\" needs what at the end if someone is in danger?",
+          "options": {
+            "A": ",",
+            "B": "?",
+            "C": ".",
+            "D": "!"
+          },
+          "trailingContext": "---",
+          "correct": "D",
+          "why": "\"Help!\" — showing urgency/strong feeling"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "Choose the correctly punctuated sentence:",
+          "options": {
+            "A": "Do you like ice cream,",
+            "B": "Do you like ice cream!",
+            "C": "Do you like ice cream.",
+            "D": "Do you like ice cream?"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Question needs question mark"
+        },
+        {
+          "num": 12,
+          "content": "\"We went to delhi last summer\" — what needs to be corrected?",
+          "options": {
+            "A": "\"delhi\" should be \"Delhi\"",
+            "B": "\"We\" should be \"we\"",
+            "C": "Nothing",
+            "D": "Add a question mark"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Place names need capital letters"
+        },
+        {
+          "num": 13,
+          "content": "\"Happy birthday to you\" should end with:",
+          "options": {
+            "A": ".",
+            "B": "?",
+            "C": ",",
+            "D": "!"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Birthday wishes show excitement"
+        },
+        {
+          "num": 14,
+          "content": "Which sentence uses commas correctly?",
+          "options": {
+            "A": "I bought, apples, oranges, and grapes.",
+            "B": "I bought apples oranges and grapes.",
+            "C": "I bought apples, oranges, and grapes.",
+            "D": "I, bought apples oranges and grapes."
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Commas separate items in list"
+        },
+        {
+          "num": 15,
+          "content": "\"i and my sister went to the park\" — how many errors?",
+          "options": {
+            "A": "1",
+            "B": "0",
+            "C": "3",
+            "D": "2"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "\"i\" should be \"I\", missing full stop"
+        },
+        {
+          "num": 16,
+          "content": "\"What a beautiful flower\" should end with:",
+          "options": {
+            "A": "!",
+            "B": ",",
+            "C": ".",
+            "D": "?"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "\"What a beautiful flower!\" — exclamation of amazement"
+        },
+        {
+          "num": 17,
+          "content": "Which sentence is INCORRECT?",
+          "options": {
+            "A": "My birthday is in January.",
+            "B": "My birthday is in january.",
+            "C": "My birthday is on Monday.",
+            "D": "I was born in Delhi."
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Should be \"January\" — months need capitals"
+        },
+        {
+          "num": 18,
+          "content": "\"Don't\" is a short form of:",
+          "options": {
+            "A": "did not",
+            "B": "does not",
+            "C": "do not",
+            "D": "do it"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Don't = do not (apostrophe shows letters missing)"
+        },
+        {
+          "num": 19,
+          "content": "How should this be written? \"riya's bag is red\"",
+          "options": {
+            "A": "Riyas bag is Red.",
+            "B": "riya's bag is red.",
+            "C": "Riya's bag is red.",
+            "D": "riya's Bag is red."
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Name (Riya) needs capital, sentence ends with period"
+        },
+        {
+          "num": 20,
+          "content": "Choose the sentence with ALL correct punctuation:",
+          "options": {
+            "A": "Where are you going!",
+            "B": "Where are you going?",
+            "C": "Where are you going.",
+            "D": "where are you going?"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Capital W, question mark at end"
+        },
+        {
+          "num": 21,
+          "content": "\"Stop running in the class\" is a command. It needs:",
+          "options": {
+            "A": ".",
+            "B": "?",
+            "C": ",",
+            "D": "!"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Commands can end with ! for emphasis"
+        },
+        {
+          "num": 22,
+          "content": "Which list uses punctuation correctly?",
+          "options": {
+            "A": "Monday. Tuesday. Wednesday.",
+            "B": "Monday, Tuesday, Wednesday",
+            "C": "Monday Tuesday Wednesday",
+            "D": "Monday? Tuesday? Wednesday?"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Commas separate items in a list"
+        },
+        {
+          "num": 23,
+          "content": "\"She is my best friend she lives near my house\" needs:",
+          "options": {
+            "A": "a comma after \"friend\"",
+            "B": "a full stop after \"friend\" and capital \"S\" for \"she\"",
+            "C": "a question mark",
+            "D": "nothing"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Two complete sentences need to be separated"
+        },
+        {
+          "num": 24,
+          "content": "Which word does NOT need a capital letter?",
+          "options": {
+            "A": "running",
+            "B": "tuesday",
+            "C": "priya",
+            "D": "india"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Common verb — doesn't need capital"
+        },
+        {
+          "num": 25,
+          "content": "\"Ouch That hurts\" — add correct punctuation:",
+          "options": {
+            "A": "Ouch! That hurts!",
+            "B": "Ouch that hurts.",
+            "C": "Ouch, That hurts?",
+            "D": "Ouch. That hurts."
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "Both show strong feeling"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 26,
+          "content": "How many punctuation errors are in this sentence?\n\"what is your name i am amit\"",
+          "options": {
+            "A": "2",
+            "B": "4",
+            "C": "3",
+            "D": "5"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"what\"→\"What\", \"?\"missing, \"i\"→\"I\", \"amit\"→\"Amit\""
+        },
+        {
+          "num": 27,
+          "content": "Punctuate correctly: \"my mother father and sister live in delhi\"",
+          "options": {
+            "A": "my Mother Father and Sister live in delhi.",
+            "B": "My mother, father, and sister live in Delhi.",
+            "C": "My mother father, and sister, live in Delhi.",
+            "D": "My Mother Father And Sister Live In Delhi."
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Capital M, commas in list, capital D for Delhi"
+        },
+        {
+          "num": 28,
+          "content": "Which sentence shows excitement?",
+          "options": {
+            "A": "I won the race!",
+            "B": "I won the race.",
+            "C": "Did I win the race?",
+            "D": "I won, the race."
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Exclamation mark shows excitement"
+        },
+        {
+          "num": 29,
+          "content": "Find ALL the errors: \"on monday i and riya will go to mumbai\"",
+          "options": {
+            "A": "Only monday needs capital",
+            "B": "No errors",
+            "C": "Only proper nouns need capitals",
+            "D": "monday, i, riya, mumbai need capitals"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Monday, I, Riya, Mumbai all need capitals"
+        },
+        {
+          "num": 30,
+          "content": "Rewrite with correct punctuation: \"is this your book asked the teacher\"",
+          "options": {
+            "A": "Is this your book, asked the teacher?",
+            "B": "Is this your book asked the teacher.",
+            "C": "\"Is this your book?\" asked the teacher.",
+            "D": "is this your book asked the teacher"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "Question in quotes, proper punctuation"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

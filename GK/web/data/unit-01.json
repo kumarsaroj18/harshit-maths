@@ -1,0 +1,427 @@
+{
+  "id": "01",
+  "slug": "unit-01-me-and-my-family",
+  "num": 1,
+  "title": "Me and My Family",
+  "emoji": "👨‍👩‍👧‍👦",
+  "parentNote": "This unit covers family relationships, home, and basic personal information. Perfect for starting GK practice!",
+  "learnBullets": [
+    "Know your **family members** and their relationships",
+    "Understand **roles** of different family members",
+    "Learn about **home** and things we use daily",
+    "Know important **personal information** (address, phone)",
+    "Understand **good habits** at home"
+  ],
+  "learnItFirst": "**1. Family Members**\n\n- **Father** (Papa/Dad) and **Mother** (Mummy/Mom) are your parents\n- Your **parents' parents** are your grandparents (Dada-Dadi or Nana-Nani)\n- Your **father's brother** is your uncle (Chacha/Tau)\n- Your **mother's brother** is also your uncle (Mama)\n- Your **uncle's or aunt's children** are your cousins\n\n**2. Our Home**\n\n- Kitchen is where we **cook food**\n- Bedroom is where we **sleep**\n- Bathroom is where we **take bath** and brush teeth\n- Living room is where **family sits together**\n\n**3. Important Information**\n\n- Everyone should know their **full name**\n- Know your **home address** and **phone number**\n- Know your **parents' names**\n\n---\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "Your mother's mother is your ___.",
+          "options": {
+            "A": "Aunt",
+            "B": "Grandmother",
+            "C": "Sister",
+            "D": "Cousin"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Your mother's mother (or father's mother) is your grandmother"
+        },
+        {
+          "num": 2,
+          "content": "Your father's brother is your ___.",
+          "options": {
+            "A": "Brother",
+            "B": "Cousin",
+            "C": "Uncle",
+            "D": "Grandfather"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Your father's brother is your uncle (Chacha or Tau)"
+        },
+        {
+          "num": 3,
+          "content": "Where do we cook food at home?",
+          "options": {
+            "A": "Kitchen",
+            "B": "Bathroom",
+            "C": "Bedroom",
+            "D": "Garden"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "We cook food in the kitchen"
+        },
+        {
+          "num": 4,
+          "content": "Your uncle's son is your ___.",
+          "options": {
+            "A": "Friend",
+            "B": "Nephew",
+            "C": "Cousin",
+            "D": "Brother"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Your uncle's or aunt's children are your cousins"
+        },
+        {
+          "num": 5,
+          "content": "Which room do we use to sleep?",
+          "options": {
+            "A": "Kitchen",
+            "B": "Bedroom",
+            "C": "Dining room",
+            "D": "Bathroom"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "We sleep in the bedroom"
+        },
+        {
+          "num": 6,
+          "content": "Your sister's daughter is your ___.",
+          "options": {
+            "A": "Grandmother",
+            "B": "Aunt",
+            "C": "Cousin",
+            "D": "Niece"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Your brother's or sister's daughter is your niece"
+        },
+        {
+          "num": 7,
+          "content": "Who cooks food for the family?",
+          "options": {
+            "A": "Doctor",
+            "B": "Postman",
+            "C": "Teacher",
+            "D": "Parent/Cook"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Parents or a cook prepare food for the family at home"
+        },
+        {
+          "num": 8,
+          "content": "Your mother's sister is your ___.",
+          "options": {
+            "A": "Cousin",
+            "B": "Grandmother",
+            "C": "Sister",
+            "D": "Aunt"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Your mother's sister (or father's sister) is your aunt (Mausi or Bua)"
+        },
+        {
+          "num": 9,
+          "content": "Where do we brush our teeth?",
+          "options": {
+            "A": "Bathroom",
+            "B": "Kitchen",
+            "C": "Bedroom",
+            "D": "Garden"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "We brush our teeth in the bathroom"
+        },
+        {
+          "num": 10,
+          "content": "Your brother's son is your ___.",
+          "options": {
+            "A": "Uncle",
+            "B": "Cousin",
+            "C": "Nephew",
+            "D": "Grandfather"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "Your brother's or sister's son is your nephew"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "Riya's father's father is Riya's ___.",
+          "options": {
+            "A": "Grandfather",
+            "B": "Cousin",
+            "C": "Uncle",
+            "D": "Brother"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Your father's father is your grandfather (Dada)"
+        },
+        {
+          "num": 12,
+          "content": "Which of these is NOT a room in a house?",
+          "options": {
+            "A": "Classroom",
+            "B": "Bedroom",
+            "C": "Kitchen",
+            "D": "Bathroom"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Classroom is found in school, not in a house"
+        },
+        {
+          "num": 13,
+          "content": "Amit's mother's brother is Amit's ___.",
+          "options": {
+            "A": "Uncle (Mama)",
+            "B": "Cousin",
+            "C": "Father",
+            "D": "Grandfather"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Your mother's brother is your maternal uncle (Mama)"
+        },
+        {
+          "num": 14,
+          "content": "We keep our clothes in a ___.",
+          "options": {
+            "A": "Television",
+            "B": "Washing machine",
+            "C": "Refrigerator",
+            "D": "Wardrobe/Cupboard"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "We keep clothes in a wardrobe or cupboard"
+        },
+        {
+          "num": 15,
+          "content": "Priya has a brother named Rohan. Priya is Rohan's ___.",
+          "options": {
+            "A": "Aunt",
+            "B": "Brother",
+            "C": "Cousin",
+            "D": "Sister"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "If Rohan is Priya's brother, then Priya is Rohan's sister"
+        },
+        {
+          "num": 16,
+          "content": "Which appliance keeps food cold and fresh?",
+          "options": {
+            "A": "Microwave",
+            "B": "Toaster",
+            "C": "Refrigerator",
+            "D": "Mixer"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A refrigerator (fridge) keeps food cold and fresh"
+        },
+        {
+          "num": 17,
+          "content": "Ananya's aunt's son is Ananya's ___.",
+          "options": {
+            "A": "Nephew",
+            "B": "Cousin",
+            "C": "Brother",
+            "D": "Uncle"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Your aunt's children are your cousins"
+        },
+        {
+          "num": 18,
+          "content": "Where should we eat our meals?",
+          "options": {
+            "A": "Bedroom while watching TV",
+            "B": "On the road",
+            "C": "Dining table",
+            "D": "Bathroom"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "We should eat our meals at the dining table with family"
+        },
+        {
+          "num": 19,
+          "content": "A family that includes grandparents, parents, and children living together is called a ___ family.",
+          "options": {
+            "A": "Joint/Extended",
+            "B": "Small",
+            "C": "Single",
+            "D": "Nuclear"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A joint or extended family has grandparents, parents, uncles, aunts, and children living together"
+        },
+        {
+          "num": 20,
+          "content": "We should wash our hands ___.",
+          "options": {
+            "A": "Only on Sundays",
+            "B": "Before eating and after using the toilet",
+            "C": "Only at night",
+            "D": "Never"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "We must wash hands before eating and after using the toilet to stay healthy"
+        },
+        {
+          "num": 21,
+          "content": "Raj's grandmother has a son. That son is Raj's ___.",
+          "options": {
+            "A": "Brother",
+            "B": "Father or Uncle",
+            "C": "Grandfather",
+            "D": "Cousin"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Your grandmother's son could be your father or your uncle"
+        },
+        {
+          "num": 22,
+          "content": "Which of these should you know in case of emergency?",
+          "options": {
+            "A": "Your friend's pet's name",
+            "B": "Your home address and parent's phone number",
+            "C": "Your favorite cartoon",
+            "D": "Yesterday's dinner"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Knowing your home address and parent's phone number helps in emergencies"
+        },
+        {
+          "num": 23,
+          "content": "A family with only parents and their children is called a ___ family.",
+          "options": {
+            "A": "Joint",
+            "B": "Extended",
+            "C": "Large",
+            "D": "Nuclear"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "A nuclear family has only parents and their children"
+        },
+        {
+          "num": 24,
+          "content": "We use a ___ to wash dirty clothes.",
+          "options": {
+            "A": "Refrigerator",
+            "B": "Washing machine",
+            "C": "Computer",
+            "D": "Television"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A washing machine is used to wash dirty clothes"
+        },
+        {
+          "num": 25,
+          "content": "Neha's father's sister is Neha's ___.",
+          "options": {
+            "A": "Grandmother",
+            "B": "Aunt (Bua)",
+            "C": "Cousin",
+            "D": "Mother"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "Your father's sister is your aunt (Bua)"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "These questions are a bit tricky. Think carefully!",
+      "questions": [
+        {
+          "num": 26,
+          "content": "Meera's mother's mother's son is Meera's ___.",
+          "options": {
+            "A": "Brother",
+            "B": "Grandfather",
+            "C": "Uncle (Mama)",
+            "D": "Father"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Mother's mother = Nani. Nani's son = Mother's brother = Mama (maternal uncle)"
+        },
+        {
+          "num": 27,
+          "content": "In a photograph, Rahul sees a man. Rahul says, \"This man's son is my father.\" Who is the man in the photo?",
+          "options": {
+            "A": "Rahul's grandfather",
+            "B": "Rahul's uncle",
+            "C": "Rahul's father",
+            "D": "Rahul's brother"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "If the man's son is Rahul's father, then the man is Rahul's grandfather"
+        },
+        {
+          "num": 28,
+          "content": "Pointing to a lady, Riya says, \"She is my mother's mother.\" Who is the lady?",
+          "options": {
+            "A": "Riya's grandmother (Nani)",
+            "B": "Riya's aunt",
+            "C": "Riya's mother",
+            "D": "Riya's sister"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Mother's mother is your grandmother (Nani)"
+        },
+        {
+          "num": 29,
+          "content": "Kavya introduces a boy saying, \"He is the son of my father's only child.\" Who is the boy?",
+          "options": {
+            "A": "Kavya's nephew",
+            "B": "Kavya's cousin",
+            "C": "Kavya's son",
+            "D": "Kavya's brother"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Father's only child = Kavya herself. Son of Kavya = Kavya's son"
+        },
+        {
+          "num": 30,
+          "content": "If your mother's sister's husband's daughter is your cousin, what is your mother's sister's husband to you?",
+          "options": {
+            "A": "Brother",
+            "B": "Grandfather",
+            "C": "Father",
+            "D": "Uncle"
+          },
+          "trailingContext": "---",
+          "correct": "D",
+          "why": "Your mother's sister's husband is your uncle (Mausa)"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

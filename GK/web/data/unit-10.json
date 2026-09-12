@@ -1,0 +1,427 @@
+{
+  "id": "10",
+  "slug": "unit-10-current-affairs",
+  "num": 10,
+  "title": "Current Affairs",
+  "emoji": "📰",
+  "parentNote": "This unit covers current events, important people, and recent happenings. Good for general awareness!",
+  "learnBullets": [
+    "Know about **important people** in India today",
+    "Learn about **recent achievements** of India",
+    "Understand **important days** and their significance",
+    "Know about **new inventions** and discoveries",
+    "Learn about **world events** and leaders"
+  ],
+  "learnItFirst": "**1. Important People in India**\n\n| Position | Current Person |\n|----------|---------------|\n| President | Droupadi Murmu |\n| Prime Minister | Narendra Modi |\n| Chief Justice | (Changes periodically) |\n\n**2. India's Recent Achievements**\n\n- **Chandrayaan-3**: India's spacecraft landed on Moon's South Pole (2023)\n- **G20 Summit**: India hosted G20 as President (2023)\n- **Neeraj Chopra**: Won Olympic gold in Javelin (2020 Olympics)\n- **P.V. Sindhu**: Olympic medallist in Badminton\n\n**3. Important International Days**\n\n| Day | Date |\n|-----|------|\n| World Environment Day | 5th June |\n| International Yoga Day | 21st June |\n| World Health Day | 7th April |\n| World Water Day | 22nd March |\n\n**4. Stay Updated!**\n\n- Read children's newspapers\n- Watch news for kids\n- Ask parents about important events\n\n---\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "Who is the Prime Minister of India?",
+          "options": {
+            "A": "Rahul Gandhi",
+            "B": "Amit Shah",
+            "C": "Rajnath Singh",
+            "D": "Narendra Modi"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Narendra Modi is the current Prime Minister of India"
+        },
+        {
+          "num": 2,
+          "content": "Who is the first woman President of India?",
+          "options": {
+            "A": "Indira Gandhi",
+            "B": "Pratibha Patil",
+            "C": "Droupadi Murmu",
+            "D": "Sonia Gandhi"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Pratibha Patil was the first woman President of India (2007-2012)"
+        },
+        {
+          "num": 3,
+          "content": "International Yoga Day is celebrated on ___.",
+          "options": {
+            "A": "15th August",
+            "B": "2nd October",
+            "C": "26th January",
+            "D": "21st June"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "International Yoga Day is celebrated on 21st June every year"
+        },
+        {
+          "num": 4,
+          "content": "Which Indian mission landed on the Moon's South Pole?",
+          "options": {
+            "A": "Chandrayaan-3",
+            "B": "Mangalyaan",
+            "C": "Chandrayaan-1",
+            "D": "GSLV"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Chandrayaan-3 successfully landed on the Moon's South Pole in 2023"
+        },
+        {
+          "num": 5,
+          "content": "Who is the current President of India?",
+          "options": {
+            "A": "Pratibha Patil",
+            "B": "Pranab Mukherjee",
+            "C": "Ram Nath Kovind",
+            "D": "Droupadi Murmu"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Droupadi Murmu is the current (and first tribal woman) President of India"
+        },
+        {
+          "num": 6,
+          "content": "World Health Day is celebrated on ___.",
+          "options": {
+            "A": "7th April",
+            "B": "5th June",
+            "C": "14th November",
+            "D": "22nd March"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "World Health Day is celebrated on 7th April every year"
+        },
+        {
+          "num": 7,
+          "content": "India hosted which major world summit in 2023?",
+          "options": {
+            "A": "World Cup",
+            "B": "G20 Summit",
+            "C": "United Nations",
+            "D": "Olympics"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "India hosted the G20 Summit in 2023 as the G20 President"
+        },
+        {
+          "num": 8,
+          "content": "World Water Day is celebrated on ___.",
+          "options": {
+            "A": "22nd March",
+            "B": "21st June",
+            "C": "5th June",
+            "D": "7th April"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "World Water Day is celebrated on 22nd March every year"
+        },
+        {
+          "num": 9,
+          "content": "Who won India's first Olympic gold in athletics?",
+          "options": {
+            "A": "Virat Kohli",
+            "B": "Milkha Singh",
+            "C": "Neeraj Chopra",
+            "D": "P.T. Usha"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Neeraj Chopra won India's first Olympic gold in athletics (Javelin throw, 2020 Olympics)"
+        },
+        {
+          "num": 10,
+          "content": "Which planet did India's Mangalyaan mission go to?",
+          "options": {
+            "A": "Moon",
+            "B": "Venus",
+            "C": "Mars",
+            "D": "Jupiter"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "Mangalyaan (Mars Orbiter Mission) went to Mars in 2014"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "Which country will host the 2028 Summer Olympics?",
+          "options": {
+            "A": "Japan",
+            "B": "France",
+            "C": "USA (Los Angeles)",
+            "D": "India"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Los Angeles, USA will host the 2028 Summer Olympics"
+        },
+        {
+          "num": 12,
+          "content": "World Environment Day is celebrated on ___.",
+          "options": {
+            "A": "5th June",
+            "B": "7th April",
+            "C": "21st June",
+            "D": "22nd April"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "World Environment Day is celebrated on 5th June every year"
+        },
+        {
+          "num": 13,
+          "content": "ISRO is India's space agency. ISRO stands for ___.",
+          "options": {
+            "A": "Indian Science Research Organisation",
+            "B": "Indian Space Rocket Organisation",
+            "C": "International Space Research Organisation",
+            "D": "Indian Space Research Organisation"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "ISRO stands for Indian Space Research Organisation"
+        },
+        {
+          "num": 14,
+          "content": "Earth Day is celebrated on ___.",
+          "options": {
+            "A": "5th June",
+            "B": "21st March",
+            "C": "22nd April",
+            "D": "15th August"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Earth Day is celebrated on 22nd April every year"
+        },
+        {
+          "num": 15,
+          "content": "Which city hosted the 2024 Summer Olympics?",
+          "options": {
+            "A": "Paris",
+            "B": "Tokyo",
+            "C": "London",
+            "D": "Los Angeles"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Paris, France hosted the 2024 Summer Olympics"
+        },
+        {
+          "num": 16,
+          "content": "World Book Day is celebrated on ___.",
+          "options": {
+            "A": "1st January",
+            "B": "23rd April",
+            "C": "14th November",
+            "D": "5th September"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "World Book Day is celebrated on 23rd April every year"
+        },
+        {
+          "num": 17,
+          "content": "Who is known as the 'Missile Man of India'?",
+          "options": {
+            "A": "A.P.J. Abdul Kalam",
+            "B": "Vikram Sarabhai",
+            "C": "C.V. Raman",
+            "D": "Jawaharlal Nehru"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Dr. A.P.J. Abdul Kalam is known as the Missile Man of India"
+        },
+        {
+          "num": 18,
+          "content": "International Women's Day is celebrated on ___.",
+          "options": {
+            "A": "1st May",
+            "B": "21st June",
+            "C": "14th February",
+            "D": "8th March"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "International Women's Day is celebrated on 8th March every year"
+        },
+        {
+          "num": 19,
+          "content": "Which app is commonly used for video calls and online classes?",
+          "options": {
+            "A": "Camera",
+            "B": "Zoom/Google Meet",
+            "C": "Calendar",
+            "D": "Calculator"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Zoom and Google Meet are popular apps for video calls and online classes"
+        },
+        {
+          "num": 20,
+          "content": "World Television Day is celebrated on ___.",
+          "options": {
+            "A": "21st November",
+            "B": "2nd October",
+            "C": "14th November",
+            "D": "5th September"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "World Television Day is celebrated on 21st November"
+        },
+        {
+          "num": 21,
+          "content": "Which is India's national space agency?",
+          "options": {
+            "A": "NASA",
+            "B": "ISRO",
+            "C": "JAXA",
+            "D": "ESA"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "ISRO (Indian Space Research Organisation) is India's space agency"
+        },
+        {
+          "num": 22,
+          "content": "International Children's Day is celebrated on ___.",
+          "options": {
+            "A": "1st June",
+            "B": "14th November",
+            "C": "5th September",
+            "D": "20th November"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Universal Children's Day is on 20th November (India celebrates on 14th November)"
+        },
+        {
+          "num": 23,
+          "content": "United Nations Day is celebrated on ___.",
+          "options": {
+            "A": "26th January",
+            "B": "2nd October",
+            "C": "15th August",
+            "D": "24th October"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "United Nations Day is celebrated on 24th October every year"
+        },
+        {
+          "num": 24,
+          "content": "Which Indian became Miss Universe 2021?",
+          "options": {
+            "A": "Sushmita Sen",
+            "B": "Priyanka Chopra",
+            "C": "Harnaaz Sandhu",
+            "D": "Aishwarya Rai"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Harnaaz Sandhu won Miss Universe 2021, the third Indian to win this title"
+        },
+        {
+          "num": 25,
+          "content": "World Teachers' Day is celebrated on ___.",
+          "options": {
+            "A": "5th September",
+            "B": "5th October",
+            "C": "14th November",
+            "D": "26th January"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "World Teachers' Day is on 5th October (India celebrates on 5th September)"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "Test your current affairs knowledge!",
+      "questions": [
+        {
+          "num": 26,
+          "content": "Which country has the largest population in the world?",
+          "options": {
+            "A": "China",
+            "B": "Russia",
+            "C": "India",
+            "D": "USA"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "India became the world's most populous country in 2023"
+        },
+        {
+          "num": 27,
+          "content": "World Ozone Day is celebrated on ___.",
+          "options": {
+            "A": "5th June",
+            "B": "22nd April",
+            "C": "16th September",
+            "D": "21st June"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "World Ozone Day is celebrated on 16th September"
+        },
+        {
+          "num": 28,
+          "content": "Which is the tallest building in the world?",
+          "options": {
+            "A": "Statue of Unity",
+            "B": "Burj Khalifa",
+            "C": "Eiffel Tower",
+            "D": "Empire State Building"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Burj Khalifa in Dubai is the tallest building in the world"
+        },
+        {
+          "num": 29,
+          "content": "Which is the world's largest statue?",
+          "options": {
+            "A": "Great Sphinx",
+            "B": "Statue of Unity",
+            "C": "Christ the Redeemer",
+            "D": "Statue of Liberty"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Statue of Unity in Gujarat, India is the world's tallest statue (182 meters)"
+        },
+        {
+          "num": 30,
+          "content": "World Wildlife Day is celebrated on ___.",
+          "options": {
+            "A": "3rd March",
+            "B": "5th June",
+            "C": "22nd April",
+            "D": "21st March"
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "World Wildlife Day is celebrated on 3rd March every year"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

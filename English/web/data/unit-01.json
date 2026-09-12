@@ -1,0 +1,426 @@
+{
+  "id": "01",
+  "slug": "unit-01-nouns",
+  "num": 1,
+  "title": "Nouns",
+  "emoji": "📚",
+  "parentNote": "Nouns are naming words! Help your child spot nouns around the house first — table, chair, Mummy, Delhi. Once they get the hang of it, let them try the questions independently.",
+  "learnBullets": [
+    "What a **noun** is — a word that names a person, place, animal, or thing",
+    "**Common nouns** — general names (boy, city, dog)",
+    "**Proper nouns** — special names that start with a capital letter (Rahul, Mumbai, Rex)",
+    "Spotting nouns in sentences"
+  ],
+  "learnItFirst": "**What is a Noun?**\nA noun is a **naming word**. It tells us the name of a person, place, animal, or thing.\n\n| Type | What it names | Examples |\n|------|---------------|----------|\n| Person | people | mother, teacher, Amit, doctor |\n| Place | locations | school, park, Delhi, kitchen |\n| Animal | creatures | dog, cat, lion, Polly (pet's name) |\n| Thing | objects/ideas | book, ball, happiness, table |\n\n**Common Noun vs Proper Noun:**\n- **Common noun** = general name → boy, city, river (no capital letter)\n- **Proper noun** = special/specific name → Rohan, Jaipur, Ganga (always starts with a CAPITAL letter)\n\n```\nCommon: I have a dog.\nProper: My dog's name is Bruno.\n```\n\n### 🧠 How to Find a Noun — 3 Easy Steps\n1. **Ask:** Can I see it, touch it, or name it?\n2. **Check:** Is it a person, place, animal, or thing?\n3. **Look:** Does it start with a capital letter? (If yes, it might be a proper noun!)\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "Which word is a noun?",
+          "options": {
+            "A": "book",
+            "B": "happy",
+            "C": "quickly",
+            "D": "run"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Book is a thing you can touch — it's a noun"
+        },
+        {
+          "num": 2,
+          "content": "Which word names a person?",
+          "options": {
+            "A": "pretty",
+            "B": "under",
+            "C": "table",
+            "D": "teacher"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "A teacher is a person"
+        },
+        {
+          "num": 3,
+          "content": "Which word names a place?",
+          "options": {
+            "A": "she",
+            "B": "school",
+            "C": "jump",
+            "D": "red"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "School is a place"
+        },
+        {
+          "num": 4,
+          "content": "Which word names an animal?",
+          "options": {
+            "A": "slowly",
+            "B": "blue",
+            "C": "elephant",
+            "D": "sing"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Elephant is an animal"
+        },
+        {
+          "num": 5,
+          "content": "Which word names a thing?",
+          "options": {
+            "A": "pencil",
+            "B": "he",
+            "C": "eat",
+            "D": "tall"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Pencil is a thing"
+        },
+        {
+          "num": 6,
+          "content": "Which is a proper noun?",
+          "options": {
+            "A": "Delhi",
+            "B": "city",
+            "C": "boy",
+            "D": "river"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Delhi is a specific place name — proper noun with capital D"
+        },
+        {
+          "num": 7,
+          "content": "Which is a common noun?",
+          "options": {
+            "A": "girl",
+            "B": "Monday",
+            "C": "Rahul",
+            "D": "India"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Girl is a general name for a person — common noun"
+        },
+        {
+          "num": 8,
+          "content": "Find the noun: \"The cat is sleeping.\"",
+          "options": {
+            "A": "sleeping",
+            "B": "The",
+            "C": "cat",
+            "D": "is"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Cat names an animal"
+        },
+        {
+          "num": 9,
+          "content": "Find the common noun: \"Rina eats an apple.\"",
+          "options": {
+            "A": "apple",
+            "B": "an",
+            "C": "eats",
+            "D": "Rina"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Apple is a common noun (thing); Rina is a proper noun"
+        },
+        {
+          "num": 10,
+          "content": "Which sentence has two nouns?",
+          "options": {
+            "A": "She runs fast.",
+            "B": "He is happy.",
+            "C": "The dog is big.",
+            "D": "Amit likes mangoes."
+          },
+          "trailingContext": "---",
+          "correct": "D",
+          "why": "Amit (person) and mangoes (things) are both nouns"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "How many nouns are in this sentence? \"The boy and his sister went to the park.\"",
+          "options": {
+            "A": "5",
+            "B": "3",
+            "C": "4",
+            "D": "2"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "boy, sister, park are the three nouns"
+        },
+        {
+          "num": 12,
+          "content": "Which word is NOT a noun?",
+          "options": {
+            "A": "Mumbai",
+            "B": "quickly",
+            "C": "happiness",
+            "D": "lion"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Quickly tells how something is done — it's an adverb, not a noun"
+        },
+        {
+          "num": 13,
+          "content": "Choose the proper noun:",
+          "options": {
+            "A": "medicine",
+            "B": "doctor",
+            "C": "Dr. Sharma",
+            "D": "hospital"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "It's a specific person's name — proper noun"
+        },
+        {
+          "num": 14,
+          "content": "\"My mother bakes a ___.\" Choose the noun that fits:",
+          "options": {
+            "A": "delicious",
+            "B": "slowly",
+            "C": "cake",
+            "D": "bake"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Cake is a thing that fits the sentence"
+        },
+        {
+          "num": 15,
+          "content": "Which pair has both proper nouns?",
+          "options": {
+            "A": "happy, sad",
+            "B": "Rohan, Priya",
+            "C": "book, pen",
+            "D": "dog, cat"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Both are names of people — proper nouns"
+        },
+        {
+          "num": 16,
+          "content": "Find the common noun: \"Ganges is a long river.\"",
+          "options": {
+            "A": "Ganges",
+            "B": "is",
+            "C": "river",
+            "D": "long"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "River is a general name — common noun; Ganges is the proper noun"
+        },
+        {
+          "num": 17,
+          "content": "\"The children played in the garden.\" How many nouns?",
+          "options": {
+            "A": "1",
+            "B": "4",
+            "C": "3",
+            "D": "2"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "children, garden are the nouns"
+        },
+        {
+          "num": 18,
+          "content": "Which word names a thing you cannot touch?",
+          "options": {
+            "A": "love",
+            "B": "tree",
+            "C": "ball",
+            "D": "chair"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Love is a feeling — you can't touch it but it's still a noun!"
+        },
+        {
+          "num": 19,
+          "content": "Choose the sentence with a proper noun:",
+          "options": {
+            "A": "She has a red bag.",
+            "B": "I like pizza.",
+            "C": "The bird is singing.",
+            "D": "We live in Chennai."
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Chennai is a proper noun (city name)"
+        },
+        {
+          "num": 20,
+          "content": "Which group has all nouns?",
+          "options": {
+            "A": "quickly, slowly, fast",
+            "B": "table, chair, desk",
+            "C": "big, small, tall",
+            "D": "run, jump, skip"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "All three are things — nouns"
+        },
+        {
+          "num": 21,
+          "content": "\"Simran and her friend went to see a movie.\" Find all the nouns:",
+          "options": {
+            "A": "Simran, went, movie",
+            "B": "Simran, friend, movie",
+            "C": "her, friend, see",
+            "D": "and, to, a"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "All three name a person or thing"
+        },
+        {
+          "num": 22,
+          "content": "Which is a common noun for \"Taj Mahal\"?",
+          "options": {
+            "A": "beautiful",
+            "B": "Agra",
+            "C": "India",
+            "D": "building"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Taj Mahal is a building (common noun category)"
+        },
+        {
+          "num": 23,
+          "content": "\"The farmer grows rice in the field.\" How many nouns?",
+          "options": {
+            "A": "5",
+            "B": "3",
+            "C": "4",
+            "D": "2"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "farmer, rice, field are the nouns"
+        },
+        {
+          "num": 24,
+          "content": "Choose the correct pair: Common noun → Proper noun",
+          "options": {
+            "A": "Diwali → festival",
+            "B": "river → Yamuna",
+            "C": "city → big",
+            "D": "run → walk"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Yamuna is a specific river's name"
+        },
+        {
+          "num": 25,
+          "content": "Which sentence uses the proper noun correctly?",
+          "options": {
+            "A": "I Live In Mumbai.",
+            "B": "i live in Mumbai.",
+            "C": "I live in Mumbai.",
+            "D": "I live in mumbai."
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "Proper nouns start with a capital letter"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 26,
+          "content": "Read the sentence: \"On Sunday, Ravi and his family visited the zoo to see the new baby tiger.\"\nHow many nouns are there?",
+          "options": {
+            "A": "5",
+            "B": "4",
+            "C": "7",
+            "D": "6"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Sunday, Ravi, family, zoo, baby, tiger (baby tiger = 2 nouns)"
+        },
+        {
+          "num": 27,
+          "content": "Which word can be BOTH a common noun and a proper noun depending on how it's used?",
+          "options": {
+            "A": "table",
+            "B": "quickly",
+            "C": "rose (flower) / Rose (girl's name)",
+            "D": "happy"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "\"rose\" = flower (common), \"Rose\" = girl's name (proper)"
+        },
+        {
+          "num": 28,
+          "content": "\"The _____ is the capital of India.\" Choose the best proper noun:",
+          "options": {
+            "A": "Delhi",
+            "B": "big",
+            "C": "city",
+            "D": "country"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Delhi is the proper noun (capital city name)"
+        },
+        {
+          "num": 29,
+          "content": "Find the sentence where ALL capitalized words are proper nouns:",
+          "options": {
+            "A": "AMIT went to DELHI on MONDAY.",
+            "B": "The CAT sat on the MAT.",
+            "C": "THE bird is SINGING.",
+            "D": "She RUNS very FAST."
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "All three are proper nouns (name, place, day)"
+        },
+        {
+          "num": 30,
+          "content": "\"Happiness cannot be bought with money.\" Which words are nouns?",
+          "options": {
+            "A": "cannot, bought",
+            "B": "be, with",
+            "C": "bought, money",
+            "D": "Happiness, money"
+          },
+          "trailingContext": "---",
+          "correct": "D",
+          "why": "Both name things (even abstract things are nouns!)"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

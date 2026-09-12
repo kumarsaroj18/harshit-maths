@@ -40,13 +40,16 @@ a page.
 
 ## Hosting on GitHub Pages
 
-A workflow at `.github/workflows/pages.yml` (repo root) deploys this
-`Maths/web/` folder straight to GitHub Pages whenever it changes on
-`main`. One-time setup
+A workflow at `.github/workflows/pages.yml` (repo root) assembles this
+folder together with the other subjects (ICSO, English, Science, GK)
+and a `hub/` landing page into one combined GitHub Pages deployment
+whenever any of them change on `main`. Maths is served at the
+`/maths/` path under the site, not the site root — see the repo root
+`README` (or `hub/index.html`) for the full site map. One-time setup
 once you've pushed this repo to GitHub:
 
 1. Repo **Settings → Pages → Source** → select **GitHub Actions**.
 2. Push to `main` (or run the workflow manually from the Actions tab).
-3. Your son can open the resulting `https://<you>.github.io/<repo>/` URL on his phone — bookmark it or add it to the home screen for app-like access.
+3. Your son can open `https://<you>.github.io/<repo>/maths/` (or start at the site root hub and tap "Maths") on his phone — bookmark it or add it to the home screen for app-like access.
 
 No build step, no framework, no server required — it's static HTML/CSS/JS end to end.

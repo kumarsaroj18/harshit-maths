@@ -1,0 +1,427 @@
+{
+  "id": "07",
+  "slug": "unit-07-earth-and-environment",
+  "num": 7,
+  "title": "Earth and Environment",
+  "emoji": "🌏",
+  "parentNote": "This unit covers our planet, weather, seasons, and environmental awareness. Important for understanding our world!",
+  "learnBullets": [
+    "Know about our planet **Earth** and its features",
+    "Learn about **weather** and **seasons**",
+    "Understand **day and night** and why they happen",
+    "Know about **water bodies** — rivers, oceans, lakes",
+    "Learn about **keeping our environment clean**"
+  ],
+  "learnItFirst": "**1. Our Planet Earth**\n\n- Earth is the **third planet** from the Sun\n- Earth is also called the **Blue Planet** (because of water)\n- Earth has **one moon**\n- Earth **rotates** (spins) causing day and night\n- Earth **revolves** around the Sun causing seasons\n\n**2. Four Seasons**\n\n| Season | Weather |\n|--------|--------|\n| Summer ☀️ | Very hot |\n| Monsoon/Rainy 🌧️ | Lots of rain |\n| Autumn 🍂 | Leaves fall |\n| Winter ❄️ | Very cold |\n\n**3. Water Bodies**\n\n- **River** — flowing fresh water\n- **Lake** — still fresh water surrounded by land\n- **Ocean/Sea** — large salt water body\n- **Pond** — small water body\n\n**4. Keep Environment Clean**\n\n- Don't throw garbage on roads\n- Plant trees\n- Save water\n- Reduce, Reuse, Recycle\n\n---\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "Earth is also known as the ___.",
+          "options": {
+            "A": "Green Planet",
+            "B": "Red Planet",
+            "C": "Yellow Planet",
+            "D": "Blue Planet"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Earth is called the Blue Planet because most of it is covered with water"
+        },
+        {
+          "num": 2,
+          "content": "How many seasons are there in a year?",
+          "options": {
+            "A": "2",
+            "B": "5",
+            "C": "4",
+            "D": "3"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "There are 4 main seasons: Summer, Monsoon/Rainy, Autumn, and Winter"
+        },
+        {
+          "num": 3,
+          "content": "We get rain from ___.",
+          "options": {
+            "A": "Moon",
+            "B": "Stars",
+            "C": "Sun",
+            "D": "Clouds"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Rain falls from clouds in the sky"
+        },
+        {
+          "num": 4,
+          "content": "Which season is very hot?",
+          "options": {
+            "A": "Autumn",
+            "B": "Spring",
+            "C": "Summer",
+            "D": "Winter"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Summer is the hottest season"
+        },
+        {
+          "num": 5,
+          "content": "What causes day and night?",
+          "options": {
+            "A": "Sun moving",
+            "B": "Stars shining",
+            "C": "Earth spinning",
+            "D": "Moon moving"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Earth rotates (spins) on its axis, causing day and night"
+        },
+        {
+          "num": 6,
+          "content": "Which season is very cold?",
+          "options": {
+            "A": "Summer",
+            "B": "Winter",
+            "C": "Monsoon",
+            "D": "Autumn"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Winter is the coldest season"
+        },
+        {
+          "num": 7,
+          "content": "Trees give us ___.",
+          "options": {
+            "A": "Oxygen",
+            "B": "Smoke",
+            "C": "Carbon dioxide",
+            "D": "Dust"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Trees release oxygen which we need to breathe"
+        },
+        {
+          "num": 8,
+          "content": "What do we see in the sky at night?",
+          "options": {
+            "A": "Sun",
+            "B": "Clouds only",
+            "C": "Moon and stars",
+            "D": "Rainbow"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "At night, we can see the moon and stars in the sky"
+        },
+        {
+          "num": 9,
+          "content": "A river contains ___ water.",
+          "options": {
+            "A": "Dirty",
+            "B": "Fresh",
+            "C": "Salt",
+            "D": "Hot"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Rivers have fresh water (not salty like the ocean)"
+        },
+        {
+          "num": 10,
+          "content": "We should not throw garbage ___.",
+          "options": {
+            "A": "On roads",
+            "B": "In garbage bag",
+            "C": "In garbage truck",
+            "D": "In dustbin"
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "We should not throw garbage on roads — put it in the dustbin"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "Earth is the ___ planet from the Sun.",
+          "options": {
+            "A": "Third",
+            "B": "Fourth",
+            "C": "Second",
+            "D": "First"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Earth is the third planet from the Sun (Mercury, Venus, Earth...)"
+        },
+        {
+          "num": 12,
+          "content": "Which water body is very large and has salty water?",
+          "options": {
+            "A": "Pond",
+            "B": "Ocean",
+            "C": "River",
+            "D": "Lake"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Oceans are very large bodies of salty water"
+        },
+        {
+          "num": 13,
+          "content": "In which season do we get lots of rain?",
+          "options": {
+            "A": "Monsoon",
+            "B": "Winter",
+            "C": "Summer",
+            "D": "Autumn"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Monsoon or rainy season brings lots of rain"
+        },
+        {
+          "num": 14,
+          "content": "What should we do to save trees?",
+          "options": {
+            "A": "Ignore trees",
+            "B": "Plant more trees",
+            "C": "Burn trees",
+            "D": "Cut more trees"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "We should plant more trees to save our environment"
+        },
+        {
+          "num": 15,
+          "content": "How many moons does Earth have?",
+          "options": {
+            "A": "Three moons",
+            "B": "No moon",
+            "C": "One moon",
+            "D": "Two moons"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Earth has one natural moon"
+        },
+        {
+          "num": 16,
+          "content": "Pollution is harmful to ___.",
+          "options": {
+            "A": "Only plants",
+            "B": "Only humans",
+            "C": "Only animals",
+            "D": "All living things"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Pollution is harmful to humans, animals, and plants — all living things"
+        },
+        {
+          "num": 17,
+          "content": "The Sun rises in the ___ and sets in the ___.",
+          "options": {
+            "A": "West, East",
+            "B": "South, North",
+            "C": "North, South",
+            "D": "East, West"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "The Sun rises in the East and sets in the West"
+        },
+        {
+          "num": 18,
+          "content": "Which gas do we breathe in?",
+          "options": {
+            "A": "Carbon dioxide",
+            "B": "Nitrogen",
+            "C": "Oxygen",
+            "D": "Hydrogen"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "We breathe in oxygen, which is essential for life"
+        },
+        {
+          "num": 19,
+          "content": "What makes smoke and dirty air?",
+          "options": {
+            "A": "Cars and factories",
+            "B": "Gardens",
+            "C": "Rivers",
+            "D": "Trees"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Vehicles and factories release smoke and cause air pollution"
+        },
+        {
+          "num": 20,
+          "content": "In autumn season, leaves ___.",
+          "options": {
+            "A": "Fall from trees",
+            "B": "Grow bigger",
+            "C": "Turn green",
+            "D": "Turn blue"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "In autumn, leaves change colour and fall from trees"
+        },
+        {
+          "num": 21,
+          "content": "We can save water by ___.",
+          "options": {
+            "A": "Turning off taps when not in use",
+            "B": "Playing with water",
+            "C": "Keeping taps open",
+            "D": "Wasting water"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Turn off taps when not in use to save water"
+        },
+        {
+          "num": 22,
+          "content": "A rainbow appears after ___.",
+          "options": {
+            "A": "Sunset",
+            "B": "Rain with sunshine",
+            "C": "Sunrise",
+            "D": "Snow"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A rainbow appears when sunlight passes through raindrops after rain"
+        },
+        {
+          "num": 23,
+          "content": "Which is the largest ocean in the world?",
+          "options": {
+            "A": "Atlantic Ocean",
+            "B": "Arctic Ocean",
+            "C": "Indian Ocean",
+            "D": "Pacific Ocean"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "The Pacific Ocean is the largest ocean in the world"
+        },
+        {
+          "num": 24,
+          "content": "What should we do with plastic bottles after use?",
+          "options": {
+            "A": "Recycle them",
+            "B": "Throw in the river",
+            "C": "Throw on the road",
+            "D": "Burn them"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "We should recycle plastic to reduce pollution"
+        },
+        {
+          "num": 25,
+          "content": "World Environment Day is celebrated on ___.",
+          "options": {
+            "A": "15th August",
+            "B": "1st January",
+            "C": "22nd April",
+            "D": "5th June"
+          },
+          "trailingContext": "---",
+          "correct": "D",
+          "why": "World Environment Day is celebrated on 5th June every year"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "Challenge your environmental knowledge!",
+      "questions": [
+        {
+          "num": 26,
+          "content": "Earth Day is celebrated on ___.",
+          "options": {
+            "A": "5th June",
+            "B": "22nd April",
+            "C": "21st March",
+            "D": "15th August"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Earth Day is celebrated on 22nd April every year"
+        },
+        {
+          "num": 27,
+          "content": "What percentage of Earth is covered with water?",
+          "options": {
+            "A": "About 30%",
+            "B": "About 90%",
+            "C": "About 70%",
+            "D": "About 50%"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "About 70% of Earth's surface is covered with water"
+        },
+        {
+          "num": 28,
+          "content": "Which layer of atmosphere protects us from harmful sun rays?",
+          "options": {
+            "A": "Cloud layer",
+            "B": "Air layer",
+            "C": "Water layer",
+            "D": "Ozone layer"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "The ozone layer protects us from the Sun's harmful UV rays"
+        },
+        {
+          "num": 29,
+          "content": "Planting trees helps in reducing ___.",
+          "options": {
+            "A": "Fresh air",
+            "B": "Pollution",
+            "C": "Oxygen",
+            "D": "Rain"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Trees absorb carbon dioxide and help reduce air pollution"
+        },
+        {
+          "num": 30,
+          "content": "The hottest planet in our solar system is ___.",
+          "options": {
+            "A": "Mercury",
+            "B": "Venus",
+            "C": "Jupiter",
+            "D": "Mars"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "Venus is the hottest planet due to its thick atmosphere that traps heat"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

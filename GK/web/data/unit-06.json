@@ -1,0 +1,427 @@
+{
+  "id": "06",
+  "slug": "unit-06-science-and-technology",
+  "num": 6,
+  "title": "Science and Technology",
+  "emoji": "🔬",
+  "parentNote": "This unit covers basic science concepts, inventions, and technology around us. Great for building curiosity!",
+  "learnBullets": [
+    "Know about **common machines** and gadgets",
+    "Learn about **sources of light** and energy",
+    "Understand basic **science concepts**",
+    "Know about **famous scientists** and inventions",
+    "Learn about **materials** around us"
+  ],
+  "learnItFirst": "**1. Common Machines & Gadgets**\n\n| Machine | What It Does |\n|---------|-------------|\n| Television 📺 | Shows pictures and videos |\n| Computer 💻 | Helps us work, play, and learn |\n| Telephone 📞 | Helps us talk to people far away |\n| Refrigerator 🧊 | Keeps food cold |\n| Fan 🪭 | Gives us cool air |\n\n**2. Sources of Light**\n\n- **Sun** — biggest natural source of light\n- **Electric bulb** — man-made light source\n- **Candle** — gives light when burning\n- **Torch/Flashlight** — portable light\n\n**3. Sources of Energy**\n\n- **Sun** — gives us solar energy\n- **Wind** — gives us wind energy\n- **Water** — gives us hydro energy\n- **Food** — gives us energy to work\n\n**4. Famous Scientists**\n\n- **Thomas Edison** — invented the light bulb\n- **Alexander Graham Bell** — invented the telephone\n- **Wright Brothers** — invented the aeroplane\n\n---\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "Which is the biggest source of light on Earth?",
+          "options": {
+            "A": "Stars",
+            "B": "Moon",
+            "C": "Sun",
+            "D": "Bulb"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "The Sun is the biggest and main source of light on Earth"
+        },
+        {
+          "num": 2,
+          "content": "Which machine keeps food cold?",
+          "options": {
+            "A": "Oven",
+            "B": "Mixer",
+            "C": "Microwave",
+            "D": "Refrigerator"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "A refrigerator keeps food cold and fresh"
+        },
+        {
+          "num": 3,
+          "content": "We use a ___ to talk to people far away.",
+          "options": {
+            "A": "Television",
+            "B": "Radio",
+            "C": "Telephone",
+            "D": "Camera"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "We use a telephone or mobile phone to talk to people far away"
+        },
+        {
+          "num": 4,
+          "content": "Which of these gives us cool air?",
+          "options": {
+            "A": "Heater",
+            "B": "Iron",
+            "C": "Oven",
+            "D": "Fan"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "A fan or air conditioner gives us cool air"
+        },
+        {
+          "num": 5,
+          "content": "What do we use to iron clothes?",
+          "options": {
+            "A": "Blender",
+            "B": "Mixer",
+            "C": "Electric iron",
+            "D": "Toaster"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "We use an electric iron to remove wrinkles from clothes"
+        },
+        {
+          "num": 6,
+          "content": "Which machine shows us pictures and videos?",
+          "options": {
+            "A": "Telephone",
+            "B": "Radio",
+            "C": "Fan",
+            "D": "Television"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Television (TV) shows us pictures, videos, and movies"
+        },
+        {
+          "num": 7,
+          "content": "Plants need ___ to make food.",
+          "options": {
+            "A": "Sunlight",
+            "B": "Cold",
+            "C": "Darkness",
+            "D": "Noise"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Plants need sunlight, water, and air to make food"
+        },
+        {
+          "num": 8,
+          "content": "Which of these is a natural source of light?",
+          "options": {
+            "A": "Tube light",
+            "B": "Bulb",
+            "C": "Sun",
+            "D": "Torch"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "The Sun is a natural source of light; bulbs are man-made"
+        },
+        {
+          "num": 9,
+          "content": "What do we get from food?",
+          "options": {
+            "A": "Light",
+            "B": "Sound",
+            "C": "Electricity",
+            "D": "Energy"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Food gives us energy to work, play, and grow"
+        },
+        {
+          "num": 10,
+          "content": "Ice melts when it becomes ___.",
+          "options": {
+            "A": "Harder",
+            "B": "Warmer",
+            "C": "Colder",
+            "D": "Darker"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "Ice melts and becomes water when heated or warmed"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "Who invented the light bulb?",
+          "options": {
+            "A": "Thomas Edison",
+            "B": "Isaac Newton",
+            "C": "Albert Einstein",
+            "D": "Graham Bell"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Thomas Edison invented the practical electric light bulb"
+        },
+        {
+          "num": 12,
+          "content": "What happens to water when it is heated?",
+          "options": {
+            "A": "Nothing happens",
+            "B": "It turns to steam",
+            "C": "It becomes ice",
+            "D": "It freezes"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "When water is heated, it turns into steam (water vapor)"
+        },
+        {
+          "num": 13,
+          "content": "Who invented the telephone?",
+          "options": {
+            "A": "Isaac Newton",
+            "B": "Wright Brothers",
+            "C": "Alexander Graham Bell",
+            "D": "Thomas Edison"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Alexander Graham Bell invented the telephone"
+        },
+        {
+          "num": 14,
+          "content": "Which machine is used to wash clothes?",
+          "options": {
+            "A": "Mixer",
+            "B": "Dishwasher",
+            "C": "Washing machine",
+            "D": "Vacuum cleaner"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A washing machine washes clothes automatically"
+        },
+        {
+          "num": 15,
+          "content": "What makes a magnet special?",
+          "options": {
+            "A": "It is hot",
+            "B": "It is heavy",
+            "C": "It attracts iron",
+            "D": "It is shiny"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "A magnet can attract iron and steel objects"
+        },
+        {
+          "num": 16,
+          "content": "Which of these runs on batteries?",
+          "options": {
+            "A": "Bicycle",
+            "B": "TV remote",
+            "C": "Book",
+            "D": "Chair"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "A TV remote runs on batteries"
+        },
+        {
+          "num": 17,
+          "content": "What do we call frozen water?",
+          "options": {
+            "A": "Juice",
+            "B": "Ice",
+            "C": "Milk",
+            "D": "Steam"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "When water freezes, it becomes ice"
+        },
+        {
+          "num": 18,
+          "content": "Who invented the aeroplane?",
+          "options": {
+            "A": "Wright Brothers",
+            "B": "Graham Bell",
+            "C": "Isaac Newton",
+            "D": "Thomas Edison"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "The Wright Brothers (Orville and Wilbur) invented the aeroplane"
+        },
+        {
+          "num": 19,
+          "content": "We use a ___ to clean the floor.",
+          "options": {
+            "A": "Vacuum cleaner",
+            "B": "Mixer",
+            "C": "Washing machine",
+            "D": "Microwave"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A vacuum cleaner sucks up dust and dirt from floors"
+        },
+        {
+          "num": 20,
+          "content": "What material is used to make glass?",
+          "options": {
+            "A": "Paper",
+            "B": "Wood",
+            "C": "Plastic",
+            "D": "Sand"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Glass is made from sand heated to very high temperatures"
+        },
+        {
+          "num": 21,
+          "content": "Which of these is a good conductor of electricity?",
+          "options": {
+            "A": "Metal",
+            "B": "Rubber",
+            "C": "Plastic",
+            "D": "Wood"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Metals like copper and iron conduct electricity well"
+        },
+        {
+          "num": 22,
+          "content": "What do solar panels use to make electricity?",
+          "options": {
+            "A": "Water",
+            "B": "Sunlight",
+            "C": "Wind",
+            "D": "Coal"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Solar panels convert sunlight into electricity"
+        },
+        {
+          "num": 23,
+          "content": "Which machine is used to heat food quickly?",
+          "options": {
+            "A": "Microwave",
+            "B": "Washing machine",
+            "C": "Fan",
+            "D": "Refrigerator"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "A microwave oven heats food quickly"
+        },
+        {
+          "num": 24,
+          "content": "A computer's brain is called ___.",
+          "options": {
+            "A": "Monitor",
+            "B": "Mouse",
+            "C": "Keyboard",
+            "D": "CPU"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "CPU (Central Processing Unit) is the brain of a computer"
+        },
+        {
+          "num": 25,
+          "content": "Which of these can float on water?",
+          "options": {
+            "A": "Wood",
+            "B": "Iron nail",
+            "C": "Stone",
+            "D": "Coin"
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "Wood is lighter than water, so it floats"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "Test your science knowledge with these challenging questions!",
+      "questions": [
+        {
+          "num": 26,
+          "content": "What is the boiling point of water?",
+          "options": {
+            "A": "200°C",
+            "B": "0°C",
+            "C": "50°C",
+            "D": "100°C"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Water boils at 100°C (degrees Celsius)"
+        },
+        {
+          "num": 27,
+          "content": "Rainbow has how many colours?",
+          "options": {
+            "A": "7",
+            "B": "6",
+            "C": "8",
+            "D": "5"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Rainbow has 7 colours: Violet, Indigo, Blue, Green, Yellow, Orange, Red (VIBGYOR)"
+        },
+        {
+          "num": 28,
+          "content": "What is the freezing point of water?",
+          "options": {
+            "A": "50°C",
+            "B": "0°C",
+            "C": "-10°C",
+            "D": "100°C"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Water freezes to become ice at 0°C (degrees Celsius)"
+        },
+        {
+          "num": 29,
+          "content": "Sound travels fastest through ___.",
+          "options": {
+            "A": "Water",
+            "B": "Solid (like steel)",
+            "C": "Air",
+            "D": "Vacuum"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Sound travels fastest through solids, slower in liquids, and slowest in air"
+        },
+        {
+          "num": 30,
+          "content": "Which planet is known as the 'Red Planet'?",
+          "options": {
+            "A": "Venus",
+            "B": "Mars",
+            "C": "Jupiter",
+            "D": "Earth"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "Mars is called the Red Planet because of its reddish appearance"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

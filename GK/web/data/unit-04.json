@@ -1,0 +1,427 @@
+{
+  "id": "04",
+  "slug": "unit-04-india-our-country",
+  "num": 4,
+  "title": "India - Our Country",
+  "emoji": "🇮🇳",
+  "parentNote": "This unit covers national symbols, festivals, famous places, and basic facts about India. Perfect for building patriotism!",
+  "learnBullets": [
+    "Know our **national symbols** — flag, anthem, bird, animal",
+    "Learn about **important festivals** of India",
+    "Know **famous monuments** and places",
+    "Learn about our **national leaders**",
+    "Understand basic **geography** of India"
+  ],
+  "learnItFirst": "**1. National Symbols of India**\n\n| Symbol | Name |\n|--------|------|\n| National Flag 🇮🇳 | Tricolour (Tiranga) — Saffron, White, Green with Ashoka Chakra |\n| National Anthem 🎵 | Jana Gana Mana |\n| National Song 🎶 | Vande Mataram |\n| National Bird 🦚 | Peacock |\n| National Animal 🐅 | Tiger |\n| National Flower 🌸 | Lotus |\n| National Fruit 🥭 | Mango |\n\n**2. Important Facts**\n\n- Capital of India: **New Delhi**\n- India's Independence Day: **15th August** (1947)\n- Republic Day: **26th January** (1950)\n- Gandhi Jayanti: **2nd October** (Mahatma Gandhi's birthday)\n\n**3. Famous Monuments**\n\n- **Taj Mahal** — Agra (built by Shah Jahan)\n- **Red Fort** — Delhi\n- **Qutub Minar** — Delhi\n- **Gateway of India** — Mumbai\n\n---\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "What is the national bird of India?",
+          "options": {
+            "A": "Parrot",
+            "B": "Peacock",
+            "C": "Sparrow",
+            "D": "Crow"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Peacock is the national bird of India"
+        },
+        {
+          "num": 2,
+          "content": "What is the national animal of India?",
+          "options": {
+            "A": "Deer",
+            "B": "Tiger",
+            "C": "Elephant",
+            "D": "Lion"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Tiger is the national animal of India"
+        },
+        {
+          "num": 3,
+          "content": "What is the capital of India?",
+          "options": {
+            "A": "New Delhi",
+            "B": "Kolkata",
+            "C": "Chennai",
+            "D": "Mumbai"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "New Delhi is the capital city of India"
+        },
+        {
+          "num": 4,
+          "content": "What is the national flower of India?",
+          "options": {
+            "A": "Rose",
+            "B": "Sunflower",
+            "C": "Marigold",
+            "D": "Lotus"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Lotus is the national flower of India"
+        },
+        {
+          "num": 5,
+          "content": "When do we celebrate Independence Day?",
+          "options": {
+            "A": "15th August",
+            "B": "14th November",
+            "C": "2nd October",
+            "D": "26th January"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Independence Day is celebrated on 15th August"
+        },
+        {
+          "num": 6,
+          "content": "What are the three colours in our national flag?",
+          "options": {
+            "A": "Red, Green, White",
+            "B": "Red, White, Blue",
+            "C": "Orange, Yellow, Green",
+            "D": "Saffron, White, Green"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Indian flag has Saffron (top), White (middle), and Green (bottom)"
+        },
+        {
+          "num": 7,
+          "content": "What is the national fruit of India?",
+          "options": {
+            "A": "Banana",
+            "B": "Orange",
+            "C": "Mango",
+            "D": "Apple"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Mango is the national fruit of India"
+        },
+        {
+          "num": 8,
+          "content": "When do we celebrate Republic Day?",
+          "options": {
+            "A": "2nd October",
+            "B": "26th January",
+            "C": "5th September",
+            "D": "15th August"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Republic Day is celebrated on 26th January"
+        },
+        {
+          "num": 9,
+          "content": "What is India's national anthem?",
+          "options": {
+            "A": "Vande Mataram",
+            "B": "Ae Mere Watan Ke Logon",
+            "C": "Saare Jahan Se Achha",
+            "D": "Jana Gana Mana"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Jana Gana Mana is India's national anthem, written by Rabindranath Tagore"
+        },
+        {
+          "num": 10,
+          "content": "The Taj Mahal is in which city?",
+          "options": {
+            "A": "Delhi",
+            "B": "Agra",
+            "C": "Jaipur",
+            "D": "Mumbai"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "The Taj Mahal is located in Agra, Uttar Pradesh"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "Who is called the 'Father of the Nation'?",
+          "options": {
+            "A": "Mahatma Gandhi",
+            "B": "Subhash Chandra Bose",
+            "C": "Jawaharlal Nehru",
+            "D": "Bhagat Singh"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Mahatma Gandhi is called the Father of the Nation"
+        },
+        {
+          "num": 12,
+          "content": "What is in the centre of the white stripe of our flag?",
+          "options": {
+            "A": "Star",
+            "B": "Sun",
+            "C": "Ashoka Chakra",
+            "D": "Moon"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "The Ashoka Chakra (wheel) is in the centre of the white stripe"
+        },
+        {
+          "num": 13,
+          "content": "Gandhi Jayanti is celebrated on ___.",
+          "options": {
+            "A": "15th August",
+            "B": "26th January",
+            "C": "14th November",
+            "D": "2nd October"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Gandhi Jayanti (Mahatma Gandhi's birthday) is on 2nd October"
+        },
+        {
+          "num": 14,
+          "content": "Which festival is called the 'Festival of Lights'?",
+          "options": {
+            "A": "Holi",
+            "B": "Christmas",
+            "C": "Diwali",
+            "D": "Eid"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Diwali is called the Festival of Lights — we light diyas and candles"
+        },
+        {
+          "num": 15,
+          "content": "Who was the first Prime Minister of India?",
+          "options": {
+            "A": "Dr. Rajendra Prasad",
+            "B": "Sardar Patel",
+            "C": "Jawaharlal Nehru",
+            "D": "Mahatma Gandhi"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Jawaharlal Nehru was the first Prime Minister of India"
+        },
+        {
+          "num": 16,
+          "content": "Which festival is called the 'Festival of Colours'?",
+          "options": {
+            "A": "Holi",
+            "B": "Pongal",
+            "C": "Diwali",
+            "D": "Dussehra"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Holi is called the Festival of Colours — we play with colours"
+        },
+        {
+          "num": 17,
+          "content": "The Red Fort is in which city?",
+          "options": {
+            "A": "Mumbai",
+            "B": "Agra",
+            "C": "Jaipur",
+            "D": "Delhi"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "The Red Fort (Lal Qila) is in Delhi"
+        },
+        {
+          "num": 18,
+          "content": "Children's Day is celebrated on ___.",
+          "options": {
+            "A": "14th November",
+            "B": "26th January",
+            "C": "15th August",
+            "D": "5th September"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Children's Day is on 14th November — Jawaharlal Nehru's birthday"
+        },
+        {
+          "num": 19,
+          "content": "Which is the longest river in India?",
+          "options": {
+            "A": "Godavari",
+            "B": "Ganga",
+            "C": "Yamuna",
+            "D": "Brahmaputra"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Ganga (Ganges) is the longest river in India"
+        },
+        {
+          "num": 20,
+          "content": "What is India's national song?",
+          "options": {
+            "A": "Mile Sur Mera Tumhara",
+            "B": "Saare Jahan Se Achha",
+            "C": "Vande Mataram",
+            "D": "Jana Gana Mana"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Vande Mataram is India's national song, written by Bankim Chandra Chatterjee"
+        },
+        {
+          "num": 21,
+          "content": "How many spokes are there in the Ashoka Chakra?",
+          "options": {
+            "A": "18",
+            "B": "36",
+            "C": "24",
+            "D": "12"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "The Ashoka Chakra has 24 spokes"
+        },
+        {
+          "num": 22,
+          "content": "Teachers' Day is celebrated on ___.",
+          "options": {
+            "A": "5th September",
+            "B": "15th August",
+            "C": "2nd October",
+            "D": "14th November"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Teachers' Day is on 5th September — Dr. Sarvepalli Radhakrishnan's birthday"
+        },
+        {
+          "num": 23,
+          "content": "The Gateway of India is in which city?",
+          "options": {
+            "A": "Kolkata",
+            "B": "Mumbai",
+            "C": "Chennai",
+            "D": "Delhi"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "The Gateway of India is in Mumbai"
+        },
+        {
+          "num": 24,
+          "content": "Who built the Taj Mahal?",
+          "options": {
+            "A": "Akbar",
+            "B": "Jahangir",
+            "C": "Aurangzeb",
+            "D": "Shah Jahan"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Shah Jahan built the Taj Mahal in memory of his wife Mumtaz Mahal"
+        },
+        {
+          "num": 25,
+          "content": "India got independence in which year?",
+          "options": {
+            "A": "1946",
+            "B": "1947",
+            "C": "1945",
+            "D": "1950"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "India got independence on 15th August 1947"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "These are higher-order thinking questions about India!",
+      "questions": [
+        {
+          "num": 26,
+          "content": "Which ocean is to the south of India?",
+          "options": {
+            "A": "Indian Ocean",
+            "B": "Pacific Ocean",
+            "C": "Atlantic Ocean",
+            "D": "Arctic Ocean"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "The Indian Ocean is to the south of India"
+        },
+        {
+          "num": 27,
+          "content": "India has how many states?",
+          "options": {
+            "A": "28",
+            "B": "30",
+            "C": "25",
+            "D": "32"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "India has 28 states and 8 union territories"
+        },
+        {
+          "num": 28,
+          "content": "Which is the highest mountain peak in India?",
+          "options": {
+            "A": "K2",
+            "B": "Mount Everest",
+            "C": "Nanda Devi",
+            "D": "Kangchenjunga"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Kangchenjunga is the highest mountain peak in India (on India-Nepal border). Mt. Everest is entirely in Nepal."
+        },
+        {
+          "num": 29,
+          "content": "Which currency is used in India?",
+          "options": {
+            "A": "Euro",
+            "B": "Pound",
+            "C": "Rupee",
+            "D": "Dollar"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "The Indian Rupee (₹) is the currency of India"
+        },
+        {
+          "num": 30,
+          "content": "Who wrote the national anthem 'Jana Gana Mana'?",
+          "options": {
+            "A": "Jawaharlal Nehru",
+            "B": "Rabindranath Tagore",
+            "C": "Mahatma Gandhi",
+            "D": "Bankim Chandra Chatterjee"
+          },
+          "trailingContext": "---",
+          "correct": "B",
+          "why": "Rabindranath Tagore wrote the national anthem Jana Gana Mana"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

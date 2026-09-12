@@ -1,0 +1,428 @@
+{
+  "id": "13",
+  "slug": "unit-13-spoken-written-expression",
+  "num": 13,
+  "title": "Spoken and Written Expression",
+  "emoji": "💬",
+  "parentNote": "This section tests real-life communication! Practice everyday situations: greeting neighbours, thanking the shopkeeper, asking permission to play. Role-play makes learning fun and memorable!",
+  "learnBullets": [
+    "How to **greet** people properly (Good morning, Hello, Hi)",
+    "How to **thank** someone (Thank you, Thanks a lot)",
+    "How to **ask for permission** (May I...? Can I...?)",
+    "How to **introduce** yourself and others",
+    "How to **apologize** (Sorry, Excuse me)",
+    "Choosing the **right words** for different situations"
+  ],
+  "learnItFirst": "**What is Spoken and Written Expression?**\nIt means knowing the right thing to say in different situations. In real life, we speak differently to a teacher vs a friend!\n\n**Common Expressions:**\n\n| Situation | What to Say |\n|-----------|-------------|\n| Meeting someone in the morning | Good morning! |\n| Meeting someone in the evening | Good evening! |\n| Saying goodbye | Goodbye! / Bye! / See you! |\n| Thanking someone | Thank you! / Thanks a lot! |\n| Asking permission | May I...? / Can I...? |\n| Saying sorry | Sorry / I'm sorry / Excuse me |\n| Introducing yourself | Hello, my name is... / I am... |\n| Asking someone's name | What is your name? |\n| Offering help | Can I help you? / May I help you? |\n| Wishing on birthday | Happy Birthday! |\n\n**Formal vs Informal:**\n- **Formal** (to teachers, elders): Good morning, Ma'am. May I come in?\n- **Informal** (to friends): Hi! Can I come in?\n\n### 🧠 How to Choose the Right Expression\n1. **Who** are you talking to? (teacher, friend, parent)\n2. **What** is the situation? (greeting, asking, thanking)\n3. **Be polite** — say please, thank you, sorry\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "What should you say when you meet your teacher in the morning?",
+          "options": {
+            "A": "What's up?",
+            "B": "See you later!",
+            "C": "Bye bye!",
+            "D": "Good morning, Ma'am!"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Polite morning greeting to teacher"
+        },
+        {
+          "num": 2,
+          "content": "Someone gives you a gift. What do you say?",
+          "options": {
+            "A": "I don't want it.",
+            "B": "Thank you so much!",
+            "C": "Okay.",
+            "D": "Give me more!"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Thanking for a gift"
+        },
+        {
+          "num": 3,
+          "content": "You accidentally step on someone's foot. What do you say?",
+          "options": {
+            "A": "Be careful!",
+            "B": "Watch out!",
+            "C": "Move away!",
+            "D": "I'm sorry!"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Apologizing for stepping on someone"
+        },
+        {
+          "num": 4,
+          "content": "You want to borrow a pencil from your friend. What do you say?",
+          "options": {
+            "A": "Pencil now!",
+            "B": "Give me your pencil!",
+            "C": "I want your pencil.",
+            "D": "May I borrow your pencil, please?"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Polite request with \"May I\" and \"please\""
+        },
+        {
+          "num": 5,
+          "content": "It's your friend's birthday. What do you say?",
+          "options": {
+            "A": "Happy Birthday!",
+            "B": "Good morning!",
+            "C": "Thank you!",
+            "D": "Get well soon!"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Birthday wishes"
+        },
+        {
+          "num": 6,
+          "content": "You want to enter the classroom. What do you say to the teacher?",
+          "options": {
+            "A": "I want to come in.",
+            "B": "Open the door!",
+            "C": "May I come in, please?",
+            "D": "I'm coming in."
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Polite permission request"
+        },
+        {
+          "num": 7,
+          "content": "Someone says \"Thank you\" to you. What do you reply?",
+          "options": {
+            "A": "Good.",
+            "B": "You're welcome!",
+            "C": "Okay.",
+            "D": "I know."
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Standard response to \"Thank you\""
+        },
+        {
+          "num": 8,
+          "content": "You meet a new student. How do you introduce yourself?",
+          "options": {
+            "A": "You are new here.",
+            "B": "Who are you?",
+            "C": "Hello, I am Riya. What is your name?",
+            "D": "Tell me your name!"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Polite self-introduction"
+        },
+        {
+          "num": 9,
+          "content": "What do you say when you leave school in the afternoon?",
+          "options": {
+            "A": "Good morning!",
+            "B": "Good night!",
+            "C": "Goodbye! See you tomorrow!",
+            "D": "Hello!"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Polite farewell"
+        },
+        {
+          "num": 10,
+          "content": "Your friend is sad because he lost his toy. What do you say?",
+          "options": {
+            "A": "Don't worry, we'll find it.",
+            "B": "Buy a new one.",
+            "C": "I have my toy.",
+            "D": "Ha ha! That's funny!"
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "Showing sympathy and offering help"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "You are late to class. What is the BEST thing to say?",
+          "options": {
+            "A": "Sorry I'm late, Ma'am. May I come in?",
+            "B": "I'm here now.",
+            "C": "The bus was late, not my fault!",
+            "D": "Traffic was bad!"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Apologizing and asking permission"
+        },
+        {
+          "num": 12,
+          "content": "Your mother made your favourite dish. What do you say?",
+          "options": {
+            "A": "Thank you, Mummy! This is delicious!",
+            "B": "It's okay.",
+            "C": "I want more.",
+            "D": "About time!"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Thanking and complimenting"
+        },
+        {
+          "num": 13,
+          "content": "A visitor comes to your house. What do you say?",
+          "options": {
+            "A": "What do you want?",
+            "B": "Hello! Please come in.",
+            "C": "Why are you here?",
+            "D": "Wait outside."
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Polite welcome"
+        },
+        {
+          "num": 14,
+          "content": "You want to go to the bathroom during class. What do you say?",
+          "options": {
+            "A": "I want to go out.",
+            "B": "Bathroom!",
+            "C": "I need to go NOW!",
+            "D": "Excuse me, Ma'am. May I go to the bathroom?"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Polite permission request"
+        },
+        {
+          "num": 15,
+          "content": "Your grandmother gives you money for your birthday. What do you say?",
+          "options": {
+            "A": "Only this much?",
+            "B": "Give me more.",
+            "C": "I wanted more.",
+            "D": "Thank you so much, Dadi! I love you!"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Warm thank you to grandmother"
+        },
+        {
+          "num": 16,
+          "content": "You bump into someone while running. What do you say?",
+          "options": {
+            "A": "Look where you're going!",
+            "B": "Move out of my way!",
+            "C": "I'm sorry! Are you okay?",
+            "D": "You should be careful!"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Apologizing and showing concern"
+        },
+        {
+          "num": 17,
+          "content": "Your friend invites you to a party. You cannot go. What do you say?",
+          "options": {
+            "A": "Maybe. I'll see.",
+            "B": "Sorry, I can't come. Thank you for inviting me.",
+            "C": "Your parties are boring.",
+            "D": "I don't want to come."
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Declining politely while thanking"
+        },
+        {
+          "num": 18,
+          "content": "You need help carrying heavy books. What do you say?",
+          "options": {
+            "A": "Carry this for me!",
+            "B": "Help me!",
+            "C": "Take these books.",
+            "D": "Could you please help me carry these books?"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Polite request for help"
+        },
+        {
+          "num": 19,
+          "content": "Your friend is not feeling well. What do you say?",
+          "options": {
+            "A": "Get well soon! Take care.",
+            "B": "Don't be sick!",
+            "C": "I don't care.",
+            "D": "You should go home."
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Wishing recovery"
+        },
+        {
+          "num": 20,
+          "content": "You answer the phone at home. What do you say?",
+          "options": {
+            "A": "Hello, who is this?",
+            "B": "Talk!",
+            "C": "What?",
+            "D": "Yeah?"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Polite phone greeting"
+        },
+        {
+          "num": 21,
+          "content": "You want your father to buy you a book. What is the polite way to ask?",
+          "options": {
+            "A": "Papa, may I please have this book?",
+            "B": "Give me money for the book.",
+            "C": "I want that book.",
+            "D": "Buy me a book!"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Polite request with \"may I\" and \"please\""
+        },
+        {
+          "num": 22,
+          "content": "Your teacher explains something and you don't understand. What do you say?",
+          "options": {
+            "A": "Excuse me, Ma'am. Could you please explain again?",
+            "B": "This is confusing!",
+            "C": "I don't get it!",
+            "D": "You're not teaching properly."
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Polite request for clarification"
+        },
+        {
+          "num": 23,
+          "content": "It is 8 PM and you are leaving your friend's house. What do you say?",
+          "options": {
+            "A": "Good morning!",
+            "B": "Good afternoon!",
+            "C": "Good night! See you soon!",
+            "D": "Hi!"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Evening farewell"
+        },
+        {
+          "num": 24,
+          "content": "Your friend shares their lunch with you. What do you say?",
+          "options": {
+            "A": "I was hungry.",
+            "B": "Thank you for sharing! You're so kind.",
+            "C": "This is good.",
+            "D": "Give me more."
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Thanking and appreciating"
+        },
+        {
+          "num": 25,
+          "content": "You meet your friend's mother for the first time. What do you say?",
+          "options": {
+            "A": "What's your name?",
+            "B": "Hi there!",
+            "C": "Hello, Aunty. Nice to meet you.",
+            "D": "Hey!"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "Polite greeting to elder"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 26,
+          "content": "Read the situation and choose the BEST response:\nA shopkeeper gives you extra change by mistake. What do you do?",
+          "options": {
+            "A": "Keep it and say nothing.",
+            "B": "Say \"Thank you!\" and keep it.",
+            "C": "Run away quickly.",
+            "D": "Say \"Excuse me, I think you gave me extra change.\""
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Honest and polite"
+        },
+        {
+          "num": 27,
+          "content": "Your friend asks: \"Can you come to play?\" But you have homework. What is the BEST reply?",
+          "options": {
+            "A": "Go away.",
+            "B": "I can't. I have homework. Maybe later?",
+            "C": "I don't want to play with you.",
+            "D": "No!"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Declining politely with explanation"
+        },
+        {
+          "num": 28,
+          "content": "Put these in order for a polite request:\n1. May I\n2. please\n3. borrow your eraser",
+          "options": {
+            "A": "1, 2, 3",
+            "B": "1, 3, 2",
+            "C": "3, 1, 2",
+            "D": "2, 1, 3"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "\"May I borrow your eraser please?\""
+        },
+        {
+          "num": 29,
+          "content": "Which response shows BOTH apologizing AND being helpful?\nA student drops their books.",
+          "options": {
+            "A": "That was loud!",
+            "B": "Oh no! Let me help you.",
+            "C": "Pick them up yourself.",
+            "D": "Oops!"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Showing concern and offering help"
+        },
+        {
+          "num": 30,
+          "content": "Read the dialogue and choose what is MISSING:\nTeacher: \"Good morning, class!\"\nStudents: \"_______________\"\nTeacher: \"Please take out your books.\"",
+          "options": {
+            "A": "Hi teacher!",
+            "B": "Okay.",
+            "C": "Good morning, Ma'am!",
+            "D": "Hello!"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "Polite response to teacher's greeting"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}

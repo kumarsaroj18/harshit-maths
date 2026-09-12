@@ -1,0 +1,427 @@
+{
+  "id": "05",
+  "slug": "unit-05-air-water-and-weather",
+  "num": 5,
+  "title": "Air, Water and Weather",
+  "emoji": "🌤️",
+  "parentNote": "This unit covers properties of air and water, sources of water, weather, and seasons. Discuss the weather daily with your child!",
+  "learnBullets": [
+    "Know the **properties of air** and why we need it",
+    "Understand **sources and uses of water**",
+    "Learn about **different types of weather**",
+    "Know the **four seasons** and their features",
+    "Understand the **water cycle** basics"
+  ],
+  "learnItFirst": "**1. Air**\n\n**What is air?**\n- Air is all around us, but we cannot see it\n- Air has no color, no smell, no taste\n- Air fills up space and has weight\n- Moving air is called **wind**\n\n**Why do we need air?**\n- All living things need air to **breathe**\n- Plants need air (carbon dioxide) to make food\n- Fire needs air to burn\n- Air helps birds fly and kites soar\n\n---\n\n**2. Water**\n\n**Sources of Water:**\n- **Rain** — falls from clouds\n- **Rivers** — flowing water\n- **Lakes and Ponds** — still water\n- **Wells and Tube wells** — underground water\n- **Sea/Ocean** — salty water (not for drinking)\n\n**Uses of Water:**\n- Drinking, cooking, bathing\n- Washing clothes and dishes\n- Watering plants\n- For animals to drink\n- Generating electricity\n\n**States of Water:**\n- **Solid** — Ice (when water is frozen)\n- **Liquid** — Water (normal form)\n- **Gas** — Steam/Water vapor (when water is heated)\n\n---\n\n**3. Weather**\n\nWeather tells us if the day is:\n- ☀️ **Sunny** — bright, hot\n- 🌧️ **Rainy** — wet, cloudy\n- ☁️ **Cloudy** — sky covered with clouds\n- 💨 **Windy** — lots of moving air\n- ❄️ **Cold/Snowy** — very cold, may have snow\n\n---\n\n**4. Seasons**\n\n| Season | Months (India) | Weather |\n|--------|----------------|--------|\n| **Summer** | March – June | Very hot, drink lots of water |\n| **Rainy (Monsoon)** | July – September | Rain, umbrellas needed |\n| **Autumn** | October – November | Cool, leaves fall |\n| **Winter** | December – February | Cold, wear warm clothes |\n| **Spring** | February – March | Flowers bloom, pleasant |\n\n---\n\n**5. Water Cycle (Simple)**\n\n1. Sun heats water in rivers, lakes, oceans\n2. Water turns into **water vapor** (evaporation)\n3. Vapor goes up and forms **clouds**\n4. Clouds become heavy and water falls as **rain**\n5. Rain water goes back to rivers and oceans\n\nThis goes on again and again — it's called the **water cycle**!\n\n---",
+  "sections": [
+    {
+      "name": "Warm Up",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 1,
+          "content": "Air is ___.",
+          "options": {
+            "A": "Made of water",
+            "B": "Invisible (we cannot see it)",
+            "C": "Blue in color",
+            "D": "Visible (we can see it)"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Air is invisible — we cannot see it, but it is all around us"
+        },
+        {
+          "num": 2,
+          "content": "All living things need ___ to breathe.",
+          "options": {
+            "A": "Food only",
+            "B": "Water only",
+            "C": "Air",
+            "D": "Toys"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "All living things need air (oxygen) to breathe and stay alive"
+        },
+        {
+          "num": 3,
+          "content": "Moving air is called ___.",
+          "options": {
+            "A": "Cloud",
+            "B": "Water",
+            "C": "Rain",
+            "D": "Wind"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "When air moves, it is called wind"
+        },
+        {
+          "num": 4,
+          "content": "Which of these is a source of water?",
+          "options": {
+            "A": "River",
+            "B": "House",
+            "C": "Road",
+            "D": "Tree"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Rivers are a natural source of water"
+        },
+        {
+          "num": 5,
+          "content": "Rain comes from ___.",
+          "options": {
+            "A": "Sun",
+            "B": "Clouds",
+            "C": "Mountains",
+            "D": "Trees"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Rain falls from clouds when they become heavy with water"
+        },
+        {
+          "num": 6,
+          "content": "Which season is very hot?",
+          "options": {
+            "A": "Winter",
+            "B": "Rainy",
+            "C": "Summer",
+            "D": "Autumn"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Summer is the hottest season — we feel very hot and sweat a lot"
+        },
+        {
+          "num": 7,
+          "content": "In which season do we wear warm clothes?",
+          "options": {
+            "A": "Spring",
+            "B": "Summer",
+            "C": "Rainy",
+            "D": "Winter"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Winter is cold, so we wear sweaters, jackets, and warm clothes"
+        },
+        {
+          "num": 8,
+          "content": "We use water for ___.",
+          "options": {
+            "A": "Bathing",
+            "B": "Drinking",
+            "C": "Cooking",
+            "D": "All of the above"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "We use water for drinking, bathing, cooking, and many other things"
+        },
+        {
+          "num": 9,
+          "content": "When water freezes, it becomes ___.",
+          "options": {
+            "A": "Rain",
+            "B": "Ice",
+            "C": "Steam",
+            "D": "Cloud"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "When water becomes very cold, it freezes and turns into ice"
+        },
+        {
+          "num": 10,
+          "content": "A sunny day has lots of ___.",
+          "options": {
+            "A": "Snow",
+            "B": "Rain",
+            "C": "Sunlight",
+            "D": "Clouds"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "On a sunny day, the sun shines brightly and there is lots of sunlight"
+        }
+      ]
+    },
+    {
+      "name": "Olympiad Practice",
+      "leadingContext": "",
+      "questions": [
+        {
+          "num": 11,
+          "content": "When water is heated, it turns into ___.",
+          "options": {
+            "A": "Milk",
+            "B": "Ice",
+            "C": "Oil",
+            "D": "Steam (water vapor)"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "When water is heated, it becomes steam or water vapor"
+        },
+        {
+          "num": 12,
+          "content": "Which of these is NOT a property of air?",
+          "options": {
+            "A": "Air is invisible",
+            "B": "Air takes up space",
+            "C": "Air has no smell",
+            "D": "Air is blue"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "Air is colorless — it is NOT blue. We see blue sky because of how light scatters"
+        },
+        {
+          "num": 13,
+          "content": "Which of these needs air to work?",
+          "options": {
+            "A": "A burning candle",
+            "B": "A stone",
+            "C": "A pencil",
+            "D": "A book"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Fire needs air (oxygen) to burn. Without air, the candle will go out"
+        },
+        {
+          "num": 14,
+          "content": "Sea water is ___.",
+          "options": {
+            "A": "Sweet",
+            "B": "Salty",
+            "C": "Tasteless",
+            "D": "Sour"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Sea water is salty and not good for drinking"
+        },
+        {
+          "num": 15,
+          "content": "In which season do we carry umbrellas?",
+          "options": {
+            "A": "Spring",
+            "B": "Winter",
+            "C": "Summer",
+            "D": "Rainy"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "In the rainy season, it rains a lot, so we carry umbrellas to stay dry"
+        },
+        {
+          "num": 16,
+          "content": "Underground water is found in ___.",
+          "options": {
+            "A": "Clouds",
+            "B": "Mountains",
+            "C": "Rivers",
+            "D": "Wells and tube wells"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "We get underground water from wells and tube wells"
+        },
+        {
+          "num": 17,
+          "content": "In spring season, we see ___.",
+          "options": {
+            "A": "Flowers blooming",
+            "B": "Snow everywhere",
+            "C": "Heavy rain",
+            "D": "Very hot weather"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Spring is when flowers bloom and the weather is pleasant"
+        },
+        {
+          "num": 18,
+          "content": "Clouds are made of ___.",
+          "options": {
+            "A": "Tiny water droplets",
+            "B": "Smoke",
+            "C": "Dust",
+            "D": "Cotton"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Clouds are made of tiny water droplets floating in the sky"
+        },
+        {
+          "num": 19,
+          "content": "What happens to leaves in autumn?",
+          "options": {
+            "A": "They turn green",
+            "B": "They fall from trees",
+            "C": "They grow bigger",
+            "D": "They turn into flowers"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "In autumn, leaves change color and fall from many trees"
+        },
+        {
+          "num": 20,
+          "content": "We should save water because ___.",
+          "options": {
+            "A": "Water is expensive",
+            "B": "Clean water is limited and precious",
+            "C": "Water is not useful",
+            "D": "Water is unlimited"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Clean drinking water is limited. We should not waste it"
+        },
+        {
+          "num": 21,
+          "content": "Which of these helps a kite fly?",
+          "options": {
+            "A": "Sunlight",
+            "B": "Wind",
+            "C": "Water",
+            "D": "Rain"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Wind (moving air) helps kites fly up in the sky"
+        },
+        {
+          "num": 22,
+          "content": "Ice, water, and steam are all forms of ___.",
+          "options": {
+            "A": "Air",
+            "B": "Soil",
+            "C": "Water",
+            "D": "Fire"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "Ice (solid), water (liquid), and steam (gas) are all forms of water"
+        },
+        {
+          "num": 23,
+          "content": "On a rainy day, the sky is usually ___.",
+          "options": {
+            "A": "Starry",
+            "B": "Clear and blue",
+            "C": "Full of clouds",
+            "D": "Very hot"
+          },
+          "trailingContext": "",
+          "correct": "C",
+          "why": "On a rainy day, clouds cover the sky and it may be dark"
+        },
+        {
+          "num": 24,
+          "content": "Why do we feel cool when wind blows?",
+          "options": {
+            "A": "Wind takes away heat from our body",
+            "B": "Wind brings water",
+            "C": "Wind has ice in it",
+            "D": "Wind is always cold"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "Moving air (wind) takes away heat from our body and makes us feel cool"
+        },
+        {
+          "num": 25,
+          "content": "Which of these is true about air?",
+          "options": {
+            "A": "Air has weight",
+            "B": "Air is only indoors",
+            "C": "Air is heavy like a rock",
+            "D": "Air cannot be felt"
+          },
+          "trailingContext": "---",
+          "correct": "A",
+          "why": "Air has weight — it is light but not weightless"
+        }
+      ]
+    },
+    {
+      "name": "Achiever's Corner",
+      "leadingContext": "These questions are a bit tricky. Think carefully!",
+      "questions": [
+        {
+          "num": 26,
+          "content": "Riya put a glass upside down in water. The water did not fill the glass completely. Why?",
+          "options": {
+            "A": "Water was too heavy",
+            "B": "Air inside the glass took up space",
+            "C": "The glass was too small",
+            "D": "The glass had a hole"
+          },
+          "trailingContext": "",
+          "correct": "B",
+          "why": "Air inside the glass takes up space and doesn't let water enter completely"
+        },
+        {
+          "num": 27,
+          "content": "Wet clothes dry faster on a sunny and windy day because ___.",
+          "options": {
+            "A": "Sunlight makes clothes colorful",
+            "B": "Clothes like sunny days",
+            "C": "Wind makes the clothes bigger",
+            "D": "Sun heats the water and wind carries the vapor away"
+          },
+          "trailingContext": "",
+          "correct": "D",
+          "why": "The sun heats the water in clothes (evaporation) and wind carries the water vapor away quickly"
+        },
+        {
+          "num": 28,
+          "content": "In the water cycle, water goes from the ocean to the sky and back to the ground. What makes the water go up?",
+          "options": {
+            "A": "The sun heats it and it evaporates",
+            "B": "Fish throw it up",
+            "C": "Clouds pull it up",
+            "D": "Wind pushes it up"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "The sun heats water, turning it into vapor that rises up to form clouds"
+        },
+        {
+          "num": 29,
+          "content": "If there were no air on Earth, which of these would happen?",
+          "options": {
+            "A": "Living things would not survive",
+            "B": "Plants would grow faster",
+            "C": "We would become stronger",
+            "D": "We would fly easily"
+          },
+          "trailingContext": "",
+          "correct": "A",
+          "why": "All living things need air to breathe. Without air, nothing can survive"
+        },
+        {
+          "num": 30,
+          "content": "Aman lives in a place where it is cold most of the year and sometimes snow falls. He most likely lives in the ___.",
+          "options": {
+            "A": "Desert",
+            "B": "Forest",
+            "C": "Mountains/Hills",
+            "D": "Beach"
+          },
+          "trailingContext": "---",
+          "correct": "C",
+          "why": "Mountains and hilly areas are cold, and it often snows there in winter"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30
+}
