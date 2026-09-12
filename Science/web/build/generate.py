@@ -228,8 +228,13 @@ def unit_page_html(unit_info):
 </head>
 <body>
   <div class="topbar">
-    <a class="back" href="index.html">← Units</a>
-    <span class="title" id="topbar-title">{unit_info['emoji']} {unit_info['title']}</span>
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a class="crumb-link" href="../index.html">🏠 Home</a>
+      <span class="crumb-sep">›</span>
+      <a class="crumb-link" href="index.html">🔬 Science</a>
+      <span class="crumb-sep">›</span>
+      <span class="crumb-current" id="topbar-title">{unit_info['emoji']} {unit_info['title']}</span>
+    </nav>
   </div>
   <div class="wrap">
     <div class="callout" id="parent-note"></div>
@@ -275,7 +280,11 @@ def index_html(manifest):
 </head>
 <body>
   <div class="topbar">
-    <span class="title">🔬 NSO Science Practice</span>
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a class="crumb-link" href="../index.html">🏠 Home</a>
+      <span class="crumb-sep">›</span>
+      <span class="crumb-current">🔬 Science</span>
+    </nav>
   </div>
   <div class="wrap">
     <div class="hero">

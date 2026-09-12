@@ -24,6 +24,7 @@ body {
   font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
   font-size: 17px;
   line-height: 1.55;
+  padding-top: 52px;
   padding-bottom: 60px;
 }
 
@@ -39,32 +40,44 @@ a { color: var(--accent); }
   padding: 0 16px;
 }
 
-/* ---------- Top bar ---------- */
+/* ---------- Top bar (fixed breadcrumb nav) ---------- */
 .topbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 52px;
   background: var(--accent);
   color: #fff;
-  padding: 14px 16px;
+  padding: 0 16px;
   display: flex;
   align-items: center;
-  gap: 10px;
   box-shadow: var(--shadow);
+  z-index: 100;
+  overflow-x: auto;
 }
-.topbar a.back {
-  color: #fff;
-  text-decoration: none;
-  font-weight: 700;
-  font-size: 15px;
-  background: rgba(255,255,255,0.18);
-  padding: 6px 12px;
-  border-radius: 999px;
+.breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: 6px;
   white-space: nowrap;
-}
-.topbar .title {
   font-family: "Baloo 2", system-ui, sans-serif;
   font-weight: 700;
-  font-size: 19px;
-  overflow: hidden;
-  text-overflow: ellipsis;
+  font-size: 15px;
+}
+.breadcrumb .crumb-link {
+  color: #fff;
+  text-decoration: none;
+  opacity: 0.85;
+  white-space: nowrap;
+}
+.breadcrumb .crumb-link:active { opacity: 1; }
+.breadcrumb .crumb-sep {
+  opacity: 0.55;
+  font-weight: 400;
+}
+.breadcrumb .crumb-current {
+  opacity: 1;
   white-space: nowrap;
 }
 
@@ -210,7 +223,7 @@ a { color: var(--accent); }
   font-weight: 700;
   font-size: 14px;
   position: sticky;
-  top: 8px;
+  top: 60px;
   z-index: 5;
 }
 .score-banner .stars { font-size: 16px; }
