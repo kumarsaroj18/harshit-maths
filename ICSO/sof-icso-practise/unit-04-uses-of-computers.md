@@ -44,157 +44,157 @@ Computers help people in almost every place:
 
 **Q1.** Doctors use computers in a hospital to:
 (A) Store patient records
-(B) Cook food
+(B) Drive cars
 (C) Water plants
-(D) Drive cars
+(D) Cook food
 
 **Q2.** Teachers use computers in school to:
-(A) Show lessons and store marks
-(B) Clean the floor
-(C) Cook lunch
-(D) Play cricket
+(A) Clean the floor
+(B) Play cricket
+(C) Show lessons and store marks
+(D) Cook lunch
 
 **Q3.** Which place would you find computers helping to keep track of money?
-(A) Bank
-(B) Garden
-(C) Playground
+(A) Playground
+(B) Bank
+(C) Garden
 (D) Zoo
 
 **Q4.** Computers help shopkeepers at a supermarket to:
 (A) Bill and calculate the cost of items
-(B) Grow vegetables
-(C) Sing songs
-(D) Sleep
+(B) Sleep
+(C) Grow vegetables
+(D) Sing songs
 
 **Q5.** At an airport, computers help to:
-(A) Book flight tickets and track flights
+(A) Paint walls
 (B) Cook food for animals
 (C) Water the grass
-(D) Paint walls
+(D) Book flight tickets and track flights
 
 **Q6.** At home, a computer can help us to:
-(A) Do homework, play games, and watch videos
+(A) Only cook
 (B) Only sleep
-(C) Only cook
+(C) Do homework, play games, and watch videos
 (D) Only clean
 
 **Q7.** Which of these people would use a computer for their WORK?
-(A) A person typing a letter in an office
-(B) A fish swimming in the sea
-(C) A bird flying in the sky
+(A) A bird flying in the sky
+(B) A person typing a letter in an office
+(C) A fish swimming in the sea
 (D) A cloud in the sky
 
 **Q8.** Computers help doctors to:
-(A) Store and check patient information
-(B) Grow trees
-(C) Make furniture
-(D) Clean windows
+(A) Clean windows
+(B) Store and check patient information
+(C) Grow trees
+(D) Make furniture
 
 **Q9.** Which is a good reason to use a computer?
-(A) It can help us finish work faster
-(B) It can grow food for us
+(A) It can grow food for us
+(B) It never needs power
 (C) It can talk without instructions
-(D) It never needs power
+(D) It can help us finish work faster
 
 **Q10.** Where might you see a computer being used to print train or bus tickets?
 (A) Railway or bus station
-(B) Zoo
-(C) Park
-(D) Beach
+(B) Beach
+(C) Zoo
+(D) Park
 
 ---
 
 ## Section B — Olympiad Practice (Q11–Q25) 🏅
 
 **Q11.** Which of these is a GOOD use of a computer at school?
-(A) Learning through educational games and videos
-(B) Throwing it on the floor
-(C) Eating lunch on the keyboard
+(A) Eating lunch on the keyboard
+(B) Learning through educational games and videos
+(C) Throwing it on the floor
 (D) Using it as a chair
 
 **Q12.** Banks use computers to:
-(A) Keep track of people's money safely
-(B) Cook food
-(C) Wash clothes
-(D) Grow crops
+(A) Grow crops
+(B) Wash clothes
+(C) Cook food
+(D) Keep track of people's money safely
 
 **Q13.** Which of these uses a computer to help control traffic lights and manage roads in a smart city?
-(A) A traffic computer system
-(B) A tree
-(C) A cup
-(D) A shoe
+(A) A tree
+(B) A cup
+(C) A shoe
+(D) A traffic computer system
 
 **Q14.** Computers can help us TALK to people far away using video calls. This is an example of using a computer for:
-(A) Communication
-(B) Cooking
-(C) Farming
-(D) Sleeping
+(A) Farming
+(B) Sleeping
+(C) Communication
+(D) Cooking
 
 **Q15.** Which of these is an example of using a computer for ENTERTAINMENT?
-(A) Watching a cartoon or playing a game
-(B) Filling petrol in a car
-(C) Watering a plant
-(D) Washing dishes
+(A) Watering a plant
+(B) Washing dishes
+(C) Watching a cartoon or playing a game
+(D) Filling petrol in a car
 
 **Q16.** A weather scientist uses a computer to:
-(A) Study and predict the weather
-(B) Bake a cake
+(A) Bake a cake
+(B) Study and predict the weather
 (C) Play football
 (D) Paint a fence
 
 **Q17.** Which of these places would LEAST likely use a computer for its main work?
 (A) A computer lab
-(B) A deep forest with no people
-(C) An office
-(D) A school
+(B) A school
+(C) A deep forest with no people
+(D) An office
 
 **Q18.** Computers help store owners keep a list of items they have. This is called keeping ___ of stock.
-(A) Track
+(A) Games
 (B) Music
 (C) Food
-(D) Games
+(D) Track
 
 **Q19.** Which of these is an example of using a computer to LEARN?
-(A) Watching an educational video about animals
-(B) Sleeping all day
-(C) Eating breakfast
-(D) Watching clouds
+(A) Sleeping all day
+(B) Eating breakfast
+(C) Watching clouds
+(D) Watching an educational video about animals
 
 **Q20.** Pilots and airport staff use computers to:
 (A) Track flights and manage bookings
-(B) Grow crops
-(C) Cook meals only
-(D) Paint the airplane
+(B) Cook meals only
+(C) Paint the airplane
+(D) Grow crops
 
 **Q21.** Which of these tasks would take a LOT longer WITHOUT a computer?
 (A) Adding up thousands of numbers by hand
 (B) Drinking water
-(C) Taking a walk
-(D) Petting a dog
+(C) Petting a dog
+(D) Taking a walk
 
 **Q22.** A librarian may use a computer to:
-(A) Keep track of which books are borrowed
-(B) Grow flowers
-(C) Cook food
+(A) Grow flowers
+(B) Cook food
+(C) Keep track of which books are borrowed
 (D) Paint pictures on walls
 
 **Q23.** Computers in a hospital can help doctors:
-(A) Look up a patient's past health records quickly
+(A) Play music at a party
 (B) Bake bread
-(C) Play music at a party
-(D) Clean the floor
+(C) Clean the floor
+(D) Look up a patient's past health records quickly
 
 **Q24.** Which is an example of a computer helping with COMMUNICATION?
-(A) Sending an email or message
-(B) Watering a garden
-(C) Cutting vegetables
-(D) Sweeping the floor
+(A) Watering a garden
+(B) Sending an email or message
+(C) Sweeping the floor
+(D) Cutting vegetables
 
 **Q25.** Which of these would a shopkeeper NOT use a computer for?
-(A) Billing customers
-(B) Checking stock
-(C) Growing vegetables on a farm far away
-(D) Keeping records of sales
+(A) Keeping records of sales
+(B) Growing vegetables on a farm far away
+(C) Checking stock
+(D) Billing customers
 
 ---
 
@@ -209,26 +209,26 @@ Computers help people in almost every place:
 **Q27.** Reema says computers are only useful for playing games. Is she right?
 (A) Yes, that is the only use
 (B) No — computers are also used for learning, work, communication, and more
-(C) Only on weekends
-(D) Only for kids
+(C) Only for kids
+(D) Only on weekends
 
 **Q28.** Which of these shows a computer being used for BOTH learning AND entertainment at the same time?
 (A) An educational game that teaches while being fun to play
-(B) A plain calculator
+(B) A speaker with no computer attached
 (C) A printer
-(D) A speaker with no computer attached
+(D) A plain calculator
 
 **Q29.** A farmer uses a computer app to check the weather before planting seeds. Which use of a computer does this show?
-(A) Helping people make better decisions with information
+(A) Driving the tractor by itself
 (B) Cooking food
-(C) Cutting the crops by itself
-(D) Driving the tractor by itself
+(C) Helping people make better decisions with information
+(D) Cutting the crops by itself
 
 **Q30.** Which statement is TRUE about computers and different jobs?
-(A) Only scientists can use computers
-(B) Many different people — doctors, teachers, shopkeepers, pilots — can use computers to help with their work
-(C) Computers are only used in offices
-(D) Computers cannot help with any real job
+(A) Many different people — doctors, teachers, shopkeepers, pilots — can use computers to help with their work
+(B) Only scientists can use computers
+(C) Computers cannot help with any real job
+(D) Computers are only used in offices
 
 ---
 
@@ -237,35 +237,35 @@ Computers help people in almost every place:
 | Q | Answer | Why |
 |---|:---:|---|
 | 1 | (A) Store patient records | Hospitals use computers to keep patient information safe |
-| 2 | (A) Show lessons and store marks | Teachers use computers for teaching and record-keeping |
-| 3 | (A) Bank | Banks use computers to track people's money |
+| 2 | (C) Show lessons and store marks | Teachers use computers for teaching and record-keeping |
+| 3 | (B) Bank | Banks use computers to track people's money |
 | 4 | (A) Bill and calculate the cost of items | Shopkeepers use computers to calculate bills |
-| 5 | (A) Book flight tickets and track flights | Airports use computers for bookings and flight tracking |
-| 6 | (A) Do homework, play games, and watch videos | These are all common home uses of a computer |
-| 7 | (A) A person typing a letter in an office | This is real work a computer helps with |
-| 8 | (A) Store and check patient information | Doctors use computers to manage patient details |
-| 9 | (A) It can help us finish work faster | Speed and accuracy are key benefits of using a computer |
+| 5 | (D) Book flight tickets and track flights | Airports use computers for bookings and flight tracking |
+| 6 | (C) Do homework, play games, and watch videos | These are all common home uses of a computer |
+| 7 | (B) A person typing a letter in an office | This is real work a computer helps with |
+| 8 | (B) Store and check patient information | Doctors use computers to manage patient details |
+| 9 | (D) It can help us finish work faster | Speed and accuracy are key benefits of using a computer |
 | 10 | (A) Railway or bus station | Ticket printing computers are found at stations |
-| 11 | (A) Learning through educational games and videos | This is a proper, helpful use of a school computer |
-| 12 | (A) Keep track of people's money safely | This is the main job of computers in banks |
-| 13 | (A) A traffic computer system | Smart traffic lights are controlled by computer systems |
-| 14 | (A) Communication | Talking to people far away is communication |
-| 15 | (A) Watching a cartoon or playing a game | This is entertainment |
-| 16 | (A) Study and predict the weather | Weather scientists use computers to study weather patterns |
-| 17 | (B) A deep forest with no people | There is no work happening there that needs a computer |
-| 18 | (A) Track | Shopkeepers keep "track" of their stock using computers |
-| 19 | (A) Watching an educational video about animals | This is using a computer to learn |
+| 11 | (B) Learning through educational games and videos | This is a proper, helpful use of a school computer |
+| 12 | (D) Keep track of people's money safely | This is the main job of computers in banks |
+| 13 | (D) A traffic computer system | Smart traffic lights are controlled by computer systems |
+| 14 | (C) Communication | Talking to people far away is communication |
+| 15 | (C) Watching a cartoon or playing a game | This is entertainment |
+| 16 | (B) Study and predict the weather | Weather scientists use computers to study weather patterns |
+| 17 | (C) A deep forest with no people | There is no work happening there that needs a computer |
+| 18 | (D) Track | Shopkeepers keep "track" of their stock using computers |
+| 19 | (D) Watching an educational video about animals | This is using a computer to learn |
 | 20 | (A) Track flights and manage bookings | This is the main computer-related work at an airport |
 | 21 | (A) Adding up thousands of numbers by hand | A computer can do this instantly, much faster than a person |
-| 22 | (A) Keep track of which books are borrowed | Librarians use computers to manage book records |
-| 23 | (A) Look up a patient's past health records quickly | Computers store and retrieve medical history |
-| 24 | (A) Sending an email or message | This is communication using a computer |
-| 25 | (C) Growing vegetables on a farm far away | A computer cannot physically grow vegetables |
+| 22 | (C) Keep track of which books are borrowed | Librarians use computers to manage book records |
+| 23 | (D) Look up a patient's past health records quickly | Computers store and retrieve medical history |
+| 24 | (B) Sending an email or message | This is communication using a computer |
+| 25 | (B) Growing vegetables on a farm far away | A computer cannot physically grow vegetables |
 | 26 | (A) They help store information and do work faster and more accurately | This is the common benefit across all these places |
 | 27 | (B) No — computers are also used for learning, work, communication, and more | Computers have many uses beyond games |
 | 28 | (A) An educational game that teaches while being fun to play | This combines learning and entertainment |
-| 29 | (A) Helping people make better decisions with information | The weather app gives useful information to help decide when to plant |
-| 30 | (B) Many different people — doctors, teachers, shopkeepers, pilots — can use computers to help with their work | Computers help with all kinds of jobs, not just one |
+| 29 | (C) Helping people make better decisions with information | The weather app gives useful information to help decide when to plant |
+| 30 | (A) Many different people — doctors, teachers, shopkeepers, pilots — can use computers to help with their work | Computers help with all kinds of jobs, not just one |
 
 ---
 

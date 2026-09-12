@@ -45,157 +45,157 @@
 ## Section A — Warm Up (Q1–Q10) 🌱
 
 **Q1.** Which key do we press to leave a SPACE between two words?
-(A) Enter
-(B) Space bar
+(A) Space bar
+(B) Enter
 (C) Shift
 (D) Backspace
 
 **Q2.** Which part of the mouse do we press to select something?
 (A) Click button
-(B) Wheel only
+(B) Battery
 (C) Wire
-(D) Battery
+(D) Wheel only
 
 **Q3.** Moving the mouse moves the ___ on the screen.
-(A) Pointer/cursor
-(B) Speaker
+(A) Keyboard
+(B) Pointer/cursor
 (C) Printer
-(D) Keyboard
+(D) Speaker
 
 **Q4.** Which key do we press to move to a NEW LINE while typing?
-(A) Enter key
+(A) Caps Lock
 (B) Space bar
-(C) Shift key
-(D) Caps Lock
+(C) Enter key
+(D) Shift key
 
 **Q5.** The keyboard has keys for letters, numbers, and:
-(A) Special keys like Enter and Space bar
-(B) Food
-(C) Pictures only
-(D) Water
+(A) Pictures only
+(B) Special keys like Enter and Space bar
+(C) Water
+(D) Food
 
 **Q6.** To erase the letter you just typed, which key do you press?
-(A) Backspace
-(B) Enter
-(C) Space bar
-(D) Shift
+(A) Enter
+(B) Shift
+(C) Backspace
+(D) Space bar
 
 **Q7.** Clicking the mouse button TWICE quickly is called a:
-(A) Single click
-(B) Double-click
+(A) Double-click
+(B) No click
 (C) Triple click
-(D) No click
+(D) Single click
 
 **Q8.** Which of these is used to type letters and numbers?
-(A) Mouse
-(B) Keyboard
-(C) Speaker
+(A) Keyboard
+(B) Speaker
+(C) Mouse
 (D) Monitor
 
 **Q9.** The Caps Lock key helps us type letters in:
-(A) ALL CAPITAL letters
-(B) Only numbers
-(C) Only symbols
-(D) Only small letters
+(A) Only symbols
+(B) Only small letters
+(C) ALL CAPITAL letters
+(D) Only numbers
 
 **Q10.** Which key is usually the LONGEST key on the keyboard?
-(A) Enter
-(B) Space bar
-(C) Shift
-(D) Caps Lock
+(A) Caps Lock
+(B) Shift
+(C) Enter
+(D) Space bar
 
 ---
 
 ## Section B — Olympiad Practice (Q11–Q25) 🏅
 
 **Q11.** Pressing the Shift key while typing a letter gives us a:
-(A) Small (lowercase) letter
+(A) Space
 (B) Capital (uppercase) letter
-(C) Number only
-(D) Space
+(C) Small (lowercase) letter
+(D) Number only
 
 **Q12.** The 4 keys used to move the cursor up, down, left, and right are called the:
-(A) Arrow keys
+(A) Space keys
 (B) Number keys
 (C) Shift keys
-(D) Space keys
+(D) Arrow keys
 
 **Q13.** Which mouse action opens a file or program by clicking twice quickly?
-(A) Single click
-(B) Double-click
-(C) Scrolling
+(A) Double-click
+(B) Scrolling
+(C) Single click
 (D) Dragging
 
 **Q14.** Which part of the mouse helps us scroll up and down a page?
-(A) Scroll wheel
-(B) Left button
-(C) Wire
-(D) Bottom sensor
+(A) Wire
+(B) Bottom sensor
+(C) Left button
+(D) Scroll wheel
 
 **Q15.** Clicking, holding, and moving the mouse to shift a picture on the screen is called:
-(A) Dragging
-(B) Typing
-(C) Printing
+(A) Typing
+(B) Printing
+(C) Dragging
 (D) Deleting
 
 **Q16.** Right-clicking the mouse usually:
-(A) Opens a menu with more options
-(B) Turns off the computer
-(C) Prints a page
+(A) Prints a page
+(B) Opens a menu with more options
+(C) Turns off the computer
 (D) Plays music
 
 **Q17.** Which key erases the letter that comes BEFORE the cursor when typing?
 (A) Backspace
-(B) Enter
+(B) Caps Lock
 (C) Shift
-(D) Caps Lock
+(D) Enter
 
 **Q18.** On a keyboard, the top row of letter keys usually starts with the letters:
 (A) Q, W, E, R, T, Y
-(B) A, B, C, D, E, F
-(C) Z, Y, X, W, V
-(D) M, N, O, P
+(B) M, N, O, P
+(C) A, B, C, D, E, F
+(D) Z, Y, X, W, V
 
 **Q19.** Which of these do you use to click and select an item on the screen?
-(A) Keyboard
-(B) Mouse
-(C) Printer
-(D) Speaker
+(A) Mouse
+(B) Speaker
+(C) Keyboard
+(D) Printer
 
 **Q20.** Which key confirms what you typed and moves to the next line?
-(A) Enter key
-(B) Backspace
-(C) Space bar
-(D) Shift
+(A) Backspace
+(B) Shift
+(C) Enter key
+(D) Space bar
 
 **Q21.** If Caps Lock is turned ON and you press the letter "a" key, what happens?
-(A) It types a small "a"
-(B) It types a capital "A"
-(C) Nothing happens
+(A) Nothing happens
+(B) It types a small "a"
+(C) It types a capital "A"
 (D) It deletes a letter
 
 **Q22.** Which of these is TRUE about a mouse?
-(A) It has no buttons at all
+(A) It is used only for printing
 (B) It helps us point, click, and select things on the screen
-(C) It is used only for printing
-(D) It types letters
+(C) It types letters
+(D) It has no buttons at all
 
 **Q23.** To type the number "5", which type of key would you press?
-(A) A number key
-(B) An arrow key
-(C) The Enter key
-(D) The Shift key alone
+(A) The Enter key
+(B) The Shift key alone
+(C) An arrow key
+(D) A number key
 
 **Q24.** Clicking and dragging the mouse to select many letters or words at once is called:
-(A) Dragging
-(B) Deleting
-(C) Printing
-(D) Shutting down
+(A) Deleting
+(B) Dragging
+(C) Shutting down
+(D) Printing
 
 **Q25.** Which of these is NOT something you do with a mouse?
 (A) Clicking
-(B) Scrolling
-(C) Typing letters
+(B) Typing letters
+(C) Scrolling
 (D) Dragging
 
 ---
@@ -203,33 +203,33 @@
 ## Section C — Achiever's Corner (Q26–Q30) ⭐ *Tricky!*
 
 **Q26.** Priya wants to type "Hi" with a capital "H" and small "i". Which key should she hold while typing "H"?
-(A) Shift key
-(B) Space bar
-(C) Enter key
-(D) Backspace key
+(A) Backspace key
+(B) Enter key
+(C) Space bar
+(D) Shift key
 
 **Q27.** Which of these correctly matches a keyboard key to its use?
-(A) Enter — moves to a new line
-(B) Space bar — deletes a letter
+(A) Space bar — deletes a letter
+(B) Backspace — leaves a space
 (C) Shift — moves the cursor
-(D) Backspace — leaves a space
+(D) Enter — moves to a new line
 
 **Q28.** Sam typed "helllo" by mistake (with an extra "l"). Which key should he use to fix it?
-(A) Backspace, to delete the extra letter
-(B) Enter
-(C) Space bar
-(D) Shift
+(A) Shift
+(B) Space bar
+(C) Enter
+(D) Backspace, to delete the extra letter
 
 **Q29.** Meena wants to open a game icon on the screen using the mouse. What should she do?
-(A) Double-click on the icon
-(B) Unplug the mouse
-(C) Shake the mouse
+(A) Unplug the mouse
+(B) Shake the mouse
+(C) Double-click on the icon
 (D) Press the Space bar
 
 **Q30.** Which of these correctly matches a mouse action to what it does?
-(A) Right-click — opens a menu with more options
-(B) Left-click alone — always deletes a file
-(C) Scrolling — types letters
+(A) Scrolling — types letters
+(B) Right-click — opens a menu with more options
+(C) Left-click alone — always deletes a file
 (D) Dragging — turns off the computer
 
 ---
@@ -238,36 +238,36 @@
 
 | Q | Answer | Why |
 |---|:---:|---|
-| 1 | (B) Space bar | The Space bar leaves a space between words |
+| 1 | (A) Space bar | The Space bar leaves a space between words |
 | 2 | (A) Click button | We press the mouse button to select something |
-| 3 | (A) Pointer/cursor | Moving the mouse moves the pointer on the screen |
-| 4 | (A) Enter key | The Enter key moves typing to a new line |
-| 5 | (A) Special keys like Enter and Space bar | Keyboards have letters, numbers, and special keys |
-| 6 | (A) Backspace | Backspace erases the letter just typed |
-| 7 | (B) Double-click | Clicking twice quickly is called a double-click |
-| 8 | (B) Keyboard | The keyboard is used for typing |
-| 9 | (A) ALL CAPITAL letters | Caps Lock makes every letter capital while it's on |
-| 10 | (B) Space bar | The Space bar is the longest key on the keyboard |
+| 3 | (B) Pointer/cursor | Moving the mouse moves the pointer on the screen |
+| 4 | (C) Enter key | The Enter key moves typing to a new line |
+| 5 | (B) Special keys like Enter and Space bar | Keyboards have letters, numbers, and special keys |
+| 6 | (C) Backspace | Backspace erases the letter just typed |
+| 7 | (A) Double-click | Clicking twice quickly is called a double-click |
+| 8 | (A) Keyboard | The keyboard is used for typing |
+| 9 | (C) ALL CAPITAL letters | Caps Lock makes every letter capital while it's on |
+| 10 | (D) Space bar | The Space bar is the longest key on the keyboard |
 | 11 | (B) Capital (uppercase) letter | Shift + a letter key types a capital letter |
-| 12 | (A) Arrow keys | The 4 direction keys are called arrow keys |
-| 13 | (B) Double-click | Double-clicking opens a file or program |
-| 14 | (A) Scroll wheel | The scroll wheel moves the page up and down |
-| 15 | (A) Dragging | Click, hold, and move — this is dragging |
-| 16 | (A) Opens a menu with more options | Right-click usually shows a menu |
+| 12 | (D) Arrow keys | The 4 direction keys are called arrow keys |
+| 13 | (A) Double-click | Double-clicking opens a file or program |
+| 14 | (D) Scroll wheel | The scroll wheel moves the page up and down |
+| 15 | (C) Dragging | Click, hold, and move — this is dragging |
+| 16 | (B) Opens a menu with more options | Right-click usually shows a menu |
 | 17 | (A) Backspace | Backspace erases the letter before the cursor |
 | 18 | (A) Q, W, E, R, T, Y | This is the standard top row of a keyboard |
-| 19 | (B) Mouse | The mouse is used to click and select |
-| 20 | (A) Enter key | Enter confirms and moves to a new line |
-| 21 | (B) It types a capital "A" | Caps Lock makes all letters capital while it's on |
+| 19 | (A) Mouse | The mouse is used to click and select |
+| 20 | (C) Enter key | Enter confirms and moves to a new line |
+| 21 | (C) It types a capital "A" | Caps Lock makes all letters capital while it's on |
 | 22 | (B) It helps us point, click, and select things on the screen | This describes what a mouse does |
-| 23 | (A) A number key | Number keys are used to type numbers |
-| 24 | (A) Dragging | Clicking and moving the mouse to select is dragging |
-| 25 | (C) Typing letters | Typing letters is done with the keyboard, not the mouse |
-| 26 | (A) Shift key | Holding Shift while typing a letter makes it capital |
-| 27 | (A) Enter — moves to a new line | This is the correct match |
-| 28 | (A) Backspace, to delete the extra letter | Backspace removes the mistyped letter |
-| 29 | (A) Double-click on the icon | Double-clicking an icon opens it |
-| 30 | (A) Right-click — opens a menu with more options | This is the correct match |
+| 23 | (D) A number key | Number keys are used to type numbers |
+| 24 | (B) Dragging | Clicking and moving the mouse to select is dragging |
+| 25 | (B) Typing letters | Typing letters is done with the keyboard, not the mouse |
+| 26 | (D) Shift key | Holding Shift while typing a letter makes it capital |
+| 27 | (D) Enter — moves to a new line | This is the correct match |
+| 28 | (D) Backspace, to delete the extra letter | Backspace removes the mistyped letter |
+| 29 | (C) Double-click on the icon | Double-clicking an icon opens it |
+| 30 | (B) Right-click — opens a menu with more options | This is the correct match |
 
 ---
 
