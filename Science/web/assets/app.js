@@ -8,9 +8,15 @@ function accentFor(unitNum) {
   return PALETTE[(unitNum - 1) % PALETTE.length];
 }
 
-const PROGRESS_KEY = "nofProgress";   // { "01": { "1": "B", "2": "A", ... } }
-const SUMMARY_KEY = "nofSummary";     // { "01": { score: 9, total: 30, attempted: 12 } }
-const EVALUATED_KEY = "nofEvaluated"; // { "01": { "1": true, "5": true, ... } } — set only by Submit
+// localStorage is scoped by ORIGIN, not URL path — since every subject is
+// deployed under the same origin (.../maths/, .../science/, etc.), keys must
+// be namespaced per subject or two subjects' unit "01" collide in storage.
+// This is the only line that differs between the 5 copies of this file.
+const SUBJECT_ID = "science";
+
+const PROGRESS_KEY = `nofProgress:${SUBJECT_ID}`;   // { "01": { "1": "B", "2": "A", ... } }
+const SUMMARY_KEY = `nofSummary:${SUBJECT_ID}`;     // { "01": { score: 9, total: 30, attempted: 12 } }
+const EVALUATED_KEY = `nofEvaluated:${SUBJECT_ID}`; // { "01": { "1": true, "5": true, ... } } — set only by Submit
 
 function loadJSON(key) {
   try {

@@ -47,12 +47,17 @@ editing a worksheet, regenerate that subject's site:
 python3 <Subject>/web/build/generate.py
 ```
 
-`assets/app.js` and `assets/style.css` are identical (byte-for-byte)
-across all 5 subjects by convention — the shared quiz engine (tap an
-answer, Submit to reveal right/wrong with a collapsible "why", progress
-saved per-unit in the browser's `localStorage`). If you improve one
-subject's copy, copy it to the other four to keep them in sync; there's
-no central symlink/package for it.
+`assets/style.css` is identical byte-for-byte across all 5 subjects.
+`assets/app.js` is identical except for one line — `const SUBJECT_ID =
+"..."` near the top — which must be unique per subject. All 5 sites
+share one origin on GitHub Pages (`.../maths/`, `.../science/`, etc.),
+and `localStorage` is scoped by **origin, not path**, so without
+`SUBJECT_ID` namespacing the keys, two subjects' "unit 01" collide in
+storage and a first-time visitor to one subject can see another
+subject's answers pre-filled. If you improve one subject's copy of
+either file, copy it to the other four to keep them in sync (re-setting
+`SUBJECT_ID` in `app.js` after copying) — there's no central
+symlink/package for it.
 
 ## The hub
 
