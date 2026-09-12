@@ -6,15 +6,15 @@ into per-unit JSON data files (../data/unit-XX.json) plus a manifest
 (../unit-XX-*.html) plus the home page (../index.html) from templates.
 
 Re-run this any time a markdown worksheet file changes:
-    python3 web/build/generate.py
+    python3 Maths/web/build/generate.py
 """
 import json
 import re
 from pathlib import Path
 
-REPO_ROOT = Path(__file__).resolve().parents[2]
-MD_DIR = REPO_ROOT / "nof-maths-practise"
-WEB_DIR = REPO_ROOT / "web"
+SUBJECT_ROOT = Path(__file__).resolve().parents[2]
+MD_DIR = SUBJECT_ROOT / "nof-maths-practise"
+WEB_DIR = SUBJECT_ROOT / "web"
 DATA_DIR = WEB_DIR / "data"
 
 Q_MARKER_RE = re.compile(r"(?=\*\*Q\d+\.\*\*)")
@@ -317,7 +317,7 @@ def main():
             "emoji": unit["emoji"],
             "totalQuestions": unit["totalQuestions"],
         })
-        print(f"  parsed {md_path.name} -> {out_path.relative_to(REPO_ROOT)} "
+        print(f"  parsed {md_path.name} -> {out_path.relative_to(SUBJECT_ROOT)} "
               f"({unit['totalQuestions']} questions)")
 
     manifest.sort(key=lambda u: u["num"])
@@ -325,12 +325,12 @@ def main():
         json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8"
     )
     print(f"\nWrote manifest with {len(manifest)} units to "
-          f"{(DATA_DIR / 'manifest.json').relative_to(REPO_ROOT)}")
+          f"{(DATA_DIR / 'manifest.json').relative_to(SUBJECT_ROOT)}")
 
     for unit_info in manifest:
         page_path = WEB_DIR / f"{unit_info['slug']}.html"
         page_path.write_text(unit_page_html(unit_info), encoding="utf-8")
-    print(f"Wrote {len(manifest)} unit pages to {WEB_DIR.relative_to(REPO_ROOT)}/")
+    print(f"Wrote {len(manifest)} unit pages to {WEB_DIR.relative_to(SUBJECT_ROOT)}/")
 
     (WEB_DIR / "index.html").write_text(index_html(manifest), encoding="utf-8")
     print(f"Wrote {WEB_DIR / 'index.html'}")

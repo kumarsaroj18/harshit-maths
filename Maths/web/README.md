@@ -12,7 +12,7 @@ disk, so serve the folder over HTTP instead of double-clicking
 `index.html`:
 
 ```bash
-cd web
+cd Maths/web
 python3 -m http.server 8000
 # then open http://localhost:8000/index.html
 ```
@@ -24,11 +24,11 @@ The quiz content is generated from the markdown files in
 and HTML pages:
 
 ```bash
-python3 web/build/generate.py
+python3 Maths/web/build/generate.py
 ```
 
 This re-parses all 21 files and rewrites `web/data/*.json` and every
-`web/unit-*.html` + `web/index.html`. It will raise an error if a file
+`web/unit-*.html` + `web/index.html` (all inside `Maths/web/`). It will raise an error if a file
 doesn't have exactly 30 questions or a question's answer key entry is
 missing, so a malformed edit fails loudly instead of silently breaking
 a page.
@@ -40,8 +40,9 @@ a page.
 
 ## Hosting on GitHub Pages
 
-A workflow at `.github/workflows/pages.yml` deploys this `web/` folder
-straight to GitHub Pages whenever it changes on `main`. One-time setup
+A workflow at `.github/workflows/pages.yml` (repo root) deploys this
+`Maths/web/` folder straight to GitHub Pages whenever it changes on
+`main`. One-time setup
 once you've pushed this repo to GitHub:
 
 1. Repo **Settings → Pages → Source** → select **GitHub Actions**.
